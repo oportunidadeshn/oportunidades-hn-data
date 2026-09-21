@@ -24,6 +24,31 @@
       "correo": "empleos@ejemplo.hn",
       "url_aplicar": ""
     },
+
+{
+      "id": "ohn-0001",
+      "titulo": "Auxiliar Administrativo 2",
+      "empresa": "Empresa de prueba",
+      "ciudad": "Tegucigalpa",
+      "categoria": "Administración",
+      "modalidad": "Presencial",
+      "descripcion": "Vacante de prueba para comprobar la conexión del portal con el archivo JSON externo.",
+      "requisitos": [
+        "Manejo básico de Microsoft Office",
+        "Buena organización y atención al detalle"
+      ],
+      "beneficios": [],
+      "como_aplicar": "Envía tu hoja de vida utilizando uno de los medios disponibles.",
+      "fecha_publicacion": "2026-09-21",
+      "fecha_vencimiento": "2026-10-15",
+      "destacada": true,
+      "activa": true,
+      "whatsapp": "50499999999",
+      "telefono": "",
+      "correo": "empleos@ejemplo.hn",
+      "url_aplicar": ""
+    },
+    
     {
       "id": "ohn-0002",
       "titulo": "Asistente Contable",
