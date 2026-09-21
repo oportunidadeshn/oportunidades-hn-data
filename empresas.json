@@ -54,7 +54,21 @@
       "sitio_web": "",
       "portal_empleo": "",
       "activa_directorio": true
-    }
+    },
+
+    {
+  "id": "emp0003",
+  "nombre": "Claro",
+  "descripcion": "Claro que sí",
+  "ciudad": "A nivel nacional",
+  "sector": "Telecomunicaciones",
+  "correo": "rrhh@claro.hn",
+  "whatsapp": "50499999999",
+  "telefono": "",
+  "sitio_web": "",
+  "portal_empleo": "",
+  "activa_directorio": true
+}
 
     
   ]
