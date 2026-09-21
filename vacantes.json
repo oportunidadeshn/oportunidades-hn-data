@@ -48,6 +48,30 @@
       "correo": "empleos@ejemplo.hn",
       "url_aplicar": ""
     },
+
+    {
+  "id": "",
+  "titulo": "Diseñador Gráfico",
+  "empresa": "Sula",
+  "ciudad": "La Ceiba",
+  "categoria": "Diseño y creatividad",
+  "modalidad": "Remoto",
+  "descripcion": "Vacante remota",
+  "requisitos": [
+    "Pasante de diseño gráfico",
+    "Portafolio"
+  ],
+  "beneficios": [],
+  "como_aplicar": "Enviar CV por correo o Whatsapp",
+  "fecha_publicacion": "2026-09-21",
+  "fecha_vencimiento": "2026-09-22",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "50496969696",
+  "telefono": "",
+  "correo": "rrhh@sula.hn",
+  "url_aplicar": ""
+}
     
     {
       "id": "ohn-0002",
