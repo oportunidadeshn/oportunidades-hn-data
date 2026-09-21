@@ -1,0 +1,31 @@
+{
+  "actualizado": "2026-09-21",
+  "empresas": [
+    {
+      "id": "empresa-de-prueba",
+      "nombre": "Empresa de prueba",
+      "descripcion": "Empresa incluida temporalmente para comprobar el funcionamiento del directorio de Oportunidades HN.",
+      "ciudad": "Tegucigalpa",
+      "sector": "Servicios",
+      "correo": "empleos@ejemplo.hn",
+      "whatsapp": "50499999999",
+      "telefono": "",
+      "sitio_web": "",
+      "portal_empleo": "",
+      "activa_directorio": true
+    },
+    {
+      "id": "comercial-de-prueba",
+      "nombre": "Comercial de prueba",
+      "descripcion": "Ficha temporal para probar la relación entre el directorio de empresas y las vacantes activas.",
+      "ciudad": "San Pedro Sula",
+      "sector": "Comercio",
+      "correo": "rrhh@ejemplo.hn",
+      "whatsapp": "",
+      "telefono": "",
+      "sitio_web": "",
+      "portal_empleo": "",
+      "activa_directorio": true
+    }
+  ]
+}
