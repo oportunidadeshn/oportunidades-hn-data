@@ -14,6 +14,21 @@
       "portal_empleo": "",
       "activa_directorio": true
     },
+
+    {
+      "id": "emp00001",
+      "nombre": "Sula",
+      "descripcion": "Empresa incluida temporalmente para comprobar el funcionamiento del directorio de Oportunidades HN.",
+      "ciudad": "Tegucigalpa",
+      "sector": "Servicios",
+      "correo": "empleos@ejemplo.hn",
+      "whatsapp": "50499999999",
+      "telefono": "",
+      "sitio_web": "",
+      "portal_empleo": "",
+      "activa_directorio": true
+    },
+    
     {
       "id": "comercial-de-prueba",
       "nombre": "Comercial de prueba",
@@ -27,5 +42,7 @@
       "portal_empleo": "",
       "activa_directorio": true
     }
+
+    
   ]
 }
