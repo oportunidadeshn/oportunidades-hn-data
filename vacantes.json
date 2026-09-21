@@ -26,7 +26,7 @@
     },
 
 {
-      "id": "ohn-0001",
+      "id": "ohn-0002",
       "titulo": "Auxiliar Administrativo 2",
       "empresa": "Empresa de prueba",
       "ciudad": "Tegucigalpa",
@@ -50,7 +50,7 @@
     },
 
     {
-  "id": "",
+  "id": "ohn-0004",
   "titulo": "Diseñador Gráfico",
   "empresa": "Sula",
   "ciudad": "La Ceiba",
@@ -74,7 +74,7 @@
 }
     
     {
-      "id": "ohn-0002",
+      "id": "ohn-0003",
       "titulo": "Asistente Contable",
       "empresa": "Comercial de prueba",
       "ciudad": "San Pedro Sula",
