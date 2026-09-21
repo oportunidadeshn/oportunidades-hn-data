@@ -26,6 +26,32 @@
     },
 
 {
+  "id": "ohn-0005",
+  "titulo": "Oficial de mantenimiento",
+  "empresa": "Tigo",
+  "ciudad": "Comayagua",
+  "categoria": "Servicios Generales y Oficios",
+  "modalidad": "Presencial",
+  "descripcion": "Ayudar en todo lo del edificio",
+  "requisitos": [
+    "Técnico en refrigeración",
+    "Pasante de electricidad"
+  ],
+  "beneficios": [
+    "Multiples"
+  ],
+  "como_aplicar": "Enviar CV por correo o Whatsapp",
+  "fecha_publicacion": "2026-09-21",
+  "fecha_vencimiento": "2026-09-30",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "5049999999",
+  "telefono": "",
+  "correo": "rrhh@tigo.hn",
+  "url_aplicar": ""
+},
+    
+{
       "id": "ohn-0002",
       "titulo": "Auxiliar Administrativo 2",
       "empresa": "Empresa de prueba",
