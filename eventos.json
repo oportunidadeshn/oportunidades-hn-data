@@ -1,0 +1,56 @@
+{
+  "actualizado": "2026-09-21",
+  "eventos": [
+    {
+      "id": "evt00001",
+      "titulo": "Feria de Empleo en Tegucigalpa",
+      "organizador": "Organizador de prueba",
+      "categoria": "Ferias de Empleo y Reclutamiento",
+      "ciudad": "Tegucigalpa",
+      "modalidad": "Presencial",
+      "fecha_inicio": "2026-09-26",
+      "fecha_fin": "2026-09-26",
+      "hora": "8:00 a. m. - 2:00 p. m.",
+      "lugar": "Tegucigalpa",
+      "descripcion": "Evento temporal incluido para comprobar el funcionamiento del módulo de Eventos de Oportunidades HN.",
+      "enlace": "",
+      "whatsapp": "",
+      "destacado": true,
+      "activo": true
+    },
+    {
+      "id": "evt00002",
+      "titulo": "Taller virtual de empleabilidad",
+      "organizador": "Organizador de prueba",
+      "categoria": "Educación y Formación",
+      "ciudad": "Nacional",
+      "modalidad": "Virtual",
+      "fecha_inicio": "2026-10-03",
+      "fecha_fin": "2026-10-03",
+      "hora": "6:00 p. m. - 8:00 p. m.",
+      "lugar": "En línea",
+      "descripcion": "Actividad virtual de prueba para validar filtros por categoría, ciudad y modalidad.",
+      "enlace": "",
+      "whatsapp": "",
+      "destacado": false,
+      "activo": true
+    },
+    {
+      "id": "evt00003",
+      "titulo": "Expo Emprendimiento San Pedro Sula",
+      "organizador": "Organizador de prueba",
+      "categoria": "Emprendimiento y Negocios",
+      "ciudad": "San Pedro Sula",
+      "modalidad": "Presencial",
+      "fecha_inicio": "2026-10-10",
+      "fecha_fin": "2026-10-11",
+      "hora": "10:00 a. m. - 6:00 p. m.",
+      "lugar": "San Pedro Sula",
+      "descripcion": "Evento de dos días incluido para comprobar el manejo de fecha inicial y fecha final.",
+      "enlace": "",
+      "whatsapp": "",
+      "destacado": false,
+      "activo": true
+    }
+  ]
+}
