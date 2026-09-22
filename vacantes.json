@@ -121,6 +121,27 @@
       "telefono": "",
       "correo": "rrhh@ejemplo.hn",
       "url_aplicar": ""
-    }
+    }, 
+
+    {   "id": "Ohn-0006",  
+      "titulo": "Reportero",   
+      "empresa": "ICN Noticias",   
+      "ciudad": "Juticalpa",   
+      "categoria": "Marketing y Comunicaciones",   
+      "modalidad": "Presencial",   
+      "sin_experiencia": true,   
+      "pasantia": false,   
+      "descripcion": "Realizar reportajes para nuestro canal de TikTok",   
+      "requisitos": [     "Ser estudiante de periodismo o recién graduado"   ],  
+      "beneficios": [], 
+      "como_aplicar": "Enviar CV por correo",  
+      "fecha_publicacion": "2026-09-21", 
+      "fecha_vencimiento": "2026-09-29",  
+      "destacada": false, 
+      "activa": true,   
+      "whatsapp": "",  
+      "telefono": "",   
+      "correo": "icnnoticias@gmail.com",   
+      "url_aplicar": "" }
   ]
 }
