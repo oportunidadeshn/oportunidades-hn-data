@@ -68,7 +68,21 @@
   "sitio_web": "",
   "portal_empleo": "",
   "activa_directorio": true
-}
+},
+
+    {
+  "id": "polaris",
+  "nombre": "Polaris",
+  "descripcion": "",
+  "ciudad": "",
+  "sector": "Construcción",
+  "correo": "rh@polarisinternacional.com",
+  "whatsapp": "",
+  "telefono": "",
+  "sitio_web": "",
+  "portal_empleo": "",
+  "activa_directorio": true
+    }
 
     
   ]
