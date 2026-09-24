@@ -142,6 +142,35 @@
       "whatsapp": "",  
       "telefono": "",   
       "correo": "icnnoticias@gmail.com",   
-      "url_aplicar": "" }
+      "url_aplicar": "" },
+
+    {
+  "id": "ohn-0007",
+  "titulo": "Jefe de Tienda",
+  "empresa": "Polaris",
+  "ciudad": "Gracias Lempira",
+  "categoria": "Gerencia y Dirección",
+  "modalidad": "Presencial",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "No aplica",
+  "requisitos": [
+    "Graduado o estudiante universitario. Experiencia comprobable en ventas, preferiblemente en rubro de construcción.",
+    "Experiencia en manejo de caja y procesos administrativos básicos.",
+    "Actitud proactiva y orientación al servicio al cliente.",
+    "Experiencia en manejo y liderazgo de personal.",
+    "Disponibilidad inmediata y disposición para trabajar en equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envianos tu curriculum al correo",
+  "fecha_publicacion": "2026-09-23",
+  "fecha_vencimiento": "2026-09-30",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rh@polarisinternacional.com",
+  "url_aplicar": ""
+    }
   ]
 }
