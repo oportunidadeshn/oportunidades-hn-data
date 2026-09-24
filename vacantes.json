@@ -171,6 +171,35 @@
   "telefono": "",
   "correo": "rh@polarisinternacional.com",
   "url_aplicar": ""
+    },
+
+    {
+  "id": "ohn-20260923-215917-5",
+  "titulo": "Mecánico Automotriz",
+  "empresa": "BOMOHSA",
+  "ciudad": "Tegucigalpa, San Pedro Sula, Comayagua",
+  "categoria": "Servicios Generales y Oficios",
+  "modalidad": "Presencial",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Técnico en Mecánica Automotriz, Mecánica Agrícola o Técnico en motores estacionarios de combustión interna.",
+    "Conocimiento básico en sistemas hidráulicos, mecánicos y eléctricos de grúas, sistema y funcionamiento de compresores de aire (preferiblemente).",
+    "Experiencia en mantenimiento preventivo y correctivo de Vehículos.",
+    "Manejo de vehículo liviano y camiones pequeños (preferiblemente).",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-09-23",
+  "fecha_vencimiento": "2026-10-04",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talento.humanozcs@sci-hn.com",
+  "url_aplicar": ""
     }
   ]
 }
