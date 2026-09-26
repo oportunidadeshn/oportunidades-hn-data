@@ -232,7 +232,46 @@
   "telefono": "",
   "correo": "generalista@hondurasmaya.hn",
   "url_aplicar": ""
-}
+}, 
+
+    {
+  "id": "ohn-20260925-223154-7",
+  "titulo": "Creador de contenido",
+  "empresa": "24 Studio",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Marketing y Comunicaciones",
+  "modalidad": "Presencial",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "¿Eres una persona creativa, apasionada por las redes sociales y la creación de contenido digital? ¡Esta oportunidad es para ti!",
+  "requisitos": [
+    "🎓 Requisitos Académicos",
+    "Licenciatura en Mercadeo, Publicidad o Comunicación.",
+    "✅ Requisitos del Puesto",
+    "Experiencia en manejo de redes sociales.",
+    "Planificación y calendarización de contenido.",
+    "Grabación de videos, reels y sesiones fotográficas.",
+    "Creación y ejecución de anuncios y campañas publicitarias.",
+    "Manejo de Canva, CapCut e Illustrator.",
+    "Uso y manejo de cámara fotográfica profesional.",
+    "🎯 Competencias Deseadas",
+    "Creatividad e innovación.",
+    "Excelente redacción y comunicación.",
+    "Organización y planificación.",
+    "Orientación a resultados.",
+    "Proactividad y trabajo en equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nAsunto: Creador de Contenido",
+  "fecha_publicacion": "2026-09-25",
+  "fecha_vencimiento": "2026-09-30",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talentosrh24@hotmail.com",
+  "url_aplicar": ""
+    }
     
   ]
 }
