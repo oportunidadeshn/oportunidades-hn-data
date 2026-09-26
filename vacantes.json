@@ -200,6 +200,39 @@
   "telefono": "",
   "correo": "talento.humanozcs@sci-hn.com",
   "url_aplicar": ""
-    }
+    },
+
+{
+  "id": "ohn-20260925-220944-6",
+  "titulo": "Encargado de Bodega",
+  "empresa": "Hotel Honduras Maya",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Secundaria Completa.",
+    "1 año de experiencia en puestos similares",
+    "Manejo de control de inventarios",
+    "Capacidad de trabajo en equipo.",
+    "Orientación a detalle.",
+    "Habilidades de organización y control.",
+    "Responsable y honesto.",
+    "Residir en Tegucigalpa."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-09-25",
+  "fecha_vencimiento": "2026-10-30",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "89640209",
+  "telefono": "",
+  "correo": "generalista@hondurasmaya.hn",
+  "url_aplicar": ""
+}
+    
   ]
 }
