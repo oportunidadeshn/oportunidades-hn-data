@@ -197,6 +197,42 @@
       "telefono": "",
       "correo": "tecnofilmhn@gmail.com",
       "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20260928-213118-10",
+  "titulo": "Mercaderista Display",
+  "empresa": "Empresa confidencial",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Educación secundaria Completa",
+    "Edad: 24-40 años",
+    "• Antecedentes vigentes",
+    "Experiencia en cadenas de supermercados",
+    "Poseer vehiculo y/o motocicleta propia.",
+    "Disponibilidad de tiempo y horarios inmediata.",
+    "Residir en San Pedro Sula"
+  ],
+  "beneficios": [
+    "Salario mas comisiones.",
+    "Beneficios de Ley",
+    "Movilización y Depreciación.",
+    "Crecimiento y Desarrollo Profesional"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-09-28",
+  "fecha_vencimiento": "2026-10-10",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "vacantelaboralhn@yahoo.com",
+  "url_aplicar": ""
     }
   ]
 }
