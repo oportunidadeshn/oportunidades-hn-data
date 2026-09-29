@@ -308,7 +308,46 @@
   "telefono": "",
   "correo": "avilam@grupoipm.hn",
   "url_aplicar": ""
-    }
+    },
+
+{
+  "id": "ohn-20260928-200807-9",
+  "titulo": "Administradora General",
+  "empresa": "Tecnofilm",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Gerencia y Dirección",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "REQUISITOS BÁSICOS",
+    "Experiencia mínima de 3 años en Administración de Empresas.",
+    "De preferencia en la industria de películas de control solar, construcción, arquitectura, retail o afines.",
+    "Formación en Administración de Empresas,",
+    "Ingeniería Industrial o carrera afín.",
+    "Excelentes habilidades de organización, liderazgo y comunicación.",
+    "Manejo de herramientas de Office y sistemas administrativos.",
+    "FUNCIONES PRINCIPALES",
+    "Administración general de la empresa.",
+    "Coordinación de operaciones, ventas e instalaciones.",
+    "Control de inventario, compras y proveedores.",
+    "Supervisión del equipo de trabajo.",
+    "Seguimiento a indicadores y reportes de gestión.",
+    "Apoyo en la planificación y crecimiento del negocio."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-09-28",
+  "fecha_vencimiento": "2026-10-10",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "tecnofilmhn@gmail.com",
+  "url_aplicar": ""
+}
     
   ]
 }
