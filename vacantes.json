@@ -271,6 +271,43 @@
   "telefono": "",
   "correo": "talentosrh24@hotmail.com",
   "url_aplicar": ""
+    }, 
+
+    {
+  "id": "ohn-20260928-183529-8",
+  "titulo": "Técnico delineador Jr",
+  "empresa": "Instituto de Previsión Militar",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Construcción e Ingeniería Civil",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Objetivo: Digitalizar el dibujo de planos técnico-constructivos, modelado y renderizado de proyectos arquitectónicos.",
+    "Formación academica: Licenciatura en Arquitectura",
+    "Experiencia/ Conocimientos",
+    "Diseño y dibujo de planos constructivos mediante softwares de modelado de",
+    "información Revit (indispensable)",
+    "Levantamiento de medidas de campo, escaneo y registro de base de datos de planos.",
+    "Conocimiento en programas de digitalización complementarios (AutoCAD,",
+    "Sketch Up)",
+    "Manejo en softwares de renderizado (Lumion, D5 render)",
+    "Competencias:",
+    "Creatividad e innovación",
+    "atención a los detalles."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-09-28",
+  "fecha_vencimiento": "2026-10-15",
+  "destacada": true,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "avilam@grupoipm.hn",
+  "url_aplicar": ""
     }
     
   ]
