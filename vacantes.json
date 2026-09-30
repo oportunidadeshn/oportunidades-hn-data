@@ -509,6 +509,44 @@
   "telefono": "",
   "correo": "ninoska.martinez@gruporoble.com",
   "url_aplicar": ""
-}
+} 
+    {
+  "id": "ohn-20260929-225556-19",
+  "titulo": "Agente de Contact Center",
+  "empresa": "Techline Contact Center",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Call Cebrer 100% en español",
+  "requisitos": [
+    "Secundaria completa o Pasante universitario.",
+    "Edad entre 18 y 29 años.",
+    "Conocimiento básico de Microsoft Office.",
+    "Residir en Tegucigalpa.",
+    "Habilidades de comunicación y negociación.",
+    "Orientación a resultados."
+  ],
+  "beneficios": [
+    "Formación desde cero.",
+    "Coaching y desarrollo continuo.",
+    "Horario de oficina.",
+    "Salario competitivo.",
+    "Oportunidad de crecimiento.",
+    "Ambiente dinámico y motivador.",
+    "Atención médica interna."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-09-29",
+  "fecha_vencimiento": "2026-10-20",
+  "destacada": true,
+  "activa": true,
+  "whatsapp": "87829914",
+  "telefono": "",
+  "correo": "info@techlinecc.com",
+  "url_aplicar": ""
+    }
   ]
 }
