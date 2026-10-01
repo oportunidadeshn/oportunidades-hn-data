@@ -1,7 +1,77 @@
 {
-  "actualizado": "2026-09-30",
+  "actualizado": "2026-10-01",
   "eventos": [
-
-    
+    {
+      "titulo": "Feria de Empleo Unlimited",
+      "organizador": "Unlimited",
+      "categoria": "Feria de empleo",
+      "ciudad": "Tegucigalpa",
+      "modalidad": "Presencial",
+      "fecha_inicio": "2026-10-01",
+      "fecha_fin": "2026-10-01",
+      "hora": "8:00 a. m. a 4:00 p. m.",
+      "lugar": "Plaza Miraflores",
+      "descripcion": "Feria de empleo de Unlimited en Tegucigalpa. Los puestos y perfiles disponibles no están especificados en la información recopilada.",
+      "informacion_participacion": "Asistir al lugar durante el horario anunciado. No se especifican requisitos ni registro previo.",
+      "imagen": "",
+      "enlace": "https://www.instagram.com/p/DdsH5IXCIBo/",
+      "whatsapp": "",
+      "destacado": false,
+      "activo": true
+    },
+    {
+      "titulo": "Feria de Empleo en Roatán",
+      "organizador": "Alcaldía de Roatán y Secretaría de Trabajo y Seguridad Social",
+      "categoria": "Feria de empleo",
+      "ciudad": "Roatán",
+      "modalidad": "Presencial",
+      "fecha_inicio": "2026-10-02",
+      "fecha_fin": "2026-10-02",
+      "hora": "9:00 a. m. a 3:00 p. m., con posible extensión hasta las 4:00 p. m.",
+      "lugar": "Estacionamiento de la Alcaldía de Roatán, colonia Dixon Cove",
+      "descripcion": "Jornada con oportunidades en ventas, atención al cliente, contabilidad, recursos humanos, cocina, hotelería, mantenimiento, mecánica y refrigeración, entre otras áreas.",
+      "informacion_participacion": "Llevar varias copias del currículum actualizado y el documento de identificación.",
+      "imagen": "",
+      "enlace": "https://www.tunota.com/honduras-hoy/feria-de-empleo-en-roatan-fecha-y-vacantes-disponibles-2026-09-29",
+      "whatsapp": "",
+      "destacado": false,
+      "activo": true
+    },
+    {
+      "titulo": "III Feria de Empleo 2026 de San Pedro Sula",
+      "organizador": "Mesa Técnica de Empleabilidad de San Pedro Sula; convocatoria de FUNDAHRSE",
+      "categoria": "Feria de empleo",
+      "ciudad": "San Pedro Sula",
+      "modalidad": "Presencial",
+      "fecha_inicio": "2026-10-16",
+      "fecha_fin": "2026-10-16",
+      "hora": "8:00 a. m. a 3:00 p. m.",
+      "lugar": "Plaza Las Banderas",
+      "descripcion": "Tercera feria de empleo de 2026 para conectar empresas con personas que buscan oportunidades laborales. Los puestos y perfiles disponibles no están especificados.",
+      "informacion_participacion": "Consultar la convocatoria de FUNDAHRSE para conocer los requisitos y el procedimiento de participación. No se dispone de información confirmada sobre registro previo.",
+      "imagen": "",
+      "enlace": "https://www.facebook.com/FundahrseHonduras/posts/fundahrse-a-trav%C3%A9s-de-la-mesa-t%C3%A9cnica-de-empleabilidad-de-san-pedro-sula-invita-/1515351083954707/",
+      "whatsapp": "",
+      "destacado": false,
+      "activo": true
+    },
+    {
+      "titulo": "Jornada de Empleo en INFOP Miraflores",
+      "organizador": "Secretaría de Trabajo y Seguridad Social y COHEP",
+      "categoria": "Feria de empleo",
+      "ciudad": "Tegucigalpa",
+      "modalidad": "Presencial",
+      "fecha_inicio": "2026-10-23",
+      "fecha_fin": "2026-10-23",
+      "hora": "8:00 a. m. a 4:00 p. m.",
+      "lugar": "Instalaciones de INFOP Miraflores",
+      "descripcion": "Jornada de empleo para conectar empresas con talento en Tegucigalpa. Los puestos y perfiles disponibles no están especificados.",
+      "informacion_participacion": "La convocatoria invita a las empresas a inscribirse mediante el enlace o código QR del anuncio oficial. Los requisitos para las personas que buscan empleo no están especificados.",
+      "imagen": "",
+      "enlace": "https://x.com/Trabajo_hn/status/2105400192740565413",
+      "whatsapp": "",
+      "destacado": false,
+      "activo": true
+    }
   ]
 }
