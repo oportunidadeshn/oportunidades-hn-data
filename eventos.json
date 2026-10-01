@@ -72,6 +72,24 @@
       "whatsapp": "",
       "destacado": false,
       "activo": true
+    },
+    {
+  "titulo": "Bazar Turístico en Comayagua",
+  "organizador": "",
+  "categoria": "Bazar",
+  "ciudad": "Comayagua",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-06",
+  "fecha_fin": "2026-10-06",
+  "hora": "10:00 a. m. a 8:00 p. m.",
+  "lugar": "Plaza León Alvarado",
+  "descripcion": "Disfruta de emprendimientos, productos y talento local en un espacio para compartir con familia y amigos. Apoya a los emprendedores y compra local.",
+  "informacion_participacion": "Visita Plaza León Alvarado durante el horario del bazar.",
+  "imagen": "",
+  "enlace": "https://www.facebook.com/share/r/1Ajc95JggN/",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
