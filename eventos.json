@@ -4,7 +4,7 @@
     {
       "titulo": "Feria de Empleo Unlimited",
       "organizador": "Unlimited",
-      "categoria": "Feria de empleo",
+      "categoria": "Ferias de Empleo y Reclutamiento",
       "ciudad": "Tegucigalpa",
       "modalidad": "Presencial",
       "fecha_inicio": "2026-10-01",
@@ -22,7 +22,7 @@
     {
       "titulo": "Feria de Empleo en Roatán",
       "organizador": "Alcaldía de Roatán y Secretaría de Trabajo y Seguridad Social (STSS)",
-      "categoria": "Feria de empleo",
+      "categoria": "Ferias de Empleo y Reclutamiento",
       "ciudad": "Roatán",
       "modalidad": "Presencial",
       "fecha_inicio": "2026-10-02",
@@ -40,7 +40,7 @@
     {
       "titulo": "III Feria de Empleo 2026 de San Pedro Sula",
       "organizador": "Mesa Técnica de Empleabilidad de San Pedro Sula; convocatoria de FUNDAHRSE",
-      "categoria": "Feria de empleo",
+      "categoria": "Ferias de Empleo y Reclutamiento",
       "ciudad": "San Pedro Sula",
       "modalidad": "Presencial",
       "fecha_inicio": "2026-10-16",
@@ -58,7 +58,7 @@
     {
       "titulo": "Jornada de Empleo en INFOP Miraflores",
       "organizador": "Secretaría de Trabajo y Seguridad Social y COHEP",
-      "categoria": "Feria de empleo",
+      "categoria": "Ferias de Empleo y Reclutamiento",
       "ciudad": "Tegucigalpa",
       "modalidad": "Presencial",
       "fecha_inicio": "2026-10-23",
@@ -76,7 +76,7 @@
     {
   "titulo": "Bazar Turístico en Comayagua",
   "organizador": "",
-  "categoria": "Bazar",
+  "categoria": "Ferias y Exposiciones",
   "ciudad": "Comayagua",
   "modalidad": "Presencial",
   "fecha_inicio": "2026-10-06",
