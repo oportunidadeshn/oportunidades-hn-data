@@ -886,7 +886,59 @@
     "telefono": "",
     "correo": "Yreconcof@ransa.net",
     "url_aplicar": ""
-  }
+  }, 
+
+    {
+  "id": "ohn-20260930-222512-20",
+  "titulo": "Encargado (a) de tienda de productos lácteos",
+  "empresa": "Leyde",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Estamos contratando Encargado (a) de tienda de productos lácteos en San Pedro Sula ✨",
+  "requisitos": [
+    "Requisitos",
+    "22 a 35 años",
+    "Residir en San Pedro Sula",
+    "Poseer licencia liviana vigente (Obligatorio)",
+    "Experiencia: Mínimo 1 a 2 años en puestos similares. • Manejo de vehículo mecánico.",
+    "Conocimientos",
+    "Manejo de sistemas, Excel intermedio y técnicas de ventas.",
+    "Maneio de inventarios.",
+    "Control de productos de consumo masivo (lácteos).",
+    "Manejo de efectivo.",
+    "Coordinar la recepción de productos.",
+    "Habilidades",
+    "Enfoque a resultados",
+    "Proactivo (a)",
+    "Capacidad de análisis y toma de decisiones asertivas",
+    "Capacidad de negociación con clientes",
+    "Manejo de Office (Word, Excel, Power Point, Internet)"
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo a los contactos indicados.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-09-30",
+  "fecha_vencimiento": "2026-10-10",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "31700263",
+  "telefono": "",
+  "correo": "olvin.interiano@leyde.hn",
+  "whatsapps": [
+    "31700263"
+  ],
+  "telefonos": [],
+  "correos": [
+    "olvin.interiano@leyde.hn",
+    "rrhhsps@leyde.hn",
+    "linda.gomez@leyde.hn"
+  ],
+  "url_aplicar": ""
+    }
 
 
   ]
