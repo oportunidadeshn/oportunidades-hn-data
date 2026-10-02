@@ -966,6 +966,48 @@
       "telefono": "",
       "correo": "rrhh@galeasarquitectos.com",
       "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261001-231522-21",
+  "titulo": "Asesor de ventas",
+  "empresa": "Solaris",
+  "ciudad": "Tegucigalpa, San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Pasante universitario de Mercadotecnia, Ingeniería Eléctrica etc",
+    "2 años de experiencia en ventas",
+    "Conocimiento en mercadeo y atención al cliente",
+    "Experiencia en ventas de campo",
+    "Habilidades de negociación",
+    "Persuación en ventas",
+    "Proactividad",
+    "Enfocado al cumplimiento de ventas",
+    "Licencia de conducir vigente",
+    "Vehículo propio"
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nIndicar en el asunto el nombre de la plaza a la que aplica",
+  "fecha_publicacion": "2026-10-01",
+  "fecha_vencimiento": "2026-10-31",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431828566",
+  "telefono": "",
+  "correo": "recursoshumanos@solarishn.com",
+  "whatsapps": [
+    "50431828566"
+  ],
+  "telefonos": [],
+  "correos": [
+    "recursoshumanos@solarishn.com"
+  ],
+  "url_aplicar": ""
     }
   ]
 }
