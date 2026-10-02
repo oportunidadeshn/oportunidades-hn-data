@@ -144,6 +144,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Mini Artistas: Pintura Jurásica",
+  "organizador": "MIN Honduras",
+  "categoria": "Cultura y Arte",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-03",
+  "fecha_fin": "2026-10-03",
+  "hora": "3:00 p. m.",
+  "lugar": "MIN Honduras, Centro de Tegucigalpa",
+  "descripcion": "Una tarde de arte y dinosaurios en el museo. Niños de 6 a 12 años podrán crear su propia pintura jurásica.",
+  "informacion_participacion": "Cupos limitados. Donación sugerida de L 100; puedes inscribirte con o sin donación. Inscripción: https://docs.google.com/forms/d/e/1FAIpQLSeVZiMtJNie7XDiAxHGWOOraR4B0Y53nyrUgFjU3v6aBtKrUw/viewform",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghnzgI1w1GSZxn4NbeQ5UWP33MgeUgMOnPlkn4O1Fbh4gq6Wkk6W7xNmtI7WFULIePcPB3ea7D27Ch81ZZ3NZxcomd5gFTq6o8qrjyNkPJ3zc0_8xQIcRoN2eU80X7rH2muanIClsTzFT-3fnJKP2EX5Qk9EHk17USfqa1oUY5b5-sfSZfcAXZqN4Nwmlo/w512-h640/1001511630.jpg",
+  "enlace": "https://www.instagram.com/p/Dd_xgr6R06R/",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
