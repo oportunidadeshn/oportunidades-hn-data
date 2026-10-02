@@ -108,6 +108,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Feria de Empleo Unlimited en San Pedro Sula",
+  "organizador": "Unlimited",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-02",
+  "fecha_fin": "2026-10-15",
+  "hora": "10:00 a. m. a 4:00 p. m.",
+  "lugar": "Megamall",
+  "descripcion": "Oportunidades laborales en ventas, caja y bodega. Requisitos: secundaria completa, experiencia en servicio al cliente, ser mayor de edad, disponibilidad de tiempo y residir en el casco urbano de San Pedro Sula.",
+  "informacion_participacion": "Preséntate con tu hoja de vida actualizada y fotografía.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
