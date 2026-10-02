@@ -90,6 +90,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Jornada de Entrevistas Ultramotor en Roatán",
+  "organizador": "Ultramotor / Grupo ILP",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Roatán",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-02",
+  "fecha_fin": "2026-10-02",
+  "hora": "9:00 a. m. a 4:00 p. m.",
+  "lugar": "Alcaldía Municipal de Roatán, Dixon Cove",
+  "descripcion": "Ultramotor busca jefe de tienda, vendedores de equipos y repuestos, y mecánicos automotrices y de motos para su equipo en Roatán.",
+  "informacion_participacion": "Asiste con tu currículum impreso para participar en las entrevistas.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
