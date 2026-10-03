@@ -1189,6 +1189,76 @@
     "reclutamiento@mundiofertas.net"
   ],
   "url_aplicar": ""
-    }
+    },
+    {
+  "id": "ohn-20261002-000000-05",
+  "titulo": "Encargado de Turno",
+  "empresa": "Texaco La Reyna",
+  "ciudad": "Santa Rosa de Copán",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Texaco La Reyna contrata personal para el puesto de Encargado de Turno en Santa Rosa de Copán. Se busca una persona con iniciativa y disposición para asumir nuevos retos.",
+  "requisitos": [
+    "Edad entre 25 y 30 años.",
+    "Secundaria completa, de preferencia pasante universitario.",
+    "Experiencia no indispensable; se tomará en consideración experiencia comprobable.",
+    "Manejo de computación (indispensable).",
+    "Sexo masculino."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nTambién puedes llevarlo directamente a las instalaciones de Texaco La Reyna.",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-15",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "texacolareynasrc@hotmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "texacolareynasrc@hotmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261002-000000-06",
+  "titulo": "Auxiliar Administrativo",
+  "empresa": "Texaco La Reyna",
+  "ciudad": "Santa Rosa de Copán",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Texaco La Reyna contrata un Auxiliar Administrativo para su equipo en Santa Rosa de Copán. Se busca una persona organizada y responsable, con deseos de desarrollarse profesionalmente.",
+  "requisitos": [
+    "Edad entre 20 y 30 años.",
+    "Pasante universitario.",
+    "Experiencia no indispensable.",
+    "Manejo de computación (indispensable).",
+    "Sexo femenino."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nTambién puedes llevarlo directamente a las instalaciones de Texaco La Reyna.",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-15",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "texacolareynasrc@hotmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "texacolareynasrc@hotmail.com"
+  ],
+  "url_aplicar": ""
+}
   ]
 }
