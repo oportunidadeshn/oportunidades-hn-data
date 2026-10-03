@@ -1392,6 +1392,50 @@
     "rrhh-hn@steren.com.hn"
   ],
   "url_aplicar": ""
-}
+}, 
+    {
+  "id": "ohn-20261002-000000-10",
+  "titulo": "Contralor / Auditor",
+  "empresa": "FRUVEGO",
+  "ciudad": "Choluteca",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se busca un Contralor / Auditor para una plaza permanente en Choluteca, con experiencia comprobada en auditorías en el rubro agrícola y agroindustrial.",
+  "requisitos": [
+    "Licenciatura en Contaduría Pública y Finanzas o carreras afines.",
+    "Conocimientos en Normas Internacionales de Auditoría (NIA), Normas Internacionales de Información Financiera (NIIF), manejo de inventarios y activos fijos.",
+    "3 a 5 años de experiencia comprobada en auditorías en el rubro agrícola y agroindustrial.",
+    "Manejo avanzado de MS Office."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Plaza permanente y estabilidad laboral.",
+    "Beneficios atractivos.",
+    "Seguro médico.",
+    "Seguro de vida.",
+    "Desarrollo profesional y personal."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-12",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "89265314",
+  "telefono": "",
+  "correo": "Reclutamiento@kbhonduras.com",
+  "whatsapps": [
+    "89265314"
+  ],
+  "telefonos": [],
+  "correos": [
+    "Reclutamiento@kbhonduras.com",
+    "Recursoshumanos@fruvego.net"
+  ],
+  "url_aplicar": ""
+    }
   ]
 }
