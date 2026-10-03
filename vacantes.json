@@ -1259,6 +1259,139 @@
     "texacolareynasrc@hotmail.com"
   ],
   "url_aplicar": ""
+},
+    {
+  "id": "ohn-20261002-000000-07",
+  "titulo": "Jefe de Tienda",
+  "empresa": "Steren",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Steren busca un Jefe de Tienda para su nueva tienda en San Pedro Sula, con experiencia en ventas de productos tecnológicos, liderazgo de equipos y cumplimiento de metas.",
+  "requisitos": [
+    "Graduado en Licenciatura en Mercadeo o carreras afines.",
+    "Conocimientos de productos tecnológicos.",
+    "Experiencia mínima de 3 años continuos como Jefe de Tienda en ventas.",
+    "Liderazgo y manejo de equipos de trabajo.",
+    "Manejo de indicadores de ventas (KPIs).",
+    "Enfoque en cumplimiento de metas.",
+    "Experiencia en manejo de inventarios y caja.",
+    "Enfoque en servicio al cliente y ventas.",
+    "Disponibilidad de horarios.",
+    "Poseer vehículo propio.",
+    "Documentos en regla."
+  ],
+  "beneficios": [
+    "Sueldo base.",
+    "Plan de comisión.",
+    "Prestaciones de ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-12",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "33285522",
+  "telefono": "",
+  "correo": "rrhh-hn@steren.com.hn",
+  "whatsapps": [
+    "33285522"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhh-hn@steren.com.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261002-000000-08",
+  "titulo": "Asesor de Ventas",
+  "empresa": "Steren",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Steren busca un Asesor de Ventas para su nueva tienda en San Pedro Sula, con experiencia en ventas de tecnología.",
+  "requisitos": [
+    "Mínimo 3 años de experiencia continua en ventas de tecnología.",
+    "Secundaria completa.",
+    "Manejo de paquete Office.",
+    "Documentos vigentes (antecedentes).",
+    "Buena presentación.",
+    "Disponibilidad de horarios.",
+    "Transporte propio."
+  ],
+  "beneficios": [
+    "Sueldo base.",
+    "Plan de comisión.",
+    "Prestaciones de ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-12",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "33285522",
+  "telefono": "",
+  "correo": "rrhh-hn@steren.com.hn",
+  "whatsapps": [
+    "33285522"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhh-hn@steren.com.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261002-000000-09",
+  "titulo": "Asesor de Ventas",
+  "empresa": "Steren",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Steren busca un Asesor de Ventas para su nueva tienda en Tegucigalpa, con experiencia previa en ventas.",
+  "requisitos": [
+    "Experiencia previa en ventas mínimo de 2 años.",
+    "Secundaria completa.",
+    "Manejo de paquete Office.",
+    "Documentos vigentes (antecedentes).",
+    "Buena presentación.",
+    "Disponibilidad de horarios.",
+    "Transporte propio."
+  ],
+  "beneficios": [
+    "Sueldo base.",
+    "Plan de comisión.",
+    "Prestaciones de ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp y pregunta por Gabriela Cruz.",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-12",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "33285522",
+  "telefono": "",
+  "correo": "rrhh-hn@steren.com.hn",
+  "whatsapps": [
+    "33285522"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhh-hn@steren.com.hn"
+  ],
+  "url_aplicar": ""
 }
   ]
 }
