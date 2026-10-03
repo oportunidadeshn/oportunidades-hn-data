@@ -1514,6 +1514,43 @@
     "alizardo@banhcafe.hn"
   ],
   "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261002-000000-13",
+  "titulo": "Reclutador",
+  "empresa": "Confidencial",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Recursos Humanos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se busca un Reclutador para integrarse al equipo en San Pedro Sula.",
+  "requisitos": [
+    "Licenciatura en Psicología o carreras afines.",
+    "Experiencia mínima de 1 año en posiciones similares.",
+    "Evaluación de candidatos filtrados por medio de entrevistas, Assessment Center u otros métodos de selección de personal.",
+    "Aplicar y evaluar pruebas psicométricas para filtrar candidatos.",
+    "Manejo del paquete Microsoft Office.",
+    "Disponibilidad inmediata.",
+    "Residir en San Pedro Sula."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-12",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "94533089",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "94533089"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
     }
   ]
 }
