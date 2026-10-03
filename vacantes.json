@@ -1147,6 +1147,48 @@
       "trabajaconnosotros@ars.com.ec"
     ],
     "url_aplicar": ""
-  }
+  },
+    {
+  "id": "ohn-20261002-000000-04",
+  "titulo": "Cajera",
+  "empresa": "Mundi Ofertas",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Mundi Ofertas busca una Cajera para su equipo en San Pedro Sula.",
+  "requisitos": [
+    "Sexo femenino.",
+    "Buena presentación.",
+    "Experiencia en el área de caja.",
+    "Disponibilidad de tiempo.",
+    "Buenas relaciones interpersonales.",
+    "Secundaria completa.",
+    "Residir en San Pedro Sula."
+  ],
+  "beneficios": [
+    "Excelente ambiente de trabajo.",
+    "Oportunidad de crecimiento."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "94833741",
+  "telefono": "",
+  "correo": "reclutamiento@mundiofertas.net",
+  "whatsapps": [
+    "94833741"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@mundiofertas.net"
+  ],
+  "url_aplicar": ""
+    }
   ]
 }
