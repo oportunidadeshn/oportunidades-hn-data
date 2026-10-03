@@ -1591,6 +1591,40 @@
     "rhventas.honduras@hotmail.com"
   ],
   "url_aplicar": ""
+    }, 
+
+    {
+  "id": "ohn-20261002-000000-17",
+  "titulo": "Auxiliar Contable",
+  "empresa": "Grupo Standard",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Grupo Standard busca un Auxiliar Contable para San Pedro Sula. Lugar de trabajo: Ofibodegas San Bernardo. Horario: de lunes a viernes, de 7:30 a 16:30 horas.",
+  "requisitos": [
+    "Perito Contador.",
+    "Deseable estudiante de Contaduría Pública.",
+    "Experiencia comprobable en puestos similares."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-12",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "brenda.lopez@fs.gt",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "brenda.lopez@fs.gt"
+  ],
+  "url_aplicar": ""
     }
   ]
 }
