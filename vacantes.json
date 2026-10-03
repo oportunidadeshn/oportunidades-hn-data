@@ -1518,7 +1518,7 @@
     {
   "id": "ohn-20261002-000000-13",
   "titulo": "Reclutador",
-  "empresa": "Confidencial",
+  "empresa": "Empresa confidencial",
   "ciudad": "San Pedro Sula",
   "categoria": "Recursos Humanos",
   "modalidad": "Presencial",
@@ -1550,6 +1550,46 @@
   ],
   "telefonos": [],
   "correos": [],
+  "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261002-000000-14",
+  "titulo": "Asistente Administrativo Temporal",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Danlí",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se busca un(a) Asistente Administrativo(a) temporal para una tienda automotriz en Danlí, El Paraíso. Funciones: apoyo en procesos administrativos y operativos; elaboración y control de reportes; procesos de caja y facturación; atención y seguimiento a clientes y proveedores; apoyo en las actividades administrativas del área.",
+  "requisitos": [
+    "Graduado universitario en Administración de Empresas, Contaduría o carreras afines.",
+    "Experiencia previa en puestos administrativos.",
+    "Experiencia comprobada en procesos de caja.",
+    "Conocimiento comprobado en Microsoft Excel.",
+    "Orientación al cliente y a los resultados.",
+    "Habilidades de organización, comunicación, liderazgo y trabajo en equipo.",
+    "Adaptación a los cambios.",
+    "Disponibilidad para trabajar en Danlí, El Paraíso."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-12",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "98807978",
+  "telefono": "",
+  "correo": "rhventas.honduras@hotmail.com",
+  "whatsapps": [
+    "98807978"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rhventas.honduras@hotmail.com"
+  ],
   "url_aplicar": ""
     }
   ]
