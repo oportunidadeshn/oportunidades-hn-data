@@ -1975,6 +1975,43 @@
     "reclutamiento.sps@bocadeli.com"
   ],
   "url_aplicar": ""
-}
+},
+    {
+  "id": "ohn-20261002-000000-30",
+  "titulo": "Oficial de Compras",
+  "empresa": "Cooperativa ELGA",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Gestionar el proceso de compras conforme a los lineamientos establecidos en el reglamento, con el propósito de adquirir los materiales y equipo que las diferentes áreas de la cooperativa requieran para la ejecución de sus actividades diarias.",
+  "requisitos": [
+    "Pasante universitario en Administración de Empresas o carrera afín.",
+    "Experiencia mínima de 2 años en puestos administrativos, de preferencia en compras.",
+    "Edad indistinta.",
+    "Género indistinto.",
+    "Conocimientos en procesos de negociación con proveedores, técnica y estrategias de compra y facturación.",
+    "Conocimiento en manejo de vehículo mecánico y licencia de conducir vigente.",
+    "Competencias: atención al afiliado interno, orientación a resultados, trabajo en equipo, relaciones interpersonales, influencia, relaciones de negocio, iniciativa y organización."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV actualizado mediante el botón de correo, colocando en el asunto \"Oficial de Compras Tegucigalpa\".",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-12",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rhumano@coopelga.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rhumano@coopelga.hn"
+  ],
+  "url_aplicar": ""
+    }
   ]
 }
