@@ -1787,6 +1787,46 @@
     "myryam.martinez@peopleblue.biz"
   ],
   "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261002-000000-25",
+  "titulo": "Visita Médica Zona Norte",
+  "empresa": "Vijosa",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Vijosa busca personal de Visita Médica para la Zona Norte, con residencia en San Pedro Sula y atención de clientes en la Zona Norte.",
+  "requisitos": [
+    "Doctor(a) en Química y Farmacia.",
+    "Edad: 23 a 35 años.",
+    "No se requiere experiencia.",
+    "Conocimientos de MS Excel.",
+    "Poseer vehículo propio y en buen estado.",
+    "Residir en San Pedro Sula.",
+    "Atender clientes en Zona Norte.",
+    "Habilidades de comunicación, trabajo en equipo, negociación, enfoque a ventas y excelentes relaciones interpersonales."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp con la Dra. Ana Carolina Lanza.",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-12",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "97858801",
+  "telefono": "",
+  "correo": "aclanzac@yahoo.es",
+  "whatsapps": [
+    "97858801"
+  ],
+  "telefonos": [],
+  "correos": [
+    "aclanzac@yahoo.es"
+  ],
+  "url_aplicar": ""
     }
   ]
 }
