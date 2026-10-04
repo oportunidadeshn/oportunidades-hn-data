@@ -1625,6 +1625,43 @@
     "brenda.lopez@fs.gt"
   ],
   "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261002-000000-20",
+  "titulo": "Ayudante de Albañil",
+  "empresa": "REDDCOM",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "REDDCOM busca un Ayudante de Albañil para trabajar en Tegucigalpa. No se requiere experiencia.",
+  "requisitos": [
+    "Residir en Tegucigalpa.",
+    "Género masculino.",
+    "Mayor de 18 años.",
+    "Documentos en regla.",
+    "Disponibilidad inmediata.",
+    "Sin experiencia requerida."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-12",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "marcela.suazo@reddcomca.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "marcela.suazo@reddcomca.com",
+    "auxiliar.recursoshn@reddcomca.com"
+  ],
+  "url_aplicar": ""
     }
   ]
 }
