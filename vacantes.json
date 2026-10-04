@@ -2159,6 +2159,40 @@
     "rhumano@coopelga.hn"
   ],
   "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261002-000000-35",
+  "titulo": "Asesor/a de Ventas",
+  "empresa": "SM Cabellos",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "SM Cabellos busca un/a Asesor/a de Ventas para su equipo en Tegucigalpa. Se asesora, guía y demuestra los productos mediante la Experiencia SM. Ubicación: Mall La Galería, Lomas del Guijarro.",
+  "requisitos": [
+    "No es necesario ser estilista.",
+    "Interés en las ventas y el cuidado del cabello."
+  ],
+  "beneficios": [
+    "Capacitación en la metodología propia de SM Cabellos."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-12",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "administracionsmcabellos@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "administracionsmcabellos@gmail.com"
+  ],
+  "url_aplicar": ""
     }
   ]
 }
