@@ -1746,6 +1746,47 @@
     "Talentohumano@grupo-aurum.com"
   ],
   "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261002-000000-24",
+  "titulo": "Mercaderista",
+  "empresa": "People Blue",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "People Blue busca un Mercaderista / Display para supermercados en San Pedro Sula. Disponibilidad inmediata.",
+  "requisitos": [
+    "Mayor de 21 años, sexo masculino.",
+    "Conocimientos en rotación de productos y fechas de vencimiento.",
+    "Preferible con experiencia de mercaderista en supermercados.",
+    "Antecedentes penales y policiales vigentes.",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [
+    "Contrato permanente con todos los beneficios de ley.",
+    "Estabilidad laboral.",
+    "Salario competitivo."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-12",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "32087066",
+  "telefono": "",
+  "correo": "myryam.martinez@peopleblue.biz",
+  "whatsapps": [
+    "32087066"
+  ],
+  "telefonos": [],
+  "correos": [
+    "myryam.martinez@peopleblue.biz"
+  ],
+  "url_aplicar": ""
     }
   ]
 }
