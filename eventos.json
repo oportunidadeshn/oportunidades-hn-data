@@ -162,6 +162,43 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    
+    {
+      "titulo": "Jornada PYME Digital e IA 2026 — Tegucigalpa",
+      "organizador": "IHT, SENPRENDE, Cancillería, INJUVE y Kolau, con el apoyo de la Embajada de España",
+      "categoria": "Tecnología e Innovación",
+      "ciudad": "Tegucigalpa",
+      "modalidad": "Presencial",
+      "fecha_inicio": "2026-10-05",
+      "fecha_fin": "2026-10-05",
+      "hora": "9:00 a. m. a 12:00 m.",
+      "lugar": "Auditorio Central de UTH, Tegucigalpa",
+      "descripcion": "Jornada para emprendedores y PYMEs sobre transformación digital. Aprende a crear, editar y posicionar una web profesional y tienda en línea con IA gratis, conoce diez herramientas de IA para tu negocio e integra un botón de pago. Forma parte del Plan Nacional de IA y Comercio Electrónico PYME.",
+      "informacion_participacion": "Cupos limitados. Inscríbete mediante el enlace de registro del evento.",
+      "imagen": "",
+      "enlace": "https://www.kolau.es/jornada-digital-ia-tegucigalpa",
+      "whatsapp": "",
+      "destacado": false,
+      "activo": true
+    },
+    {
+      "titulo": "Jornada PYME Digital e IA 2026 — San Pedro Sula",
+      "organizador": "IHT, SENPRENDE, Cancillería, INJUVE y Kolau, con el apoyo de la Embajada de España",
+      "categoria": "Tecnología e Innovación",
+      "ciudad": "San Pedro Sula",
+      "modalidad": "Presencial",
+      "fecha_inicio": "2026-10-06",
+      "fecha_fin": "2026-10-06",
+      "hora": "9:00 a. m. a 12:00 m.",
+      "lugar": "Auditorio Central de UTH, San Pedro Sula",
+      "descripcion": "Jornada para emprendedores y PYMEs sobre transformación digital. Aprende a crear, editar y posicionar una web profesional y tienda en línea con IA gratis, conoce diez herramientas de IA para tu negocio e integra un botón de pago. Forma parte del Plan Nacional de IA y Comercio Electrónico PYME.",
+      "informacion_participacion": "Cupos limitados. Inscríbete mediante el enlace de registro del evento.",
+      "imagen": "",
+      "enlace": "https://www.kolau.es/jornada-digital-ia",
+      "whatsapp": "",
+      "destacado": false,
+      "activo": true
     }
   ]
 }
