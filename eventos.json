@@ -199,6 +199,24 @@
       "whatsapp": "",
       "destacado": false,
       "activo": true
+    },
+    {
+  "titulo": "Feria de Empleo Forza Delivery Express",
+  "organizador": "Forza Delivery Express",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-05",
+  "fecha_fin": "2026-10-05",
+  "hora": "8:00 a. m. a 1:00 p. m.",
+  "lugar": "Boulevard Juan Pablo II, Barrio Medina, frente a HERTZ",
+  "descripcion": "Feria de empleo de Forza Delivery Express con contratación inmediata. Plazas en búsqueda: Delivery (con licencia y moto).",
+  "informacion_participacion": "Contratación inmediata. Lleva tu documentación en regla: antecedentes penales y policiales; currículum, copia de título y licencia; recibo público, fotografía y constancia de trabajo.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
