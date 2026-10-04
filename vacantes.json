@@ -2084,6 +2084,44 @@
     "hrm@indura.hn"
   ],
   "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261002-000000-33",
+  "titulo": "Asistente de Ventas",
+  "empresa": "Farmacias del Ahorro",
+  "ciudad": "San Lorenzo",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Brindar atención al cliente e incrementar el volumen de ventas, dando a conocer toda la gama de productos existentes en la farmacia. Plaza en San Lorenzo, Valle.",
+  "requisitos": [
+    "Secundaria completa (indispensable).",
+    "Experiencia mínima de 6 meses en ventas.",
+    "Experiencia en farmacia (no indispensable).",
+    "Comunicación asertiva.",
+    "Conocimiento en ventas.",
+    "Manejo de paquete básico de MS Office."
+  ],
+  "beneficios": [
+    "Oportunidad de crecer profesionalmente en una empresa sólida y en constante expansión."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo, colocando en el asunto \"AV - SAN LORENZO\".",
+  "fecha_publicacion": "2026-10-02",
+  "fecha_vencimiento": "2026-10-12",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "vacanteshn@farmavalue.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "vacanteshn@farmavalue.com"
+  ],
+  "url_aplicar": ""
     }
   ]
 }
