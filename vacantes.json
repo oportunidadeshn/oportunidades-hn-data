@@ -2300,6 +2300,42 @@
     "info@rmswork.com"
   ],
   "url_aplicar": ""
-}
+},
+    {
+  "id": "ohn-20261004-000000-03",
+  "titulo": "Asesor de Venta y Entrega",
+  "empresa": "REASA",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "REASA busca un Asesor de Venta y Entrega para San Pedro Sula, Cortés, con experiencia en ventas, orientación al cliente y disponibilidad para trabajo de campo.",
+  "requisitos": [
+    "Educación media o pasante universitario en áreas administrativas o técnica automotriz.",
+    "Experiencia mínima de 2 años en áreas comerciales o venta directa en calle.",
+    "Conocimientos básicos de mecánica automotriz (repuestos, aceites, lubricantes).",
+    "Manejo de Microsoft Office (Word, Excel).",
+    "Licencia de conducir vigente y motocicleta propia.",
+    "Disponibilidad para trasladarse dentro de la zona asignada."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo, colocando en el asunto \"Asesor de Venta y Entrega\".",
+  "fecha_publicacion": "2026-10-04",
+  "fecha_vencimiento": "2026-10-14",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "empleos@reasa.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "empleos@reasa.hn"
+  ],
+  "url_aplicar": ""
+    }
   ]
 }
