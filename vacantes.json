@@ -2486,6 +2486,44 @@
   "telefonos": [],
   "correos": [],
   "url_aplicar": "https://ceutec.hn/trabaja-con-nosotros/asesor-de-admisiones-temporal-ceutec-sps/"
+    },
+    {
+  "id": "ohn-20261005-103706-26",
+  "titulo": "Supervisor de Ventas",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Choloma",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisor de Ventas con al menos 3 años de experiencia en supervisión o seguimiento de ventas en ferretería, abarrotería o rubros afines. El puesto requiere conocimiento del portafolio ferretero, experiencia comprobada en ventas de abarrotería, disponibilidad para viajar a nivel nacional y licencia de conducir vigente. Buscamos una persona con iniciativa y proactividad comercial, orientada al cumplimiento de metas y a la apertura de nuevas cuentas.",
+  "requisitos": [
+    "Experiencia mínima de 3 años en supervisión o seguimiento de ventas en ferretería, abarrotería o rubros afines.",
+    "Conocimiento del portafolio ferretero y experiencia comprobada en ventas de abarrotería.",
+    "Disponibilidad para viajar a nivel nacional con visitas frecuentes a clientes.",
+    "Licencia de conducir vigente."
+  ],
+  "beneficios": [
+    "Salario base + comisiones y todos los beneficios de ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-05",
+  "fecha_vencimiento": "2026-10-31",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494383944",
+  "telefono": "",
+  "correo": "reclutamiento@iesa.hn",
+  "whatsapps": [
+    "50494383944"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@iesa.hn"
+  ],
+  "url_aplicar": ""
     }
   ]
 }
