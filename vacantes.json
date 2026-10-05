@@ -2228,6 +2228,78 @@
     "kegomez@bancopopular.hn"
   ],
   "url_aplicar": ""
-    }
+    },
+    {
+  "id": "ohn-20261004-000000-01",
+  "titulo": "Ingeniero de Proyectos",
+  "empresa": "RMS Work",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "RMS Work busca un profesional con capacidad para liderar la ejecución de proyectos eléctricos industriales, coordinar equipos técnicos y administrar recursos, costos y cronogramas.",
+  "requisitos": [
+    "Ingeniero Eléctrico, Electromecánico o carrera afín.",
+    "Mínimo 2 años de experiencia en ejecución de proyectos eléctricos industriales.",
+    "Experiencia en supervisión de personal técnico y contratistas.",
+    "Conocimientos de planificación, presupuestos e interpretación de planos eléctricos.",
+    "Licencia de conducir vigente.",
+    "Disponibilidad para viajar y atender actividades extraordinarias cuando sea necesario."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-04",
+  "fecha_vencimiento": "2026-10-14",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "info@rmswork.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "info@rmswork.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261004-000000-02",
+  "titulo": "Coordinador de Adquisiciones y Abastecimientos",
+  "empresa": "RMS Work",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "RMS Work busca un profesional que lidere las compras, el abastecimiento y la logística, asegurando la disponibilidad oportuna de recursos para sus proyectos y servicios industriales.",
+  "requisitos": [
+    "Formación universitaria en Ingeniería Industrial, Administración, Logística o carrera afín.",
+    "Mínimo 2 años de experiencia en compras y abastecimiento.",
+    "Experiencia en negociación y gestión de proveedores.",
+    "Conocimientos de control de inventarios, almacenes y coordinación logística.",
+    "Capacidad para supervisar personal operativo.",
+    "Manejo de Excel y sistemas de gestión de compras e inventarios."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-04",
+  "fecha_vencimiento": "2026-10-14",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "info@rmswork.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "info@rmswork.com"
+  ],
+  "url_aplicar": ""
+}
   ]
 }
