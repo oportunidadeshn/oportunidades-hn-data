@@ -2336,6 +2336,43 @@
     "empleos@reasa.hn"
   ],
   "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261004-093117-23",
+  "titulo": "Auxiliar de Bodega",
+  "empresa": "Nipro",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Carga y descarga de contenedores \nCotejar el producto físico recibido contra guía \nEntrega de producto",
+  "requisitos": [
+    "Experiencia en manejo de vehículo tipo (panel, camioncito)",
+    "Licencia liviana vigente",
+    "Experiencia en puestos similares como auxiliar de bodega"
+  ],
+  "beneficios": [
+    "Beneficios de ley más paquete de beneficios adicionales brindados por la empresa"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nPreséntate en Virtual.\nsi cumples con los requisitos esperamos tu hoja de vida",
+  "fecha_publicacion": "2026-10-04",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432783344",
+  "telefono": "",
+  "correo": "Vacanteshonduras@nipromed.com",
+  "whatsapps": [
+    "50432783344"
+  ],
+  "telefonos": [],
+  "correos": [
+    "Vacanteshonduras@nipromed.com"
+  ],
+  "url_aplicar": ""
     }
   ]
 }
