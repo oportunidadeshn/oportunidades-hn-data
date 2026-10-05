@@ -1596,7 +1596,7 @@
     {
   "id": "ohn-20261002-000000-17",
   "titulo": "Auxiliar Contable",
-  "empresa": "Grupo Standard",
+  "empresa": "Formularios Standard, S.A.",
   "ciudad": "San Pedro Sula",
   "categoria": "Contabilidad y Finanzas",
   "modalidad": "Presencial",
@@ -2524,6 +2524,41 @@
     "reclutamiento@iesa.hn"
   ],
   "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261005-122742-27",
+  "titulo": "Ejecutivo de Ventas",
+  "empresa": "Formularios Standard, S.A.",
+  "ciudad": "Tegucigalpa, San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Persona responsable de realizar procesos de prospeccion, visita, venta y negociaciones con clientes potenciales.",
+  "requisitos": [
+    "Graduado a nivel medio. experiencia minima comprobable en ventas minimo de 5 años, deseable experiencia en ventas B2B, habilidad de negociacion, comunicacion asertiva, enfoque a Servicio y buena presentacion."
+  ],
+  "beneficios": [
+    "Prestaciones de Ley, jornada laboral de lunes a viernes, capacitacion constante."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nUsa el botón para aplicar en línea.\nde momento con su CV completo es suficiente, gracias",
+  "fecha_publicacion": "2026-10-05",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50242179257",
+  "telefono": "",
+  "correo": "brenda.lopez@fs.gt",
+  "whatsapps": [
+    "50242179257"
+  ],
+  "telefonos": [],
+  "correos": [
+    "brenda.lopez@fs.gt"
+  ],
+  "url_aplicar": "https://standard-ca.com/"
     }
   ]
 }
