@@ -2322,7 +2322,7 @@
   ],
   "beneficios": [],
   "como_aplicar": "Envía tu CV mediante el botón de correo, colocando en el asunto \"Asesor de Venta y Entrega\".",
-  "fecha_publicacion": "2026-10-04",
+  "fecha_publicacion": "2026-10-05",
   "fecha_vencimiento": "2026-10-14",
   "destacada": false,
   "destacada_hasta": "",
@@ -2357,7 +2357,7 @@
     "Beneficios de ley más paquete de beneficios adicionales brindados por la empresa"
   ],
   "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nPreséntate en Virtual.\nsi cumples con los requisitos esperamos tu hoja de vida",
-  "fecha_publicacion": "2026-10-04",
+  "fecha_publicacion": "2026-10-05",
   "fecha_vencimiento": "2026-10-23",
   "destacada": false,
   "destacada_hasta": "",
@@ -2474,7 +2474,7 @@
   ],
   "beneficios": [],
   "como_aplicar": "Aplica mediante el botón de aplicar.",
-  "fecha_publicacion": "2026-10-04",
+  "fecha_publicacion": "2026-10-05",
   "fecha_vencimiento": "2026-10-31",
   "destacada": false,
   "destacada_hasta": "",
@@ -2595,6 +2595,46 @@
   "telefonos": [],
   "correos": [
     "rrhh.slsmovil@gmail.com"
+  ],
+  "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261005-142504-28",
+  "titulo": "MASAJISTA",
+  "empresa": "Hotel HondurasMaya",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Masajista profesional, con alto sentido de la ética y moral, con habilidades de servicio",
+  "requisitos": [
+    "Certificación o diploma como Masajista Profesional",
+    "Disponibilidad de trabajar en horarios rotativos",
+    "Manejo de técnicas de masajes descontracturantes, relajantes, etc.",
+    "Residir en el caso urbano",
+    "Excelente servicio y calidez al cliente",
+    "Discreción y profesionalismos"
+  ],
+  "beneficios": [
+    "TODOS CONFORME A LEY / MEDICO EN EMPRESA / SEGURO DE VIDA"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nPreséntate en Enviar hoja de vida por correo o WhatsApp.\n.",
+  "fecha_publicacion": "2026-10-05",
+  "fecha_vencimiento": "2026-10-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50489640209",
+  "telefono": "",
+  "correo": "generalista@hondurasmaya.hn",
+  "whatsapps": [
+    "50489640209"
+  ],
+  "telefonos": [],
+  "correos": [
+    "generalista@hondurasmaya.hn"
   ],
   "url_aplicar": ""
     }
