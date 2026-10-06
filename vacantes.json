@@ -2936,7 +2936,7 @@
   "modalidad": "Presencial",
   "tipo_empleo": "Temporal",
   "sin_experiencia": false,
-  "pasantia": false,
+  "pasantia": true,
   "descripcion": "experiencia en estimaciones, planillas",
   "requisitos": [
     "Ing civil"
