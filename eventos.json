@@ -235,6 +235,24 @@
       "whatsapp": "",
       "destacado": false,
       "activo": true
+    },
+    {
+  "titulo": "Feria de Empleo FEFASA",
+  "organizador": "FEFASA",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-16",
+  "fecha_fin": "2026-10-16",
+  "hora": "9:00 a. m. a 4:00 p. m.",
+  "lugar": "Sucursal FEFASA Tegucigalpa",
+  "descripcion": "Vacantes para encargado de bodega, auxiliar de bodega, cargador, motoristas, auxiliar de inspección de inventario, coordinador de despacho, asesor de ventas de proyectos y asesor de ventas de tienda.",
+  "informacion_participacion": "Lleva tu hoja de vida actualizada. Para más información, comunícate al teléfono o WhatsApp +504 9332-2497 o al correo capitalhumano@fefasa.hn.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "50493322497",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
