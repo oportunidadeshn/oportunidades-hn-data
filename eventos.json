@@ -217,6 +217,29 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "actualizado": "2026-10-05",
+  "eventos": [
+    {
+      "titulo": "Feria de Empleo Unlimited",
+      "organizador": "Unlimited",
+      "categoria": "Ferias de Empleo y Reclutamiento",
+      "ciudad": "Tegucigalpa",
+      "modalidad": "Presencial",
+      "fecha_inicio": "2026-10-16",
+      "fecha_fin": "2026-10-16",
+      "hora": "10:00 a. m. a 4:00 p. m.",
+      "lugar": "Unlimited Metromall",
+      "descripcion": "Feria de empleo con vacantes para asesores de venta, cajeros y jefe de bodega en tienda.",
+      "informacion_participacion": "Preséntate con tu hoja de vida actualizada durante el horario anunciado.",
+      "imagen": "",
+      "enlace": "",
+      "whatsapp": "",
+      "destacado": false,
+      "activo": true
+    }
+  ]
     }
   ]
 }
