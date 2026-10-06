@@ -219,9 +219,6 @@
   "activo": true
     },
     {
-  "actualizado": "2026-10-05",
-  "eventos": [
-    {
       "titulo": "Feria de Empleo Unlimited",
       "organizador": "Unlimited",
       "categoria": "Ferias de Empleo y Reclutamiento",
@@ -238,8 +235,6 @@
       "whatsapp": "",
       "destacado": false,
       "activo": true
-    }
-  ]
     }
   ]
 }
