@@ -3144,6 +3144,151 @@
     "eliafiallos@gruposimka.com"
   ],
   "url_aplicar": ""
+},
+    {
+  "id": "ohn-20261006-000000-12",
+  "titulo": "Prácticas Profesionales",
+  "empresa": "Energía PD",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": false,
+  "pasantia": true,
+  "descripcion": "Energía PD abre oportunidades de prácticas profesionales para impulsar tu talento y aprender en proyectos reales. Áreas disponibles: Ingeniería Eléctrica (apoyo en proyectos eléctricos y actividades técnicas de ingeniería); Licenciatura en Administración de Empresas (procesos administrativos y análisis de gestión); Contabilidad (registros contables, análisis financiero y reportes); Ingeniería Industrial (mejora de procesos y eficiencia operativa); Bachiller Eléctrico (actividades técnicas eléctricas).",
+  "requisitos": [
+    "Estudiante o egresado de Ingeniería Eléctrica, Administración de Empresas, Contabilidad, Ingeniería Industrial o Bachiller Eléctrico."
+  ],
+  "beneficios": [
+    "Aprendizaje real en proyectos desafiantes.",
+    "Mentoría de profesionales con experiencia.",
+    "Desarrollo del perfil profesional y ampliación de conocimientos."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nPara más información, comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-06",
+  "fecha_vencimiento": "2026-10-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "94389532",
+  "telefono": "",
+  "correo": "empleo@energiapd.com",
+  "whatsapps": [
+    "94389532"
+  ],
+  "telefonos": [],
+  "correos": [
+    "empleo@energiapd.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261006-000000-13",
+  "titulo": "Coordinador de IT",
+  "empresa": "ICN",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "ICN busca un Coordinador de IT. Funciones clave: administrar y dar seguimiento a la infraestructura de red, servidores y equipos de la organización; supervisar el sistema de tickets y mesa de ayuda, asegurando el cumplimiento de tiempos de respuesta (SLA); coordinar proyectos de actualización, migración o implementación de nuevas tecnologías.",
+  "requisitos": [
+    "Ingeniería en Sistemas, Informática, Telecomunicaciones o afines.",
+    "Experiencia de 3 a 5 años en soporte técnico u operaciones de TI.",
+    "Experiencia mínima de 1 a 2 años en un rol de liderazgo, supervisión o coordinación de equipos.",
+    "Experiencia comprobada en infraestructura básica, seguridad informática y operación de soporte.",
+    "Experiencia gestionando tickets y carga de trabajo.",
+    "Experiencia en ciberseguridad, virtualización y base de datos SQL.",
+    "Conocimiento en gestión de SLA y procedimientos de escalamiento.",
+    "Conocimiento de normativas de protección de datos aplicables a la industria."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo, colocando en el asunto \"Coordinador de IT\".",
+  "fecha_publicacion": "2026-10-06",
+  "fecha_vencimiento": "2026-10-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "recursos.humanos@icndigital.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "recursos.humanos@icndigital.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261006-000000-14",
+  "titulo": "Ingeniero(a) en Sistemas",
+  "empresa": "Nefrocentro",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Nefrocentro busca un(a) Ingeniero(a) en Sistemas para formar parte de una institución comprometida con la excelencia en la atención en salud. Áreas de experiencia: administración de centro de datos, servidores (Windows / Linux), Fortinet (firewall, VPN, seguridad), redes y conectividad, virtualización, respaldo y recuperación de información.",
+  "requisitos": [
+    "Título universitario en Ingeniería en Sistemas, Informática o afines.",
+    "Experiencia comprobable en administración de centro de datos.",
+    "Experiencia en administración de servidores (Windows y/o Linux).",
+    "Conocimiento y experiencia en firewall Fortinet (configuración, monitoreo y gestión).",
+    "Conocimientos en redes, virtualización, respaldo de información y seguridad informática.",
+    "Disponibilidad para trabajar en sitio."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-06",
+  "fecha_vencimiento": "2026-10-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento@nefrocentro.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@nefrocentro.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261006-000000-17",
+  "titulo": "Supervisor de Ventas",
+  "empresa": "Grupo Bimbo",
+  "ciudad": "Tegucigalpa, San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Grupo Bimbo busca un Supervisor de Ventas para Tegucigalpa y San Pedro Sula. Objetivo del cargo: lograr las ventas más altas posibles, a través de la eficiente dirección de su equipo de trabajo, proporcionando un excelente servicio a clientes y consumidores mediante una adecuada gestión de negocio y compromiso permanente.",
+  "requisitos": [
+    "Profesional en Administración, Ingeniería Industrial, Comunicaciones, Marketing y/o carreras afines.",
+    "Experiencia de 2 años en posiciones similares en empresas de consumo masivo.",
+    "Conocimientos y experiencia en negociación, dirección de equipos y manejo de fuerza de ventas.",
+    "Experiencia en manejo de vehículo mecánico."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo, colocando en el asunto \"SUPERVISOR DE VENTAS\" y la ciudad a la que aplicas (Tegucigalpa o San Pedro Sula).",
+  "fecha_publicacion": "2026-10-06",
+  "fecha_vencimiento": "2026-10-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "jennifer.reconco@grupobimbo.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "jennifer.reconco@grupobimbo.com"
+  ],
+  "url_aplicar": ""
 }
   ]
 }
