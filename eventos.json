@@ -307,6 +307,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
-}
+},
+    {
+  "titulo": "Charla: Gestión de tareas de alto riesgo en los lugares de trabajo",
+  "organizador": "ANDI y CERTEC",
+  "categoria": "Educación y Formación",
+  "ciudad": "",
+  "modalidad": "Virtual",
+  "fecha_inicio": "2026-10-13",
+  "fecha_fin": "2026-10-13",
+  "hora": "2:00 p. m. (hora de Honduras)",
+  "lugar": "Zoom",
+  "descripcion": "Charla gratuita facilitada por Ruby Caicedo Gómez para fortalecer la gestión de riesgos críticos mediante la prevención, capacitación y supervisión, garantizando el cumplimiento normativo.",
+  "informacion_participacion": "Inscríbete gratuitamente mediante el formulario: https://forms.gle/4dbebxNKqhFUpumT8",
+  "imagen": "",
+  "enlace": "https://forms.gle/4dbebxNKqhFUpumT8",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+    }
   ]
 }
