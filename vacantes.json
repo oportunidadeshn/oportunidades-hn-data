@@ -3407,6 +3407,202 @@
     "reclutamientoyseleccion@ctaauditores.com"
   ],
   "url_aplicar": ""
-    }
+    },
+    {
+  "id": "ohn-20261006-000000-11",
+  "titulo": "Asesora Familiar",
+  "empresa": "Buckner Honduras",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Buckner Honduras busca una Asesora Familiar para San Pedro Sula, con experiencia en puestos similares, de preferencia en ONG.",
+  "requisitos": [
+    "Poseer título de Licenciatura en Trabajo Social o Psicología (colegiado activo).",
+    "Experiencia mínima de 2 años en puestos similares, de preferencia en ONG.",
+    "Conocimiento de las leyes de protección a la niñez y familia (área social).",
+    "Documentos en regla y referencia laboral.",
+    "Manejo de paquetes de Microsoft Office, internet y plataformas virtuales.",
+    "Licencia de conducir vigente y con experiencia.",
+    "Preferiblemente que residan y conozcan las comunidades de la ciudad de San Pedro Sula.",
+    "Sensibilidad social.",
+    "Redacción de reportes.",
+    "Capacidad de observar y hacer evaluaciones precisas de situaciones e individuos y determinar las acciones que considere apropiadas.",
+    "Conocimiento y comprensión de las normas regulatorias aplicables y los requisitos que rigen los programas y servicios."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento@booc-ca.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@booc-ca.com"
+  ],
+  "url_aplicar": ""
+},
+    {
+  "id": "ohn-20261006-000000-22",
+  "titulo": "Auditor Senior",
+  "empresa": "Grupo Farinter",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Grupo Farinter busca un Auditor Senior para el área de Auditoría, en Tegucigalpa, con alcance en Honduras. Responsabilidades: planificar y ejecutar auditorías financieras, operativas y de cumplimiento, de acuerdo con las normas y procedimientos establecidos; analizar hallazgos, emitir observaciones y recomendaciones que contribuyan a la mejora continua de los procesos y controles internos; dar seguimiento a los planes de acción y asegurar la correcta implementación de las recomendaciones de auditoría.",
+  "requisitos": [
+    "Graduado en Contaduría Pública.",
+    "Mínimo de 3 años de experiencia en auditoría (interna y/o externa).",
+    "Experiencia en firmas auditoras.",
+    "Conocimientos sólidos en NIIF y normativa contable aplicable.",
+    "Manejo avanzado de Excel y herramientas de análisis de datos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "marlon.herrera@farinter.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "marlon.herrera@farinter.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261006-000000-23",
+  "titulo": "Jefe Operativo TIC",
+  "empresa": "Equidad Compañía de Seguros",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Dirigir la ejecución tecnológica de la organización, asegurando la calidad, continuidad y eficiencia de los servicios de TIC, mediante el liderazgo directo de las funciones de desarrollo y control de calidad, y la coordinación matricial de las áreas de infraestructura, soporte, datos y seguridad, garantizando la implementación de soluciones tecnológicas alineadas al negocio y el cumplimiento de estándares técnicos y la gestión eficiente de los servicios bajo mejores prácticas (ITIL y gobierno de TI). Funciones: supervisar la operación de infraestructura, soporte técnico y servicios tecnológicos; administrar incidentes, problemas y cambios bajo buenas prácticas; garantizar disponibilidad de servicios críticos; identificar, evaluar y mitigar riesgos operativos; alinear operaciones con desarrollo.",
+  "requisitos": [
+    "Licenciatura en Informática Administrativa, Ingeniería en Sistemas y otras carreras afines al cargo.",
+    "Mínimo 5 años en tecnología, liderando equipos de desarrollo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo, indicando en el asunto el nombre del puesto: Jefe Operativo TIC.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "recursoshumanos@segurosequidad.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "recursoshumanos@segurosequidad.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261006-000000-24",
+  "titulo": "Asistente de IT",
+  "empresa": "Horizontes de Amistad",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Brindar soporte técnico a usuarios y apoyo en la administración y mantenimiento de la infraestructura tecnológica, asegurando el correcto funcionamiento de los equipos, redes y sistemas de la institución.",
+  "requisitos": [
+    "Experiencia de 1 año.",
+    "Mantenimiento y diagnóstico básico de computadoras de escritorio y laptops.",
+    "Soporte técnico a usuarios.",
+    "Configuración básica de redes LAN/WiFi y solución de problemas de conectividad.",
+    "Instalación de software, respaldos y configuración de equipos.",
+    "Diagnóstico de problemas de hardware, software, red e internet.",
+    "Conocimientos en bases de datos (SQL Server).",
+    "Residir en San Pedro Sula.",
+    "Deseable: conocimientos de TypeScript, React, NestJS o Python.",
+    "Deseable: conocimientos básicos de Git.",
+    "Deseable: conocimientos de cámaras de seguridad.",
+    "Técnico, pasante universitario o estudiante avanzado en Informática, Sistemas, Computación, Redes o carreras afines.",
+    "Capacidad para investigar y resolver problemas.",
+    "Proactividad y disposición para aprender.",
+    "Capacidad para apoyar en diferentes actividades del área de IT."
+  ],
+  "beneficios": [
+    "Derechos laborales.",
+    "Seguro de vida / seguro médico privado."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "94429517",
+  "telefono": "",
+  "correo": "rr.hh@fundacionhorizontes.com",
+  "whatsapps": [
+    "94429517"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rr.hh@fundacionhorizontes.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261006-000000-25",
+  "titulo": "Ejecutivo de Ventas Digitales",
+  "empresa": "Tiempo",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Tiempo busca un Ejecutivo de Ventas Digitales para Tegucigalpa, con experiencia en ventas digitales, campañas publicitarias y retorno de la inversión al cliente.",
+  "requisitos": [
+    "Licenciatura en Mercadotecnia.",
+    "Mínimo 1 año de experiencia en ventas digitales.",
+    "Experiencia en campañas publicitarias.",
+    "Experiencia en retornar la inversión al cliente.",
+    "Saber desarrollar estrategias de venta efectivas.",
+    "Cartera de clientes comprobable."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "88552565",
+  "telefono": "",
+  "correo": "recursoshumanos@condeltahn.com",
+  "whatsapps": [
+    "88552565"
+  ],
+  "telefonos": [],
+  "correos": [
+    "recursoshumanos@condeltahn.com"
+  ],
+  "url_aplicar": ""
+}
   ]
 }
