@@ -4040,6 +4040,41 @@
     "recursoshumanostgu@hospitalsantalucia.hn"
   ],
   "url_aplicar": ""
-}
+},
+    {
+  "id": "ohn-20261007-123030-30",
+  "titulo": "Auxiliar de Validación",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Remoto",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "El Agente de Validación asegura la precisión y la integridad de las transacciones financieras. Su principal responsabilidad es validar y verificar las transacciones relacionadas con el pago, garantizando el cumplimiento de políticas y procedimientos internos, así como normativas financieras externas.",
+  "requisitos": [
+    "Disposición de horario, manejo ágil de computadora, manejo contable básico (cierre, conciliaciones, registros)."
+  ],
+  "beneficios": [
+    "Modalidad de teletrabajo, dias libres varios, seguro medico privado y seguro de vida, los de ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-14",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494218057",
+  "telefono": "",
+  "correo": "sguerra@reddeservicios.hn",
+  "whatsapps": [
+    "50494218057"
+  ],
+  "telefonos": [],
+  "correos": [
+    "sguerra@reddeservicios.hn"
+  ],
+  "url_aplicar": ""
+    }
   ]
 }
