@@ -3603,6 +3603,57 @@
     "recursoshumanos@condeltahn.com"
   ],
   "url_aplicar": ""
-}
+}, 
+    {
+  "id": "ohn-20261007-000000-01",
+  "titulo": "Pasantes en Talento Humano",
+  "empresa": "Grupo Aurum",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Recursos Humanos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": true,
+  "pasantia": true,
+  "descripcion": "Grupo Aurum busca pasantes en Talento Humano que deseen adquirir experiencia profesional, desarrollar sus habilidades y formar parte de un equipo dinámico. Funciones de apoyo: publicar vacantes y filtrar hojas de vida; coordinar entrevistas y aplicar pruebas psicométricas; armar y actualizar expedientes del personal; ayudar en la inducción de nuevos colaboradores; registrar asistencia, permisos y vacaciones.",
+  "requisitos": [
+    "Estudiante de los últimos años, o egresado(a) pendiente de práctica profesional, de Licenciatura en Recursos Humanos / Gestión del Talento Humano, Psicología (preferiblemente organizacional) o Administración de Empresas.",
+    "Estudiante universitario activo.",
+    "Disponibilidad para cumplir las horas de práctica que exige su universidad.",
+    "Disponibilidad para realizar su pasantía en Tegucigalpa.",
+    "Contar con carta de pasantía de la universidad, si aplica.",
+    "Conocimientos generales de reclutamiento y selección.",
+    "Manejo de Microsoft Office, sobre todo Excel (filtros, tablas y fórmulas básicas) y Word.",
+    "Deseable: conocer los procesos de planilla, IHSS y RAP.",
+    "Confidencialidad y discreción con la información del personal.",
+    "Organización y orden en el manejo de expedientes.",
+    "Buena comunicación oral y escrita.",
+    "Actitud de servicio, proactividad, responsabilidad, compromiso y ganas de aprender.",
+    "Trabajo en equipo.",
+    "Documentos a presentar: hoja de vida, copia de DNI, historial académico, antecedentes penales y policiales."
+  ],
+  "beneficios": [
+    "Experiencia profesional.",
+    "Aprendizaje y desarrollo de habilidades.",
+    "Acompañamiento durante el proceso.",
+    "Oportunidad de conocer y desarrollarse en un entorno empresarial."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo, indicando en el asunto \"Pasantía\".\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "33266978",
+  "telefono": "",
+  "correo": "talentohumano@grupo-aurum.com",
+  "whatsapps": [
+    "33266978"
+  ],
+  "telefonos": [],
+  "correos": [
+    "talentohumano@grupo-aurum.com"
+  ],
+  "url_aplicar": ""
+    }
   ]
 }
