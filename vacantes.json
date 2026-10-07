@@ -4266,6 +4266,277 @@
     "reclutamiento@cofinter.hn"
   ],
   "url_aplicar": ""
+}, 
+    {
+  "id": "ohn-20261007-153708-1",
+  "titulo": "Personal de Limpieza",
+  "empresa": "GIDSA Solutions",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Servicios Generales y Oficios",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Personal de limpieza para trabajar en Torre Morazán, Tegucigalpa, con conocimientos en el uso de equipos y productos de limpieza.",
+  "requisitos": [
+    "Ser mayor de edad.",
+    "Aprender y dominar las rutinas diarias.",
+    "Conocimientos sobre la utilización de equipos de limpieza y diferentes productos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo, colocando en el asunto: Plaza Personal de limpieza.\nTambién puedes enviar tu CV mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432560259",
+  "telefono": "",
+  "correo": "rrhhgidsa@gidsasolutions.com",
+  "whatsapps": [
+    "50432560259"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhhgidsa@gidsasolutions.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261007-153708-2",
+  "titulo": "Jefe de Mantenimiento de Campo",
+  "empresa": "Comayagua Golf Club",
+  "ciudad": "Comayagua",
+  "categoria": "Agricultura y Agroindustria",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisar el mantenimiento del campo, evaluar la condición y calidad del césped, manejar sistemas de riego y controlar plagas. Supervisar la aplicación adecuada de productos agrícolas y fertilizantes, así como el manejo y mantenimiento de maquinaria y herramientas.",
+  "requisitos": [
+    "Formación como Técnico Agrícola, Ingeniería Agroindustrial o carreras afines.",
+    "Entre 1 y 3 años de experiencia.",
+    "Sexo masculino.",
+    "Disponibilidad inmediata.",
+    "Residir en Comayagua.",
+    "Vehículo propio, preferible.",
+    "Documentos en regla.",
+    "Manejo y mantenimiento de maquinaria y herramientas.",
+    "Capacidad para evaluar la condición y calidad del césped.",
+    "Buen manejo de sistemas de riego.",
+    "Capacidad para manejar altos volúmenes de trabajo y tiempos rápidos.",
+    "Conocimiento y manejo de plagas.",
+    "Capacidad para supervisar la aplicación de productos agrícolas y fertilizantes.",
+    "Capacidad para trabajar en equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nTambién puedes comunicarte mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50493585280",
+  "telefono": "",
+  "correo": "recursoshumanos@comayaguagolfclub.com",
+  "whatsapps": [
+    "50493585280"
+  ],
+  "telefonos": [],
+  "correos": [
+    "recursoshumanos@comayaguagolfclub.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261007-153708-3",
+  "titulo": "Auditor Financiero y Riesgos",
+  "empresa": "Banco de Occidente",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Participar en la ejecución del plan de trabajo de la unidad de Auditoría Interna para desarrollar auditorías financieras de los diferentes segmentos de los estados financieros de la institución. Revisar el cumplimiento de las normas aplicables y políticas internas.",
+  "requisitos": [
+    "Licenciatura en Administración de Empresas, Finanzas o carreras afines.",
+    "Experiencia mínima deseable de 2 años en auditoría, cumplimiento, derecho bancario, investigación y estadística, operaciones, riesgos bancarios, finanzas y conocimiento tributario.",
+    "Conocimiento y dominio de Office avanzado, herramientas y software de su área.",
+    "Manejo de procedimientos y técnicas de auditoría y de la metodología de gestión de riesgos.",
+    "Orientación al cliente interno y externo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "incorporacionrrhh@bancocci.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "incorporacionrrhh@bancocci.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261007-153708-4",
+  "titulo": "Coordinador de Mantenimiento",
+  "empresa": "Helados Sarita",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Gestionar y optimizar la flota vehicular comercial, coordinando en tiempo y forma las labores de mantenimiento y reparación. Liderar, supervisar y motivar al equipo de trabajo.",
+  "requisitos": [
+    "Título universitario en Ingeniería Industrial, Mecánica, Eléctrica o carrera afín.",
+    "Experiencia comprobable en la gestión y optimización de flotas vehiculares comerciales.",
+    "Capacidad para coordinar en tiempo y forma el mantenimiento y reparación de la flota vehicular.",
+    "Capacidad para liderar, supervisar y motivar al equipo de trabajo."
+  ],
+  "beneficios": [
+    "Plaza fija con prestaciones de ley: IHSS, aguinaldo y catorceavo.",
+    "Salario competitivo.",
+    "Estabilidad laboral con desarrollo constante.",
+    "Beneficios internos."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431920750",
+  "telefono": "",
+  "correo": "coordrrhh.zc@heladosarita.com",
+  "whatsapps": [
+    "50431920750"
+  ],
+  "telefonos": [],
+  "correos": [
+    "coordrrhh.zc@heladosarita.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261007-153708-5",
+  "titulo": "Vendedor Junior",
+  "empresa": "Industrias Chamer",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Visitar y desarrollar clientes en la zona asignada, ejecutar la estrategia comercial de las marcas, dar seguimiento a pedidos, exhibición y cobertura e identificar oportunidades de crecimiento en el punto de venta.",
+  "requisitos": [
+    "Estudios universitarios en Administración, Mercadeo o carreras afines.",
+    "Experiencia en ventas deseable, no indispensable.",
+    "Habilidades de comunicación y negociación.",
+    "Orientación a resultados.",
+    "Disponibilidad para visitas en campo.",
+    "Licencia de conducir vigente, deseable."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "bolsaempleo@grupochamer.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "bolsaempleo@grupochamer.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261007-153708-6",
+  "titulo": "Vendedor Junior",
+  "empresa": "Industrias Chamer",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Visitar y desarrollar clientes en la zona asignada, ejecutar la estrategia comercial de las marcas, dar seguimiento a pedidos, exhibición y cobertura e identificar oportunidades de crecimiento en el punto de venta.",
+  "requisitos": [
+    "Estudios universitarios en Administración, Mercadeo o carreras afines.",
+    "Experiencia en ventas deseable, no indispensable.",
+    "Habilidades de comunicación y negociación.",
+    "Orientación a resultados.",
+    "Disponibilidad para visitas en campo.",
+    "Licencia de conducir vigente, deseable."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "bolsaempleo@grupochamer.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "bolsaempleo@grupochamer.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261007-153708-7",
+  "titulo": "Vendedor Junior",
+  "empresa": "Industrias Chamer",
+  "ciudad": "Danlí",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Visitar y desarrollar clientes en la zona asignada, ejecutar la estrategia comercial de las marcas, dar seguimiento a pedidos, exhibición y cobertura e identificar oportunidades de crecimiento en el punto de venta.",
+  "requisitos": [
+    "Secundaria completa o estudios universitarios en Administración, Mercadeo o carreras afines.",
+    "Saber conducir motocicleta, indispensable.",
+    "Licencia de conducir vigente, deseable.",
+    "Experiencia en ventas, deseable.",
+    "Residir en Danlí o zonas cercanas.",
+    "Habilidades de comunicación y negociación.",
+    "Orientación a resultados."
+  ],
+  "beneficios": [
+    "Salario base más comisiones.",
+    "Oportunidad de crecimiento.",
+    "Capacitación continua.",
+    "Beneficios de ley."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "bolsaempleo@grupochamer.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "bolsaempleo@grupochamer.com"
+  ],
+  "url_aplicar": ""
 }
   ]
 }
