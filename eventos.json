@@ -271,6 +271,42 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
-    }
+    },
+    {
+  "titulo": "Feria de Empleo Franquicias ALSICORP",
+  "organizador": "Franquicias ALSICORP",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-14",
+  "fecha_fin": "2026-10-14",
+  "hora": "8:00 a. m. a 5:00 p. m.",
+  "lugar": "Hotel Florencia, bulevar Suyapa",
+  "descripcion": "Feria de empleo para las marcas Zara, Stradivarius, Bershka, Pull&Bear, Oysho, Zara Home y Massimo Dutti, con vacantes para dependiente de tienda y auxiliar de almacén.",
+  "informacion_participacion": "Lleva tu currículum impreso. También puedes postularte en línea escaneando el código QR del anuncio.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+},
+{
+  "titulo": "Feria de Empleo Franquicias ALSICORP",
+  "organizador": "Franquicias ALSICORP",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-20",
+  "fecha_fin": "2026-10-20",
+  "hora": "10:00 a. m. a 11:30 a. m.",
+  "lugar": "City Mall, segundo nivel, área de comidas",
+  "descripcion": "Feria de empleo para las marcas Zara, Stradivarius, Bershka, Pull&Bear, Oysho, Zara Home y Massimo Dutti, con vacantes para dependiente de tienda y auxiliar de almacén.",
+  "informacion_participacion": "Lleva tu currículum impreso. También puedes postularte en línea escaneando el código QR del anuncio.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4rIKW8rk9-sgdQGXwsKlvhAVG8FMfMNrB0uRbftF55iJYGiqakT5rNi5rUzOJ7Te8iQU0tT7eqFIrxIILOwcUSHuEODsY3qzp8us-oQq_zXLmwKJNiuzxys8jIQwE_-7Qh5wIi7yUIMYiN5OzcH1RmAzPglu6xiUvfcchT4tpSTiEDolF6yaK-Nvrxw/w452-h640/1791330128834.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+}
   ]
 }
