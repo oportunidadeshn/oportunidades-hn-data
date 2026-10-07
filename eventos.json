@@ -253,6 +253,24 @@
   "whatsapp": "50493322497",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "2.ª Jornada de Empleabilidad – Talent Connect",
+  "organizador": "",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-16",
+  "fecha_fin": "2026-10-16",
+  "hora": "9:00 a. m. a 4:00 p. m.",
+  "lugar": "Campus Sagrado Corazón de Jesús, Tegucigalpa",
+  "descripcion": "Jornada de empleabilidad con participación de Basilio’s, que ofrece vacantes para asesor de ventas en Tegucigalpa, operario de producción y auxiliar de logística.",
+  "informacion_participacion": "Asiste al Campus Sagrado Corazón de Jesús durante el horario anunciado para conocer las oportunidades laborales.",
+  "imagen": "https://media.licdn.com/dms/image/v2/D4E22AQEO2rvqird-ZQ/feedshare-shrink_800/B4EaETb_doH4Ac-/0/1791327467622?e=1793232000&v=beta&t=ghrWSMc_QJwtSgICYGhxDOtd9Lt9DyU4nEzKtotnv2Q",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
