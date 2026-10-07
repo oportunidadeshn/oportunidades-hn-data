@@ -3367,6 +3367,46 @@
     "reclutamiento_sps@siman.com"
   ],
   "url_aplicar": ""
-}
+},
+    {
+  "id": "ohn-20261006-000000-21",
+  "titulo": "Ejecutivo de Ventas",
+  "empresa": "Empresa confidencial",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Cliente internacional busca un Ejecutivo de Ventas para Honduras, con residencia en San Pedro Sula, y experiencia en venta de productos tecnológicos y en el sector corporativo.",
+  "requisitos": [
+    "Técnico o Licenciatura en Mercadeo, Administración de Empresas o carreras afines.",
+    "Experiencia en venta de productos tecnológicos y corporativo.",
+    "Conocimiento en elaboración de informes y/o reportes de ventas.",
+    "Manejo del sistema ONCAE.",
+    "Manejo del paquete Office.",
+    "Documentos actualizados y en regla.",
+    "Residir en San Pedro Sula.",
+    "Licencia de conducir de motocicleta o automóvil (indispensable).",
+    "Disponibilidad inmediata.",
+    "Cumplimiento de meta de ventas, servicio al cliente, orientación a resultados, trabajo en equipo, alto grado de responsabilidad e integridad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV, soportes de estudio y constancias laborales mediante el botón de correo, indicando en el asunto el nombre del puesto: Ejecutivo de Ventas.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamientoyseleccion@ctaauditores.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamientoyseleccion@ctaauditores.com"
+  ],
+  "url_aplicar": ""
+    }
   ]
 }
