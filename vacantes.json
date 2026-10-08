@@ -4914,6 +4914,41 @@
   "telefonos": [],
   "correos": [],
   "url_aplicar": ""
-}
+}, 
+    {
+  "id": "ohn-20261007-000000-23",
+  "titulo": "Auxiliar de Tienda",
+  "empresa": "Imagen Beauty Supply",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Imagen Beauty Supply busca un Auxiliar de Tienda para Tegucigalpa, con conocimiento en productos de cuidado capilar y belleza y buena atención al cliente.",
+  "requisitos": [
+    "Disponibilidad para trabajar en horarios de mall, incluyendo fines de semana.",
+    "Conocimiento básico de Excel.",
+    "Conocimiento en productos de cuidado capilar y belleza.",
+    "Buena atención al cliente y facilidad para trabajar en equipo.",
+    "Responsabilidad, compromiso y proactividad laboral."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-15",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "93724401",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "93724401"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+    }
   ]
 }
