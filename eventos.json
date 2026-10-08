@@ -325,6 +325,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Actualización: Procedimiento de Inspección de la SETRASS",
+  "organizador": "Cámara de Comercio e Industrias del Sur (CCISur) y Secretaría de Trabajo y Seguridad Social (SETRASS)",
+  "categoria": "Educación y Formación",
+  "ciudad": "",
+  "modalidad": "Virtual",
+  "fecha_inicio": "2026-10-14",
+  "fecha_fin": "2026-10-14",
+  "hora": "2:00 p. m. a 4:00 p. m.",
+  "lugar": "Vía Zoom",
+  "descripcion": "Jornada de asesoría impartida por la SETRASS sobre el procedimiento de inspección laboral, sus principales etapas y los aspectos que las empresas deben considerar para atender adecuadamente estos procesos.",
+  "informacion_participacion": "Inscríbete mediante el enlace de Más información. Para consultas, escribe a asistenciasocios@ccisur.org o comunícate por WhatsApp.",
+  "imagen": "",
+  "enlace": "https://forms.gle/5whYEKrE8rq2wh1k8",
+  "whatsapp": "50433123862",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
