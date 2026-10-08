@@ -5417,6 +5417,272 @@
     "coordinacion@pbi-honduras.org"
   ],
   "url_aplicar": "https://pbi-honduras.org/es/involucrate/trabaja-en-pbi"
-    }
+    },
+    {
+  "id": "ohn-20261008-163534-1",
+  "titulo": "Vendedor Express",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Tocoa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Vendedor Express para el rubro de repuestos automotrices en Tocoa, Colón. Se requiere experiencia en ventas de campo, conocimiento de rutas de la zona y motocicleta con licencia vigente.",
+  "requisitos": [
+    "Técnico en Mecánica Automotriz o bachillerato completo.",
+    "Experiencia en ventas de campo.",
+    "Conocimiento de rutas en Tocoa, Colón.",
+    "Poseer motocicleta y licencia vigente.",
+    "Residir en Tocoa."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nTambién puedes comunicarte mediante los botones de WhatsApp.",
+  "fecha_publicacion": "2026-10-08",
+  "fecha_vencimiento": "2026-10-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50498807978",
+  "telefono": "",
+  "correo": "rhventas.honduras@hotmail.com",
+  "whatsapps": [
+    "50498807978",
+    "50494360754"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rhventas.honduras@hotmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261008-163534-2",
+  "titulo": "Analista de Recursos Humanos",
+  "empresa": "EDT Honduras",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Recursos Humanos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Posición temporal de Analista de Recursos Humanos en Tegucigalpa, orientada al reclutamiento masivo, selección, contratación y onboarding de personal en empresas de consumo masivo de bebidas o alimentos. Se busca capacidad para desarrollar estrategias de atracción y captación de talento a nivel nacional.",
+  "requisitos": [
+    "Graduada universitaria en Psicología o carreras de Recursos Humanos.",
+    "Experiencia comprobada en reclutamiento masivo, selección, contratación y onboarding en empresas de consumo masivo de bebidas o alimentos.",
+    "Alta creatividad y amplia red de contactos a nivel nacional para desarrollar estrategias de atracción y captación de talento.",
+    "Excelente manejo de ofimática, SAP, redes sociales, inteligencia artificial y plataformas de reclutamiento masivo.",
+    "Organización y buen manejo y cuidado de documentos.",
+    "Actitud positiva, responsabilidad e iniciativa propia.",
+    "Disponibilidad de horarios.",
+    "Poseer vehículo en perfectas condiciones y licencia vigente."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-08",
+  "fecha_vencimiento": "2026-10-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431878125",
+  "telefono": "",
+  "correo": "kathyferrera@icasa.com.gt",
+  "whatsapps": [
+    "50431878125"
+  ],
+  "telefonos": [],
+  "correos": [
+    "kathyferrera@icasa.com.gt"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261008-163534-3",
+  "titulo": "Supervisor de Finanzas – Comercial",
+  "empresa": "EDT Honduras",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisor de Finanzas – Comercial en Tegucigalpa, con experiencia en empresas de consumo masivo de alimentos o bebidas y capacidad para analizar datos comerciales. El perfil requiere conocimientos avanzados de Power BI, Microsoft Office, SAP y proyecciones financieras.",
+  "requisitos": [
+    "Licenciatura en Contaduría y Finanzas; maestría en Finanzas no indispensable.",
+    "Buenas relaciones interpersonales y facilidad de palabra.",
+    "Habilidad de análisis de datos comerciales.",
+    "Experiencia en empresas de consumo masivo de alimentos o bebidas.",
+    "Conocimiento avanzado de Power BI, Microsoft Office y SAP.",
+    "Conocimiento de forecast financieros: RGM, G2N, P&L y AUC.",
+    "Vehículo propio y licencia liviana vigente, no indispensables."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Prestaciones de acuerdo con la ley hondureña.",
+    "Seguro médico y de vida.",
+    "Planes de bienestar.",
+    "Oportunidades de desarrollo y crecimiento profesional.",
+    "Estabilidad laboral."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-08",
+  "fecha_vencimiento": "2026-10-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431878125",
+  "telefono": "",
+  "correo": "kathyferrera@icasa.com.gt",
+  "whatsapps": [
+    "50431878125"
+  ],
+  "telefonos": [],
+  "correos": [
+    "kathyferrera@icasa.com.gt"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261008-163534-4",
+  "titulo": "Supervisor de Ventas Detalle Alimentos",
+  "empresa": "EDT Honduras",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisor de Ventas Detalle Alimentos en San Pedro Sula, con experiencia en empresas de consumo de bebidas o alimentos. Se busca una persona acostumbrada al trabajo de campo y al cumplimiento de metas, con capacidad para liderar equipos de vendedores preventistas de detalle.",
+  "requisitos": [
+    "Licenciatura en Mercadotecnia, Negocios, Administración de Empresas o carrera afín.",
+    "Experiencia mínima de 3 años en puestos similares en empresas de consumo de bebidas o alimentos.",
+    "Disponibilidad para trabajar en campo y con base en metas.",
+    "Manejo de Microsoft Office, tecnología HandHeld y celulares Android.",
+    "Habilidad para liderar equipos de vendedores preventistas de detalle.",
+    "Actitud positiva, responsabilidad e iniciativa propia.",
+    "Disponibilidad para viajar y trabajar en horarios flexibles.",
+    "Poseer vehículo y licencia liviana vigente."
+  ],
+  "beneficios": [
+    "Salario base y variable por cumplimiento de objetivo mensual.",
+    "Prestaciones de acuerdo con la ley hondureña.",
+    "Seguro médico y de vida.",
+    "Planes de bienestar.",
+    "Oportunidades de desarrollo y crecimiento profesional.",
+    "Estabilidad laboral."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-08",
+  "fecha_vencimiento": "2026-10-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431878125",
+  "telefono": "",
+  "correo": "kathyferrera@icasa.com.gt",
+  "whatsapps": [
+    "50431878125"
+  ],
+  "telefonos": [],
+  "correos": [
+    "kathyferrera@icasa.com.gt"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261008-163534-5",
+  "titulo": "Coordinador de TMK",
+  "empresa": "EDT Honduras",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Coordinador de TMK para el área de Trade Marketing en Tegucigalpa. Se requiere experiencia en empresas de distribución de productos de consumo masivo de bebidas o alimentos, liderazgo de equipos y capacidad para planificar, coordinar y gestionar iniciativas y actividades promocionales.",
+  "requisitos": [
+    "Formación mínima de licenciatura en Mercadotecnia, Negocios o carreras afines.",
+    "Experiencia en Trade Marketing en empresas de distribución de productos de consumo masivo de bebidas o alimentos.",
+    "Disponibilidad para trabajar en campo y oficina con base en metas.",
+    "Excelente manejo de Microsoft Office y SAP.",
+    "Habilidad para liderar equipos.",
+    "Poseer vehículo en perfectas condiciones y licencia vigente.",
+    "Habilidad para planificar, coordinar y gestionar iniciativas y actividades promocionales.",
+    "Disponibilidad para viajar y trabajar en horarios flexibles.",
+    "Actitud positiva, responsabilidad e iniciativa propia."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Seguro de vida y seguro médico privado.",
+    "Plan de carrera.",
+    "Estabilidad laboral.",
+    "Beneficios de ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-08",
+  "fecha_vencimiento": "2026-10-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431878125",
+  "telefono": "",
+  "correo": "kathyferrera@icasa.com.gt",
+  "whatsapps": [
+    "50431878125"
+  ],
+  "telefonos": [],
+  "correos": [
+    "kathyferrera@icasa.com.gt"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261008-163534-6",
+  "titulo": "Jefe de Seguridad y Salud Ocupacional",
+  "empresa": "EDT Honduras",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Seguridad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Jefe de Seguridad y Salud Ocupacional con residencia en Tegucigalpa y experiencia en empresas de consumo masivo, centros de distribución, bodegas o ambientes operativos. El perfil requiere gestión de certificaciones y permisos, evaluación de riesgos, planes de emergencia, simulacros, capacitación y seguimiento de las Comisiones Mixtas de Higiene y Seguridad Ocupacional.",
+  "requisitos": [
+    "Formación universitaria en Ingeniería Industrial, Seguridad Industrial, Salud Ocupacional, Ingeniería Ambiental o carreras afines.",
+    "Experiencia comprobada en empresas de consumo masivo, centros de distribución, bodegas o ambientes operativos.",
+    "Conocimientos y experiencia en gestión de certificaciones y permisos de seguridad contra incendios y evacuación de locales.",
+    "Conocimientos en identificación y evaluación de riesgos, elaboración de planes de emergencia, simulacros y capacitación al personal.",
+    "Conocimientos de uso de equipos de protección personal (EPP).",
+    "Experiencia en organización, implementación y seguimiento de Comisiones Mixtas de Higiene y Seguridad Ocupacional y cumplimiento de requerimientos legales y estándares internos.",
+    "Actitud positiva, responsabilidad e iniciativa propia.",
+    "Disponibilidad para viajar y flexibilidad de horarios.",
+    "Poseer vehículo propio y licencia liviana vigente.",
+    "Residir en Tegucigalpa."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Seguro de vida.",
+    "Seguro médico privado.",
+    "Estabilidad laboral.",
+    "Beneficios de ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-08",
+  "fecha_vencimiento": "2026-10-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431878125",
+  "telefono": "",
+  "correo": "kathyferrera@icasa.com.gt",
+  "whatsapps": [
+    "50431878125"
+  ],
+  "telefonos": [],
+  "correos": [
+    "kathyferrera@icasa.com.gt"
+  ],
+  "url_aplicar": ""
+}
   ]
 }
