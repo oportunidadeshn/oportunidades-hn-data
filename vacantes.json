@@ -5324,6 +5324,44 @@
   "telefonos": [],
   "correos": ["fundacionabrigo1@gmail.com"],
   "url_aplicar": ""
-}
+}, 
+    {
+  "id": "ohn-20261008-095858-1",
+  "titulo": "Administrador de Proyecto",
+  "empresa": "Comayagua Energía",
+  "ciudad": "Comayagua",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Administrador de Proyecto para el Proyecto Solar Comayagua, con contratación temporal e incorporación inmediata. Se busca una persona con liderazgo y experiencia en gestión administrativa, operativa y logística, capaz de gestionar equipos, dar seguimiento a compromisos y resolver problemas.",
+  "requisitos": [
+    "Liderazgo y capacidad para gestionar personas y equipos de trabajo.",
+    "Organización, seguimiento y control de compromisos.",
+    "Manejo de conflictos y toma de decisiones.",
+    "Experiencia en gestión administrativa, operativa y logística.",
+    "Enfoque en resultados y solución de problemas.",
+    "Disponibilidad para incorporación inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-08",
+  "fecha_vencimiento": "2026-10-15",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50499205033",
+  "telefono": "",
+  "correo": "empleosolar.comayagua@gmail.com",
+  "whatsapps": [
+    "50499205033"
+  ],
+  "telefonos": [],
+  "correos": [
+    "empleosolar.comayagua@gmail.com"
+  ],
+  "url_aplicar": ""
+    }
   ]
 }
