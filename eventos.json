@@ -433,6 +433,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "I Congreso Nacional de Vinculación Universidad–Sociedad",
+  "organizador": "UNAH, UPNFM, UNAG y UNACIFOR",
+  "categoria": "Educación y Formación",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-14",
+  "fecha_fin": "2026-10-16",
+  "hora": "Horario según la agenda de cada día; consultar el programa oficial.",
+  "lugar": "UNAH: Auditorio Jesús Aguilar Paz y Edificio 1847. UPNFM: Edificio de Postgrados.",
+  "descripcion": "Encuentro bajo el lema «El impacto de la educación superior pública en la transformación de la sociedad». Reunirá experiencias y proyectos de vinculación de las cuatro universidades públicas de Honduras mediante conferencias, paneles, mesas de trabajo y exhibiciones. Incluye iniciativas de arte, cultura y comunicación pública, desarrollo local, seguimiento a graduados, prácticas profesionales, voluntariado, educación no formal y vínculos académicos.",
+  "informacion_participacion": "Completa el formulario oficial de inscripción disponible en el enlace. Consulta la agenda para conocer los horarios, las sedes y las actividades de cada día.",
+  "imagen": "",
+  "enlace": "https://dvus.unah.edu.hn/informacion-congreso/#formulario-congreso",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
