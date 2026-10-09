@@ -5931,6 +5931,80 @@
     "monkeysmagicbox@gmail.com"
   ],
   "url_aplicar": ""
-    }
+    },
+    {
+  "id": "ohn-20261007-000000-30",
+  "titulo": "Barbero",
+  "empresa": "García's Beauty & Barber Salon",
+  "ciudad": "Santa Ana",
+  "categoria": "Servicios Generales y Oficios",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "García's Beauty & Barber Salon busca barberos con experiencia, talento y pasión por la barbería para su equipo en Santa Ana, F.M. Ubicación: sector Las Crucitas, pasando el desvío de la Escuela Juan Lindo.",
+  "requisitos": [
+    "Mayor de 21 años.",
+    "Experiencia demostrable.",
+    "Dominio de cortes clásicos y modernos.",
+    "Excelente atención al cliente.",
+    "Presencia profesional.",
+    "Pasión por la barbería.",
+    "Disponibilidad de horario."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "33342718",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "33342718",
+    "31863433"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261007-000000-31",
+  "titulo": "Estilista Profesional",
+  "empresa": "García's Beauty & Barber Salon",
+  "ciudad": "Santa Ana",
+  "categoria": "Servicios Generales y Oficios",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "García's Beauty & Barber Salon busca una estilista profesional con experiencia, talento y pasión por la belleza y el estilo para su equipo en Santa Ana, F.M. Ubicación: sector Las Crucitas, pasando el desvío de la Escuela Juan Lindo.",
+  "requisitos": [
+    "Experiencia previa.",
+    "Responsabilidad.",
+    "Actitud positiva.",
+    "Disponibilidad de horario.",
+    "Excelente atención al cliente."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-07",
+  "fecha_vencimiento": "2026-10-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "33342718",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "33342718",
+    "31863433"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+}
   ]
 }
