@@ -451,6 +451,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Concurso de Karaoke en Japonés 2026 — Festival de la Cultura Japonesa",
+  "organizador": "Embajada del Japón en Honduras, JICA y AHBEJA",
+  "categoria": "Cultura y Arte",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-08",
+  "fecha_fin": "2026-11-08",
+  "hora": "",
+  "lugar": "Hotel Real InterContinental Tegucigalpa",
+  "descripcion": "Concurso de karaoke en japonés durante el Festival de la Cultura Japonesa 2026, en celebración del Bunka no Hi. Una oportunidad para interpretar canciones de música japonesa, anime y J-Pop. La entrada y la inscripción son gratuitas.",
+  "informacion_participacion": "Edad mínima: 15 años cumplidos. Cupos limitados. El formulario oficial de inscripción y las bases completas del concurso se publicarán próximamente. Consulta las redes sociales de AHBEJA y la Embajada del Japón en Honduras para conocer la apertura del registro.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo4VxFWwsxDkXYXAelV-pidjjgJ-0IuZAmapwjCqk44jnEq4KLuloMTHZjKvauVM-uiLcyUEoCffTbiZ5CZ__xJ8IHqpmoVVD0nlR64TuKbeLoXD3gmAvnsnyEaNC9hSZIEOUakLyIjhhOJ3nYBcb4NzG4QRCoCszV-Nb2-dvaBceUiw9J6yUjsdgpW8E/s586/1001520724.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
