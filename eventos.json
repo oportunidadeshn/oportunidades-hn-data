@@ -397,6 +397,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Feria Naciones Unidas — 81.º aniversario",
+  "organizador": "Naciones Unidas Honduras y Centro Cultural de España en Tegucigalpa (CCET)",
+  "categoria": "Comunidad y Desarrollo Social",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-17",
+  "fecha_fin": "2026-10-17",
+  "hora": "12:00 m. a 8:00 p. m.",
+  "lugar": "Redondel de los Artesanos / Centro Cultural de España en Tegucigalpa (CCET)",
+  "descripcion": "Jornada de cultura, diálogo y actividades para toda la familia en conmemoración del Día de las Naciones Unidas y el 81.º aniversario de la organización.",
+  "informacion_participacion": "Asiste en familia. Los detalles de las actividades se anunciarán próximamente.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
