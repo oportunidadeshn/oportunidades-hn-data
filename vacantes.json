@@ -6005,6 +6005,89 @@
   "telefonos": [],
   "correos": [],
   "url_aplicar": ""
+},
+    {
+  "id": "ohn-20261007-000000-32",
+  "titulo": "Soporte Técnico",
+  "empresa": "Tropigas de Honduras",
+  "ciudad": "Villanueva",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Tropigas de Honduras busca un profesional apasionado por la tecnología, orientado a la solución de problemas y con vocación de servicio, para brindar soporte técnico eficiente a sus colaboradores en Villanueva.",
+  "requisitos": [
+    "Grado universitario preferiblemente.",
+    "Experiencia en posiciones similares.",
+    "Conocimientos en instalación y configuración.",
+    "Instalar, configurar y actualizar sistemas operativos Windows, macOS o Linux.",
+    "Configurar impresoras, escáneres, periféricos, teléfonos IP y equipos móviles.",
+    "Implementar aplicaciones corporativas, antivirus y políticas de seguridad.",
+    "Conocimientos en redes y conectividad.",
+    "Solucionar problemas de conectividad WiFi, LAN, VPN y acceso remoto.",
+    "Verificar funcionamiento de switches, routers o puntos de acceso (básico/intermedio)."
+  ],
+  "beneficios": [
+    "Trabajo con tecnología de vanguardia.",
+    "Desarrollo del talento en un ambiente seguro.",
+    "Crecimiento profesional."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nPara más información, comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-09",
+  "fecha_vencimiento": "2026-10-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "32597889",
+  "telefono": "",
+  "correo": "reclutamiento@tomzatropigashn.com",
+  "whatsapps": [
+    "32597889"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@tomzatropigashn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261007-000000-33",
+  "titulo": "Administrador",
+  "empresa": "Tropigas de Honduras",
+  "ciudad": "Roatán",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Tropigas de Honduras, empresa líder en el sector energético, comprometida con la seguridad, la calidad y el trabajo en equipo, busca un Administrador para su plaza en Roatán.",
+  "requisitos": [
+    "Secundaria completa o pasante universitario de Ingeniería Industrial o Administración de Empresas.",
+    "Dinámico, orientado al servicio al cliente, con amabilidad, honestidad y responsabilidad.",
+    "Experiencia mínima de tres años en adelante en puesto similar.",
+    "Ambos sexos.",
+    "Conocimientos contables.",
+    "Manejo de Microsoft Office (Excel, Word)."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nPara más información, comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-09",
+  "fecha_vencimiento": "2026-10-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "32597889",
+  "telefono": "",
+  "correo": "reclutamiento@tomzatropigashn.com",
+  "whatsapps": [
+    "32597889"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@tomzatropigashn.com"
+  ],
+  "url_aplicar": ""
 }
   ]
 }
