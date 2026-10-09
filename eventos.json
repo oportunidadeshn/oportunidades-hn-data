@@ -415,6 +415,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Charla virtual gratuita: Ventas de alto impacto",
+  "organizador": "ANDI y CERTEC",
+  "categoria": "Educación y Formación",
+  "ciudad": "",
+  "modalidad": "Virtual",
+  "fecha_inicio": "2026-10-15",
+  "fecha_fin": "2026-10-15",
+  "hora": "1:00 p. m. (hora de Honduras)",
+  "lugar": "Zoom",
+  "descripcion": "Charla gratuita facilitada por Leonardo Hércules. Su objetivo es desarrollar estrategias comerciales adaptadas a la situación actual para potenciar una gestión personalizada que impulse ventas de alto impacto.",
+  "informacion_participacion": "Completa el formulario de inscripción para participar en la charla virtual gratuita.",
+  "imagen": "",
+  "enlace": "https://forms.gle/bEwUTyRyDXvVEEfw5",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
