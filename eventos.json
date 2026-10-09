@@ -379,6 +379,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Festival de la Cultura Japonesa 2026",
+  "organizador": "Embajada del Japón en Honduras, JICA y AHBEJA",
+  "categoria": "Cultura y Arte",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-08",
+  "fecha_fin": "2026-11-08",
+  "hora": "",
+  "lugar": "Hotel Real InterContinental Tegucigalpa",
+  "descripcion": "Celebración de la cultura japonesa que reunirá tradición, artes marciales, gastronomía y sorpresas en Tegucigalpa. La agenda completa, los talleres y los concursos se anunciarán próximamente.",
+  "informacion_participacion": "Consulta las próximas publicaciones de los organizadores para conocer la agenda y los detalles de participación en talleres y concursos.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpMZ-fC-xU31ScARs_c9Oai4tmrYY7-CqqyZJI-drHUSKWPY-iu4uK6HRGeJMTZChRzev3IPWtUrOiKHISH4pL8MOUzzBZ_s_kHU3k_HEkgm_cvG87VMf2zrKTCUopdb15KnbzesDiLHx865tpSEA2BjwmorYn4UZ8Najl6SzYx9XLg2jJpBGz3oAx8cU/w512-h640/1001519984.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
