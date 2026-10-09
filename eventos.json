@@ -343,6 +343,24 @@
   "whatsapp": "50433123862",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Ventanas a la Juventud — Exposición interdisciplinaria",
+  "organizador": "EspacioH, a través de su Comité de Cultura, Arte y Literatura",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-12",
+  "fecha_fin": "2026-11-12",
+  "hora": "No especificado",
+  "lugar": "Alianza Francesa de Tegucigalpa",
+  "descripcion": "Exposición interdisciplinaria que reúne las formas en que las nuevas generaciones crean, sienten y ven Honduras. Incluye pintura, diseño gráfico, ilustración, fotografía, diseño de modas, poesía, danza, performance y música. La convocatoria nacional estará abierta del 5 al 26 de octubre de 2026 y la exposición se realizará el 12 de noviembre de 2026.",
+  "informacion_participacion": "Dirigida a jóvenes de nacionalidad hondureña de 15 a 29 años al cierre de la convocatoria. Cada participante debe postularse en una sola disciplina y contar con una obra realizada o una propuesta concreta. Completa el formulario oficial antes del cierre de la convocatoria, el 26 de octubre de 2026. Los menores de 18 años requieren autorización de su madre, padre o representante legal. Los artistas que residan fuera de Tegucigalpa deberán asumir su transporte y el traslado de la obra. Pintura, diseño e ilustración: obra física de máximo 50 × 60 cm. Fotografía: obra impresa de máximo 50 × 60 cm. Diseño de modas: pieza lista para exhibición y maniquí propio. Poesía: obra física de máximo 50 × 60 cm o performance en vivo. Danza, performance y música: presentación en vivo.",
+  "imagen": "",
+  "enlace": "https://docs.google.com/forms/d/e/1FAIpQLSeBaZIECisfoHyeb5jK4XflnWcYj6Z6VTgKTk5r1kJ058b2CQ/viewform",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
