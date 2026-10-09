@@ -5403,7 +5403,7 @@
     "22 días de vacaciones más los días feriados nacionales y locales."
   ],
   "como_aplicar": "Envía una carta de motivación junto con tu CV (máximo 2 páginas) mediante el botón de correo.\nMás información en el botón de aplicar.",
-  "fecha_publicacion": "2026-10-07",
+  "fecha_publicacion": "2026-10-08",
   "fecha_vencimiento": "2026-10-21",
   "destacada": false,
   "destacada_hasta": "",
@@ -5783,7 +5783,7 @@
   ],
   "beneficios": [],
   "como_aplicar": "Send your CV using the email button.",
-  "fecha_publicacion": "2026-10-07",
+  "fecha_publicacion": "2026-10-09",
   "fecha_vencimiento": "2026-10-17",
   "destacada": false,
   "destacada_hasta": "",
@@ -5821,7 +5821,7 @@
   ],
   "beneficios": [],
   "como_aplicar": "Envía tu CV mediante el botón de correo.",
-  "fecha_publicacion": "2026-10-07",
+  "fecha_publicacion": "2026-10-09",
   "fecha_vencimiento": "2026-10-17",
   "destacada": false,
   "destacada_hasta": "",
@@ -5856,7 +5856,7 @@
   ],
   "beneficios": [],
   "como_aplicar": "Envía tu CV mediante el botón de correo.",
-  "fecha_publicacion": "2026-10-07",
+  "fecha_publicacion": "2026-10-09",
   "fecha_vencimiento": "2026-10-17",
   "destacada": false,
   "destacada_hasta": "",
@@ -5870,6 +5870,33 @@
     "recursos.humanos@construsmarthn.com"
   ],
   "url_aplicar": ""
-}
+},
+    {
+  "id": "ohn-20261008-231447-1",
+  "titulo": "Gestor de Comunidad y Coordinador de Producción Digital",
+  "empresa": "Embajada de los Estados Unidos en Honduras",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Embajada de los Estados Unidos en Honduras recibe solicitudes para el puesto de Gestor de Comunidad y Coordinador de Producción Digital. Consulta los requisitos específicos y la documentación necesaria en su portal oficial de empleos. Solo se aceptan solicitudes en línea.",
+  "requisitos": [],
+  "beneficios": [],
+  "como_aplicar": "Aplica mediante el botón de enlace y selecciona la vacante en el portal oficial. Completa la solicitud con tu experiencia relevante detallada, formación académica e idiomas, incluyendo tu primera lengua hablada. Adjunta todos los documentos requeridos. Si el puesto requiere inglés, presenta la solicitud en ese idioma. No se considerarán solicitudes incompletas. La Embajada no solicita dinero para aplicar.",
+  "fecha_publicacion": "2026-10-09",
+  "fecha_vencimiento": "2026-10-20",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": "https://hn.usembassy.gov/jobs/"
+    }
   ]
 }
