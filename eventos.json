@@ -347,7 +347,7 @@
     {
   "titulo": "Ventanas a la Juventud — Exposición interdisciplinaria",
   "organizador": "EspacioH, a través de su Comité de Cultura, Arte y Literatura",
-  "categoria": "Marketing, Comunicación y Diseño",
+  "categoria": "Cultura y arte",
   "ciudad": "Tegucigalpa",
   "modalidad": "Presencial",
   "fecha_inicio": "2026-11-12",
@@ -358,6 +358,24 @@
   "informacion_participacion": "Dirigida a jóvenes de nacionalidad hondureña de 15 a 29 años al cierre de la convocatoria. Cada participante debe postularse en una sola disciplina y contar con una obra realizada o una propuesta concreta. Completa el formulario oficial antes del cierre de la convocatoria, el 26 de octubre de 2026. Los menores de 18 años requieren autorización de su madre, padre o representante legal. Los artistas que residan fuera de Tegucigalpa deberán asumir su transporte y el traslado de la obra. Pintura, diseño e ilustración: obra física de máximo 50 × 60 cm. Fotografía: obra impresa de máximo 50 × 60 cm. Diseño de modas: pieza lista para exhibición y maniquí propio. Poesía: obra física de máximo 50 × 60 cm o performance en vivo. Danza, performance y música: presentación en vivo.",
   "imagen": "",
   "enlace": "https://docs.google.com/forms/d/e/1FAIpQLSeBaZIECisfoHyeb5jK4XflnWcYj6Z6VTgKTk5r1kJ058b2CQ/viewform",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+    },
+    {
+  "titulo": "Feria de Empleo ibex — Plazas en español",
+  "organizador": "ibex",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-13",
+  "fecha_fin": "2026-10-13",
+  "hora": "9:00 a. m. a 3:00 p. m.",
+  "lugar": "Centro Corporativo Novacentro, primer piso, bulevar Los Próceres",
+  "descripcion": "ibex realizará una feria de empleo en Tegucigalpa para plazas en español. Se requiere al menos 6 meses de experiencia en servicio al cliente, diploma de secundaria, ser mayor de 18 años, flexibilidad de horario y vivir en el casco urbano de Tegucigalpa.",
+  "informacion_participacion": "Preséntate con antecedentes penales y policiales, documento de identidad en original y copia, diploma de secundaria, RTN, croquis y una carta de referencia personal.",
+  "imagen": "",
+  "enlace": "",
   "whatsapp": "",
   "destacado": false,
   "activo": true
