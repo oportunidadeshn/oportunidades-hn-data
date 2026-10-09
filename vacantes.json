@@ -5897,6 +5897,40 @@
   "telefonos": [],
   "correos": [],
   "url_aplicar": "https://hn.usembassy.gov/jobs/"
+    },
+    {
+  "id": "ohn-20261007-000000-29",
+  "titulo": "Cocinero/a",
+  "empresa": "Monkey's Magic Box",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Monkey's Magic Box busca un/a Cocinero/a para su restaurante en Plaza Tracoma, Tegucigalpa.",
+  "requisitos": [
+    "Experiencia comprobable en cocina de restaurante.",
+    "Conocimiento de higiene y manipulación de alimentos.",
+    "Capacidad para seguir recetas y estándares de presentación.",
+    "Organización, limpieza y trabajo en equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-09",
+  "fecha_vencimiento": "2026-10-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "monkeysmagicbox@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "monkeysmagicbox@gmail.com"
+  ],
+  "url_aplicar": ""
     }
   ]
 }
