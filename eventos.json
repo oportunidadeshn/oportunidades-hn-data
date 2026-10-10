@@ -469,6 +469,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Jornada de Reclutamiento Megapaca — Tegucigalpa",
+  "organizador": "Megapaca",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-12",
+  "fecha_fin": "2026-10-14",
+  "hora": "12 y 13 de octubre: 9:00 a. m. a 5:00 p. m. | 14 de octubre: 9:00 a. m. a 1:00 p. m.",
+  "lugar": "Megapaca Alameda",
+  "descripcion": "Jornada de reclutamiento para Dependientes de Tienda durante la temporada alta de Megapaca en Tegucigalpa.",
+  "informacion_participacion": "Preséntate con tu papelería completa: antecedentes penales y policiales, copia de identidad, copia de título y currículum. También puedes enviar la documentación por correo, indicando la tienda de tu preferencia, o consultar por WhatsApp. Correo: solicitantesrh@megapaca.hn. WhatsApp adicional: +504 9268-8626.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQYk_AqfZmw6C5rD9DCqkRPub9P3rFxipphnOQaHeT5I0j_7WWOUcdPC_dcR8S4lKG6M0ZGXQoK0yPb1pdhT7sSrWDqnyy2DvqvQ6Qji_UsSf6yDGkXOxqD6pqeu_4oeoXRhuJD-aDYtPVwjqJc8Cp1klvhiOqt9Im0WDchFKNg8kwklrmdUXOL-RbQ3Q/s600/1001521153.jpg",
+  "enlace": "mailto:solicitantesrh@megapaca.hn",
+  "whatsapp": "50492639394",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
