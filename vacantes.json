@@ -6541,6 +6541,80 @@
     "reclutamiento@talentolatinoamerica.com"
   ],
   "url_aplicar": ""
+},
+    {
+  "id": "ohn-20261010-000000-02",
+  "titulo": "Gerente Comercial",
+  "empresa": "Empresa confidencial",
+  "ciudad": "A nivel nacional",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se busca un Gerente Comercial para liderar el crecimiento comercial y fortalecer la operación de última milla, con experiencia en ventas B2B y en logística, courier o e-commerce.",
+  "requisitos": [
+    "5 o más años en ventas B2B.",
+    "3 o más años liderando equipos comerciales.",
+    "Experiencia en logística, courier o e-commerce.",
+    "Negociación, rentabilidad y gestión de cuentas.",
+    "Manejo de CRM y pronósticos de ventas."
+  ],
+  "beneficios": [
+    "Salario mensual: US$3,000."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-10",
+  "fecha_vencimiento": "2026-10-20",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento@talentolatinoamerica.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@talentolatinoamerica.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261010-000000-03",
+  "titulo": "Strategic Account Manager",
+  "empresa": "Empresa confidencial",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Gestionar cuentas estratégicas en la industria de maquila e impulsar ventas y relaciones de largo plazo en San Pedro Sula.",
+  "requisitos": [
+    "Licenciatura universitaria.",
+    "3 a 5 años en ventas estratégicas o cuentas clave.",
+    "Experiencia y relaciones en la maquila de San Pedro Sula.",
+    "Negociación de transacciones comerciales complejas.",
+    "Comunicación, análisis y orientación a resultados."
+  ],
+  "beneficios": [
+    "Salario mensual: US$2,500."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-10",
+  "fecha_vencimiento": "2026-10-20",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento@talentolatinoamerica.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@talentolatinoamerica.com"
+  ],
+  "url_aplicar": ""
 }
   ]
 }
