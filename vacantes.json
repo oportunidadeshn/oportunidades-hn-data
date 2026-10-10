@@ -6615,6 +6615,39 @@
     "reclutamiento@talentolatinoamerica.com"
   ],
   "url_aplicar": ""
-}
+},
+    {
+  "id": "ohn-20261010-100008-1",
+  "titulo": "Contador",
+  "empresa": "ITL (International Transport Logistics)",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisar el ciclo contable y los cierres mensuales y anuales. Gestionar declaraciones tributarias y cumplimiento fiscal. Realizar control interno, conciliaciones bancarias y atención de auditorías. Supervisar costos, inventarios y activos fijos, y elaborar reportes financieros y corporativos.",
+  "requisitos": [
+    "Licenciatura en Contaduría Pública o Administración de Empresas.",
+    "De 5 a 10 años de experiencia en contabilidad o auditoría.",
+    "Conocimientos de NIIF, NIIF para PYMES y legislación tributaria salvadoreña.",
+    "Manejo de sistemas ERP y plataformas de Hacienda.",
+    "Liderazgo, pensamiento analítico, precisión numérica e integridad profesional."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante los botones de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-10",
+  "fecha_vencimiento": "2026-10-20",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50379066096",
+  "telefono": "",
+  "correo": "rrhh@itl3pl.com",
+  "whatsapps": ["50379066096"],
+  "telefonos": [],
+  "correos": ["rrhh@itl3pl.com"],
+  "url_aplicar": ""
+    }
   ]
 }
