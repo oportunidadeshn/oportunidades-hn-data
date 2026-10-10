@@ -6325,6 +6325,52 @@
   "telefonos": [],
   "correos": ["analistarrhh@honduplast.com"],
   "url_aplicar": ""
-}
+},
+    {
+  "id": "ohn-20261009-183128-1",
+  "titulo": "Gerente de Operaciones",
+  "empresa": "Plastimás",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Manufactura, Producción y Calidad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Planificar, dirigir y controlar las operaciones de producción, garantizando eficiencia, calidad, seguridad, control de costos y productividad, alineados con los objetivos de la empresa.",
+  "requisitos": [
+    "Ingeniería Industrial, Ingeniería Mecánica o carrera afín.",
+    "Deseable Maestría en Administración de Empresas (MBA) o especialización en Operaciones, Producción o Manufactura.",
+    "Deseables certificaciones en Lean Manufacturing, Six Sigma, 5S o Mejora Continua.",
+    "De 5 a 8 años de experiencia como Gerente de Planta, Gerente de Producción o puestos similares en el rubro de Zona Libre.",
+    "Preferible experiencia comprobada en industrias de transformación de plástico, empaque flexible, inyección o procesos afines.",
+    "Experiencia en administración de personal operativo, técnico y administrativo.",
+    "Experiencia en elaboración y control de presupuestos operativos.",
+    "Experiencia en implementación de proyectos de mejora continua y reducción de costos.",
+    "Conocimiento en planificación y control de producción.",
+    "Experiencia en sistemas de calidad y auditorías internas.",
+    "Conocimientos en Lean Manufacturing e indicadores de producción: OEE, eficiencia, productividad y desperdicio.",
+    "Conocimientos en Seguridad Industrial y Salud Ocupacional.",
+    "Gestión de inventarios y almacenes.",
+    "Microsoft Office avanzado, especialmente Excel.",
+    "Conocimiento del sistema SAP.",
+    "Liderazgo de equipos multidisciplinarios, toma de decisiones y manejo de conflictos.",
+    "Comunicación efectiva, proactividad y alto nivel de compromiso.",
+    "Orientación a resultados y manejo y control de indicadores de gestión."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV actualizado mediante los botones de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-09",
+  "fecha_vencimiento": "2026-10-19",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433313176",
+  "telefono": "",
+  "correo": "rrhh@honduplast.com",
+  "whatsapps": ["50433313176"],
+  "telefonos": [],
+  "correos": ["rrhh@honduplast.com"],
+  "url_aplicar": ""
+    }
   ]
 }
