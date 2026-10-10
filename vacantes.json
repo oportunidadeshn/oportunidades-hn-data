@@ -6648,6 +6648,47 @@
   "telefonos": [],
   "correos": ["rrhh@itl3pl.com"],
   "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261010-000000-08",
+  "titulo": "Secretaria Administrativa",
+  "empresa": "PistiYo",
+  "ciudad": "Santa Bárbara",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "PistiYo busca una Secretaria Administrativa para su equipo en Santa Bárbara.",
+  "requisitos": [
+    "Pasante universitaria en Administración de Empresas o afín.",
+    "Experiencia previa de 1 año en puestos similares.",
+    "Experiencia en procesos contables y manejo de caja.",
+    "Manejo de paquetería Office.",
+    "Disponibilidad de horarios."
+  ],
+  "beneficios": [
+    "Salario: Lps 15,100.00.",
+    "Contrato permanente.",
+    "Oportunidad de crecimiento y desarrollo."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nPara más información, comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-10",
+  "fecha_vencimiento": "2026-10-20",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "93420855",
+  "telefono": "",
+  "correo": "karen.palma@pistiyo.hn",
+  "whatsapps": [
+    "93420855"
+  ],
+  "telefonos": [],
+  "correos": [
+    "karen.palma@pistiyo.hn"
+  ],
+  "url_aplicar": ""
     }
   ]
 }
