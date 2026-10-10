@@ -487,6 +487,24 @@
   "whatsapp": "50492639394",
   "destacado": false,
   "activo": true
+    }, 
+    {
+  "titulo": "Feria Virtual de Honduras — Camp America",
+  "organizador": "Camp America",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "",
+  "modalidad": "Virtual",
+  "fecha_inicio": "2026-10-20",
+  "fecha_fin": "2026-10-20",
+  "hora": "9:00 a. m. (zona horaria pendiente de confirmar con el organizador)",
+  "lugar": "Zoom",
+  "descripcion": "Feria virtual dirigida a participantes de Honduras interesados en trabajar en campamentos de verano de Estados Unidos durante la temporada 2027. Permitirá conversar y realizar entrevistas directamente con los responsables de los campamentos.",
+  "informacion_participacion": "Registra tu interés mediante el formulario disponible en la página oficial para recibir el enlace de acceso por Zoom. Confirma con el organizador la zona horaria del evento.",
+  "imagen": "",
+  "enlace": "https://www.campamerica.co.uk/how-it-works/job-fairs/virtual-fair-honduras",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
