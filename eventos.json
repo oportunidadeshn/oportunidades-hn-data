@@ -505,6 +505,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Feria de Empleo Magic Shoes — San Pedro Sula",
+  "organizador": "Magic Shoes",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-12",
+  "fecha_fin": "2026-10-26",
+  "hora": "10:00 a. m. a 4:00 p. m.",
+  "lugar": "Tienda Magic Shoes, City Mall San Pedro Sula, primer nivel, esquina opuesta a Carter's, frente a Zara Men.",
+  "descripcion": "Feria de empleo con plazas disponibles en Ventas, Caja y Bodega. El flyer anuncia la jornada del 12 al 26 de octubre de 2026.",
+  "informacion_participacion": "Requisitos: secundaria completa, experiencia en servicio al cliente, ser mayor de edad, disponibilidad de tiempo y residir en el casco urbano de San Pedro Sula. Preséntate con tu hoja de vida actualizada y fotografía reciente.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLczIkobNPye0EGT3zvHlQ_3xET_vUmq6cHcCMy7PpgkdCnCy7u7r7YNkchpluwX9Of41GvH6NZHgCSEGhyphenhyphen_jAeCaRgVhK9vBnOedZNnxH27ifCQ19AJzvZ7gGhMaR3ll7n8g5a87XT1e8aZNSk5gXwRYjQatS2KQsO8_79DUO48PFAkhupMEsnjKyVMc/s600/1001522156.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
