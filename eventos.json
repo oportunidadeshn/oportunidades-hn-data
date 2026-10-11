@@ -523,6 +523,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Jornada de Atención Integral — Bajamar",
+  "organizador": "Municipalidad de Puerto Cortés y Oficina Municipal de la Mujer (OMM)",
+  "categoria": "Salud y Bienestar",
+  "ciudad": "Puerto Cortés",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-12",
+  "fecha_fin": "2026-10-12",
+  "hora": "8:00 a. m.",
+  "lugar": "Kínder Martha Sara Mena (Pedro Martínez)",
+  "descripcion": "Jornada de atención integral para la comunidad de Bajamar. Incluye charla de prevención sobre el cáncer de mama, atención de médicos y psicólogo municipales, mamografías, toma de presión arterial y toma de glucosa.",
+  "informacion_participacion": "Dirigida a la comunidad de Bajamar. Preséntate en el lugar indicado a partir de las 8:00 a. m.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
