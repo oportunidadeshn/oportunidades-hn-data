@@ -7534,6 +7534,172 @@
     "solartalent.reclutamiento@gmail.com"
   ],
   "url_aplicar": ""
-    }
+    },
+    {
+  "id": "ohn-20261012-000000-19",
+  "titulo": "Auxiliar de Farmacia",
+  "empresa": "La Botica Dermo Farmacia",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Botica Dermo Farmacia busca un Auxiliar de Farmacia para su equipo en Tegucigalpa, con experiencia en ventas y atención al cliente e interés en el cuidado de la piel.",
+  "requisitos": [
+    "Bachillerato completo o pasante universitario.",
+    "Experiencia en ventas y atención al cliente.",
+    "Experiencia en farmacia (deseable).",
+    "Responsabilidad y honestidad.",
+    "Manejo de computadora.",
+    "Interés en el cuidado de la piel.",
+    "Género indistinto."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Incentivos.",
+    "Paquete de beneficios y seguro privado.",
+    "Contrato permanente."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "92359283",
+  "telefono": "",
+  "correo": "botica.empleos@gmail.com",
+  "whatsapps": [
+    "92359283"
+  ],
+  "telefonos": [],
+  "correos": [
+    "botica.empleos@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261012-000000-20",
+  "titulo": "Doctor en Ciencias Químicas y Farmacia",
+  "empresa": "Laboratorios Andifar",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Laboratorios Andifar tiene una plaza disponible para un Doctor en Ciencias Químicas y Farmacia en San Pedro Sula, Honduras.",
+  "requisitos": [
+    "Estudios universitarios en ciencias químicas y farmacia.",
+    "Residir en San Pedro Sula, Honduras.",
+    "Poseer vehículo propio.",
+    "Disponibilidad para viajar.",
+    "Conocimiento de Microsoft Excel."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "plazavisitasps@andifar.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "plazavisitasps@andifar.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261012-000000-21",
+  "titulo": "Analista de BI",
+  "empresa": "Pinturas Americanas",
+  "ciudad": "Comayagua",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Pinturas Americanas busca un Analista de BI para Comayagua, con manejo avanzado de Power BI, Excel y SQL, y orientación a la toma de decisiones basada en datos.",
+  "requisitos": [
+    "Deseable maestría o especialización en Analytics, Data o Negocios.",
+    "Formación en Ingeniería, Administración, Economía, Sistemas o carreras afines.",
+    "Experiencia o conocimientos en Business Intelligence y análisis de datos.",
+    "Manejo avanzado de Power BI (u otras herramientas de BI), Excel y SQL.",
+    "Análisis e interpretación de datos.",
+    "Pensamiento analítico y estratégico.",
+    "Análisis de costos y variaciones.",
+    "Identificación de oportunidades de eficiencia.",
+    "Análisis de indicadores y KPIs.",
+    "Identificación de tendencias y patrones.",
+    "Elaboración de proyecciones y escenarios.",
+    "Optimización de recursos.",
+    "Orientación a la toma de decisiones basada en datos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "maria.meza@pinturasamericanas.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "maria.meza@pinturasamericanas.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261012-000000-22",
+  "titulo": "Regente Farmacéutico",
+  "empresa": "La Botica Dermo Farmacia",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Botica Dermo Farmacia busca un Regente Farmacéutico para su equipo en San Pedro Sula, con experiencia en el rubro farmacéutico, atención al cliente y procesos administrativos.",
+  "requisitos": [
+    "Doctor en Química y Farmacia.",
+    "Residir o tener disponibilidad para residir en San Pedro Sula, Cortés.",
+    "Experiencia en el rubro farmacéutico.",
+    "Experiencia en atención al cliente.",
+    "Experiencia en procesos administrativos.",
+    "Habilidad de gestión y liderazgo."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Paquete de beneficios y seguro médico privado.",
+    "Excelente ambiente laboral.",
+    "Contrato por tiempo indefinido.",
+    "Capacitación y formación continua."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo, colocando en el asunto el nombre de la vacante: Regente Farmacéutico.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "92359283",
+  "telefono": "",
+  "correo": "botica.empleos@gmail.com",
+  "whatsapps": [
+    "92359283"
+  ],
+  "telefonos": [],
+  "correos": [
+    "botica.empleos@gmail.com"
+  ],
+  "url_aplicar": ""
+}
   ]
 }
