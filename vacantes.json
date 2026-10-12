@@ -6938,6 +6938,127 @@
   "telefonos": [],
   "correos": [],
   "url_aplicar": ""
-    }
+    },
+    {
+  "id": "ohn-20261012-000000-05",
+  "titulo": "Gerente de Tienda",
+  "empresa": "La Occidental",
+  "ciudad": "El Paraíso (Copán)",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Occidental busca un Gerente de Tienda para su equipo en El Paraíso, Copán.",
+  "requisitos": [
+    "Licenciado(a) en Administración de Empresas, Gerencia de Negocios o carrera afín.",
+    "Mayor de 25 años.",
+    "Experiencia laboral.",
+    "Pasión por las ventas.",
+    "Orientado(a) al cumplimiento de objetivos.",
+    "Responsable.",
+    "Residir en el sector.",
+    "Disponibilidad de horario."
+  ],
+  "beneficios": [
+    "Salario + bonificación."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "31737320",
+  "telefono": "",
+  "correo": "asistenterrhh@laoccidentalhn.com",
+  "whatsapps": [
+    "31737320"
+  ],
+  "telefonos": [],
+  "correos": [
+    "asistenterrhh@laoccidentalhn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261012-000000-06",
+  "titulo": "Asesor de Ventas",
+  "empresa": "La Occidental",
+  "ciudad": "El Paraíso (Copán)",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Occidental busca un Asesor de Ventas para su equipo en El Paraíso, Copán.",
+  "requisitos": [
+    "Mayor de 21 años.",
+    "Sexo masculino o femenino.",
+    "Secundaria completa.",
+    "Experiencia en ventas.",
+    "Buena presentación.",
+    "Facilidad de expresión.",
+    "Disponibilidad de horario.",
+    "Residir en el sector."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "31737320",
+  "telefono": "",
+  "correo": "asistenterrhh@laoccidentalhn.com",
+  "whatsapps": [
+    "31737320"
+  ],
+  "telefonos": [],
+  "correos": [
+    "asistenterrhh@laoccidentalhn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261012-000000-07",
+  "titulo": "Asistente Contable",
+  "empresa": "Strong",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Strong busca un Asistente Contable para su equipo en San Pedro Sula o alrededores, con experiencia en puestos contables-administrativos.",
+  "requisitos": [
+    "Pasante de Contaduría Pública, Finanzas o carreras afines.",
+    "Mínimo 1 año de experiencia comprobable en puestos contables-administrativos.",
+    "Manejo de Microsoft Office, especialmente Excel.",
+    "Capacidad de análisis y atención al detalle.",
+    "Conocimientos básicos de procesos y registros contables.",
+    "Buena comunicación y trabajo en equipo.",
+    "Residir en San Pedro Sula o alrededores."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "94696448",
+  "telefono": "",
+  "correo": "strongsupply@stronglatam.com",
+  "whatsapps": [
+    "94696448"
+  ],
+  "telefonos": [],
+  "correos": [
+    "strongsupply@stronglatam.com"
+  ],
+  "url_aplicar": ""
+}
   ]
 }
