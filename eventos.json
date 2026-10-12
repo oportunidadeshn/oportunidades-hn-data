@@ -559,6 +559,24 @@
   "whatsapp": "50494565955",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Jornada de Reclutamiento Denny’s",
+  "organizador": "Denny’s",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Siguatepeque",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-15",
+  "fecha_fin": "2026-10-15",
+  "hora": "9:00 a. m. a 1:00 p. m.",
+  "lugar": "Granja D’Elia, carretera CA-5, Siguatepeque",
+  "descripcion": "Denny’s busca personal para servicio al cliente, con o sin experiencia. Ofrece estabilidad laboral, oportunidades de crecimiento, capacitación constante, seguro de vida, cooperativa, contrato permanente, uniforme, alimentación y buen ambiente laboral. Los horarios de trabajo son rotativos.",
+  "informacion_participacion": "Preséntate en Granja D’Elia el jueves 15 de octubre, de 9:00 a. m. a 1:00 p. m. Convocatoria dirigida a personas apasionadas por el servicio al cliente, con o sin experiencia.",
+  "imagen": "https://scontent.ftgu1-2.fna.fbcdn.net/v/t39.30808-6/845941274_1092128170240845_2021444136596464034_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s1080x1350&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGcyhg0KKzefqHddYPVhPFROjVMj4IuG6Y6NUyPgi4bpslG2Ige0ZxXFvfnwA5sICHyyD29pc1fAaSifyk4wK-i&_nc_ohc=XeEjOGdrkaAQ7kNvwHYTkyO&_nc_oc=Ado3EkC8tGENzpk0jgCTuH_ZiySJaQ0lZF_HuyIq-zbjAnJu7RhPYTJ9qTgYOxGTMyk&_nc_zt=23&_nc_ht=scontent.ftgu1-2.fna&_nc_gid=ODjELzatdxGarB_HX8_7iA&_nc_ss=7b2a8&oh=00_AQNZfXP33UobMvVu4a44-kp64n1QBJJYxbunLGxrIwLYGQ&oe=6AD3200C",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
