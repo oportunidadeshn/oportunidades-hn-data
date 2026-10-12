@@ -6796,6 +6796,81 @@
   "telefonos": [],
   "correos": [],
   "url_aplicar": "https://www.eneeutcd.hn/es/vista-previa-FR166"
-    }
+    }, 
+    {
+  "id": "ohn-20261012-000000-01",
+  "titulo": "Asesor de Ventas",
+  "empresa": "Publimovil LATAM",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Publimovil LATAM busca un Asesor de Ventas para su equipo de Honduras, en San Pedro Sula. Responsable de captar clientes, generar oportunidades de negocio y asesorar en soluciones publicitarias de medios exteriores, POP y digitales, enfocado en el cumplimiento de metas, seguimiento comercial y desarrollo de relaciones estratégicas con clientes.",
+  "requisitos": [
+    "Pasante universitario o licenciado en Mercadotecnia, Administración, Ingeniería Industrial o carrera afín.",
+    "Experiencia comprobable en área comercial en venta directa (mínimo 2 años).",
+    "Capaz de elaborar estrategias de comunicación.",
+    "Excelente presentación y relaciones interpersonales.",
+    "Manejo de paquete Office.",
+    "Poseer vehículo propio (indispensable)."
+  ],
+  "beneficios": [
+    "Salario base.",
+    "Atractivo plan de comisiones.",
+    "Depreciación y combustible.",
+    "Prestaciones de ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "honduras@grupopublimovil.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "honduras@grupopublimovil.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261012-000000-02",
+  "titulo": "Pasantes en Comunicación y Medios Digitales",
+  "empresa": "Diario Visión HN",
+  "ciudad": "A nivel nacional",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Remoto",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": true,
+  "pasantia": true,
+  "descripcion": "Diario Visión HN busca jóvenes creativos, responsables y con ganas de aprender que deseen formar parte de su equipo y contribuir a la creación de contenido de utilidad para la ciudadanía, en un medio de comunicación digital comunitario. Pasantía no remunerada. Áreas de participación: periodismo y redacción; comunicación digital y redes sociales; diseño gráfico y creación de contenido; producción multimedia.",
+  "requisitos": [
+    "Jóvenes creativos, responsables y con ganas de aprender.",
+    "Interés en periodismo y redacción, comunicación digital y redes sociales, diseño gráfico y creación de contenido, o producción multimedia."
+  ],
+  "beneficios": [
+    "Experiencia profesional en un medio de comunicación digital comunitario."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "diariovision504@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "diariovision504@gmail.com"
+  ],
+  "url_aplicar": ""
+}
   ]
 }
