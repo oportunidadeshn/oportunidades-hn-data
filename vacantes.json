@@ -6904,6 +6904,40 @@
     "temporadanavidadhn@empresasadoc.com"
   ],
   "url_aplicar": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=hFZhV6XmFUGEwUQpkKtZlCEXml51o7BNkQC-gzDluqRUNzhDRVBJQjRVMDRZU0VPSUkzWFdTOTBSTS4u&route=shorturl"
+    },
+    {
+  "id": "ohn-20261012-000000-04",
+  "titulo": "Vendedor(a)",
+  "empresa": "Distribuidora Java's",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Distribuidora Java's busca un(a) Vendedor(a) ágil y proactivo(a), con actitud, eficiencia y atención al cliente, para su equipo en San Pedro Sula. Ubicación: 1ra Calle, 1 y 2 Ave., Edificio Fasquelle, Local #207, frente al Instituto Morazánico.",
+  "requisitos": [
+    "Gusto por las ventas.",
+    "Agilidad y proactividad.",
+    "Actitud, eficiencia y atención al cliente."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-15",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "99135844",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "99135844",
+    "31497974"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
     }
   ]
 }
