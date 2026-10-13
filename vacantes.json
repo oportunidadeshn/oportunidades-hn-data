@@ -7772,6 +7772,44 @@
   "telefonos": [],
   "correos": [],
   "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261012-195852-1",
+  "titulo": "Encargado de Bodega e Inventario",
+  "empresa": "Importaciones GICELL",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Importaciones GICELL busca Encargado de Bodega e Inventario con experiencia en supervisión de personal, controles operativos y gestión de inventarios.",
+  "requisitos": [
+    "Educación secundaria completa.",
+    "Experiencia mínima de dos años en puestos similares.",
+    "Experiencia en supervisión de personal, controles operativos y gestión de inventarios.",
+    "Dominio de Microsoft Office.",
+    "Disponibilidad de horario.",
+    "Residir en el casco urbano de San Pedro Sula."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida actualizada mediante los botones de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50496982432",
+  "telefono": "",
+  "correo": "gicellrecursoshumanos@gmail.com",
+  "whatsapps": [
+    "50496982432"
+  ],
+  "telefonos": [],
+  "correos": [
+    "gicellrecursoshumanos@gmail.com"
+  ],
+  "url_aplicar": ""
     }
   ]
 }
