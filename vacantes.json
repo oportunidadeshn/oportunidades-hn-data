@@ -8022,6 +8022,44 @@
     "empleoszn@floreshn.com"
   ],
   "url_aplicar": ""
-}
+},
+    {
+  "id": "ohn-20261012-201147-1",
+  "titulo": "Personal de Informática",
+  "empresa": "Humana Logistics",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Humana Logistics busca personal con formación en Informática o Sistemas para una plaza permanente en San Pedro Sula. No requiere experiencia previa. El anuncio no especifica el nombre del puesto.",
+  "requisitos": [
+    "Bachillerato Técnico en Informática o ser pasante de Licenciatura en Informática o Ingeniería en Sistemas.",
+    "Disponibilidad para viajar.",
+    "Buena presentación y habilidades interpersonales.",
+    "Conocimientos en redes y Microsoft Office.",
+    "Vehículo propio deseable."
+  ],
+  "beneficios": [
+    "Beneficios de ley.",
+    "Plaza permanente."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "tania.hernandez@humanahn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "tania.hernandez@humanahn.com"
+  ],
+  "url_aplicar": ""
+    }
   ]
 }
