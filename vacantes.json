@@ -8563,6 +8563,77 @@
     "serviciosgeneraleshn.soluciones@gmail.com"
   ],
   "url_aplicar": ""
-    }
+    },
+    {
+  "id": "ohn-20261013-000000-07",
+  "titulo": "Asistente de Recursos Humanos",
+  "empresa": "AHMYFAMILIA Clínica de Atención Familiar",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Recursos Humanos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Plaza temporal. Facilitar la actualización de políticas internas y procedimientos de Recursos Humanos, así como otras actividades administrativas propias del departamento.",
+  "requisitos": [
+    "Pasante universitario de la carrera Administración de Empresas o carreras afines.",
+    "Experiencia mínima de 1 a 2 años en puestos de Recursos Humanos.",
+    "Dominio de herramientas de Office (Word, Excel, PowerPoint) y plataformas digitales.",
+    "Residir en el casco urbano de San Pedro Sula."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV actualizado mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "95450504",
+  "telefono": "",
+  "correo": "ahmf@myfamiliahn.org",
+  "whatsapps": [
+    "95450504"
+  ],
+  "telefonos": [],
+  "correos": [
+    "ahmf@myfamiliahn.org"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261013-000000-08",
+  "titulo": "Analista Contable",
+  "empresa": "AHMYFAMILIA Clínica de Atención Familiar",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "AHMYFAMILIA Clínica de Atención Familiar busca un Analista Contable para su equipo en San Pedro Sula, con experiencia en registros contables y elaboración de cheques.",
+  "requisitos": [
+    "Egresado de Perito Mercantil y Contador Público, Finanzas o Administración de Empresas.",
+    "Experiencia en registros contables y elaboración de cheques.",
+    "Residir en el casco urbano de San Pedro Sula."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida actualizada mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "95450504",
+  "telefono": "",
+  "correo": "ahmf@myfamiliahn.org",
+  "whatsapps": [
+    "95450504"
+  ],
+  "telefonos": [],
+  "correos": [
+    "ahmf@myfamiliahn.org"
+  ],
+  "url_aplicar": ""
+}
   ]
 }
