@@ -7700,6 +7700,42 @@
     "botica.empleos@gmail.com"
   ],
   "url_aplicar": ""
-}
+},
+    {
+  "id": "ohn-20261012-000000-23",
+  "titulo": "Ingeniero Civil",
+  "empresa": "Grupo Farsimán",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Grupo Farsimán busca un Ingeniero Civil para su equipo en San Pedro Sula. El puesto requiere habilidades de liderazgo, capacidad para gestionar múltiples tareas y un enfoque en la calidad y los plazos.",
+  "requisitos": [
+    "Título universitario en Ingeniería Civil.",
+    "Experiencia previa en remodelación y construcción, así como en la planificación, coordinación y seguimiento de proyectos.",
+    "Poseer transporte propio.",
+    "Habilidades de liderazgo.",
+    "Capacidad para gestionar múltiples tareas.",
+    "Enfoque en la calidad y los plazos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "sheyla.valladares@farsiman.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "sheyla.valladares@farsiman.com"
+  ],
+  "url_aplicar": ""
+    }
   ]
 }
