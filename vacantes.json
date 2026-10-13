@@ -8135,6 +8135,112 @@
     "wsanchez@didelco.com.hn"
   ],
   "url_aplicar": ""
-    }
+    },
+    {
+  "id": "ohn-20261012-204420-1",
+  "titulo": "Administrador de Infraestructura y Soporte Técnico",
+  "empresa": "Hospital y Clínicas San Jorge",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Hospital y Clínicas San Jorge busca Administrador de Infraestructura y Soporte Técnico con conocimientos y experiencia en administración de sistemas, bases de datos, redes, telecomunicaciones y soporte a usuarios.",
+  "requisitos": [
+    "Licenciatura en Informática Administrativa, Ingeniería en Sistemas, Ciencias de la Computación o carrera afín.",
+    "Disponibilidad inmediata.",
+    "Residir en Tegucigalpa.",
+    "Conocimientos y experiencia en administración del sistema Odoo.",
+    "Gestión de bases de datos PostgreSQL.",
+    "Administración y configuración de Fortinet.",
+    "Administración y gestión de redes y telecomunicaciones.",
+    "Configuración y administración de equipos MikroTik.",
+    "Administración de Active Directory.",
+    "Manejo de sistemas operativos Windows y Linux.",
+    "Manejo de telefonía IP y análoga.",
+    "Soporte a usuarios e impresoras."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "vcruz@sanjorge.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "vcruz@sanjorge.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261012-204420-2",
+  "titulo": "Fisioterapeuta",
+  "empresa": "Hospital y Clínicas San Jorge",
+  "ciudad": "",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Realizar evaluaciones físicas integrales para determinar la condición y las necesidades terapéuticas de los pacientes. Diseñar, planificar y aplicar tratamientos fisioterapéuticos personalizados para promover la recuperación, aliviar el dolor y mejorar la funcionalidad. Guiar procesos de rehabilitación y prevención de lesiones, educando al paciente para mejorar su calidad de vida.",
+  "requisitos": [],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o entrégalo en las instalaciones de Hospital y Clínicas San Jorge.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "vcruz@sanjorge.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "vcruz@sanjorge.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261012-204420-3",
+  "titulo": "Licenciado(a) en Mercadotecnia",
+  "empresa": "Hospital y Clínicas San Jorge",
+  "ciudad": "",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Hospital y Clínicas San Jorge busca profesional de Mercadotecnia con manejo de programas de diseño y Microsoft Office, creatividad, dinamismo y actitud positiva hacia el trabajo. Convocatoria abierta a ambos sexos.",
+  "requisitos": [
+    "Licenciatura en Mercadotecnia.",
+    "Manejo de programas de diseño.",
+    "Manejo de Microsoft Office.",
+    "Ser creativo(a) y dinámico(a).",
+    "Actitud positiva hacia el trabajo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o entrégalo en las instalaciones de Hospital y Clínicas San Jorge.",
+  "fecha_publicacion": "2026-10-12",
+  "fecha_vencimiento": "2026-10-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "vcruz@sanjorge.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "vcruz@sanjorge.hn"
+  ],
+  "url_aplicar": ""
+}
   ]
 }
