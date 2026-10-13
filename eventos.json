@@ -577,6 +577,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Feria de Empleo Roatán",
+  "organizador": "",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Roatán",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-28",
+  "fecha_fin": "2026-10-28",
+  "hora": "9:00 a. m. a 4:00 p. m.",
+  "lugar": "Oficinas Administrativas Megaplaza Roatán",
+  "descripcion": "Feria de empleo para conectar a personas interesadas en nuevas oportunidades laborales con empresas y marcas participantes. El anuncio incluye marcas como Lady Lee, Wendy’s, City Mall, Megaplaza, Novaplaza, Credilee, City Games y Papa Johns, entre otras.",
+  "informacion_participacion": "Visita las Oficinas Administrativas de Megaplaza Roatán el miércoles 28 de octubre de 2026, de 9:00 a. m. a 4:00 p. m., para conocer las vacantes disponibles.",
+  "imagen": "https://media.licdn.com/dms/image/v2/D4E22AQGv95BCLHCmWA/feedshare-shrink_800/B4EaEyjzfXHwAc-/0/1791849609463?e=1793232000&v=beta&t=dti_XSicG0lo8xqt_wdcrDhV_U24Qnon90JiscKOIXs",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
