@@ -9223,6 +9223,41 @@
   "telefonos": [],
   "correos": [],
   "url_aplicar": ""
+    }, 
+    {
+  "id": "ohn-20261013-190733-1",
+  "titulo": "Caja / Atención al cliente",
+  "empresa": "Discovery",
+  "ciudad": "Juticalpa",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Discovery busca una persona responsable, amable y comprometida para el área de caja y atención al cliente en Juticalpa, Olancho.",
+  "requisitos": [
+    "Perito Mercantil o Bachiller en Ciencias y Letras.",
+    "Experiencia en caja y atención al cliente.",
+    "Buena presentación personal.",
+    "Facilidad de comunicación.",
+    "Responsabilidad, amabilidad y honestidad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50488507854",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50488507854"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
     }
   ]
 }
