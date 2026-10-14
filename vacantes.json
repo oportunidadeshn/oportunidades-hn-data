@@ -2,6 +2,38 @@
   "actualizado": "2026-10-05",
   "vacantes": [
     {
+  "id": "ohn-20261014-093512-37",
+  "titulo": "Motorista",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Transportar materiales de construcción o eléctricos. Cargar, transportar y descargar materiales de manera segura y eficiente",
+  "requisitos": [
+    "Residir en tegucigalpa, 1 o mas años de experiencia, conducir carro mecánico, licencia vigente de preferencia licencia pesada"
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-14",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "hnrecluta2026@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "hnrecluta2026@gmail.com"
+  ],
+  "url_aplicar": ""
+    },
+    
+    {
   "id": "ohn-20261013-000000-34",
   "titulo": "Gestor de Cobros",
   "empresa": "VisionFund Honduras OPDF",
