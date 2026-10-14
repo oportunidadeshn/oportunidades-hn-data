@@ -2,6 +2,88 @@
   "actualizado": "2026-10-05",
   "vacantes": [
     {
+  "id": "ohn-20261013-215358-1",
+  "titulo": "Coordinador de proyectos FAST",
+  "empresa": "VisionFund Honduras OPDF",
+  "ciudad": "La Esperanza",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "VisionFund Honduras OPDF busca un coordinador de proyectos FAST en La Esperanza, Intibucá.",
+  "requisitos": [
+    "Sexo femenino o masculino.",
+    "Título universitario en Administración de Empresas, Economía, Finanzas, Agronegocios, Desarrollo Rural o carreras afines.",
+    "Experiencia de 3 a 5 años en microfinanzas, pymes o préstamos empresariales.",
+    "Experiencia en análisis crediticio y gestión de carteras.",
+    "Experiencia de colaboración con grupos de productores, cooperativas o empresas rurales.",
+    "Habilidades de comunicación, negociación, organización y orientación a resultados.",
+    "Licencia de conducir vigente.",
+    "Poseer motocicleta.",
+    "Saber conducir vehículo mecánico, indispensable.",
+    "Disponibilidad para viajar."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talentohumanohn@visionfund.org",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "talentohumanohn@visionfund.org"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261013-215358-2",
+  "titulo": "Auxiliar de bodega",
+  "empresa": "REDDCOM",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "REDDCOM busca un auxiliar de bodega para una plaza permanente en Tegucigalpa.",
+  "requisitos": [
+    "Residir en Tegucigalpa.",
+    "Género masculino.",
+    "Conocimientos básicos en manejo de computadora.",
+    "Excel intermedio.",
+    "Poseer licencias de conducir liviana y pesada.",
+    "Experiencia previa en puestos similares."
+  ],
+  "beneficios": [
+    "Plaza permanente.",
+    "Beneficios de ley.",
+    "Oportunidad de crecimiento profesional."
+  ],
+  "como_aplicar": "Envía tu CV mediante los botones de correo.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "marcela.suazo@reddcomca.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "marcela.suazo@reddcomca.com",
+    "auxiliar.recursosh@reddcomca.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261013-214754-1",
   "titulo": "Cajera",
   "empresa": "Empresa confidencial",
