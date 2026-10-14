@@ -2,6 +2,41 @@
   "actualizado": "2026-10-05",
   "vacantes": [
     {
+  "id": "ohn-20261013-000000-26",
+  "titulo": "Ingeniero Civil",
+  "empresa": "WM Constructores (Grupo Platino)",
+  "ciudad": "A nivel nacional",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "WM Constructores (Constructora William y Molina) busca Ingenieros Civiles con más de 10 años de experiencia liderando proyectos, para sus nuevos proyectos, que deseen formar parte de su crecimiento y contribuir al desarrollo de la infraestructura del país.",
+  "requisitos": [
+    "Título universitario en Ingeniería Civil.",
+    "Más de 10 años de experiencia liderando proyectos.",
+    "Estar debidamente colegiado.",
+    "Experiencia en al menos uno de los siguientes tipos de proyectos: infraestructura vial, edificaciones verticales, puentes, urbanizaciones y/o viviendas.",
+    "Disponibilidad para reubicarse dentro de Honduras, según las necesidades de los proyectos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento@grupoplatino.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@grupoplatino.hn"
+  ],
+  "url_aplicar": ""
+    },
+    {
   "id": "ohn-20261013-000000-24",
   "titulo": "Jefe de Laboratorio",
   "empresa": "Hospital María Especialidades Pediátricas",
