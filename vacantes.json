@@ -9153,6 +9153,43 @@
   "telefonos": [],
   "correos": [],
   "url_aplicar": "https://portal.herco.hn/solicitud-colaborador"
+    },
+    {
+  "id": "ohn-20261013-184407-1",
+  "titulo": "Voluntarios, intérpretes y traductores para brigada médica",
+  "empresa": "NATMA, AEMECI y FEUH",
+  "ciudad": "Tegucigalpa, Valle de Ángeles",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Voluntariado",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Convocatoria para estudiantes de Medicina de cualquier año académico que deseen participar como voluntarios, intérpretes y traductores en la brigada médica NATMA, del 26 al 29 de octubre de 2026. Su función será facilitar la comunicación entre médicos internacionales y pacientes. Participarán equipos de cirugía, acupuntura, medicina de campo y atención hospitalaria en cardiología y oftalmología. La participación corresponde a un voluntariado; el anuncio no indica remuneración.",
+  "requisitos": [
+    "Ser estudiante de la Carrera de Medicina de cualquier año académico.",
+    "Buen dominio de los idiomas inglés y español.",
+    "Familiaridad con la terminología médica.",
+    "Disponibilidad para participar del 26 al 29 de octubre de 2026."
+  ],
+  "beneficios": [
+    "Transporte y alimentación cubiertos.",
+    "Diploma de reconocimiento emitido por NATMA.",
+    "Práctica de inglés médico en un entorno real.",
+    "Aprendizaje junto a médicos de distintas especialidades."
+  ],
+  "como_aplicar": "Completa el formulario mediante el botón de aplicar. Proporciona tu nombre completo, año académico, número de teléfono, nivel de inglés y disponibilidad para las fechas de la brigada.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kDmpM7SLnUu0Ik-IUSF9fjTXwUCS7J9KvxASedQ6XU5UOThGRzhOUzVXSFlZUVJVTk1OUjBXN09OWi4u"
     }
   ]
 }
