@@ -2,6 +2,90 @@
   "actualizado": "2026-10-05",
   "vacantes": [
     {
+  "id": "ohn-20261013-000000-24",
+  "titulo": "Jefe de Laboratorio",
+  "empresa": "Hospital María Especialidades Pediátricas",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Hospital María Especialidades Pediátricas busca un(a) Jefe de Laboratorio para una posición permanente, con liderazgo en la gestión y operación del laboratorio clínico.",
+  "requisitos": [
+    "Licenciatura en Microbiología, con registro activo en el colegio profesional correspondiente.",
+    "Maestría en Gestión de Calidad, Administración de Servicios de Salud o afín.",
+    "Formación o certificación en ISO 15189 / ISO 9001 (deseable).",
+    "Mínimo 5 años de experiencia profesional en laboratorios clínicos, hospitales, centros de diagnóstico o instituciones de salud.",
+    "Al menos 3 años en posiciones de coordinación, supervisión o jefatura de laboratorio clínico.",
+    "Gestión y operación de laboratorios clínicos.",
+    "Normas ISO 15189 e ISO 9001.",
+    "Requisitos regulatorios para habilitación de laboratorios clínicos.",
+    "Sistemas de gestión de calidad, gestión de riesgos y mejora continua.",
+    "Manejo de herramientas informáticas de gestión de laboratorio LIS/HIS.",
+    "Gestión de proyectos, indicadores, procesos y equipos multidisciplinarios.",
+    "Competencias: liderazgo y dirección de equipos, planificación y gestión estratégica, orientación a resultados, toma de decisiones y resolución de problemas, gestión de la calidad y mejora continua, gestión de riesgos y cumplimiento normativo, orientación al usuario y seguridad del paciente."
+  ],
+  "beneficios": [
+    "Posición permanente."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo, indicando en el asunto la plaza a la que aplicas: Jefe de Laboratorio.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-20",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talentohumano@hospitalmaria.org",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "talentohumano@hospitalmaria.org"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261013-000000-25",
+  "titulo": "Gestor de Calidad",
+  "empresa": "Hospital María Especialidades Pediátricas",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Hospital María Especialidades Pediátricas busca un(a) Gestor de Calidad para una posición permanente, con experiencia en laboratorio clínico hospitalario y en sistemas de gestión de calidad.",
+  "requisitos": [
+    "Título universitario en Microbiología y Química Clínica (obligatorio).",
+    "Diplomado o posgrado en Gestión de la Calidad y formación en normas ISO 15189 / ISO 9001.",
+    "Certificación como Auditor Interno SGC (deseable).",
+    "Mínimo 3 años de experiencia en laboratorio clínico hospitalario.",
+    "Acreditación de laboratorios o afín (deseable).",
+    "Dominio de control de calidad analítico (gráficos de Levey-Jennings, reglas de Westgard) y redacción de Procedimientos Operativos Estándar (POE).",
+    "Competencia en sistemas informáticos de laboratorio (LIS/HIS).",
+    "Habilidades: liderazgo transversal, credibilidad analítica, orientación al detalle, capacidad de planificación, dinamismo, firme compromiso ético y gestión de equipos."
+  ],
+  "beneficios": [
+    "Posición permanente."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo, indicando en el asunto la plaza a la que aplicas: Gestor de Calidad.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-20",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talentohumano@hospitalmaria.org",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "talentohumano@hospitalmaria.org"
+  ],
+  "url_aplicar": ""
+},
+    {
   "id": "ohn-20261013-000000-22",
   "titulo": "Ejecutivo de Venta en Campo - Hunter",
   "empresa": "DILO (Grupo Financiero Atlántida)",
