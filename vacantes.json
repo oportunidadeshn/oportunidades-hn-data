@@ -2,6 +2,228 @@
   "actualizado": "2026-10-05",
   "vacantes": [
     {
+  "id": "ohn-20261013-000000-28",
+  "titulo": "Project Manager",
+  "empresa": "La Colonia",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Colonia contrata un Project Manager para Tegucigalpa, con experiencia en gestión de proyectos IT.",
+  "requisitos": [
+    "Ingeniería en Sistemas, Eléctrica, Telecomunicaciones, Industrial o Logística.",
+    "Preferiblemente maestría en dirección de proyectos o finanzas.",
+    "Experiencia de 2 años en gestión de proyectos IT.",
+    "Manejo en planificación, seguimiento y control de proyectos.",
+    "Habilidades de liderazgo, comunicación y trabajo en equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "achacon@lacolonia.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "achacon@lacolonia.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261013-000000-29",
+  "titulo": "Especialista Empresarial",
+  "empresa": "CCICH (Cámara de Comercio e Industria de Choloma)",
+  "ciudad": "Choloma, San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Cámara de Comercio e Industria de Choloma (CCICH) busca un Especialista Empresarial, con experiencia en preparación y coordinación de citas de negocios e identificación de oportunidades comerciales para mipymes.",
+  "requisitos": [
+    "Profesional en áreas administrativas, comercialización o marketing.",
+    "1 a 2 años en áreas de ventas, asesoría comercial, visitas empresariales y desarrollo de eventos.",
+    "Experiencia en preparación de citas de negocios, coordinación de citas y negociaciones.",
+    "Experiencia en identificación de oportunidades comerciales para mipyme.",
+    "Organización y control documental.",
+    "Residir en Choloma o San Pedro Sula."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "94396960",
+  "telefono": "",
+  "correo": "asesorlaboral@ccich.org",
+  "whatsapps": [
+    "94396960"
+  ],
+  "telefonos": [],
+  "correos": [
+    "asesorlaboral@ccich.org"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261013-000000-30",
+  "titulo": "Especialista Empresarial",
+  "empresa": "CCICH (Cámara de Comercio e Industria de Choloma)",
+  "ciudad": "Choloma, San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Cámara de Comercio e Industria de Choloma (CCICH) busca un Especialista Empresarial, con conocimiento en levantamiento de diagnósticos empresariales, plan de acción y seguimiento.",
+  "requisitos": [
+    "Profesional en áreas administrativas, comercialización o marketing.",
+    "1 a 2 años en áreas de ventas, asesoría comercial, visitas empresariales y desarrollo de eventos.",
+    "Conocimiento en levantamiento de diagnósticos empresariales, plan de acción y seguimiento.",
+    "Organización y control documental.",
+    "Residir en Choloma o San Pedro Sula."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "94396960",
+  "telefono": "",
+  "correo": "asesorlaboral@ccich.org",
+  "whatsapps": [
+    "94396960"
+  ],
+  "telefonos": [],
+  "correos": [
+    "asesorlaboral@ccich.org"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261013-000000-31",
+  "titulo": "Oficial de Reclutamiento y Selección",
+  "empresa": "La Colonia",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Recursos Humanos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Colonia contrata un Oficial de Reclutamiento y Selección para Tegucigalpa, con experiencia en reclutamiento y manejo de pruebas psicométricas.",
+  "requisitos": [
+    "Graduado universitario de Licenciatura en Psicología, Relaciones Industriales o carreras afines.",
+    "Experiencia mínima de 2 años en reclutamiento y selección.",
+    "Manejo de pruebas psicométricas.",
+    "Residir en Tegucigalpa.",
+    "Sexo indistinto.",
+    "Buenas relaciones interpersonales.",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "achacon@lacolonia.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "achacon@lacolonia.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261013-000000-32",
+  "titulo": "Auxiliar Contable",
+  "empresa": "CCICH (Cámara de Comercio e Industria de Choloma)",
+  "ciudad": "Choloma, San Pedro Sula",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Cámara de Comercio e Industria de Choloma (CCICH) busca un Auxiliar Contable, con experiencia en apoyo contable o administrativo y manejo de ERPs o software contable.",
+  "requisitos": [
+    "Profesional graduado o pasante en Licenciatura en Contaduría Pública, Finanzas, Administración de Empresas o afines.",
+    "Mínimo de 1 a 2 años en funciones similares de apoyo contable o administrativo.",
+    "Experiencia previa en el manejo de ERPs o software contable.",
+    "Conocimiento en la elaboración de conciliaciones bancarias, manejo de proveedores y liquidaciones.",
+    "Conocimiento básico en normativas fiscales vigentes.",
+    "Residir en Choloma o San Pedro Sula."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "94396960",
+  "telefono": "",
+  "correo": "asesorlaboral@ccich.org",
+  "whatsapps": [
+    "94396960"
+  ],
+  "telefonos": [],
+  "correos": [
+    "asesorlaboral@ccich.org"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261013-000000-33",
+  "titulo": "Ejecutivo de Servicio al Cliente",
+  "empresa": "Coats",
+  "ciudad": "Choloma",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Empresa del sector textil busca un Ejecutivo de Servicio al Cliente en Choloma, Cortés. Funciones: atención a clientes de Centroamérica por correo electrónico y teléfono; ingreso y seguimiento de órdenes en SAP; coordinación con las áreas de Planificación, Producción, Logística y Ventas; gestión de reclamos, devoluciones y reportes de servicio.",
+  "requisitos": [
+    "Licenciatura en Administración de Empresas, Relaciones Comerciales, Ingeniería Industrial o carrera afín.",
+    "Mínimo 1 año de experiencia en servicio al cliente, preferiblemente con clientes internacionales.",
+    "Inglés avanzado (90%) - indispensable.",
+    "Conocimientos básicos de SAP, módulo SD.",
+    "Manejo avanzado de Excel: tablas dinámicas, fórmulas y gráficas.",
+    "Habilidades de comunicación, negociación y resolución de problemas.",
+    "Capacidad de organización, análisis y trabajo en equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida actualizada mediante el botón de correo, indicando en el asunto: Ejecutivo de Servicio al Cliente.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "asesorlaboral@ccich.org",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "asesorlaboral@ccich.org"
+  ],
+  "url_aplicar": ""
+},
+    {
   "id": "ohn-20261013-000000-27",
   "titulo": "Supervisor de Ventas en Campo",
   "empresa": "DILO (Grupo Financiero Atlántida)",
