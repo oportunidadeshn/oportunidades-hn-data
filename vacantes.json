@@ -2,6 +2,50 @@
   "actualizado": "2026-10-05",
   "vacantes": [
     {
+  "id": "ohn-20261013-214754-1",
+  "titulo": "Cajera",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Villanueva",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Empresa busca contratar una cajera en Villanueva, Cortés, con disponibilidad inmediata.",
+  "requisitos": [
+    "Sexo femenino.",
+    "Experiencia mínima de un año como cajera.",
+    "Secundaria completa.",
+    "Experiencia en el área de café espresso, deseable.",
+    "Cartas de referencia de trabajos anteriores.",
+    "Manejo básico de Excel, Word y correo electrónico.",
+    "Disponibilidad de tiempo e incorporación inmediata.",
+    "Presentar antecedentes penales y judiciales.",
+    "Residir en Búfalo, Dos Caminos o alrededores de Villanueva, Cortés."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum mediante los botones de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433461329",
+  "telefono": "",
+  "correo": "pumas_1969@live.com",
+  "whatsapps": [
+    "50433461329",
+    "50495908948",
+    "50494799133"
+  ],
+  "telefonos": [],
+  "correos": [
+    "pumas_1969@live.com",
+    "jorge_miranda@live.com"
+  ],
+  "url_aplicar": ""
+    },
+    {
   "id": "ohn-20261013-000000-28",
   "titulo": "Project Manager",
   "empresa": "La Colonia",
