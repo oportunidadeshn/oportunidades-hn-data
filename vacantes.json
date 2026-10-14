@@ -9258,6 +9258,38 @@
   "telefonos": [],
   "correos": [],
   "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261013-191833-1",
+  "titulo": "Parrillero/a",
+  "empresa": "Restaurante El Patio",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Restaurante El Patio busca un parrillero o parrillera con experiencia para unirse a su equipo de trabajo en Tegucigalpa.",
+  "requisitos": [
+    "Experiencia previa como parrillero/a.",
+    "Conocimientos en seguridad alimentaria."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "restelpatiohn@outlook.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "restelpatiohn@outlook.com"
+  ],
+  "url_aplicar": ""
     }
   ]
 }
