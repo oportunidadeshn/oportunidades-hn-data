@@ -757,6 +757,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
-}
+},
+    {
+  "titulo": "Laboratorio de ciberseguridad: Criar en tiempos de pantalla",
+  "organizador": "Centro Cultural de España en Tegucigalpa (CCET)",
+  "categoria": "Educación y Formación",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-15",
+  "fecha_fin": "2026-10-15",
+  "hora": "6:30 p. m.",
+  "lugar": "Centro Cultural de España en Tegucigalpa (CCET)",
+  "descripcion": "Laboratorio con Dess Carías, especialista en innovación, transformación y seguridad digital, para compartir herramientas y reflexionar sobre cómo poner límites, proteger la privacidad y acompañar a niñas, niños y adolescentes en el mundo digital.",
+  "informacion_participacion": "Entrada libre y gratuita. Asiste al CCET el jueves 15 de octubre a las 6:30 p. m.",
+  "imagen": "",
+  "enlace": "https://ccetegucigalpa.aecid.es",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+    }
   ]
 }
