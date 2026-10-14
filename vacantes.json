@@ -9329,6 +9329,42 @@
   "telefonos": [],
   "correos": [],
   "url_aplicar": "https://portal.herco.hn/solicitud-colaborador"
+    },
+    {
+  "id": "ohn-20261013-000000-21",
+  "titulo": "Supervisor de Experiencia del Cliente",
+  "empresa": "Microlab",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Microlab busca un Supervisor o Supervisora de Experiencia del Cliente para Tegucigalpa, que lidere personas y contribuya al fortalecimiento de los estándares de servicio y satisfacción del cliente. Funciones: analizar resultados de encuestas de satisfacción, NPS y otros indicadores de experiencia del cliente; cumplir metas y objetivos para garantizar el índice de satisfacción del cliente; analizar métricas, KPIs y/o indicadores de servicio del cliente y proponer soluciones de mejora.",
+  "requisitos": [
+    "Graduado/a a nivel universitario de carreras administrativas o afines.",
+    "Experiencia mínima de 1 año en rol similar.",
+    "Manejo de personal.",
+    "Enfoque en la mejora continua, el análisis de indicadores y la satisfacción del cliente."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "32001253",
+  "telefono": "",
+  "correo": "reclutamiento@microlabhn.com",
+  "whatsapps": [
+    "32001253"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@microlabhn.com"
+  ],
+  "url_aplicar": ""
     }
   ]
 }
