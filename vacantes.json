@@ -1,7 +1,119 @@
 {
   "actualizado": "2026-10-05",
   "vacantes": [
-    
+    {
+  "id": "ohn-20261013-230025-1",
+  "titulo": "Mesero(a)",
+  "empresa": "Bloom Bistro",
+  "ciudad": "",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Bloom Bistro busca meseros y meseras para formar parte de su equipo.",
+  "requisitos": [
+    "Experiencia en atención al cliente y servicio de restaurante.",
+    "Excelente comunicación y presentación personal.",
+    "Actitud amable, dinámica y orientada al servicio.",
+    "Capacidad para trabajar en equipo y bajo presión.",
+    "Responsabilidad y proactividad.",
+    "Disponibilidad de horarios."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante los botones de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50497279043",
+  "telefono": "",
+  "correo": "bloombistrohn@gmail.com",
+  "whatsapps": [
+    "50497279043"
+  ],
+  "telefonos": [],
+  "correos": [
+    "bloombistrohn@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261013-230025-2",
+  "titulo": "Personal de cocina",
+  "empresa": "Bloom Bistro",
+  "ciudad": "",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Bloom Bistro busca personal de cocina para formar parte de su equipo.",
+  "requisitos": [
+    "Experiencia en preparación y presentación de alimentos.",
+    "Conocimientos en higiene y manipulación de alimentos.",
+    "Capacidad para trabajar bajo presión y en equipo.",
+    "Organización, responsabilidad y proactividad.",
+    "Disponibilidad de horarios y actitud de servicio."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante los botones de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50497279043",
+  "telefono": "",
+  "correo": "bloombistrohn@gmail.com",
+  "whatsapps": [
+    "50497279043"
+  ],
+  "telefonos": [],
+  "correos": [
+    "bloombistrohn@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261013-230025-3",
+  "titulo": "Creadora de contenido y marketing",
+  "empresa": "Bloom Bistro",
+  "ciudad": "",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Bloom Bistro busca una creadora de contenido y marketing con experiencia en redes sociales y creatividad para proponer campañas, promociones y eventos.",
+  "requisitos": [
+    "Estudiante o egresado de Marketing, Diseño Gráfico o carreras afines.",
+    "Experiencia en creación y planificación de contenido para redes sociales.",
+    "Manejo de Canva, CapCut y herramientas de edición.",
+    "Creatividad e iniciativa para proponer campañas, promociones y eventos.",
+    "Excelente comunicación y presentación personal.",
+    "Organización y trabajo en equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante los botones de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50496424449",
+  "telefono": "",
+  "correo": "bloombistrohn@gmail.com",
+  "whatsapps": [
+    "50496424449"
+  ],
+  "telefonos": [],
+  "correos": [
+    "bloombistrohn@gmail.com"
+  ],
+  "url_aplicar": ""
+},
     {
   "id": "ohn-20261013-222015-1",
   "titulo": "Ingeniero de producto APQP PCB",
