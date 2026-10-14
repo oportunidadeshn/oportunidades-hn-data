@@ -2,6 +2,44 @@
   "actualizado": "2026-10-05",
   "vacantes": [
     {
+  "id": "ohn-20261014-000000-06",
+  "titulo": "Office Assistant",
+  "empresa": "CUFG Service Center",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "The CUFG Service Center is hiring 3 to 4 Office Assistants in Tegucigalpa. Full-time, in-office position during regular business hours.",
+  "requisitos": [
+    "Advanced English, spoken and written.",
+    "Customer service experience.",
+    "Advanced computer skills.",
+    "Proactive.",
+    "Goal oriented."
+  ],
+  "beneficios": [
+    "Weekends off."
+  ],
+  "como_aplicar": "Send your resume and cover letter using the email button.",
+  "fecha_publicacion": "2026-10-14",
+  "fecha_vencimiento": "2026-10-24",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "apply@cufinancialgroup.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "apply@cufinancialgroup.com"
+  ],
+  "url_aplicar": ""
+    },
+    
+    {
   "id": "ohn-20261014-000000-01",
   "titulo": "Asistente Contable Administrativo",
   "empresa": "Rental Equipment",
