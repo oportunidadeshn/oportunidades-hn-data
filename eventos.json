@@ -613,6 +613,42 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
-    }
+    }, 
+    {
+  "titulo": "Campaña de recolección de residuos eléctricos y electrónicos",
+  "organizador": "Honduras STEM Foundation, Plantatón HN y Televicentro, con apoyo de la Municipalidad de San Pedro Sula y la Universidad Católica de Honduras",
+  "categoria": "Comunidad y Desarrollo Social",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-17",
+  "fecha_fin": "2026-10-17",
+  "hora": "9:00 a. m. a 2:00 p. m.",
+  "lugar": "Campus San Pedro y San Pablo de la Universidad Católica de Honduras",
+  "descripcion": "Campaña de recolección de residuos de aparatos eléctricos y electrónicos (RAEE). Una oportunidad para entregar equipos y accesorios en desuso para su reciclaje.",
+  "informacion_participacion": "Lleva tus aparatos al punto de recolección el sábado 17 de octubre. Se recibirán computadoras de escritorio, laptops, tablets, celulares, centrales telefónicas, servidores, routers, proyectores, impresoras, faxes, escáneres, videocasetes, máquinas de escribir, discos duros, memorias USB, tarjetas de video, sonido y tarjetas madre, cables, cargadores, accesorios de computadoras, cámaras, reproductores de audio y video, consolas de videojuegos, controles y baterías. Para más información, utiliza el botón de WhatsApp.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "50494388166",
+  "destacado": false,
+  "activo": true
+},
+{
+  "titulo": "Campaña de recolección de residuos eléctricos y electrónicos",
+  "organizador": "Honduras STEM Foundation, Plantatón HN y Televicentro, con apoyo de la Alcaldía Municipal del Distrito Central",
+  "categoria": "Comunidad y Desarrollo Social",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-17",
+  "fecha_fin": "2026-10-17",
+  "hora": "9:00 a. m. a 3:00 p. m.",
+  "lugar": "Televicentro, bulevar Suyapa",
+  "descripcion": "Campaña de recolección de residuos de aparatos eléctricos y electrónicos (RAEE). Una oportunidad para entregar equipos y accesorios en desuso para su reciclaje.",
+  "informacion_participacion": "Lleva tus aparatos al punto de recolección el sábado 17 de octubre. Se recibirán computadoras de escritorio, laptops, tablets, celulares, centrales telefónicas, servidores, routers, proyectores, impresoras, faxes, escáneres, videocasetes, máquinas de escribir, discos duros, memorias USB, tarjetas de video, sonido y tarjetas madre, cables, cargadores, accesorios de computadoras, cámaras, reproductores de audio y video, consolas de videojuegos, controles y baterías. Para más información, utiliza el botón de WhatsApp.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "50494388166",
+  "destacado": false,
+  "activo": true
+}
   ]
 }
