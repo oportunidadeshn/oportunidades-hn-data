@@ -9290,6 +9290,45 @@
     "restelpatiohn@outlook.com"
   ],
   "url_aplicar": ""
+    },
+    {
+  "id": "ohn-20261013-192424-1",
+  "titulo": "Asesor de ventas",
+  "empresa": "HERCO",
+  "ciudad": "Choluteca",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "HERCO busca asesores de ventas para formar parte de su equipo en Choluteca.",
+  "requisitos": [
+    "Pasante o graduado universitario de Ingeniería o carreras comerciales.",
+    "Conocimiento de productos ferreteros.",
+    "Manejo de unidades de peso, medida y longitud.",
+    "Conocimientos de computación y Microsoft Office.",
+    "Conocimientos de atención al cliente.",
+    "Habilidades de negociación.",
+    "Trabajo en equipo.",
+    "Facilidad de expresión.",
+    "Comunicación eficaz.",
+    "Escucha efectiva.",
+    "Proactividad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Completa tus datos en el formulario mediante el botón de aplicar.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": "https://portal.herco.hn/solicitud-colaborador"
     }
   ]
 }
