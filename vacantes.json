@@ -1,6 +1,122 @@
 {
   "actualizado": "2026-10-05",
   "vacantes": [
+    
+    {
+  "id": "ohn-20261013-222015-1",
+  "titulo": "Ingeniero de producto APQP PCB",
+  "empresa": "Empire Electronics",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Manufactura, Producción y Calidad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Empire Electronics busca un ingeniero de producto APQP PCB para su equipo en San Pedro Sula. La experiencia no es indispensable.",
+  "requisitos": [
+    "Graduado universitario de Ingeniería en Mecatrónica, Ingeniería Industrial o carrera afín.",
+    "Inglés avanzado.",
+    "Manejo de Microsoft Office.",
+    "Trabajo en equipo.",
+    "Proactividad.",
+    "Responsabilidad.",
+    "Capacidad para resolver problemas."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "jrruiz@empire.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "jrruiz@empire.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261013-222015-2",
+  "titulo": "Asesor comercial por categorías",
+  "empresa": "PROMACO",
+  "ciudad": "Choluteca",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "PROMACO busca un asesor comercial por categorías para Choluteca, con conocimientos de productos ferreteros, pintura y técnicas de venta aplicadas al rubro.",
+  "requisitos": [
+    "Pasante universitario de Licenciatura en Administración de Empresas, Mercadotecnia, Comercio Internacional o carreras afines.",
+    "Experiencia mínima de un año como asesor comercial en ventas.",
+    "Orientación a resultados y cumplimiento de metas.",
+    "Manejo de precios y descuentos.",
+    "Conocimientos de productos ferreteros y pintura.",
+    "Conocimientos de atención y servicio al cliente.",
+    "Manejo de técnicas de venta aplicadas al rubro ferretero.",
+    "Habilidades de negociación.",
+    "Comunicación efectiva.",
+    "Proactividad e iniciativa."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV en formato PDF mediante el botón de correo. También puedes comunicarte mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433452658",
+  "telefono": "",
+  "correo": "reclutamiento@promacohn.com",
+  "whatsapps": [
+    "50433452658"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@promacohn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261013-222015-3",
+  "titulo": "Consultoría por equipo completo para ESFAM rotativo",
+  "empresa": "ADRA Honduras",
+  "ciudad": "",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Consultoría",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Contratación de un equipo completo para implementar un Equipo de Salud Familiar (ESFAM) rotativo. Se requiere un equipo integrado por médico, licenciado en Enfermería y promotor. La postulación es por equipo completo y requiere una propuesta técnica y económica conforme a los términos de referencia.",
+  "requisitos": [
+    "Presentar un equipo integrado por médico, licenciado en Enfermería y promotor.",
+    "Presentar propuesta técnica con metodología y plan de trabajo.",
+    "Presentar propuesta económica con los honorarios mensuales del equipo.",
+    "Adjuntar los CV, títulos y documentos de identidad de todos los integrantes.",
+    "Leer y cumplir los términos de referencia antes de enviar la propuesta."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Consulta los términos de referencia mediante el botón de aplicar. Envía la propuesta técnica, económica y documentación legal a ambos correos disponibles, con el asunto: Consultoría ESFAM Rotativo.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "adquisiciones@adra.org.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "adquisiciones@adra.org.hn",
+    "gdubon@adra.org.hn"
+  ],
+  "url_aplicar": "https://www.canvaqr.com/RGU-2TtFPy"
+},
     {
   "id": "ohn-20261013-221205-1",
   "titulo": "Jefe de ventas de canal mayoreo",
