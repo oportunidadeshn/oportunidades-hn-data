@@ -9190,6 +9190,39 @@
   "telefonos": [],
   "correos": [],
   "url_aplicar": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kDmpM7SLnUu0Ik-IUSF9fjTXwUCS7J9KvxASedQ6XU5UOThGRzhOUzVXSFlZUVJVTk1OUjBXN09OWi4u"
+    }, 
+    {
+  "id": "ohn-20261013-190246-1",
+  "titulo": "Panadero",
+  "empresa": "Treats Boutique",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Treats Boutique busca un panadero con experiencia, pasión por la panadería y deseos de formar parte de su equipo.",
+  "requisitos": [
+    "Experiencia en panadería.",
+    "Pasión por la panadería.",
+    "Disposición para formar parte del equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Comunícate mediante el botón de WhatsApp para obtener más información sobre la vacante y cómo postularte.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50495660123",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50495660123"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
     }
   ]
 }
