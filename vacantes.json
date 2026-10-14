@@ -2,6 +2,108 @@
   "actualizado": "2026-10-05",
   "vacantes": [
     {
+  "id": "ohn-20261013-215508-1",
+  "titulo": "Supervisor operativo de agencia (vacacionista)",
+  "empresa": "Banco Atlántida",
+  "ciudad": "Santa Bárbara, Quimistán",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Asegurar el alcance de las metas de colocación y captación de clientes mediante productos y servicios de banca de personas, brindando atención personalizada. Será responsable integral de la agencia a su cargo durante la cobertura de vacaciones.",
+  "requisitos": [
+    "Licenciatura en Contaduría Pública y Finanzas, Banca y Finanzas, Administración de Empresas o carreras afines a las funciones del puesto.",
+    "Experiencia de 3 a 5 años en el área de caja.",
+    "Conocimientos en cuadres de caja, arqueos y reportería.",
+    "Experiencia en planeación de estrategias, capacitación de personal y apertura de mercado.",
+    "Experiencia en elaboración de reportes, cumplimiento de metas y servicio al cliente."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-19",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "jayalap@bancatlan.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "jayalap@bancatlan.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261013-215508-2",
+  "titulo": "Ejecutivo comercial",
+  "empresa": "Banco Atlántida",
+  "ciudad": "San Pedro Sula, Choloma",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Realizar acciones comerciales orientadas a la venta cruzada de productos y servicios de banca de personas, incluyendo vivienda, consumo, pasivos y tarjetas, así como nuevos productos que el banco lance al mercado. Brindar atención personal y diferenciada a clientes actuales y potenciales, de acuerdo con las directrices y planes comerciales.",
+  "requisitos": [
+    "Licenciatura en Mercadotecnia, Administración de Empresas, Banca y Finanzas, Ingeniería de Negocios, Ingeniería Industrial o carreras afines al puesto.",
+    "Experiencia de 2 a 4 años en el área comercial de instituciones financieras.",
+    "Experiencia en administración de portafolios de clientes, créditos y fondos de inversión.",
+    "Conocimientos en técnicas de venta y atención al cliente."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-19",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "jayalap@bancatlan.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "jayalap@bancatlan.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261013-215508-3",
+  "titulo": "Asesor comercial",
+  "empresa": "Banco Atlántida",
+  "ciudad": "San Pedro Sula, Villanueva",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Realizar acciones comerciales orientadas a la venta cruzada de productos y servicios de banca de personas, incluyendo vivienda, consumo, pasivos y tarjetas.",
+  "requisitos": [
+    "Licenciatura en Administración de Empresas, Banca y Finanzas, Contaduría Pública y Finanzas o Ingeniería de Negocios.",
+    "Experiencia de 2 a 4 años en caja, atención al cliente y ventas."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-13",
+  "fecha_vencimiento": "2026-10-19",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "jayalap@bancatlan.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "jayalap@bancatlan.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261013-215358-1",
   "titulo": "Coordinador de proyectos FAST",
   "empresa": "VisionFund Honduras OPDF",
