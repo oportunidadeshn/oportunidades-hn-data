@@ -595,6 +595,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "EnseñArte 2026",
+  "organizador": "Escuela Nacional de Bellas Artes (ENBA)",
+  "categoria": "Cultura y Arte",
+  "ciudad": "Comayagüela",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-22",
+  "fecha_fin": "2026-10-22",
+  "hora": "8:00 a. m. a 2:00 p. m.",
+  "lugar": "Parque La Libertad, frente a la Escuela Nacional de Bellas Artes",
+  "descripcion": "La Escuela Nacional de Bellas Artes invita a EnseñArte 2026, una jornada para conocer sus instalaciones, explorar sus talleres y descubrir las clases y disciplinas artísticas de su oferta educativa, como dibujo, pintura y otras expresiones artísticas.",
+  "informacion_participacion": "Dirigido a personas interesadas en el arte, en desarrollar sus habilidades o en conocer la oferta educativa de la ENBA. Asiste al Parque La Libertad, frente a la escuela, el jueves 22 de octubre, de 8:00 a. m. a 2:00 p. m.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWJ1UU7sMreSCsk2K4h5zyUJJpniDwat88k2wY1LdZXta8QDIV1TTPluE3S1N105X0csyOcaSz6F2zIXVw9J7tGsZwj0DvQjEDus4b7jXgaURjSHOEAnKDbxL_BrHg_5lKAreUNaA9u25h1nUMpL-BT1cgdBWfE5z6uUayjFIHRfBv-ZVq9SVRqoQz_V0/s1600/1001526667.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
