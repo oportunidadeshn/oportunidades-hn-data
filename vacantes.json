@@ -2,6 +2,195 @@
   "actualizado": "2026-10-05",
   "vacantes": [
     {
+  "id": "ohn-20261014-000000-01",
+  "titulo": "Asistente Contable Administrativo",
+  "empresa": "Rental Equipment",
+  "ciudad": "Choloma",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Rental Equipment busca un Asistente Contable Administrativo para su equipo en Choloma. Funciones: registrar pagos, facturas de compras y pagos recibidos; elaborar ofertas de venta y órdenes de compra de repuestos y combustible; dar seguimiento a cuentas por cobrar y por pagar; coordinar pagos a proveedores e impuestos municipales; realizar conciliaciones bancarias; elaborar facturas de venta y coordinar su entrega y cobro; controlar préstamos, tarjetas de crédito y cuentas intercompañía; dar seguimiento a rentas con clientes internos y externos; organizar y archivar documentación contable y administrativa.",
+  "requisitos": [
+    "Pasante universitario de Licenciatura en Finanzas o carreras afines (indispensable).",
+    "1 a 3 años de experiencia en puestos contables; preferible en empresas constructoras (indispensable).",
+    "Conocimiento de Normas Internacionales de Información Financiera (NIIF).",
+    "Manejo de SAP.",
+    "Excel avanzado y paquetes de Office.",
+    "Capacidad de análisis, comunicación asertiva y orientación a resultados.",
+    "Seguimiento, control y manejo de información confidencial."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-14",
+  "fecha_vencimiento": "2026-10-24",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "bolsaempleos@tecprohn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "bolsaempleos@tecprohn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261014-000000-02",
+  "titulo": "Diseñador Gráfico",
+  "empresa": "Jetstereo (Grupo ILP)",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Diseñar, desarrollar y animar materiales gráficos publicitarios que contribuyan al cumplimiento de los objetivos comerciales y de comunicación de la empresa, mediante soluciones visuales creativas, funcionales y alineadas con la identidad de la marca, garantizando calidad técnica, consistencia visual y cumplimiento de los tiempos de entrega establecidos.",
+  "requisitos": [
+    "Título universitario en Diseño Gráfico, Diseño Publicitario, comunicación visual o carrera afín.",
+    "Experiencia mínima de 2 años en retail, marcas comerciales o agencias de publicidad.",
+    "Experiencia desarrollando piezas para campañas digitales y promociones comerciales.",
+    "Experiencia trabajando con equipos multidisciplinarios (marketing, contenido, producción).",
+    "Manejo de Adobe Illustrator, Photoshop e InDesign.",
+    "Competencias: creatividad e innovación, comunicación visual, atención al detalle, gestión del tiempo y cumplimiento de plazos, y gestión de múltiples proyectos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-14",
+  "fecha_vencimiento": "2026-10-24",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "susan.fanconi@grupoilp.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "susan.fanconi@grupoilp.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261014-000000-03",
+  "titulo": "Guardia de Seguridad",
+  "empresa": "La Colonia",
+  "ciudad": "Choluteca",
+  "categoria": "Seguridad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Colonia contrata un Guardia de Seguridad para Choluteca, con 2 años de experiencia.",
+  "requisitos": [
+    "Primaria o secundaria completa.",
+    "Baja militar (preferiblemente).",
+    "2 años de experiencia.",
+    "Residir en Choluteca.",
+    "Transporte propio (preferiblemente)."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-14",
+  "fecha_vencimiento": "2026-10-24",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "97509984",
+  "telefono": "",
+  "correo": "kzeron@lacolonia.com",
+  "whatsapps": [
+    "97509984"
+  ],
+  "telefonos": [],
+  "correos": [
+    "kzeron@lacolonia.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261014-000000-04",
+  "titulo": "Planner de Operaciones y Proyectos",
+  "empresa": "Energía PD",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Gestionar el control de los proyectos, los recursos y la información de la unidad. Asegurar que los proyectos se entreguen a tiempo, dentro del presupuesto previsto y con el margen de ganancia establecido, facilitando además el seguimiento de compras y la automatización de reportes para que la operación regional funcione de manera ordenada, predecible y continua. Plaza permanente. Zona: San Pedro Sula.",
+  "requisitos": [],
+  "beneficios": [
+    "Plaza permanente."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-14",
+  "fecha_vencimiento": "2026-10-24",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "94389532",
+  "telefono": "",
+  "correo": "empleo@energiapd.com",
+  "whatsapps": [
+    "94389532"
+  ],
+  "telefonos": [],
+  "correos": [
+    "empleo@energiapd.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261014-000000-05",
+  "titulo": "Ejecutivo(a) de Ventas",
+  "empresa": "Diferra",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Diferra busca un(a) Ejecutivo(a) de Ventas para Tegucigalpa, con experiencia en venta de productos masivos, manejo de cartera y cumplimiento de metas.",
+  "requisitos": [
+    "Bachillerato completo (mínimo).",
+    "Deseable: estudios universitarios en Administración, Mercadeo o afines.",
+    "Mínimo 2 años en venta de productos masivos.",
+    "Experiencia en manejo de cartera y cumplimiento de metas.",
+    "Técnicas de ventas y negociación.",
+    "Manejo de CRM (deseable).",
+    "Conocimiento y experiencia en venta de productos desechables.",
+    "Experiencia en canales: institucionales, canal detalle y canal moderno.",
+    "Manejo de clientes (mayoristas, distribuidores, cadenas de supermercados, tiendas de conveniencia, etc.).",
+    "Análisis de mercado, prospección y desarrollo de cartera.",
+    "Vehículo propio (deseable).",
+    "Licencia de conducir vigente.",
+    "Disponibilidad para trabajo de campo.",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-14",
+  "fecha_vencimiento": "2026-10-24",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "92549565",
+  "telefono": "",
+  "correo": "falvarenga@diferra.com",
+  "whatsapps": [
+    "92549565"
+  ],
+  "telefonos": [],
+  "correos": [
+    "falvarenga@diferra.com"
+  ],
+  "url_aplicar": ""
+},
+    {
   "id": "ohn-20261014-093512-37",
   "titulo": "Motorista",
   "empresa": "Empresa confidencial",
