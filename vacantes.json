@@ -2,6 +2,40 @@
   "actualizado": "2026-10-14",
   "vacantes": [
   {
+  "id": "ohn-20261015-091328-39",
+  "titulo": "Motorista - Con experiencia",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Transportar materiales de construcción o eléctricos, cargar, descargar, transportar materiales de manera segura y eficiente, llevar documentación de entregas, remisiones y reportes de viaje.",
+  "requisitos": [
+    "1 o mas años de experiencia, licencia vigente preferible licencia pesada, residir en Tegucigalpa, disponibilidad inmediata, conducir vehículo mecánico."
+  ],
+  "beneficios": [
+    "Todos los beneficios por ley"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nAsunto del correo: Vacante Motorista",
+  "fecha_publicacion": "2026-10-15",
+  "fecha_vencimiento": "2026-11-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "hnrecluta2026@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "hnrecluta2026@gmail.com"
+  ],
+  "url_aplicar": ""
+  },
+    
+    {
   "id": "ohn-20261015-141910-1",
   "titulo": "Docente de Teatro",
   "empresa": "Dowal School",
