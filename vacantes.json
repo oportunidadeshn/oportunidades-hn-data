@@ -2,6 +2,81 @@
   "actualizado": "2026-10-14",
   "vacantes": [
     {
+  "id": "ohn-20261014-214713-1",
+  "titulo": "Recepcionista Bilingüe",
+  "empresa": "Holiday Inn Express",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Holiday Inn Express Tegucigalpa busca un Recepcionista Bilingüe con experiencia en puestos similares, inglés avanzado y excelente atención al cliente.",
+  "requisitos": [
+    "Bachiller o estudiante universitario de Turismo, Mercadotecnia, Administración de Empresas o carreras afines.",
+    "1 año de experiencia en puestos similares.",
+    "Inglés avanzado indispensable.",
+    "Disponibilidad de horarios.",
+    "Responsabilidad.",
+    "Excelente atención al cliente."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-14",
+  "fecha_vencimiento": "2026-10-24",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "andrea.flores@agrisal.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "andrea.flores@agrisal.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261014-214713-2",
+  "titulo": "Asistente de Recursos Humanos",
+  "empresa": "Tato's Wings",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Recursos Humanos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Tato's Wings busca un Asistente de Recursos Humanos para Tegucigalpa. Responsabilidades: elaborar y actualizar expedientes físicos y digitales; preparar contratos, adendas, certificaciones laborales y cartas; publicar ofertas de empleo; filtrar currículums y coordinar entrevistas; recopilar referencias laborales y coordinar la inducción de nuevos ingresos; recopilar novedades para el cálculo de nómina, como horas extra, ausencias y bonos; gestionar el enlace con proveedores de beneficios y entidades de seguridad social o previsionales; atender consultas de colaboradores sobre políticas, beneficios y trámites; apoyar en eventos internos, capacitaciones y actividades de bienestar.",
+  "requisitos": [
+    "Licenciatura en Recursos Humanos, Administración de Empresas, Psicología Industrial o carreras afines, o pasante universitario avanzado.",
+    "Experiencia mínima de 2 años en puestos similares.",
+    "Experiencia en reclutamiento masivo.",
+    "Sexo indistinto.",
+    "Buena presentación.",
+    "Edad de 20 a 30 años.",
+    "Disponibilidad inmediata.",
+    "Transporte propio deseable."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-14",
+  "fecha_vencimiento": "2026-10-24",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50493847847",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50493847847"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261014-213935-1",
   "titulo": "Auxiliar de Alimentos y Bebidas",
   "empresa": "Monalisa",
