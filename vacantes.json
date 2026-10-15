@@ -2,6 +2,43 @@
   "actualizado": "2026-10-14",
   "vacantes": [
     {
+  "id": "ohn-20261014-212305-1",
+  "titulo": "Asistente de Operaciones, Ventas y Marketing Digital",
+  "empresa": "Skin Beauty Bar",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Medio tiempo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Skin Beauty Bar busca una persona para apoyar en atención al cliente, cierre de ventas, pedidos y operaciones de tienda, así como en actividades de redes sociales y marketing digital. Plaza de medio tiempo en San Pedro Sula.",
+  "requisitos": [
+    "Proactividad, organización y responsabilidad.",
+    "Facilidad para atender clientes y concretar ventas.",
+    "Conocimientos básicos de skincare coreano y sus productos.",
+    "Creatividad, interés en redes sociales y desenvolvimiento frente a cámara.",
+    "Orden y atención al detalle para apoyar en pedidos y operaciones de tienda.",
+    "Iniciativa, buena comunicación y disposición para aprender y trabajar en equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-14",
+  "fecha_vencimiento": "2026-10-24",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50496165977",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50496165977"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+    },
+    
+    {
   "id": "ohn-20261014-211742-1",
   "titulo": "Médico General para coberturas",
   "empresa": "Red Medicatel",
