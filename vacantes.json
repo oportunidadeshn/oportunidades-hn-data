@@ -2,6 +2,44 @@
   "actualizado": "2026-10-14",
   "vacantes": [
   {
+  "id": "ohn-20261015-104111-1",
+  "titulo": "Operario de Planta",
+  "empresa": "Zümo",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Manufactura, Producción y Calidad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Zümo busca un Operario de Planta para San Pedro Sula, con secundaria concluida, manejo básico de computación y disponibilidad inmediata.",
+  "requisitos": [
+    "Sexo masculino.",
+    "Edad entre 20 y 45 años.",
+    "Secundaria concluida.",
+    "Manejo básico de computación.",
+    "Disponibilidad inmediata.",
+    "Presentar antecedentes penales."
+  ],
+  "beneficios": [
+    "Salario competitivo."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-15",
+  "fecha_vencimiento": "2026-10-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433550951",
+  "telefono": "",
+  "correo": "agroindustriasfreshco@gmail.com",
+  "whatsapps": ["50433550951"],
+  "telefonos": [],
+  "correos": ["agroindustriasfreshco@gmail.com"],
+  "url_aplicar": ""
+  },
+    
+    
+    {
   "id": "ohn-20261014-234502-1",
   "titulo": "Analista de Reclutamiento y Operaciones de RRHH",
   "empresa": "PROMACO",
