@@ -775,6 +775,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    }, 
+    {
+  "titulo": "Gran Feria de Empleo 2026 - Catacamas",
+  "organizador": "INFOP, con apoyo de Sí Empleo y la Cámara de Comercio e Industrias de Catacamas",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Catacamas",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-13",
+  "fecha_fin": "2026-11-13",
+  "hora": "8:00 a. m. a 5:00 p. m.",
+  "lugar": "Centro Regional INFOP Catacamas, Olancho",
+  "descripcion": "Feria de empleo para conectar a empresas e instituciones de distintos sectores productivos con personas que buscan oportunidades laborales. Las organizaciones participantes podrán presentar sus vacantes y contactar directamente con posibles candidatos.",
+  "informacion_participacion": "Participación gratuita. Las empresas e instituciones interesadas en participar pueden solicitar información e inscribirse escribiendo a empleo@infop.hn. Los perfiles y las vacantes disponibles todavía no han sido detallados.",
+  "imagen": "",
+  "enlace": "https://www.radiohrn.hn/infop-anuncia-gran-feria-de-empleo-en-olancho-fecha-y-como-participar-2026-10-14",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
