@@ -2,6 +2,40 @@
   "actualizado": "2026-10-14",
   "vacantes": [
     {
+  "id": "ohn-20261014-213935-1",
+  "titulo": "Auxiliar de Alimentos y Bebidas",
+  "empresa": "Monalisa",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Medio tiempo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Monalisa busca una persona responsable y organizada para su equipo de producción en Tegucigalpa. Funciones: preparar ingredientes y bases para bebidas; elaborar insumos y preparaciones de cocina; organizar, etiquetar y almacenar productos; apoyar en el control de inventario y mantenimiento del área de trabajo. Jornada de medio tiempo o con horario flexible, con posibilidad de ampliarla según las necesidades de producción.",
+  "requisitos": [
+    "Orden, proactividad y atención al detalle.",
+    "Buenas prácticas de higiene.",
+    "Experiencia previa en cocina o preparación de alimentos y bebidas deseable, no indispensable."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV e indica tu disponibilidad mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-14",
+  "fecha_vencimiento": "2026-10-24",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50497050582",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50497050582"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+    },
+    
+    {
   "id": "ohn-20261014-212305-1",
   "titulo": "Asistente de Operaciones, Ventas y Marketing Digital",
   "empresa": "Skin Beauty Bar",
