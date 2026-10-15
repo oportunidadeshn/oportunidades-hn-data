@@ -1,44 +1,7 @@
 {
   "actualizado": "2026-10-14",
   "vacantes": [
-    {
-  "id": "ohn-20261014-000000-07",
-  "titulo": "Coordinador de Logística",
-  "empresa": "Grupo IB",
-  "ciudad": "Tegucigalpa",
-  "categoria": "Logística, Compras y Cadena de Suministro",
-  "modalidad": "Presencial",
-  "tipo_empleo": "Tiempo completo",
-  "sin_experiencia": false,
-  "pasantia": false,
-  "descripcion": "Grupo IB, agentes de aduana y logística, busca un profesional comprometido, organizado y orientado a resultados para el puesto de Coordinador de Logística en Tegucigalpa. Funciones: dar seguimiento a trámites aduaneros de importación y exportación; mantener comunicación constante con clientes, navieras y proveedores; gestionar documentación, permisos y liquidaciones aduaneras; monitorear el estatus de las cargas y coordinar los pagos relacionados con las operaciones; elaborar reportes y asegurar el cumplimiento de los procesos establecidos.",
-  "requisitos": [
-    "Licenciatura en Administración Aduanera, Comercio Internacional o carrera afín.",
-    "Experiencia de 1 a 2 años en empresas aduaneras o en puestos similares.",
-    "Conocimiento en procesos de importación, exportación y legislación aduanera.",
-    "Manejo intermedio de Microsoft Office.",
-    "Inglés básico.",
-    "Conocimiento y manejo de sistemas SARAH.",
-    "Dominio de INCOTERMS.",
-    "Competencias: orientación al cliente y a resultados, trabajo en equipo, comunicación efectiva, proactividad e iniciativa, resolución de problemas y toma de decisiones, responsabilidad e integridad, capacidad de análisis, organización y seguimiento de procesos."
-  ],
-  "beneficios": [],
-  "como_aplicar": "Envía tu CV mediante el botón de correo, colocando en el asunto: Coordinador de Logística - Tegucigalpa.",
-  "fecha_publicacion": "2026-10-14",
-  "fecha_vencimiento": "2026-10-24",
-  "destacada": false,
-  "destacada_hasta": "",
-  "activa": true,
-  "whatsapp": "",
-  "telefono": "",
-  "correo": "rrhh@grupoib.com",
-  "whatsapps": [],
-  "telefonos": [],
-  "correos": [
-    "rrhh@grupoib.com"
-  ],
-  "url_aplicar": ""
-},
+    
 {
   "id": "ohn-20261014-000000-08",
   "titulo": "Mecánico",
