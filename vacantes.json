@@ -1,7 +1,46 @@
 {
   "actualizado": "2026-10-14",
   "vacantes": [
-    
+    {
+  "id": "ohn-20261014-000000-14",
+  "titulo": "Nutricionista (Coordinador Nutrición)",
+  "empresa": "Universidad Cristiana Evangélica Nuevo Milenio (UCENM)",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Educación",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Universidad Cristiana Evangélica Nuevo Milenio (UCENM) busca un profesional de la Nutrición comprometido, con experiencia y pasión por la formación de las nuevas generaciones, para integrarse a su equipo en Tegucigalpa como Coordinador de Nutrición.",
+  "requisitos": [
+    "Licenciatura en Nutrición.",
+    "Experiencia profesional mínima de 3 años.",
+    "Disponibilidad de tiempo completo.",
+    "Experiencia en docencia a nivel superior.",
+    "Diplomado en Docencia a nivel superior.",
+    "Residir en Tegucigalpa o zonas aledañas."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum mediante el botón de correo, con el asunto: Coordinador Nutrición Tegucigalpa.\nPara más información, comunícate mediante el botón de WhatsApp o al teléfono de la universidad.",
+  "fecha_publicacion": "2026-10-14",
+  "fecha_vencimiento": "2026-10-24",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "95596009",
+  "telefono": "25655555",
+  "correo": "rrhh@ucenm.edu.hn",
+  "whatsapps": [
+    "95596009"
+  ],
+  "telefonos": [
+    "25655555"
+  ],
+  "correos": [
+    "rrhh@ucenm.edu.hn"
+  ],
+  "url_aplicar": ""
+    },
 {
   "id": "ohn-20261014-000000-08",
   "titulo": "Mecánico",
