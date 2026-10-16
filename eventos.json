@@ -848,6 +848,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
-}
+},
+    {
+  "titulo": "Caminata Rosa 2026",
+  "organizador": "Ciudad Mujer y Gobierno de Honduras",
+  "categoria": "Salud y Bienestar",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-18",
+  "fecha_fin": "2026-10-18",
+  "hora": "9:30 a. m.",
+  "lugar": "Salida: Plaza Tigo, Bulevar Morazán. Destino: Centro Comercial Los Castaños.",
+  "descripcion": "Caminata gratuita para crear conciencia sobre la prevención y detección temprana del cáncer de mama, bajo el mensaje: A tiempo todo puede cambiar, mírate con amor.",
+  "informacion_participacion": "Participación gratuita. Presentarse el domingo 18 de octubre de 2026 a las 9:30 a. m. en Plaza Tigo, Bulevar Morazán, para caminar hacia el Centro Comercial Los Castaños.",
+  "imagen": "https://scontent.ftgu1-3.fna.fbcdn.net/v/t39.99422-6/848468704_1113616304538515_126739497199636290_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s1080x1350&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEi9cvwjovJkNhJwI0tCu9ireqRPoLHjbGt6pE-gseNsW9UqzvLa2acFwNtB7Z7l2ziFX9CG69Rfka8GXuU-63L&_nc_ohc=XLWfBx_73VQQ7kNvwEnkBUd&_nc_oc=Adr5ngTrmfFn4ytL4VU6kNHcMFChHJVUxnjZZQJP4K2oR75eLcwAVsvmsC6Env2IVrY&_nc_zt=14&_nc_ht=scontent.ftgu1-3.fna&_nc_gid=PZbuvpy6hFnmcj7yyD6lyw&_nc_ss=7b2a8&oh=00_AQNOQLqE_xtdkH0ZgOoBO4uoSpRDUgTzU9Vs-vhhgV_1Ng&oe=6AD871F3",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+    }
   ]
 }
