@@ -793,6 +793,61 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
-    }
+    }, 
+
+    {
+  "titulo": "Jornada de entrevistas CHARLY – Santa Rosa de Copán",
+  "organizador": "CHARLY",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Santa Rosa de Copán",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-19",
+  "fecha_fin": "2026-10-21",
+  "hora": "10:00 a. m. a 3:00 p. m., cada día",
+  "lugar": "Segundo nivel de Mall Uniplaza",
+  "descripcion": "Jornada de entrevistas para vacantes en Ventas y Auxiliar de Bodega. Dirigida a jóvenes universitarios de 18 a 27 años, con energía, dinamismo, pasión por la moda y disponibilidad de horario, interesados en adquirir experiencia en retail.",
+  "informacion_participacion": "Presentarse para entrevista el lunes 19, martes 20 o miércoles 21 de octubre, de 10:00 a. m. a 3:00 p. m.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+},
+{
+  "titulo": "Jornada de entrevistas CHARLY – La Ceiba",
+  "organizador": "CHARLY",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "La Ceiba",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-19",
+  "fecha_fin": "2026-10-21",
+  "hora": "10:00 a. m. a 3:00 p. m., cada día",
+  "lugar": "Segundo nivel de Mall Megaplaza",
+  "descripcion": "Jornada de entrevistas para vacantes en Ventas y Auxiliar de Bodega. Dirigida a jóvenes universitarios de 18 a 27 años, con energía, dinamismo, pasión por la moda y disponibilidad para viajar, interesados en adquirir experiencia en retail.",
+  "informacion_participacion": "Presentarse con CV impreso el lunes 19, martes 20 o miércoles 21 de octubre, de 10:00 a. m. a 3:00 p. m.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+},
+{
+  "titulo": "Jornada de entrevistas CHARLY – Catacamas",
+  "organizador": "CHARLY",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Catacamas",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-19",
+  "fecha_fin": "2026-10-21",
+  "hora": "10:00 a. m. a 3:00 p. m., cada día",
+  "lugar": "Tienda CHARLY, primer nivel de Mall Premier",
+  "descripcion": "Jornada de entrevistas para vacantes en Ventas y Auxiliar de Bodega. Dirigida a jóvenes universitarios de 18 a 27 años, con energía, dinamismo, pasión por la moda y disponibilidad de horario, interesados en adquirir experiencia en retail.",
+  "informacion_participacion": "Presentarse con CV impreso el lunes 19, martes 20 o miércoles 21 de octubre, de 10:00 a. m. a 3:00 p. m.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+}
   ]
 }
