@@ -2,6 +2,125 @@
   "actualizado": "2026-10-14",
   "vacantes": [
   {
+  "id": "ohn-20261015-000000-03",
+  "titulo": "Coordinador Técnico Programático PrEP",
+  "empresa": "Asociación PASMO",
+  "ciudad": "A nivel nacional",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Asociación PASMO en Honduras busca personas con estudios en medicina general, interna o familiar para el puesto de Coordinador Técnico Programático PrEP. El puesto participa en la creación y coordina, implementa, evalúa, fortalece y mejora las actividades clínicas que PASMO ejecuta en el país, incluyendo la respuesta al VIH (PrEP, ARV descentralizados), ITS, planificación familiar, salud materno-infantil, infantil y enfermedades crónicas no transmisibles, dirigidas a las poblaciones más necesitadas, principalmente a través de socios del sector privado y, cuando se requiera, del sector público. Funciones: implementación de proyectos clínicos (PrEP, ARV, ITS, otros) en establecimientos de salud del sector privado y público; capacitación de personal de clínicas y laboratorios en temas técnicos y de atención a usuarios; aseguramiento y mejora de la calidad y del cuidado; representación de PASMO y participación en mesas técnicas; fortalecimiento del personal de PASMO en temas clínicos referentes a su puesto.",
+  "requisitos": [
+    "Médico(a) general graduado y acreditado (con idoneidad) en el país, con especialidades médicas como Medicina General, Medicina Familiar, Medicina Interna o Salud Pública.",
+    "Experiencia en el ejercicio profesional.",
+    "Conocimiento de la temática de VIH y continuo de la atención.",
+    "Capacitación y supervisión de personal clínico.",
+    "Conocimiento del sector privado en temas de prestación de servicios y sistemas organizativos.",
+    "Habilidades en atención al cliente, manejo de la confidencialidad, calidad humana y empatía.",
+    "Experiencia comprobable de trabajo con la población objetivo.",
+    "Experiencia en gestión, implementación y evaluación de proyectos.",
+    "Habilidades de análisis y uso de datos para toma de decisiones, enfoque en resultados, atención al detalle, comunicación eficaz, creatividad, iniciativa y flexibilidad, organización, planificación y control."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Jornada laboral de lunes a viernes.",
+    "Estabilidad laboral y ambiente profesional de trabajo."
+  ],
+  "como_aplicar": "Envía tu currículum mediante el botón de correo, indicando en el asunto: Coordinador Técnico Programático PrEP.",
+  "fecha_publicacion": "2026-10-15",
+  "fecha_vencimiento": "2026-10-20",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rhhonduras@pasmo.org",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rhhonduras@pasmo.org"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261015-000000-04",
+  "titulo": "Auxiliar de Carnes y Mariscos",
+  "empresa": "La Colonia",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Colonia contrata un Auxiliar de Carnes y Mariscos para San Pedro Sula, con experiencia en servicio al cliente.",
+  "requisitos": [
+    "Género indistinto.",
+    "Experiencia en servicio al cliente.",
+    "Poseer título de secundaria.",
+    "Excelente presentación, dinámico, proactivo.",
+    "Disponibilidad de trabajar en fines de semana, días feriados y en turnos rotativos.",
+    "Residir en San Pedro Sula."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-15",
+  "fecha_vencimiento": "2026-10-25",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "93458937",
+  "telefono": "",
+  "correo": "mchinchilla@lacolonia.com",
+  "whatsapps": [
+    "93458937"
+  ],
+  "telefonos": [],
+  "correos": [
+    "mchinchilla@lacolonia.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261015-000000-05",
+  "titulo": "Guardia de Seguridad",
+  "empresa": "La Colonia",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Seguridad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Colonia contrata un Guardia de Seguridad para San Pedro Sula, con 2 años de experiencia.",
+  "requisitos": [
+    "Primaria o secundaria completa.",
+    "Baja militar (preferiblemente).",
+    "2 años de experiencia.",
+    "Residir en San Pedro Sula.",
+    "Transporte propio (preferiblemente)."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-15",
+  "fecha_vencimiento": "2026-10-25",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "93458937",
+  "telefono": "",
+  "correo": "mchinchilla@lacolonia.com",
+  "whatsapps": [
+    "93458937"
+  ],
+  "telefonos": [],
+  "correos": [
+    "mchinchilla@lacolonia.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261015-233534-1",
   "titulo": "Auxiliar Contable",
   "empresa": "Santillana",
