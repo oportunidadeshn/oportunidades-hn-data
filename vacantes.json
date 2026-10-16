@@ -2,6 +2,41 @@
   "actualizado": "2026-10-14",
   "vacantes": [
   {
+  "id": "ohn-20261016-122555-1",
+  "titulo": "Director Técnico",
+  "empresa": "Electrolit",
+  "ciudad": "Honduras",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Electrolit busca Director Técnico en Honduras para liderar la gestión técnica y regulatoria, fortalecer los procesos de calidad y asegurar el cumplimiento de los requisitos sanitarios aplicables, manteniendo los estándares de calidad y seguridad de sus productos.",
+  "requisitos": [
+    "Título universitario en Química y Farmacia o Químico Farmacéutico, según la denominación oficial del título.",
+    "Colegiación vigente ante el Colegio Químico Farmacéutico de Honduras.",
+    "Solvencia profesional vigente y al día, requisito excluyente.",
+    "Mínimo siete años de experiencia en dirección técnica, asuntos regulatorios o posiciones afines dentro de la industria farmacéutica.",
+    "Conocimientos sólidos en aseguramiento de la calidad y cumplimiento de la normativa sanitaria.",
+    "Experiencia en elaboración, implementación y seguimiento de procedimientos operativos estandarizados (POE)."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Enviar CV al correo indicado, colocando en el asunto: Director Técnico – Honduras.",
+  "fecha_publicacion": "2026-10-16",
+  "fecha_vencimiento": "2026-10-26",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "Seleccionlatam@electrolit.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": ["Seleccionlatam@electrolit.com"],
+  "url_aplicar": ""
+  },
+    
+    {
   "id": "ohn-20261016-122109-1",
   "titulo": "Asesoras de Venta",
   "empresa": "SLS Móvil",
