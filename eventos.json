@@ -938,6 +938,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Charla gratuita: Buenas prácticas de higiene según Codex Alimentarius",
+  "organizador": "ANDI y CERTEC",
+  "categoria": "Educación y Formación",
+  "ciudad": "A nivel nacional",
+  "modalidad": "Virtual",
+  "fecha_inicio": "2026-10-23",
+  "fecha_fin": "2026-10-23",
+  "hora": "2:00 p. m., hora de Honduras",
+  "lugar": "Vía Zoom",
+  "descripcion": "Charla gratuita orientada a aplicar prácticas de higiene e inocuidad alimentaria en los procesos de manipulación de alimentos, conforme a los lineamientos establecidos en el Codex Alimentarius. Facilitador: Ing. Sully Chieza.",
+  "informacion_participacion": "Completar el formulario de inscripción para participar en la charla virtual del viernes 23 de octubre de 2026 a las 2:00 p. m., hora de Honduras.",
+  "imagen": "https://scontent.ftgu3-4.fna.fbcdn.net/v/t39.30808-6/849333103_1548097950684960_3613601106415258142_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s1080x1350&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEZF7LeOM2FFb9yaLgjmy0NCRzMLBZu5fIJHMwsFm7l8hcEOeop8nN0ooexc5SH1HqI7uH58fZP2ZSCEAcmYPb9&_nc_ohc=HvdMe-0lBvYQ7kNvwET8aKG&_nc_oc=AdrQ7WZfqKZ6xAsfnw0i5vJd7zHslBYSxLUNRlrOoZR26c9LOIF4UDoLvj5puZsie8OSDt8aym5ufW-PCHM0-clj&_nc_zt=23&_nc_ht=scontent.ftgu3-4.fna&_nc_gid=3CW11QLwKUy8eGrZVFc9aw&_nc_ss=7b2a8&oh=00_AQP89lDMWtVFah898jTCeDgJjWMjoQt2FFDQ2C8WUXEUMA&oe=6AD8A8AA",
+  "enlace": "https://forms.gle/mezM1SZYTosCsjsW7",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
