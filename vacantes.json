@@ -1,7 +1,204 @@
 {
   "actualizado": "2026-10-14",
   "vacantes": [
-  {
+ {
+  "id": "ohn-20261016-221909-1",
+  "titulo": "Asistente de CX e Investigación de Mercado",
+  "empresa": "Jetstereo",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Monitorear, evaluar y validar la experiencia del cliente y del colaborador en los distintos puntos de contacto de la organización, identificando oportunidades de mejora del servicio y la satisfacción. Apoyar estudios e investigaciones de mercado mediante el levantamiento, análisis y documentación de información para la toma de decisiones.",
+  "requisitos": [
+    "Graduado universitario en Mercadeo, Administración de Empresas, Ingeniería Industrial o carreras afines.",
+    "Experiencia mínima de 2 años en Experiencia del Cliente (CX), Servicio al Cliente, Investigación de Mercados o áreas relacionadas.",
+    "Conocimiento en mapeo de experiencia del cliente, medición de satisfacción y evaluación de puntos de contacto a lo largo del customer journey.",
+    "Experiencia en levantamiento de información mediante entrevistas, observación en campo, cliente oculto, encuestas o metodologías de investigación.",
+    "Capacidad para identificar oportunidades de mejora y generar hallazgos que optimicen la experiencia del cliente.",
+    "Habilidad para elaborar reportes, documentar resultados y dar seguimiento a iniciativas de mejora.",
+    "Orientación a resultados, atención al detalle, comunicación efectiva y trabajo en equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum a Isis.zambrano@grupoilp.hn.",
+  "fecha_publicacion": "2026-10-16",
+  "fecha_vencimiento": "2026-10-26",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "Isis.zambrano@grupoilp.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "Isis.zambrano@grupoilp.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261016-221909-2",
+  "titulo": "Oficial de Tienda",
+  "empresa": "Supermercados La Colonia",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supermercados La Colonia busca Oficial de Tienda para San Pedro Sula.",
+  "requisitos": [
+    "Género indistinto.",
+    "Poseer título de secundaria.",
+    "Excelente presentación y dinamismo.",
+    "Disponibilidad para trabajar fines de semana, días feriados y turnos rotativos.",
+    "Residir en el casco urbano de San Pedro Sula."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida a ysoriano@lacolonia.com. También puedes comunicarte por WhatsApp al +504 9952-0196 o consultar el portal de empleos.",
+  "fecha_publicacion": "2026-10-16",
+  "fecha_vencimiento": "2026-10-26",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50499520196",
+  "telefono": "",
+  "correo": "ysoriano@lacolonia.com",
+  "whatsapps": [
+    "50499520196"
+  ],
+  "telefonos": [],
+  "correos": [
+    "ysoriano@lacolonia.com"
+  ],
+  "url_aplicar": "https://empleos.lacolonia.com"
+},
+{
+  "id": "ohn-20261016-221909-3",
+  "titulo": "Analista Programador Oracle Forms",
+  "empresa": "Grupo Consisa",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Desarrollar, mantener y mejorar aplicaciones en Oracle Forms, incluyendo pantallas, reportes y procesos. Realizar pruebas unitarias e integrales, elaborar manuales técnicos y de usuario y documentar los cambios en el diccionario de datos, garantizando el correcto funcionamiento de los sistemas y la calidad de los procesos.",
+  "requisitos": [
+    "1 año de experiencia como Analista Programador en Oracle Forms.",
+    "Dominio de Oracle Forms y Oracle Reports.",
+    "PL/SQL avanzado, incluyendo manejo de cursores, excepciones y estructuras complejas.",
+    "Conocimientos sólidos en modelado de datos y SQL.",
+    "Conocimientos en Java y GitHub.",
+    "Conocimientos en HTML, JavaScript y Oracle Report Builder.",
+    "Capacidad para realizar pruebas unitarias e integrales y elaborar documentación técnica y de usuario.",
+    "Trabajo en equipo y colaboración.",
+    "Disponibilidad para trabajar presencialmente en Tegucigalpa."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum a reclutamientohonduras@consisahn.com con el asunto ANALISTA PROGRAMADOR ORACLE e indica tu pretensión salarial.",
+  "fecha_publicacion": "2026-10-16",
+  "fecha_vencimiento": "2026-10-26",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamientohonduras@consisahn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamientohonduras@consisahn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261016-221909-4",
+  "titulo": "Gerente de Apoyo",
+  "empresa": "Flushing Cosmetics",
+  "ciudad": "Copán, Lempira",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Impulsar el rendimiento del equipo de ventas y fortalecer los resultados comerciales en la región de occidente, en Copán y Lempira. El trabajo es 100% en campo y requiere movilización dentro de la región.",
+  "requisitos": [
+    "Graduado a nivel diversificado.",
+    "Experiencia liderando equipos y desarrollando talento en ventas.",
+    "Pasión por el trabajo en campo, proactividad y orientación al cumplimiento de objetivos comerciales.",
+    "Disponibilidad para movilizarse dentro de la región.",
+    "Licencia de conducir vigente tipo C o B.",
+    "Vehículo propio para el desarrollo de actividades comerciales."
+  ],
+  "beneficios": [
+    "Salario competitivo e incentivos en efectivo.",
+    "Aporte económico para movilización y viáticos.",
+    "Excelente ambiente laboral y oportunidades de crecimiento dentro de la empresa.",
+    "Ambiente de trabajo dinámico y colaborativo con un equipo líder en cada distrito.",
+    "Reconocimiento por desempeño y cumplimiento de metas."
+  ],
+  "como_aplicar": "Postúlate por WhatsApp al +504 9342-2446.",
+  "fecha_publicacion": "2026-10-16",
+  "fecha_vencimiento": "2026-10-26",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50493422446",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50493422446"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261016-221909-5",
+  "titulo": "Gerente de Apoyo",
+  "empresa": "Flushing Cosmetics",
+  "ciudad": "San Pedro Sula, Choloma",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Impulsar el rendimiento del equipo de ventas y fortalecer los resultados comerciales en el casco urbano de San Pedro Sula y Choloma. El trabajo es 100% en campo.",
+  "requisitos": [
+    "Capacidad de liderazgo y trabajo en equipo.",
+    "Experiencia en ventas, atención al cliente o gestión de equipos.",
+    "Facilidad de comunicación, proactividad y orientación a resultados.",
+    "Disponibilidad para trabajo en campo.",
+    "Vehículo propio indispensable."
+  ],
+  "beneficios": [
+    "Salario competitivo y atractivo plan de comisiones.",
+    "Apoyo de transporte para movilización en la zona.",
+    "Desarrollo profesional y oportunidades de crecimiento.",
+    "Ambiente de trabajo dinámico y colaborativo.",
+    "Reconocimiento por desempeño y resultados."
+  ],
+  "como_aplicar": "Postúlate por WhatsApp al +504 9342-2446.",
+  "fecha_publicacion": "2026-10-16",
+  "fecha_vencimiento": "2026-10-26",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50493422446",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50493422446"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261016-221443-1",
   "titulo": "Asistente de Bodega",
   "empresa": "Ferretería Hogaris",
