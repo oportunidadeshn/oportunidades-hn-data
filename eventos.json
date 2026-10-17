@@ -992,6 +992,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Feria de empleo CCICH – Especias Don Julio",
+  "organizador": "Cámara de Comercio e Industria de Choloma (CCICH) y Especias Don Julio",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Choloma",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-20",
+  "fecha_fin": "2026-10-20",
+  "hora": "8:00 a. m. a 1:00 p. m.",
+  "lugar": "Auditorio CCICH, Mall Las Américas, Choloma.",
+  "descripcion": "La CCICH y Especias Don Julio realizarán una feria de empleo con vacantes para vendedor, personal de utilidad general de producción, limpieza, ayudante de bodega y promotores.",
+  "informacion_participacion": "Inscríbete mediante el formulario y lleva tu hoja de vida a la feria. Para consultas, puedes escribir a asesorlaboral@ccich.org o comunicarte al 9439-6960.",
+  "imagen": "https://scontent.ftgu3-4.fna.fbcdn.net/v/t39.99422-6/845530605_1836401281118076_4900055748273453454_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s1080x1350&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEFvVuxZ5ZsQHh3ro2iiA7IBBfckfawszEEF9yR9rCzMRMybQOqOkXozMP1j6vdEMg3R612XaoK9W1hYzF6YqFT&_nc_ohc=DcLzdeKEJX8Q7kNvwFYG2El&_nc_oc=AdqDl-dyd8jZALaJGP0z9DbPPW2VmHlbGKkLD6Yyla6ChEOD_-ai8K2mAm0UmR0jnJxAs4SI47UrEtEHrF1YJjSz&_nc_zt=14&_nc_ht=scontent.ftgu3-4.fna&_nc_gid=uKEUrl68pArC4oFVQITMDw&_nc_ss=7b2a8&oh=00_AQNUewUUz5OwnKl6ctErhsv3vl5BTQpVdpE6fpSQ7URnZA&oe=6AD8D067",
+  "enlace": "https://forms.gle/sLoxceL3ggZLeexW9",
+  "whatsapp": "50494396960",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
