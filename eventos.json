@@ -956,6 +956,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Charla gratuita: El arte de hablar en público",
+  "organizador": "ANDI y CERTEC",
+  "categoria": "Educación y Formación",
+  "ciudad": "A nivel nacional",
+  "modalidad": "Virtual",
+  "fecha_inicio": "2026-10-20",
+  "fecha_fin": "2026-10-20",
+  "hora": "1:00 p. m., hora de Honduras",
+  "lugar": "Vía Zoom",
+  "descripcion": "Charla gratuita para fortalecer la comunicación efectiva mediante herramientas y habilidades que permitan transmitir ideas con claridad y seguridad. Facilitador: Leonardo Hércules.",
+  "informacion_participacion": "Completar el formulario de inscripción para participar el martes 20 de octubre de 2026 a la 1:00 p. m., hora de Honduras.",
+  "imagen": "https://scontent.ftgu3-4.fna.fbcdn.net/v/t39.30808-6/849272796_1548007780693977_2922110258614575780_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s1080x1350&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGt2dZooQcvCRIARHUiFAUdBaToiI635GUFpOiIjrfkZXg6wxSCVAJcnNtFXhGBMjYrCfQ8R_vtz66tkET3MPk4&_nc_ohc=hyqKodY445sQ7kNvwE0FNqu&_nc_oc=Adp-O1rSV6GXDO6pn1cITZNplRIXrZucl18UXy7rgSU7YsvS6rQfmJyi9kMWMjYdGfGtUyIsXlCKojxpSm_YSRYL&_nc_zt=23&_nc_ht=scontent.ftgu3-4.fna&_nc_gid=dlI9OZM3TwwdamAdldR_qg&_nc_ss=7b2a8&oh=00_AQNbfoW83z9Ci1qX7tf6Z2k3x99zx6QnwhinqXjzDjM4iw&oe=6AD8C881",
+  "enlace": "https://forms.gle/Juxs8CqtiKJWkhJH7",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
