@@ -2,6 +2,40 @@
   "actualizado": "2026-10-14",
   "vacantes": [
   {
+  "id": "ohn-20261016-214507-1",
+  "titulo": "Médicos Especialistas",
+  "empresa": "Hospital Católico Universitario Nuestra Señora de Suyapa",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Convocatoria para médicos especialistas en Anestesiología, Medicina Interna, Oftalmología, Radiología, Endocrinología, Cardiología, Otorrinolaringología, Pediatría y Ortopedia, entre otras especialidades.",
+  "requisitos": [
+    "Título universitario homologado por Educación Superior.",
+    "Carné del Colegio Médico de Honduras.",
+    "Solvencia del Colegio Médico de Honduras.",
+    "Constancia de especialidad.",
+    "Se valora integrar la fe cristiana en la vida profesional."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Completar el formulario de postulación mediante el enlace indicado. Ubicación del hospital: calle Los Alcaldes, carretera al Batallón, contiguo a UNICAH, Tegucigalpa.",
+  "fecha_publicacion": "2026-10-16",
+  "fecha_vencimiento": "2026-10-26",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50498000019",
+  "telefono": "50422803500",
+  "correo": "",
+  "whatsapps": ["50498000019"],
+  "telefonos": ["50422803500"],
+  "correos": [],
+  "url_aplicar": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Eg0dkY0rQkCzAHNh3QQX9toIUqr0_qlIkdMGmHZXjB1UNUpHT1lOQUxWRklXM0lBRkVCWDJNQ1hTMC4u&origin=QRCode&route=shorturl"
+  },
+    
+    {
   "id": "ohn-20261016-211144-1",
   "titulo": "Diseñador Gráfico",
   "empresa": "Empresa confidencial",
