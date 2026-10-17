@@ -1010,6 +1010,24 @@
   "whatsapp": "50494396960",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Feria de empleo NetGO Group en INFOP Miraflores",
+  "organizador": "NetGO Group",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-23",
+  "fecha_fin": "2026-10-23",
+  "hora": "8:00 a. m. a 2:00 p. m.",
+  "lugar": "INFOP de Plazas Miraflores, Tegucigalpa.",
+  "descripcion": "NetGO Group realizará una feria de empleo con plazas disponibles para soldador, técnico electricista, técnico en telecomunicaciones, técnico en HFO o FO y técnico en aire acondicionado.",
+  "informacion_participacion": "Lleva tu hoja de vida y preséntate el viernes 23 de octubre, de 8:00 a. m. a 2:00 p. m., para conocer las oportunidades laborales disponibles.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSORN6cH16GXqrPL2yZncWaI_UJP-cREiJHzFKqCb4xcG4xZjF54bzRaoX-HxezgN-2VqtT2nEGxi_sbXRkFSWIt8RpQ5Iah6O_3QtSOt-a9DtPpvSCjil53cIMyI6Qo2Ho6k6lPUGzuxEaS8_umb0khWL_t0eZYSVqPt3qSLSd_3N6bU2rH8C4aDEsRY/s600/1001531755.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
