@@ -1,7 +1,47 @@
 {
   "actualizado": "2026-10-14",
   "vacantes": [
- {
+{
+  "id": "ohn-20261017-092132-44",
+  "titulo": "Encargado de compras",
+  "empresa": "Empresa confidencial",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Una persona con conocimiento del mercado ferretero y de materiales de construcción, habilidades comerciales y capacidad para gestionar compras de manera eficiente, con capacidad de negociación y análisis.",
+  "requisitos": [
+    "Ing. industrial, Lic. en Administración de Empresas, Ing. civil o carreras afines.",
+    "Experiencia en compras, preferiblemente en áreas de construcción o productos ferreteros.",
+    "Capacidad de negociación con proveedores.",
+    "Manejo de ERP o software de gestión de compras e inventarios.",
+    "Residir en San Pedro Sula o alrededores."
+  ],
+  "beneficios": [
+    ""
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nPreséntate en san pedro sula.",
+  "fecha_publicacion": "2026-10-17",
+  "fecha_vencimiento": "2026-11-01",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431930357",
+  "telefono": "",
+  "correo": "katia.cabrera@losusa.com",
+  "whatsapps": [
+    "50431930357"
+  ],
+  "telefonos": [],
+  "correos": [
+    "katia.cabrera@losusa.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261017-011815-1",
   "titulo": "Oficial Contable",
   "empresa": "Seguros Atlántida",
