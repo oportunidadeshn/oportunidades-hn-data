@@ -974,6 +974,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    } 
+    {
+  "titulo": "Entrevistas de empleo en Denny’s: meseros y hostess en San Pedro Sula",
+  "organizador": "Denny’s",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-19",
+  "fecha_fin": "2026-10-21",
+  "hora": "8:00 a. m. a 2:00 p. m.",
+  "lugar": "Edificio Pizza Hut, Barrio El Centro, Zona Peatonal, San Pedro Sula.",
+  "descripcion": "Denny’s realizará entrevistas para contratar meseros y hostess para su nuevo restaurante en el Bulevar del Norte. La convocatoria está dirigida a personas apasionadas por el servicio al cliente, dinámicas, sonrientes y extrovertidas.",
+  "informacion_participacion": "Las entrevistas se realizarán los días 19, 20 y 21 de octubre, de 8:00 a. m. a 2:00 p. m. Se requiere secundaria completa, excelente presentación, actitud de servicio y disponibilidad inmediata. También puedes enviar tu hoja de vida a empleos@grupocomidas.com.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq4AzAJ-MRbjsLQjRzBGnv1ToNF0pdR5OcxhnDv1ltyZ_FUdYN9ac-NLv8pk3bhY514ROdUUOuxmFNenW4bf9XQ7liVn9Kl3EJ9yB4-owMmMPzi7kLqxXsTOxhBb7NvE0QbQTIS7LWe1Azo29G1nVxb5INkDCHk7jbdRcT7FFdaF275J3e-3H0DUq21EI/s600/1001531729.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
