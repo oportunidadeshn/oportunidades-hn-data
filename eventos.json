@@ -920,6 +920,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
-}
+},
+    {
+  "titulo": "Jornada de Empleabilidad 2026 – Talent Connect Juticalpa",
+  "organizador": "Universidad Católica de Honduras (UNICAH)",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Juticalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-21",
+  "fecha_fin": "2026-10-21",
+  "hora": "9:00 a. m. a 4:00 p. m.",
+  "lugar": "Auditorio de la Universidad Católica de Honduras, campus Santa Clara.",
+  "descripcion": "Jornada de empleabilidad para conectar directamente con organizaciones que buscan talento. Los participantes podrán presentar su perfil, acceder a procesos de selección directos y recibir retroalimentación experta sobre su hoja de vida.",
+  "informacion_participacion": "Inscribirse mediante el código QR disponible en la imagen del evento. La jornada se realizará el miércoles 21 de octubre de 2026.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhulDAjk8mMCnX49KBAm5CU0Z1AHBMSNhTr_oMSI8hSyLbwmbiQwb9M_4Lx4ajgjP9LyXPMnMtB2zvRbHWwZrBAEUyVn8AmapSojRBWGZkqnhBqGH2MrKwPXPQKDxjMSrRY4ecNrPoxx2k3knehH7lZ2-CKvvjMaX5S-Hvi3TnWtfMGUXg9XRgWPKlmOEo/s1353/1001531650.webp",
+  "enlace": "https://docs.google.com/forms/d/e/1FAIpQLSdcVAHNiWlgnxBzzntoPsRWkDISgTr7zBJMFpsqRJnfPr49Xw/viewform",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+    }
   ]
 }
