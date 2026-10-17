@@ -866,6 +866,60 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
-    }
+    }, 
+    {
+  "titulo": "Entrevistas Cable Color – Ventas Residenciales en San Pedro Sula",
+  "organizador": "Cable Color",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-20",
+  "fecha_fin": "2026-10-20",
+  "hora": "9:00 a. m. a 3:00 p. m.",
+  "lugar": "Edificio Canal 11, Bulevar del Norte, frente a Cervecería Hondureña, San Pedro Sula.",
+  "descripcion": "Convocatoria abierta para entrevistas de Ejecutivo de Ventas Residenciales en campo o calle. Requisitos: edad de 18 a 40 años, secundaria completa y disponibilidad de horario. Ofrecen contrato permanente, beneficios de ley y salario base más comisiones.",
+  "informacion_participacion": "Presentarse el martes 20 de octubre con CV para realizar la entrevista. Más información al 8740-1745 o al correo talento@cablecolor.net.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+},
+{
+  "titulo": "Entrevistas Cable Color – Ventas Digitales en San Pedro Sula",
+  "organizador": "Cable Color",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-21",
+  "fecha_fin": "2026-10-21",
+  "hora": "9:00 a. m. a 3:00 p. m.",
+  "lugar": "Edificio Canal 11, Bulevar del Norte, frente a Cervecería Hondureña, San Pedro Sula.",
+  "descripcion": "Convocatoria abierta para entrevistas de Ejecutivo de Ventas Digitales. Requisitos: secundaria completa, conocimientos de computación y disponibilidad de horario y fines de semana. Ofrecen contrato permanente, beneficios de ley y salario base más comisiones.",
+  "informacion_participacion": "Presentarse el miércoles 21 de octubre con CV para realizar la entrevista. Más información al 8740-1745 o al correo talento@cablecolor.net.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+},
+{
+  "titulo": "Entrevistas Cable Color – Ventas Residenciales en Choloma",
+  "organizador": "Cable Color",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Choloma",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-22",
+  "fecha_fin": "2026-10-22",
+  "hora": "9:00 a. m. a 3:00 p. m.",
+  "lugar": "Local de Cable Color, primer nivel de Plaza Roma, barrio El Centro, a la par de El Gallo más Gallo, Choloma.",
+  "descripcion": "Convocatoria abierta para entrevistas de Ejecutivo de Ventas Residenciales en campo o calle. Requisitos: edad de 18 a 40 años, secundaria completa y disponibilidad de horario. Ofrecen contrato permanente, beneficios de ley y salario base más comisiones.",
+  "informacion_participacion": "Presentarse el jueves 22 de octubre con CV para realizar la entrevista. Más información al 8740-1745 o al correo talento@cablecolor.net.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+}
   ]
 }
