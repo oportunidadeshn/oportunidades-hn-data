@@ -2,6 +2,88 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261018-000023-1",
+  "titulo": "Supervisor de Producción",
+  "empresa": "Grupo Bimbo",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Manufactura, Producción y Calidad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisar y controlar los procesos de operación de las líneas a su cargo, optimizando los recursos desde el suministro de ingredientes hasta la entrega del producto terminado. Asegurar la calidad, inocuidad, cantidad y oportunidad requeridas en un ambiente laboral sano y seguro.",
+  "requisitos": [
+    "Profesional en Ingeniería Industrial, Ingeniería Química, Ingeniería en Alimentos o carreras afines.",
+    "Experiencia de 2 a 3 años como analista o supervisor de producción en planta de alimentos.",
+    "Conocimientos en HACCP y BPM.",
+    "Disponibilidad para trabajar turnos rotativos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum a jennifer.reconco@grupobimbo.com colocando en el asunto SUPERVISOR DE PRODUCCION.",
+  "fecha_publicacion": "2026-10-18",
+  "fecha_vencimiento": "2026-10-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "jennifer.reconco@grupobimbo.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "jennifer.reconco@grupobimbo.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261018-000023-2",
+  "titulo": "Operador de Cuarto de Control",
+  "empresa": "Calidra",
+  "ciudad": "Potrerillos",
+  "categoria": "Manufactura, Producción y Calidad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Monitorear y controlar el proceso productivo desde el cuarto de control, asegurando el cumplimiento de los parámetros operativos y los estándares de calidad, seguridad y eficiencia establecidos por la empresa. Plaza ubicada en Potrerillos, Cortés.",
+  "requisitos": [
+    "Graduado de Ingeniería Química.",
+    "Conocimientos en procesos industriales y control de procesos.",
+    "Manejo de sistemas de monitoreo y control.",
+    "Conocimiento de normas de seguridad industrial.",
+    "Habilidad para el análisis y resolución de problemas.",
+    "Disponibilidad para trabajar en turnos rotativos.",
+    "Manejo básico de herramientas informáticas.",
+    "Capacidad analítica y trabajo en equipo.",
+    "Comunicación efectiva.",
+    "Responsabilidad y compromiso."
+  ],
+  "beneficios": [
+    "Seguro de gastos médicos privado.",
+    "Prestaciones de ley.",
+    "Capacitación y certificación constante."
+  ],
+  "como_aplicar": "Envía tu currículum a eamartinezg@calidra.com.hn. Como contacto adicional, el afiche indica jvelasquez@calidra.com.hn y el celular +504 3174-8663.",
+  "fecha_publicacion": "2026-10-18",
+  "fecha_vencimiento": "2026-10-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431748663",
+  "telefono": "",
+  "correo": "eamartinezg@calidra.com.hn",
+  "whatsapps": [
+    "50431748663"
+  ],
+  "telefonos": [],
+  "correos": [
+    "eamartinezg@calidra.com.hn",
+    "jvelasquez@calidra.com.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261017-132703-1",
   "titulo": "Gestor de Crédito y Cobranza",
   "empresa": "PistiYo Honduras",
