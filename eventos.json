@@ -1028,6 +1028,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Talent Connect – Jornada de Empleabilidad 2026 en Comayagua",
+  "organizador": "Universidad Católica de Honduras (UNICAH), Centro Universitario San Francisco de Asís, y Cámara de Comercio e Industrias de Comayagua",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Comayagua",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-20",
+  "fecha_fin": "2026-10-20",
+  "hora": "9:00 a. m. a 3:00 p. m.",
+  "lugar": "UNICAH Comayagua, colonia Nueva Comayagua, esquina opuesta a Residencial Valles del Sol.",
+  "descripcion": "Talent Connect – Jornada de Empleabilidad 2026 reunirá a personas que buscan empleo con empresas que requieren nuevos profesionales. Los asistentes podrán conocer oportunidades laborales y presentar su currículum directamente a las empresas participantes.",
+  "informacion_participacion": "Inscríbete en el enlace de Más información. Lleva varias copias de tu currículum para entregarlas a las empresas participantes.",
+  "imagen": "",
+  "enlace": "https://docs.google.com/forms/d/e/1FAIpQLSdcVAHNiWlgnxBzzntoPsRWkDISgTr7zBJMFpsqRJnfPr49Xw/viewform",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
