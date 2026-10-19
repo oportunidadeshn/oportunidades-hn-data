@@ -1064,6 +1064,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Feria de Empleo de Banco Azteca y Elektra",
+  "organizador": "Banco Azteca y Elektra",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-21",
+  "fecha_fin": "2026-10-21",
+  "hora": "9:00 a. m. a 3:00 p. m.",
+  "lugar": "Tiendas Elektra Premier, Plaza Los Olivos, San Pedro Sula, Cortés.",
+  "descripcion": "Feria de empleo para San Pedro Sula y ciudades aledañas. Plazas disponibles: líder comercial, líder financiero, asesor de préstamos, vendedor de Elektra, cajero universal, gestor de cobros con licencia de moto y cajero supervisor.",
+  "informacion_participacion": "Reservar cupo de entrevista enviando la hoja de vida antes de la fecha de la feria al WhatsApp 9665-5233, indicando la posición y ciudad de interés.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "50496655233",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
