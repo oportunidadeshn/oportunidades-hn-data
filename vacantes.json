@@ -2,6 +2,49 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261019-121750-1",
+  "titulo": "Agente de Contact Center en Español",
+  "empresa": "Techline Contact Center",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Formar parte del equipo de Contact Center con operaciones 100% en español. Experiencia no indispensable.",
+  "requisitos": [
+    "Secundaria completa o pasante universitario.",
+    "Edad entre 18 y 29 años.",
+    "Conocimiento básico de Microsoft Office.",
+    "Residir en Tegucigalpa.",
+    "Habilidades de comunicación y negociación.",
+    "Orientación a resultados."
+  ],
+  "beneficios": [
+    "Formación desde cero.",
+    "Coaching y desarrollo continuo.",
+    "Horario de oficina.",
+    "Salario competitivo.",
+    "Oportunidad de crecimiento.",
+    "Ambiente dinámico y motivador.",
+    "Atención médica interna."
+  ],
+  "como_aplicar": "Enviar CV por WhatsApp al +504 8782-9914 o al correo info@techlinecc.com.",
+  "fecha_publicacion": "2026-10-19",
+  "fecha_vencimiento": "2026-10-29",
+  "destacada": true,
+  "destacada_hasta": "2026-10-26",
+  "activa": true,
+  "whatsapp": "50487829914",
+  "telefono": "",
+  "correo": "info@techlinecc.com",
+  "whatsapps": ["50487829914"],
+  "telefonos": [],
+  "correos": ["info@techlinecc.com"],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261019-111808-49",
   "titulo": "Operador de monitoreo",
   "empresa": "Empresa confidencial",
