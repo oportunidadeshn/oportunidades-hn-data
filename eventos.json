@@ -1046,6 +1046,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    }, 
+    {
+  "titulo": "Feria de Empleo en El Progreso",
+  "organizador": "Secretaría de Trabajo y Seguridad Social – Servicio Integral de Empleo",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "El Progreso",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-20",
+  "fecha_fin": "2026-10-20",
+  "hora": "8:00 a. m. a 3:00 p. m.",
+  "lugar": "Secretaría de Trabajo, El Progreso, Yoro.",
+  "descripcion": "Feria de empleo con vacantes para arquitectos, supervisor de restaurantes, asistente de almacén, coordinador estratégico, analista financiero, auxiliar de capacitación, jefe de ventas, servicio al cliente, asistentes técnicos, auditores técnicos, mesero, televentas, operario viñetero, auxiliar de importaciones, jefe de ventas multicanal y cajeros.",
+  "informacion_participacion": "Asistir a la Secretaría de Trabajo en El Progreso, Yoro, durante el horario de la feria.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
