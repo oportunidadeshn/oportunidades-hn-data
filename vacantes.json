@@ -1,7 +1,133 @@
 {
   "actualizado": "2026-10-14",
   "vacantes": [
+
+
 {
+  "id": "ohn-20261019-092143-46",
+  "titulo": "Operario de Restaurante",
+  "empresa": "GRUPO MIRAWA",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Ejecutar las tareas operativas diarias en el área de servicio.",
+  "requisitos": [
+    "Género: Indistinto",
+    "Edad: 20 - 30 años",
+    "Cumplimiento de metas",
+    "Excelente servicio al cliente",
+    "Conocimiento de operaciones en Restaurante",
+    "Manejo de SO Windows y paquete de ofimática",
+    "Disponibilidad de horarios",
+    "Residente en Tegucigalpa",
+    "Responsable",
+    "Puntual"
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nIndicar en el asunto del correo la plaza a la que aplica.",
+  "fecha_publicacion": "2026-10-19",
+  "fecha_vencimiento": "2026-10-31",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "aplicaciones@ceahn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "aplicaciones@ceahn.com"
+  ],
+  "url_aplicar": ""
+},
+
+{
+  "id": "ohn-20261019-094351-47",
+  "titulo": "Cajera de Restaurante",
+  "empresa": "GRUPO MIRAWA",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Ejecutar las tareas operativas diarias del área de caja.",
+  "requisitos": [
+    "Género: Femenino",
+    "Edad: 23 - 35 años",
+    "Conocimiento en operaciones de restaurante",
+    "Excelente servicio al cliente",
+    "Arqueo de caja",
+    "Manejo de POS",
+    "Manejo de sistema de cobro",
+    "Manejo de SO Windows y paquete de ofimática",
+    "Manejo de plataformas digitales",
+    "Disponibilidad de horarios",
+    "Residente en Tegucigalpa",
+    "Responsable",
+    "Puntual"
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nIndicar en el asunto del correo la plaza a la que aplica.",
+  "fecha_publicacion": "2026-10-19",
+  "fecha_vencimiento": "2026-10-31",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "aplicaciones@ceahn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "aplicaciones@ceahn.com"
+  ],
+  "url_aplicar": ""
+},
+
+{
+  "id": "ohn-20261019-095632-48",
+  "titulo": "Operario de producción",
+  "empresa": "GRUPO MIRAWA",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Manufactura, Producción y Calidad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Ejecutar las tareas operativas diarias del área de producción.",
+  "requisitos": [
+    "Género: Masculino",
+    "Edad: 25 - 35 años",
+    "Conocimiento básico en Buenas Prácticas de Manufactura en Alimentos",
+    "Experiencia en trabajo de actividades que requieren fuerza",
+    "Disponibilidad de horarios",
+    "Residente en Tegucigalpa",
+    "Puntual",
+    "Responsable"
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nIndicar en el asunto del correo la plaza a la que aplica.",
+  "fecha_publicacion": "2026-10-19",
+  "fecha_vencimiento": "2026-10-31",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "aplicaciones@ceahn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "aplicaciones@ceahn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261019-001744-1",
   "titulo": "Jefe Regional de Excelencia Comercial",
   "empresa": "Kielsa",
