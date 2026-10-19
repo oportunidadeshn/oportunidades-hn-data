@@ -71,7 +71,7 @@
       "enlace": "https://x.com/Trabajo_hn/status/2105400192740565413",
       "whatsapp": "",
       "destacado": false,
-      "activo": true
+      "activo": false
     },
     {
   "titulo": "Bazar Turístico en Comayagua",
@@ -1080,6 +1080,24 @@
   "imagen": "",
   "enlace": "",
   "whatsapp": "50496655233",
+  "destacado": false,
+  "activo": true
+    },
+    {
+  "titulo": "Gran Feria de Empleo 2026 de INFOP",
+  "organizador": "Instituto Nacional de Formación Profesional (INFOP)",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-23",
+  "fecha_fin": "2026-10-23",
+  "hora": "8:00 a. m. a 5:00 p. m.",
+  "lugar": "INFOP Miraflores, Tegucigalpa.",
+  "descripcion": "Jornada de empleabilidad organizada por INFOP para acercar a la población hondureña a nuevas oportunidades laborales y facilitar su incorporación al mercado de trabajo.",
+  "informacion_participacion": "Asistir con el currículum vitae actualizado para conocer y aprovechar las oportunidades laborales disponibles.",
+  "imagen": "https://scontent.ftgu3-4.fna.fbcdn.net/v/t39.99422-6/855306672_28639967602332748_263456116525866141_n.png?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=s1254x1254&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEuQJgAoWN26YBxlTYl65l4tzvGZcZBAJ23O8ZlxkEAnfZxfHpIV-0pUCQDvPLqc4daVZ9n6UeucxeEQtcMjzYZ&_nc_ohc=3frRWfaBsuoQ7kNvwHVURxj&_nc_oc=Adr9ctmEECPzBZsDcJaUxYP2PCLQQydIzF-sMMrdkHoxCZnVJxGcYjEiDsBU0SgwBlVusBn-uLnQ3YDejB5M7gbz&_nc_zt=14&_nc_ht=scontent.ftgu3-4.fna&_nc_gid=rQZgH_Aq2IgIDDjfBXnkUw&_nc_ss=7b2a8&oh=00_AQM76g2nwnVO_5iQvbwb_Yb8UlMjQAk767hHiakve36kCQ&oe=6ADC505E",
+  "enlace": "",
+  "whatsapp": "",
   "destacado": false,
   "activo": true
     }
