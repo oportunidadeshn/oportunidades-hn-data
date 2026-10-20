@@ -2,6 +2,52 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261019-224125-1",
+  "titulo": "Asesor Comercial Administrativo",
+  "empresa": "Grupo KAPA 7",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Grupo KAPA 7 busca Asesor Comercial Administrativo para su sede en San Pedro Sula, con experiencia en facturación, atención al cliente y ventas.",
+  "requisitos": [
+    "Egresado de Administración de Empresas, Marketing o Informática.",
+    "2 años de experiencia en facturación, atención al cliente y ventas.",
+    "Deseable conocimiento en ofimática, CRM y Google Workspace.",
+    "Habilidades de comunicación, negociación y trabajo en equipo.",
+    "Autonomía, responsabilidad, organización y resolución de conflictos.",
+    "Residir en San Pedro Sula y poseer vehículo propio.",
+    "Sexo indiferente.",
+    "Ser bilingüe."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Seguro médico privado.",
+    "Seguro de vida.",
+    "Excelente ambiente laboral.",
+    "Subsidio parcial del seguro de vehículo.",
+    "Capacitación continua.",
+    "Flexibilidad de horario.",
+    "Oportunidades de desarrollo profesional."
+  ],
+  "como_aplicar": "Enviar CV mediante el botón de correo e indicar en el asunto: Asesor Comercial Administrativo – SPS.",
+  "fecha_publicacion": "2026-10-19",
+  "fecha_vencimiento": "2026-10-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "contrataciones@kapa7.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": ["contrataciones@kapa7.com"],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261019-211652-1",
   "titulo": "Supervisor de Compras / Almacén bilingüe",
   "empresa": "Green Valley Hub",
