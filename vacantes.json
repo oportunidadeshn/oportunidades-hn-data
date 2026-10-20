@@ -2,6 +2,36 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261019-224439-1",
+  "titulo": "Movement Operations Associate (G5) | Asociado de Operaciones de Movilidad",
+  "empresa": "Organización Internacional para las Migraciones (OIM)",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La OIM cuenta con 2 plazas para brindar asistencia y acompañamiento directo a personas migrantes durante procesos de reasentamiento, reubicación, admisión humanitaria, reunificación familiar, repatriación voluntaria y otras operaciones humanitarias. El puesto coordina apoyo en terreno y transporte con unidades internas, autoridades, agencias y proveedores para garantizar traslados seguros. También gestiona documentación, datos y trámites previos al viaje, incluyendo permisos, formularios, citas, biometría y actualización de sistemas, asegurando la confidencialidad y protección de los datos.",
+  "requisitos": [
+    "Consultar los requisitos completos de formación, experiencia y competencias en el portal de contratación de la OIM."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Consultar la convocatoria y completar la postulación mediante el botón de aplicar en línea.",
+  "fecha_publicacion": "2026-10-19",
+  "fecha_vencimiento": "2026-10-25",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22932"
+},
+    
+    {
   "id": "ohn-20261019-224125-1",
   "titulo": "Asesor Comercial Administrativo",
   "empresa": "Grupo KAPA 7",
