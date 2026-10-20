@@ -2,6 +2,52 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261019-201102-1",
+  "titulo": "Especialista en Redes Sociales y Comercio Digital",
+  "empresa": "ODEF Financiera",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Apoyar a microempresarias en el crecimiento de sus negocios mediante redes sociales, comercio digital, diseño gráfico y producción de contenido. Enseñar herramientas digitales de forma práctica y sencilla y desarrollar soluciones de bajo costo para microemprendimientos.",
+  "requisitos": [
+    "Técnico o licenciatura en Diseño Gráfico, Comunicación, Mercadeo Digital, Multimedia o carrera afín.",
+    "Deseable formación en fotografía, producción audiovisual o manejo de herramientas digitales para negocios.",
+    "Entre uno y dos años de experiencia en diseño gráfico, manejo de redes sociales o producción de contenido para pequeños negocios.",
+    "Experiencia en el manejo de Facebook, Instagram, TikTok, Facebook Marketplace y WhatsApp Business para negocios.",
+    "Deseable experiencia impartiendo talleres o capacitaciones a personas con acceso limitado a tecnología.",
+    "Diseño de logotipos, etiquetas y papelería básica mediante herramientas gratuitas como Canva.",
+    "Fotografía de productos con celular y edición básica de imágenes.",
+    "Configuración de WhatsApp Business y perfiles comerciales en redes sociales.",
+    "Preparación de archivos para impresión de etiquetas, tarjetas, rótulos y banners.",
+    "Creatividad para desarrollar soluciones tecnológicas y digitales de bajo costo para microemprendimientos.",
+    "Habilidad para enseñar herramientas digitales de forma práctica y sencilla.",
+    "Proactividad, atención al detalle y conocimiento de tendencias tecnológicas y comercio digital."
+  ],
+  "beneficios": [
+    "Plaza permanente.",
+    "Beneficios de ley.",
+    "Seguro privado.",
+    "Crecimiento personal y profesional."
+  ],
+  "como_aplicar": "Enviar CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-19",
+  "fecha_vencimiento": "2026-10-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento@odeffinancierasa.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": ["reclutamiento@odeffinancierasa.hn"],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261019-140430-1",
   "titulo": "Psicólogo(a) – Especialista en Bienestar Psicosocial, Desarrollo Humano y Relación con el Cliente",
   "empresa": "ODEF Financiera",
