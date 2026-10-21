@@ -1191,6 +1191,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    }, 
+
+    {
+  "titulo": "Feria Virtual de Empleo de Tecoloco – Honduras",
+  "organizador": "Tecoloco",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "A nivel nacional",
+  "modalidad": "Virtual",
+  "fecha_inicio": "2026-10-19",
+  "fecha_fin": "2026-10-30",
+  "hora": "",
+  "lugar": "Plataforma virtual de Tecoloco.",
+  "descripcion": "Feria virtual con 190 plazas disponibles al momento de la consulta. Ofrece oportunidades operativas y técnicas en Honduras para personas con educación media, formación técnica o experiencia laboral. Incluye vacantes en ventas, cobros, mantenimiento, facturación y logística.",
+  "informacion_participacion": "Crear o actualizar el currículum en Tecoloco, ingresar a la vacante de interés e iniciar sesión para postularse.",
+  "imagen": "",
+  "enlace": "https://feria.tecoloco.com/HN-2026",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
