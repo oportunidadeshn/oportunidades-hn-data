@@ -1210,6 +1210,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Feria de Empleo de Indura Beach & Golf Resort",
+  "organizador": "Indura Beach & Golf Resort",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Tela",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-22",
+  "fecha_fin": "2026-10-22",
+  "hora": "1:00 p.m. a 5:00 p.m.",
+  "lugar": "Salón de la Cámara de Comercio e Industrias de Tela.",
+  "descripcion": "Feria de empleo con oportunidades en cocina; recepción bilingüe; mantenimiento en refrigeración, aire acondicionado, carpintería y electricidad; housekeeping; jardinería; meseros bilingües; bartenders bilingües; recursos humanos; terapistas masajistas; mercadeo y ventas; mecánicos; salvavidas y finanzas.",
+  "informacion_participacion": "Presentarse con hoja de vida actualizada y documentos personales.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
