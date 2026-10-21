@@ -1154,6 +1154,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Jornada de Entrevistas de Motomundo – El Progreso",
+  "organizador": "Motomundo – Grupo ILP",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "El Progreso",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-22",
+  "fecha_fin": "2026-10-22",
+  "hora": "8:00 a. m. a 1:00 p. m.",
+  "lugar": "Tienda Motomundo de la 7 avenida, El Progreso, Yoro",
+  "descripcion": "Jornada de entrevistas con plazas para jefe de tienda, asesores de venta y mecánico automotriz o de motos. Habrá revisión de CV al instante y consejos de expertos para mejorar el perfil profesional.",
+  "informacion_participacion": "Presentarse con su CV en la tienda Motomundo de la 7 avenida, El Progreso, el jueves 22 de octubre de 2026, de 8:00 a. m. a 1:00 p. m.",
+  "imagen": "https://scontent.ftgu3-3.fna.fbcdn.net/v/t39.30808-6/856168755_39501276782821369_7760133167045235452_n.jpg?stp=dst-jpg_tt6&cstp=mx1144x1600&ctp=s1144x1600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGE1A4XbLc7DbRWnlf6xcElcudWxU5i0fxy51bFTmLR_Pk4PRW89Sbif-BIW2H1lHKR__mARVnCVr-lz-1lu1Zg&_nc_ohc=63-1XllZGhYQ7kNvwFAUmm2&_nc_oc=AdqNz5AAfX2PxzvLo7P55_YIMkLl_ncP3Vw_iK-U48MnZb3BDG0gc4S7U0ul9tj2FBZXIrXKxw8AAxlr6iN_eiEE&_nc_zt=23&_nc_ht=scontent.ftgu3-3.fna&_nc_gid=F1OWx6HtvM82ueiLtZDyWg&_nc_ss=7b2a8&oh=00_AQNwyHCv2njPb5nog9ENMOtKboAgbcWjl81jJQpYrRaEvg&oe=6ADDF86F",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
