@@ -1172,6 +1172,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+
+    {
+  "titulo": "Feria de Empleo de Almacenes El Titán – Temporada Navideña",
+  "organizador": "Almacenes El Titán",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-26",
+  "fecha_fin": "2026-10-27",
+  "hora": "9:00 a.m. a 5:00 p.m.",
+  "lugar": "City Mall, Tegucigalpa, Sótano 2.",
+  "descripcion": "Feria de empleo para trabajar durante la temporada navideña en las tiendas de Almacenes El Titán en Tegucigalpa. Buscan personas de ambos sexos, mayores de edad, con educación secundaria completa, habilidades para las ventas, actitud proactiva y residencia en Tegucigalpa.",
+  "informacion_participacion": "Presentarse el 26 o 27 de octubre con currículum completo y fotografía reciente.",
+  "imagen": "https://scontent.ftgu3-3.fna.fbcdn.net/v/t39.99422-6/856978001_1650052736704962_9036905400681592496_n.png?stp=dst-jpg_tt6&cstp=mx1152x1440&ctp=s1152x1440&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFHV7Q84zkFlDbcwKH-UpuG7uVP49t7cL_u5U_j23twv7W9XXmdm8MA7y0T_zNZDhfUjkmrr1tuBmnn9VctbWre&_nc_ohc=LBoXzNNV1MsQ7kNvwFI6v6Y&_nc_oc=AdoZabMFahR0Vz9wS4HDvvWN9WSsiASHkS2fniGU2uOKVke6grJl--eLOHA5irmC8iYhf0MMuN75jcws8CbZ1m81&_nc_zt=14&_nc_ht=scontent.ftgu3-3.fna&_nc_gid=tpUA77TfSk0rdRlDG9hxcg&_nc_ss=7b2a8&oh=00_AQNVVp_qW-y8Mgn2b1SwHHXmMfbrLOt32AzWCFJNi4t47g&oe=6ADE38A1",
+  "enlace": "https://www.facebook.com/share/p/1J6WQmDMfL/",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
