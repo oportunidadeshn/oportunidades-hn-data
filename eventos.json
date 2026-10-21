@@ -1118,6 +1118,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Feria de Empleo de Tiendas El Compadre – Puerto Cortés",
+  "organizador": "Municipalidad de Puerto Cortés y Tiendas El Compadre",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Puerto Cortés",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-30",
+  "fecha_fin": "2026-10-30",
+  "hora": "9:00 a. m. a 3:00 p. m.",
+  "lugar": "Salón Consistorial Municipal #1, Municipalidad de Puerto Cortés",
+  "descripcion": "Feria de empleo con oportunidades para Jefe de Tienda Administrativo, ventas, atención al cliente, cajero, comodines, surtidores y guardia de seguridad. Para Jefe de Tienda Administrativo se requiere licenciatura o estudios universitarios en carreras administrativas o afines, experiencia en manejo de personal y procesos administrativos, conocimiento de plataformas digitales y ser mayor de 24 años. Para los demás puestos se requiere bachillerato y tener 18 años en adelante. Convocatoria para ambos sexos.",
+  "informacion_participacion": "Presentarse en el Salón Consistorial Municipal #1 de la Municipalidad de Puerto Cortés el viernes 30 de octubre de 2026, de 9:00 a. m. a 3:00 p. m.",
+  "imagen": "https://scontent.ftgu3-3.fna.fbcdn.net/v/t39.99422-6/855927853_1498857735401076_3149177815112363327_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHCQxDj4_6mgk7jhWk-LeZRRNkHdvi9gNxE2Qd2-L2A3NfPzwwBLludrUxcWUp_Ou7koRIz7d9xSmTKtK4DyaIV&_nc_ohc=i-jmzhEL-ucQ7kNvwGV0VKp&_nc_oc=AdptJ0Ml8_i3288QW1MmSnSrVKQPdPZFnWuN_S55Nobs4oys_MQpChEg0YdLcElg3lxORg3A5EJUQYKejCL668kL&_nc_zt=14&_nc_ht=scontent.ftgu3-3.fna&_nc_gid=TbfacNbR4bSBP0sVUDMlig&_nc_ss=7b2a8&oh=00_AQM3aCBvofFSIATQYYBr3K-vHc6zcm-SVXKeU1A149whxQ&oe=6ADDF701",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
