@@ -1136,6 +1136,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Feria de Empleo de El Palacio de los Niños – Tegucigalpa",
+  "organizador": "El Palacio de los Niños",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-22",
+  "fecha_fin": "2026-10-22",
+  "hora": "9:00 a. m. a 4:00 p. m.",
+  "lugar": "El Palacio de los Niños, en el centro de Tegucigalpa, frente a Larach & Cía.",
+  "descripcion": "Feria de empleo dirigida a personas dinámicas, extrovertidas, con habilidades de atención al cliente y disponibilidad de horario.",
+  "informacion_participacion": "Presentarse el 22 de octubre de 2026, de 9:00 a. m. a 4:00 p. m., y llevar su hoja de vida.",
+  "imagen": "https://scontent.ftgu3-4.fna.fbcdn.net/v/t39.30808-6/855602386_1824712279441143_2935130490057538329_n.jpg?stp=dst-jpg_tt6&cstp=mx1200x1575&ctp=s1200x1575&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeElnjgfK8t195LXakGFVqcoFpvof_6awLYWm-h__prAthgCaKuDiGfDp5H4ouVFEqW7uRQzCYEdptwYO-rO6RMh&_nc_ohc=RCPYVYwiZ5EQ7kNvwExf8yE&_nc_oc=Adp7eN4Qf2D8zHROWXU0VOK5GUdB2YY4wZ2G7N4d5aIX_xzGsc0mLXbrq8La3rWncJIRrpoLB1WmVt6w0ZgcyLIg&_nc_zt=23&_nc_ht=scontent.ftgu3-4.fna&_nc_gid=C4bTx1pl5XXPLYLiRJ8LvQ&_nc_ss=7b2a8&oh=00_AQPhU0IA1q2Gv9I1IEW3zC7wdnQFgdrcXIGLUhRB4rp-Pw&oe=6ADDE40F",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
