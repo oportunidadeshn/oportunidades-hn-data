@@ -2,6 +2,49 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261021-093459-51",
+  "titulo": "Supervisor de Vehiculo",
+  "empresa": "MotoAuto",
+  "ciudad": "San Pedro Sula, Villanueva",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisor de Vehículos enfocado en impulsar la comercialización y venta de vehículos comerciales y recreativos (motos de carga y cuatrimotos,etc)",
+  "requisitos": [
+    "✔Experiencia mínima de 2 años en ventas de vehículos (motocicletas, motos de carga, cuatrimotos o afines).",
+    "✔Conocimiento del mercado automotriz/motocicletas y gestión de fuerza de ventas o clientes clave.",
+    "✔Habilidades avanzadas de comunicación, negociación y cierre de ventas.",
+    "✔Orientado a resultados, proactivo y con excelente servicio al cliente.",
+    "✔ Se requiere disponibilidad inmediata y de movilidad/desplazamiento"
+  ],
+  "beneficios": [
+    "Beneficios de Ley",
+    "Depreciación",
+    "Viáticos",
+    "Seguro Privado"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nUsa el botón para aplicar en línea.\nPreséntate en Centro de Distribución Motoauto, SPS.",
+  "fecha_publicacion": "2026-10-21",
+  "fecha_vencimiento": "2026-11-20",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50489867083",
+  "telefono": "",
+  "correo": "gestionhumana@kattangroup.com",
+  "whatsapps": [
+    "50489867083"
+  ],
+  "telefonos": [],
+  "correos": [
+    "gestionhumana@kattangroup.com"
+  ],
+  "url_aplicar": "N/A"
+},
+    
+    {
   "id": "ohn-20261021-102000-1",
   "titulo": "Conserje",
   "empresa": "SLS Móvil",
