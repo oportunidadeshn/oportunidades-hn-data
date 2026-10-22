@@ -1301,6 +1301,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    }, 
+    {
+  "titulo": "Feria de Reclutamiento Sportline Danlí",
+  "organizador": "Sportline",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Danlí",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-23",
+  "fecha_fin": "2026-10-23",
+  "hora": "8:30 a.m. a 5:00 p.m.",
+  "lugar": "Cámara de Comercio de Danlí",
+  "descripcion": "Reclutamiento para la tienda Sportline Danlí. Plazas disponibles: asesor de ventas (3 vacantes), caja (1 vacante), subgerente (1 vacante) y gerente (1 vacante). Para subgerente se solicita un mínimo de 2 años de experiencia en retail o tiendas.",
+  "informacion_participacion": "Asistir a la feria en el horario indicado. Quienes no puedan asistir pueden enviar su CV a rrhh@sportline.com.hn o al WhatsApp 3161-8095.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "50431618095",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
