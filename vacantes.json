@@ -2,6 +2,42 @@
   "actualizado": "2026-10-14",
   "vacantes": [
    {
+  "id": "ohn-20261022-082455-55",
+  "titulo": "Regente",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Gestionar y supervisar que la licencia esté vigente \nAutorización sanitaria \nPreparar y dar seguimiento de expedientes de autorizaciones sanitarias",
+  "requisitos": [
+    "Dr/ Dra en Química y Farmacia",
+    "Ingeniería química",
+    "Experiencia en regulación sanitaria"
+  ],
+  "beneficios": [
+    "Beneficios de Ley"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\ncolocar nombre del puesto",
+  "fecha_publicacion": "2026-10-22",
+  "fecha_vencimiento": "2026-10-26",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rrhhplazasapl@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rrhhplazasapl@gmail.com"
+  ],
+  "url_aplicar": ""
+   },
+    
+    {
   "id": "ohn-20261022-080649-54",
   "titulo": "Oficial de Recepción",
   "empresa": "Nipro",
