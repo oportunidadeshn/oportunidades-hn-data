@@ -1301,6 +1301,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "DataHub: capacitación e investigación aplicada con datos",
+  "organizador": "Instituto de la Justicia de ASJ",
+  "categoria": "Capacitaciones y Talleres",
+  "ciudad": "",
+  "modalidad": "Mixta",
+  "fecha_inicio": "2026-10-26",
+  "fecha_fin": "2026-11-13",
+  "hora": "",
+  "lugar": "Capacitaciones virtuales. Modalidad y lugar de las demás actividades por confirmar.",
+  "descripcion": "Experiencia de capacitación e investigación aplicada para aprender a analizar datos y convertirlos en productos informativos. Dirigida a estudiantes de todas las carreras, organizados en equipos de 4 a 5 personas, preferiblemente multidisciplinarios. Incluye acreditación de hasta 30 horas de vinculación por parte de UNITEC, diploma de participación y premios para los equipos ganadores. Calendario: capacitaciones virtuales del 26 al 30 de octubre; desarrollo de proyectos del 2 al 11 de noviembre; revisión técnica y ética el 12 de noviembre; presentación final y premiación el 13 de noviembre de 2026.",
+  "informacion_participacion": "Inscripciones del 21 al 23 de octubre de 2026 mediante el formulario: https://ee.kobotoolbox.org/x/gux8raeM. Participación en equipos de 4 a 5 estudiantes, preferiblemente de distintas carreras.",
+  "imagen": "",
+  "enlace": "https://ee.kobotoolbox.org/x/gux8raeM",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
