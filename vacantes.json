@@ -2,6 +2,38 @@
   "actualizado": "2026-10-14",
   "vacantes": [
    {
+  "id": "ohn-20261022-104500-1",
+  "titulo": "Manicurista",
+  "empresa": "Hadassah Beauty Salon",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Servicios Generales y Oficios",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Contratación inmediata de manicurista para Hadassah Beauty Salon, ubicado en Plaza Santa Mónica, etapa 3, local 10. Horario de lunes a sábado de 9:00 a. m. a 6:00 p. m. El salón ofrece servicios de aplicación de gel, acrílico, pedicure, manicure, calcio, permanente, secado y planchado.",
+  "requisitos": [
+    "Responsabilidad.",
+    "Puntualidad.",
+    "Honestidad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Contactar mediante el botón de WhatsApp para postularse.",
+  "fecha_publicacion": "2026-10-22",
+  "fecha_vencimiento": "2026-11-01",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50496236411",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": ["50496236411", "50494383528"],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+   },
+    
+    {
   "id": "ohn-20261022-093000-1",
   "titulo": "Técnico de soporte",
   "empresa": "INVERTECSE",
