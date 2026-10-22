@@ -1,7 +1,47 @@
 {
   "actualizado": "2026-10-14",
   "vacantes": [
- {
+{
+  "id": "ohn-20261022-133000-1",
+  "titulo": "Asesor de Atención al Cliente",
+  "empresa": "Latitude Sports",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Atención al cliente y recepción de equipos tecnológicos para taller técnico, incluyendo checklist técnico y logística del taller, sin realizar reparaciones. Horario de lunes a viernes de 8:00 a.m. a 5:00 p.m. y sábado de 8:00 a.m. a 12:00 m.",
+  "requisitos": [
+    "Graduado o egresado de Administración de Empresas, Mercadeo o carreras afines.",
+    "Experiencia de 1 a 2 años en atención al cliente.",
+    "Pasión por la tecnología, deseable en drones.",
+    "Experiencia en recepción de equipos tecnológicos para taller técnico, checklist técnico y logística de taller.",
+    "Conocimiento intermedio de Microsoft Office, sistemas de facturación, cierres de caja y reportería.",
+    "Adaptabilidad, organización y orden.",
+    "Residir en Tegucigalpa o zonas aledañas."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Prestaciones de ley.",
+    "Oportunidad de crecimiento profesional."
+  ],
+  "como_aplicar": "Enviar CV mediante el botón de correo con el asunto \"Asesor Latitude\", antes del miércoles 28 de octubre de 2026.",
+  "fecha_publicacion": "2026-10-22",
+  "fecha_vencimiento": "2026-10-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "wdeleon@latitude-sports.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": ["wdeleon@latitude-sports.com"],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261022-130000-1",
   "titulo": "Delivery",
   "empresa": "Forza Delivery Express",
