@@ -1247,6 +1247,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Jornada de Reclutamiento de SETRASS – La Ceiba",
+  "organizador": "Secretaría de Trabajo y Seguridad Social (SETRASS)",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "La Ceiba",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-22",
+  "fecha_fin": "2026-10-22",
+  "hora": "8:00 a.m. a 4:00 p.m.",
+  "lugar": "Secretaría de Trabajo y Seguridad Social, Regional La Ceiba, 11 calle, edificio Plaza del Caribe, La Ceiba, Atlántida.",
+  "descripcion": "Jornada de reclutamiento con vacantes en atención al cliente y caja. Para atención al cliente: sexo femenino, experiencia en el área, proactividad y buena presentación. Para caja: mayores de 21 años, ambos sexos, experiencia en manejo de caja, manejo básico de Office, disponibilidad para turnos rotativos y accesibilidad de transporte.",
+  "informacion_participacion": "Presentarse con currículum actualizado.",
+  "imagen": "https://scontent.ftgu3-3.fna.fbcdn.net/v/t39.99422-6/859640839_2250200075842376_6520744521901661564_n.png?stp=dst-jpg_tt6&cstp=mx1179x1569&ctp=s1179x1569&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHRhPw0bwhjK8Gm2fLHMtHO8rFKFEv5y0jysUoUS_nLSM1Kj8KkFfNJNjFivKnhtASNhB8ScYUFwHLnJmdmEMQP&_nc_ohc=2UJkuuD-3jUQ7kNvwGYUN95&_nc_oc=AdrSyLnWiRTWprLtSmy91wbxE7vGugXx2DvKO7y-HvdKkxIWfhZexC8Q1XzDUAoiogotbyBgrKnn0VyKlQV3eq2j&_nc_zt=14&_nc_ht=scontent.ftgu3-3.fna&_nc_gid=UoidoWtTcXO6J-6pwhu3wg&_nc_ss=7b2a8&oh=00_AQOPZQthPAWDtRYQ1pWd-IBTzcPMQqfpThiI3nE6Vf7waQ&oe=6ADF306A",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
