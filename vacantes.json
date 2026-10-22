@@ -1,7 +1,48 @@
 {
   "actualizado": "2026-10-14",
   "vacantes": [
-   {
+  {
+  "id": "ohn-20261022-123000-1",
+  "titulo": "Motorista / Servicio al cliente",
+  "empresa": "Grupo Amor Eterno",
+  "ciudad": "La Flecha, El Ciruelo",
+  "categoria": "Transporte y Distribución",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Conducir vehículos de transmisión mecánica para el traslado de equipos y otras necesidades del servicio. Asistir en la preparación y desarrollo de servicios fúnebres, brindar apoyo y orientación al cliente y colaborar con el personal operativo. Se requiere residir en La Flecha o El Ciruelo, Santa Bárbara.",
+  "requisitos": [
+    "Residir en La Flecha o El Ciruelo, Santa Bárbara.",
+    "Secundaria completa, indispensable.",
+    "Licencia de conducir vigente.",
+    "Experiencia mínima de un año en atención al cliente o puestos similares.",
+    "Manejo de vehículos de transmisión mecánica y nociones básicas de mantenimiento.",
+    "Disponibilidad de tiempo.",
+    "Sexo masculino.",
+    "Espíritu de servicio."
+  ],
+  "beneficios": [
+    "Beneficios de ley.",
+    "Sueldo base más comisiones.",
+    "Estabilidad laboral."
+  ],
+  "como_aplicar": "Enviar CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-10-22",
+  "fecha_vencimiento": "2026-11-01",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50496178679",
+  "telefono": "",
+  "correo": "recursoshh.amoreterno@gmail.com",
+  "whatsapps": ["50496178679"],
+  "telefonos": [],
+  "correos": ["recursoshh.amoreterno@gmail.com"],
+  "url_aplicar": ""
+  },
+    
+    {
   "id": "ohn-20261022-120000-1",
   "titulo": "Arquitecto",
   "empresa": "Inversiones Torento",
