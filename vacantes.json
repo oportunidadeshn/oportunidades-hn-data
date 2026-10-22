@@ -2,6 +2,44 @@
   "actualizado": "2026-10-14",
   "vacantes": [
    {
+  "id": "ohn-20261022-080649-54",
+  "titulo": "Oficial de Recepción",
+  "empresa": "Nipro",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Gestión del servicio al cliente y comunicación interna.\nAdministración de servicios generales y apoyo operativo.\nRealización de reportes",
+  "requisitos": [
+    "Educación media completa, preferentemente estudiante universitario.",
+    "Conocimiento de Word y Excel",
+    "Servicio al cliente"
+  ],
+  "beneficios": [
+    "De Ley, paquete adicional brindado por la empresa"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nAsunto nombre de la vacante",
+  "fecha_publicacion": "2026-10-22",
+  "fecha_vencimiento": "2026-10-26",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432783344",
+  "telefono": "",
+  "correo": "vacanteshonduras@nipromed.com",
+  "whatsapps": [
+    "50432783344"
+  ],
+  "telefonos": [],
+  "correos": [
+    "vacanteshonduras@nipromed.com"
+  ],
+  "url_aplicar": ""
+   },
+    
+    {
   "id": "ohn-20261022-001000-1",
   "titulo": "Personal temporal: ventas, caja y empaque de regalos",
   "empresa": "Mini Genios",
