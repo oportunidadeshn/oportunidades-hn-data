@@ -1265,6 +1265,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Presentación de Oportunidades de Becas y Movilidad",
+  "organizador": "Embajada de Estados Unidos en Honduras y UNAH Campus Cortés",
+  "categoria": "Becas y Oportunidades Académicas",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-27",
+  "fecha_fin": "2026-10-27",
+  "hora": "2:30 p.m.",
+  "lugar": "Auditorio 1, edificio 5, UNAH Campus Cortés.",
+  "descripcion": "La Embajada de Estados Unidos en Honduras presentará oportunidades de becas y movilidad dirigidas a estudiantes, docentes, egresados y graduados de todas las universidades.",
+  "informacion_participacion": "Asistir al Auditorio 1 del edificio 5 de UNAH Campus Cortés en la fecha y hora indicadas. La convocatoria no detalla registro previo.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm6xqgk9RfcdzXEjXe4AnDPyaYIxPzNtNlbgCVflMWRRdK6RFCmYgy2j6_uxLOhyYhX1UGLJHi1DKL0XH-1pFP-OHXY7C9V7HZQzYqtMZdl_Cwq2R8GyOLaJXEAMllJudwnYT3lpW_F1fAzD5CXs1qnn-zLycW_dljkxvJrM2ipRAKdq4aTP44vCDjV-g/s600-rw/1001538207.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
