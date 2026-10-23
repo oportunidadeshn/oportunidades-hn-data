@@ -2,6 +2,45 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261023-085323-56",
+  "titulo": "Técnico Eléctrico",
+  "empresa": "Solaris",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Técnico en Electricidad \n2 años de experiencia en instalaciones (Sistemas fotovoltaicos deseable)\nExperiencia en instalación y conexión de paneles solares, inversores y sistemas de baterías \nConocimiento en sistemas de conexión a redes y sistemas aislados \nConocimientos básicos en normatica eléctrica y de seguridad industrial \nLicencia de conducir vigente\nManejar vehículo mecánico \nDisponibilidad para viajar al interior del país \nDisponibilidad para trabajar fin de semana\nHabilidades de comunicación\nResponsabilidad",
+  "requisitos": [
+    "Licencia de conducir vigente",
+    "Manejar vehículo mecánico",
+    "Disponibilidad para viajar al interior del país",
+    "Disponibilidad para trabajar fin de semana"
+  ],
+  "beneficios": [
+    "Todos los beneficios de ley"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-23",
+  "fecha_vencimiento": "2026-11-15",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431828566",
+  "telefono": "",
+  "correo": "recursoshumanos@solarishn.com",
+  "whatsapps": [
+    "50431828566"
+  ],
+  "telefonos": [],
+  "correos": [
+    "recursoshumanos@solarishn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261022-234500-1",
   "titulo": "Docente bilingüe para preescolar",
   "empresa": "Hillcrest School",
