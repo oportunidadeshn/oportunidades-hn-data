@@ -1355,6 +1355,26 @@
   "whatsapp": "50431874098",
   "destacado": false,
   "activo": true
+    },
+    {
+  "id": "evento-20261027-intur-choluteca",
+  "titulo": "Feria de empleo de INTUR en Choluteca",
+  "organizador": "INTUR y World Vision Honduras",
+  "ciudad": "Choluteca",
+  "categoria": "Feria de empleo",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-27",
+  "fecha_fin": "2026-10-27",
+  "horario": "9:00 a. m. a 2:00 p. m.",
+  "lugar": "Instalaciones del Vivero Municipal, colonia El Edén, Choluteca",
+  "descripcion": "Feria de empleo para integrarse a los equipos de Popeyes, Little Caesars, Subway y Burger King en Choluteca. Plazas disponibles: operario/a de restaurante y gerente de restaurante. Se ofrece salario competitivo, oportunidad de crecimiento, capacitaciones constantes y seguro de vida.",
+  "requisitos": [
+    "Operario/a de restaurante: noveno grado como mínimo, dinamismo, personalidad extrovertida y disponibilidad para trabajar en turnos rotativos.",
+    "Gerente de restaurante: graduado o pasante universitario de carreras administrativas, experiencia en manejo de personal y disponibilidad para trabajar en turnos rotativos. Preferiblemente con experiencia en restaurantes."
+  ],
+  "como_participar": "Presentarse con hoja de vida. El anuncio también incluye un código QR para registrarse.",
+  "imagen": "https://media.licdn.com/dms/image/v2/D4E22AQHwDRYN5awJbg/feedshare-shrink_800/B4EaFmh0WUIgAc-/0/1792721503965?e=1794441600&v=beta&t=-GElaWw_e7-j_TQskLmOT1qkDEp5sp1KLGvOdXQXQR0",
+  "activa": true
     }
   ]
 }
