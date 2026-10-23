@@ -2,6 +2,40 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261023-000000-1",
+  "titulo": "Promotora temporal",
+  "empresa": "Career Resource Center",
+  "ciudad": "Santa Rosa de Copán",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se busca promotora temporal con experiencia en ventas, animación y servicio al cliente, instalación de materiales POP y montaje de eventos.",
+  "requisitos": [
+    "Educación media completa.",
+    "Un año de experiencia en puestos similares.",
+    "Conocimientos en ventas, técnicas de animación y servicio al cliente.",
+    "Conocimientos en instalación de materiales POP y montaje de eventos.",
+    "Fluidez verbal, trabajo en equipo, adaptabilidad, orientación a resultados y persuasión."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Enviar hoja de vida mediante el botón de WhatsApp, incluyendo aspiración salarial, ciudad y nombre de la plaza a la que aplica.",
+  "fecha_publicacion": "2026-10-23",
+  "fecha_vencimiento": "2026-11-02",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433109883",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": ["50433109883"],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261023-000000-7",
   "titulo": "Auditor Junior",
   "empresa": "Metalinox",
