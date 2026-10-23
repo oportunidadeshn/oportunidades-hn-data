@@ -2,6 +2,41 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261023-120435-57",
+  "titulo": "Operador de Monitoreo",
+  "empresa": "Tactical Training 504",
+  "ciudad": "Choloma, Puerto Cortés",
+  "categoria": "Seguridad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Responsable de supervisar y monitorear cámaras de seguridad (CCTV), sistemas de alarmas y equipos de vigilancia, identificando situaciones de riesgo, reportando incidentes oportunamente y aplicando los protocolos de seguridad establecidos para garantizar la protección de las instalaciones y el personal.",
+  "requisitos": [
+    "Secundaria Completa",
+    "Experiencia mínima de 3 años"
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-23",
+  "fecha_vencimiento": "2026-10-31",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50492670577",
+  "telefono": "",
+  "correo": "tact.rrhhsps@gmail.com",
+  "whatsapps": [
+    "50492670577"
+  ],
+  "telefonos": [],
+  "correos": [
+    "tact.rrhhsps@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261023-000000-1",
   "titulo": "Promotora temporal",
   "empresa": "Career Resource Center",
