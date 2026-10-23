@@ -2,6 +2,39 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261022-224500-1",
+  "titulo": "Preparador(a) de matcha",
+  "empresa": "Salty",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Medio tiempo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Oportunidad de medio tiempo para preparación de matcha en Salty.",
+  "requisitos": [
+    "Responsabilidad.",
+    "Amabilidad.",
+    "Ganas de aprender y crecer con el equipo.",
+    "Disponibilidad para trabajar medio tiempo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Enviar CV mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-22",
+  "fecha_vencimiento": "2026-11-01",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50497687532",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": ["50497687532"],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261022-223000-1",
   "titulo": "Analista de fruta",
   "empresa": "Dinant",
