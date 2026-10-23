@@ -1337,6 +1337,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Jornada de Oportunidades Laborales en Puerto Cortés",
+  "organizador": "Municipalidad de Puerto Cortés, Oficina Municipal de Empleabilidad y CI Solution",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Puerto Cortés",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-30",
+  "fecha_fin": "2026-10-30",
+  "hora": "8:00 a.m. a 2:00 p.m.",
+  "lugar": "Cámara de Comercio e Industria de Puerto Cortés, barrio La Curva, entre 14 y 15 calle, 1.ª y 2.ª avenida.",
+  "descripcion": "Jornada de reclutamiento con vacantes para operador de terminal portuaria, chequero de carga portuaria, técnicos eléctricos y de refrigeración y motorista.",
+  "informacion_participacion": "Asistir al lugar en el horario indicado. Para más información, comunicarse al +504 3187-4098.",
+  "imagen": "https://scontent.ftgu3-4.fna.fbcdn.net/v/t39.99422-6/854737400_2304598700381728_2413003463110835002_n.png?stp=dst-jpg_tt6&cstp=mx1236x1599&ctp=s1236x1599&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF56U74nB5eVcQDGKhWnuzIhjr1hF8_4hGGOvWEXz_iETRpxWjfZZocpKkZBmf5zKgWX5hLbbBRnS3fBkpgAIY6&_nc_ohc=XwNztq4NoJAQ7kNvwFBVuBV&_nc_oc=AdqMgN3pIwAfbyc9WunWJ5Xw1IKMPwbEdmNNMW0vty7S00geuwSLHYrxxci_nZhlVmj4FG6mwtznWoIq2kyXjwGS&_nc_zt=14&_nc_ht=scontent.ftgu3-4.fna&_nc_gid=dqXNHfBEyXMHDHC1XyFblg&_nc_ss=7b2a8&oh=00_AQO8vN201mVDNaVFefjqyLdYNN6RJWMEbs0Jr1KJjazaSQ&oe=6AE092A9",
+  "enlace": "",
+  "whatsapp": "50431874098",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
