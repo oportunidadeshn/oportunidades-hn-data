@@ -1,7 +1,42 @@
 {
   "actualizado": "2026-10-14",
   "vacantes": [
-
+{
+  "id": "ohn-20261023-000000-7",
+  "titulo": "Auditor Junior",
+  "empresa": "Metalinox",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Metalinox busca Auditor Junior para integrarse a su equipo en San Pedro Sula.",
+  "requisitos": [
+    "Pasante de Contaduría Pública, Perito Mercantil o Bachiller en Administración.",
+    "Experiencia mínima de 2 años.",
+    "Edad de 25 años en adelante.",
+    "Sexo masculino.",
+    "Manejo de sistemas ERP.",
+    "Manejo de Microsoft Office.",
+    "Capacidad analítica.",
+    "Orientación a resultados.",
+    "Comunicación efectiva."
+  ],
+  "beneficios": [],
+  "fecha_limite": "2026-11-02",
+  "contactos": {
+    "whatsapp": "",
+    "telefono": "50433965152",
+    "correo_usuario": "recursoshumanos",
+    "correo_dominio": "metalinoxhn.com"
+  },
+  "como_aplicar": "Enviar su hoja de vida al correo electrónico o al número de contacto indicado.",
+  "lugar_presentarse": "",
+  "enlace_aplicar": "",
+  "activa": true,
+  "destacada": false
+},
   {
     "id": "ohn-20261023-000000-2",
     "titulo": "Coordinador de Operaciones y Despacho",
