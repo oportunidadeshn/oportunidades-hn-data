@@ -403,7 +403,7 @@
   "url_aplicar": ""
 },
     
-    {
+{
   "id": "ohn-20261023-000000-1",
   "titulo": "Promotora temporal",
   "empresa": "Career Resource Center",
@@ -422,18 +422,19 @@
     "Fluidez verbal, trabajo en equipo, adaptabilidad, orientación a resultados y persuasión."
   ],
   "beneficios": [],
-  "fecha_limite": "2026-11-02",
-  "contactos": {
-    "whatsapp": "50433109883",
-    "telefono": "",
-    "correo_usuario": "",
-    "correo_dominio": ""
-  },
-  "como_aplicar": "Enviar hoja de vida por WhatsApp, incluyendo aspiración salarial, ciudad y nombre de la plaza a la que aplica.",
-  "lugar_presentarse": "",
-  "enlace_aplicar": "",
+  "como_aplicar": "Enviar hoja de vida mediante el botón de WhatsApp, incluyendo aspiración salarial, ciudad y nombre de la plaza a la que aplica.",
+  "fecha_publicacion": "2026-10-23",
+  "fecha_vencimiento": "2026-11-02",
+  "destacada": false,
+  "destacada_hasta": "",
   "activa": true,
-  "destacada": false
+  "whatsapp": "50433109883",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": ["50433109883"],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
 },
     
     {
