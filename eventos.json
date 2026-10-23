@@ -1319,6 +1319,24 @@
   "whatsapp": "50431618095",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "A Tiempo por la Vida: La importancia de la detección temprana del cáncer de mama",
+  "organizador": "Cámara de Comercio e Industria de Tegucigalpa (CCIT) y FUNHOCAM",
+  "categoria": "Charlas y Conferencias",
+  "ciudad": "",
+  "modalidad": "Virtual",
+  "fecha_inicio": "2026-10-27",
+  "fecha_fin": "2026-10-27",
+  "hora": "2:00 p.m. a 3:00 p.m.",
+  "lugar": "",
+  "descripcion": "Charla virtual gratuita sobre la importancia de la detección temprana del cáncer de mama, organizada por la Unidad de Capacitación Empresarial de la CCIT junto con la Fundación Hondureña contra el Cáncer de Mama (FUNHOCAM).",
+  "informacion_participacion": "Participación gratuita con inscripción previa mediante el enlace de registro.",
+  "imagen": "https://scontent.ftgu3-3.fna.fbcdn.net/v/t39.99422-6/856780725_1462065955830221_5895422551661243828_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s1080x1350&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHsyTnTyB0SBM6CpGV0SyNXHvm-VIf_Y-se-b5Uh_9j63YRpGqx_0eBZ5HqZx7eQ77rSGNsFwFFc9Mhm8ANBIUr&_nc_ohc=DIc8JoEJ5lMQ7kNvwE4GGsK&_nc_oc=AdonAd4Cm6swKdRYkUAmzjUUwr7k9LWa2MtVaZpWvTle5QL_w2UhLwjqVXr1xZDqAMrEWt1nYf0oF9ELXgUWyC3c&_nc_zt=14&_nc_ht=scontent.ftgu3-3.fna&_nc_gid=fcJtEikYItfYI6hxDpxYsA&_nc_ss=7b2a8&oh=00_AQN6a0ih_2m_KZlIU4EJpgrvTaPKI34HsK2nEbd_TKgkRg&oe=6AE09BF1",
+  "enlace": "https://bit.ly/4dIh1KY",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
