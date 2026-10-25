@@ -2,6 +2,39 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261025-120923-60",
+  "titulo": "Colorista y Acrilista",
+  "empresa": "Isabellas studio",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Servicios Generales y Oficios",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Residencial costas del sol 4 etapa",
+  "requisitos": [
+    "Experiencia en colorimetria y técnica en uñas"
+  ],
+  "beneficios": [
+    "Pagos puntuales quincenales estabilidad laboral buen ambiente laboral"
+  ],
+  "como_aplicar": "Comunícate mediante el botón de WhatsApp.\nPreséntate en Residencial costas del sol 4 etapa.",
+  "fecha_publicacion": "2026-10-25",
+  "fecha_vencimiento": "2026-10-31",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50496040164",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50496040164"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+    {
   "id": "ohn-20261023-000000-15",
   "titulo": "Supervisor de Vendedores en Campo",
   "empresa": "Cable Color",
