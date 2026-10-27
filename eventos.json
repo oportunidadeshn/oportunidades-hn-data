@@ -1394,6 +1394,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+},
+
+    {
+  "titulo": "Feria de Empleo de Banco Popular",
+  "organizador": "Banco Popular",
+  "categoria": "Ferias de Empleo",
+  "ciudad": "Choluteca",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-28",
+  "fecha_fin": "2026-10-28",
+  "hora": "9:00 a. m. a 3:00 p. m.",
+  "lugar": "Agencia Banco Popular, Choluteca",
+  "descripcion": "Feria de empleo para la plaza de Asesor de Negocios. Convocatoria dirigida a personas que residen en Choluteca, El Corpus o Marcovia.",
+  "informacion_participacion": "Asistir a la agencia Banco Popular en Choluteca y llevar su CV impreso. Para consultas: lelvir@bancopopular.hn.",
+  "imagen": "https://media.licdn.com/dms/image/v2/D4E22AQFAeNKuaxdYqQ/feedshare-shrink_800/B4EaF5xo1BGwAc-/0/1793044418160?e=1794441600&v=beta&t=3Gchg0hnXMSCMt56PrL4qKfLtamOLnvIPV1JEjrbWkA",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
 }
   ]
 }
