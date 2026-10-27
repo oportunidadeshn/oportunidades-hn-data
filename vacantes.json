@@ -2,6 +2,50 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261026-000000-1",
+  "titulo": "Analista de Nómina y Relaciones Laborales",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Recursos Humanos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Oportunidad para Analista de Nómina y Relaciones Laborales en Tegucigalpa, con experiencia en administración de personal, nómina, seguros y beneficios corporativos.",
+  "requisitos": [
+    "Licenciatura en Psicología, Administración de Empresas o carreras afines.",
+    "Experiencia de 2 años en administración de personal y nómina, preferiblemente en empresas medianas o grandes.",
+    "Conocimiento de legislación laboral.",
+    "Experiencia en gestión de seguros y beneficios corporativos.",
+    "Manejo de Excel a nivel intermedio.",
+    "Manejo de sistemas para nómina.",
+    "Excelentes habilidades de organización, análisis, comunicación y negociación.",
+    "Atención al detalle y pensamiento estratégico.",
+    "Orientación a resultados, iniciativa, proactividad y dinamismo.",
+    "Integridad, responsabilidad y capacidad para trabajar en equipo."
+  ],
+  "beneficios": [
+    "Salario de L 19,000.",
+    "Beneficios de ley.",
+    "Oportunidad de crecimiento.",
+    "Ambiente laboral estable."
+  ],
+  "como_aplicar": "Enviar su CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-26",
+  "fecha_vencimiento": "2026-11-05",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "contacto.corporativohn@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": ["contacto.corporativohn@gmail.com"],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261025-120923-60",
   "titulo": "Colorista y Acrilista",
   "empresa": "Isabellas studio",
