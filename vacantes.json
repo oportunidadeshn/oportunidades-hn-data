@@ -2,6 +2,43 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261026-153600-61",
+  "titulo": "Recepcionista",
+  "empresa": "Nipro",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Dominio intermedio/avanzado de excel\nConocimiento de power BI\nInglés intermedio (deseable)\nOrientación al cliente \nComunicación asertiva \nExcelente presentación personal",
+  "requisitos": [
+    "Estudiante universitario de Admon. De empresas, comunicación carrera a fin",
+    "Experiencia en recepción, atención al cliente o call center",
+    "Inglés intermedio (deseable)"
+  ],
+  "beneficios": [
+    "Beneficios de ley mas paquete adicional de beneficios"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nsi lo envías por correo no enviarlo por whatsApp solamente por una vía y colocar el nombre de la vacante",
+  "fecha_publicacion": "2026-10-26",
+  "fecha_vencimiento": "2026-10-31",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432783344",
+  "telefono": "",
+  "correo": "vacanteshonduras@nipromed.com",
+  "whatsapps": [
+    "50432783344"
+  ],
+  "telefonos": [],
+  "correos": [
+    "vacanteshonduras@nipromed.com"
+  ],
+  "url_aplicar": ""
+},
+    {
   "id": "ohn-20261026-000000-2",
   "titulo": "Dependiente de Tienda - Temporada Navideña",
   "empresa": "Zara, Pull&Bear, Stradivarius y Bershka",
@@ -3118,7 +3155,7 @@
   "fecha_vencimiento": "2026-10-26",
   "destacada": false,
   "destacada_hasta": "",
-  "activa": true,
+  "activa": false,
   "whatsapp": "50432783344",
   "telefono": "",
   "correo": "vacanteshonduras@nipromed.com",
