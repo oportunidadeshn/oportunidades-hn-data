@@ -2,6 +2,92 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261027-101102-64",
+  "titulo": "Auxiliar de Compras",
+  "empresa": "Galeas Arquitectos",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Objetivo del puesto:\nEjecutar de forma ordenada y oportuna el proceso operativo de compras de Galeas Arquitectos, gestionando requisiciones, cotizaciones y órdenes de compra, para asegurar el abastecimiento de materiales y equipos de nuestros proyectos y de la operación de las empresas.\n\nResponsabilidades clave:\n\nRecibir y revisar las requisiciones de compra de los Residentes de Proyectos y áreas internas, validando que estén completas y sean coherentes\nCoordinar con los solicitantes para aclarar, ajustar o ampliar requisiciones\nSolicitar cotizaciones a proveedores y elaborar comparativos para revisión de la Jefatura de Compras\nPreparar y verificar las órdenes de compra a partir de las requisiciones autorizadas\nDar seguimiento a las órdenes de compra, tiempos de entrega y cumplimiento de condiciones\nRecibir facturas originales de proveedores y verificarlas contra las órdenes de compra\nOrganizar y archivar la documentación del proceso de compras\nElaborar reportes operativos de compras",
+  "requisitos": [
+    "Técnico universitario o licenciatura, en curso o finalizada, en Administración de Empresas, Contaduría, Ingeniería Industrial o afines",
+    "2 años de experiencia en funciones administrativas, compras operativas o apoyo a procesos de abastecimiento, preferiblemente en empresas de proyectos, servicios o construcción",
+    "Manejo de Excel intermedio y Microsoft Office",
+    "Conocimiento de requisiciones, órdenes de compra y control de cotizaciones",
+    "Experiencia con sistemas administrativos o ERP (deseable)"
+  ],
+  "beneficios": [
+    "Beneficios de ley, Seguro médico hospitalario contributivo"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nUsa el botón para aplicar en línea.\nPober en el asunto del correo, vacante de auxiliar de compras y colocar disponibilidad y aspiración salarial",
+  "fecha_publicacion": "2026-10-27",
+  "fecha_vencimiento": "2026-11-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494122955",
+  "telefono": "",
+  "correo": "rrhh@galeasarquitectos.com",
+  "whatsapps": [
+    "50494122955"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhh@galeasarquitectos.com"
+  ],
+  "url_aplicar": "https://www.linkedin.com/jobs/view/4484080455"
+},
+
+    {
+  "id": "ohn-20261027-094809-63",
+  "titulo": "Técnico Electricista",
+  "empresa": "Solaris",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Algunas de las funciones a realizar son: \n• Evaluación y diseño en campo: Visita el sitio de instalación (residencial, comercial o industrial)\n• Montaje de estructuras: Instala los soportes, rieles y anclajes en techos o suelo para sostener de forma segura los módulos solares.\n• Instalación de paneles solares: Coloca, fija y conecta los paneles o módulos fotovoltaicos siguiendo los diagramas técnicos y normas de seguridad vigentes.\n• Conexión eléctrica y de inversores",
+  "requisitos": [
+    "Técnico en Electricidad",
+    "2 años de experiencia en instalaciones (Sistemas fotovoltaicos deseable)",
+    "Experiencia en instalación y conexión de paneles solares, inversores y sistemas de baterías",
+    "Conocimiento en sistemas de conexión a redes y sistemas aislados",
+    "Conocimientos básicos en normativa eléctrica y de seguridad industrial",
+    "Licencia de conducir vigente",
+    "Manejar vehículo mecánico",
+    "Disponibilidad para viajar al interior del país",
+    "Disponibilidad para trabajar fin de semana",
+    "Habilidades de comunicación",
+    "Responsabilidad"
+  ],
+  "beneficios": [
+    "Beneficios de ley"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-27",
+  "fecha_vencimiento": "2026-11-26",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431828566",
+  "telefono": "",
+  "correo": "recursoshumanos@solarishn.com",
+  "whatsapps": [
+    "50431828566"
+  ],
+  "telefonos": [],
+  "correos": [
+    "recursoshumanos@solarishn.com"
+  ],
+  "url_aplicar": ""
+    },
+    
+    {
   "id": "ohn-20261027-000000-43",
   "titulo": "Coordinador de Flota País",
   "empresa": "C807 Xpress",
