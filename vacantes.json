@@ -2,6 +2,47 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261027-000000-45",
+  "titulo": "Mercaderista Display",
+  "empresa": "Empresa confidencial",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Oportunidad para Mercaderista Display en San Pedro Sula, con experiencia en cadenas de supermercados.",
+  "requisitos": [
+    "Educación secundaria completa.",
+    "Edad de 24 a 40 años.",
+    "Antecedentes vigentes.",
+    "Experiencia en cadenas de supermercados.",
+    "Poseer vehículo y/o motocicleta propia.",
+    "Disponibilidad inmediata de tiempo y horarios.",
+    "Residir en San Pedro Sula."
+  ],
+  "beneficios": [
+    "Salario más comisiones.",
+    "Beneficios de ley.",
+    "Movilización y depreciación.",
+    "Crecimiento y desarrollo profesional."
+  ],
+  "como_aplicar": "Enviar su CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-27",
+  "fecha_vencimiento": "2026-11-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "vacantelaboralhn@yahoo.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": ["vacantelaboralhn@yahoo.com"],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261027-101102-64",
   "titulo": "Auxiliar de Compras",
   "empresa": "Galeas Arquitectos",
