@@ -2,6 +2,44 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261028-044910-67",
+  "titulo": "Contratista/Albañil",
+  "empresa": "LZ Construcciones S de RL",
+  "ciudad": "A nivel nacional",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se buscan Contratistas Y albañiles con experiencia comprobable para integrarse a un importante proyecto de construcción de 8,000 viviendas en serie.",
+  "requisitos": [
+    "Experiencia comprobable en albañilería y construcción de vivienda individual y en serie.",
+    "Responsabilidad, puntualidad y compromiso con el trabajo.",
+    "Capacidad para trabajar en equipo y cumplir con las metas de producción del proyecto.",
+    "Contratación sujeta a evaluación de experiencia y condiciones del proyecto."
+  ],
+  "beneficios": [
+    "Alojamiento disponible para el personal contratado."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-28",
+  "fecha_vencimiento": "2026-11-15",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432826426",
+  "telefono": "",
+  "correo": "lzconstrucciones2016@gmail.com",
+  "whatsapps": [
+    "50432826426"
+  ],
+  "telefonos": [],
+  "correos": [
+    "lzconstrucciones2016@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+    {
   "id": "ohn-20261027-094324-62",
   "titulo": "Directora de Estrategia Digital",
   "empresa": "24 Studio",
