@@ -1414,5 +1414,24 @@
   "destacado": false,
   "activo": true
 }
+
+    {
+  "titulo": "Feria de Empleo para Candidatos Bilingües",
+  "organizador": "No especificado",
+  "categoria": "Ferias de Empleo",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-30",
+  "fecha_fin": "2026-10-30",
+  "hora": "Desde las 8:00 a. m. Cierre por confirmar: 4:00 p. m.",
+  "lugar": "Cámara de Comercio e Industria de Tegucigalpa (CCIT), bulevar Centroamérica",
+  "descripcion": "Convocatoria para candidatos bilingües interesados en conocer las plazas disponibles, conversar con el equipo de reclutamiento y realizar entrevistas presenciales durante la feria. Puestos específicos no publicados.",
+  "informacion_participacion": "Presentarse con documento de identidad vigente y CV actualizado, impreso o digital. Dominio del inglés indispensable. La imagen menciona niveles B1, B2 o C2 y español.",
+  "imagen": "https://media.licdn.com/dms/image/v2/D4E22AQFE7JiRxPtRiA/feedshare-shrink_800/B4EaF.fXQeHUAc-/0/1793123513679?e=1795046400&v=beta&t=UGYMyElSecOlNdx3tWQikBkuK4RlPBcMD_msac5xDJg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+},
   ]
 }
