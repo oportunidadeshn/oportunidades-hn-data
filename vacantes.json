@@ -2,6 +2,45 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261028-000000-69",
+  "titulo": "Personal para el Departamento Comercial",
+  "empresa": "Bennett Global Cargo",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Bennett Global Cargo busca personal para su Departamento Comercial en San Pedro Sula, con experiencia en el sector logístico, desarrollo de cartera de clientes y ventas de servicios de transporte.",
+  "requisitos": [
+    "Experiencia en el área comercial y ventas.",
+    "Preferiblemente con experiencia en agencias de carga, agencias aduaneras o navieras.",
+    "Conocimiento de servicios de transporte marítimo, terrestre y/o aéreo.",
+    "Habilidad para desarrollar y mantener una cartera de clientes.",
+    "Excelentes habilidades de comunicación, negociación y seguimiento comercial.",
+    "Orientación a resultados y cumplimiento de metas."
+  ],
+  "beneficios": [
+    "Oportunidades de crecimiento.",
+    "Beneficios competitivos.",
+    "Ambiente dinámico."
+  ],
+  "como_aplicar": "Enviar su CV y pretensión salarial mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-28",
+  "fecha_vencimiento": "2026-11-12",
+  "destacada": true,
+  "destacada_hasta": "2026-11-04",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "comercial.manager@bennett-cargo.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": ["comercial.manager@bennett-cargo.com"],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261028-044910-67",
   "titulo": "Contratista/Albañil",
   "empresa": "LZ Construcciones S de RL",
