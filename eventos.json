@@ -1432,6 +1432,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
-    }
+    },
+
+    {
+  "titulo": "Gran Feria de Empleo de Droguería Proconsumo",
+  "organizador": "Droguería Proconsumo",
+  "categoria": "Ferias de Empleo",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-29",
+  "fecha_fin": "2026-10-30",
+  "hora": "Jueves 29: 2:00 a 5:00 p. m. Viernes 30: 1:00 a 5:00 p. m.",
+  "lugar": "Droguería Proconsumo, Complejo Las Torres Logistics Center, 33 calle, sector El Polvorín, San Pedro Sula, Cortés",
+  "descripcion": "Feria de empleo con plazas disponibles para Distribuidor, Auxiliar de Distribución y Supervisor de Ingresos.",
+  "informacion_participacion": "Presentarse en la sede durante los horarios indicados y llevar su hoja de vida.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYCP8LRp8hwUVphHHjWZNt6xNMXfaP28-iKPa1dccTdnSMYr6GGQC3lybU8ZrVOawVSyc1SEEQuCz-ixhC8WqGP_KmxbUwd2cQQUT2rOEnlY9irtDm4NPD2ETD9hd7PkY6SbWpe6Z4sfAXFh1tFUi9Y740somTYfk71fgWaCB71izzxcDMF6mOPJPkhmg/s1000/1001547683.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+}
   ]
 }
