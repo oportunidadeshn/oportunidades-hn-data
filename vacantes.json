@@ -1,7 +1,77 @@
 {
   "actualizado": "2026-10-14",
   "vacantes": [
-{
+
+  {
+    "id": "ohn-20261029-ars-asesor-servicios",
+    "titulo": "Asesor de Servicios – Call Center / Cobranza de Cartera",
+    "empresa": "A.R.S.",
+    "ciudad": "Tegucigalpa",
+    "categoria": "Atención al Cliente y Call Center / BPO",
+    "modalidad": "Presencial",
+    "tipo_empleo": "Tiempo completo",
+    "sin_experiencia": false,
+    "pasantia": false,
+    "descripcion": "Gestionar llamadas telefónicas de cobranza y dar seguimiento a los compromisos de pago; negociar alternativas y construir acuerdos con los clientes; identificar oportunidades de recuperación y priorizar la gestión de cartera; y cumplir los objetivos de recuperación mediante una atención efectiva y orientada a resultados.",
+    "requisitos": [
+      "Experiencia de 3 a 6 meses en call center, cobranzas, ventas o servicio al cliente.",
+      "Habilidades de comunicación, negociación y persuasión.",
+      "Bachillerato culminado o estudios universitarios en curso.",
+      "Disponibilidad para trabajar de lunes a sábado, en turnos de mañana o tarde."
+    ],
+    "beneficios": [],
+    "como_aplicar": "Envía tu CV a trabajaconnosotros@ars.com.ec, indicando en el asunto «Asesor de Servicios – Tegucigalpa».",
+    "fecha_publicacion": "2026-10-29",
+    "fecha_vencimiento": "2026-11-08",
+    "destacada": false,
+    "destacada_hasta": "",
+    "activa": true,
+    "whatsapp": "",
+    "telefono": "",
+    "correo": "trabajaconnosotros@ars.com.ec",
+    "whatsapps": [],
+    "telefonos": [],
+    "correos": [
+      "trabajaconnosotros@ars.com.ec"
+    ],
+    "url_aplicar": ""
+  },
+  {
+    "id": "ohn-20261029-ars-ejecutivo-cuenta",
+    "titulo": "Ejecutivo de Cuenta – Call Center / Cobranza de Cartera",
+    "empresa": "A.R.S.",
+    "ciudad": "Tegucigalpa",
+    "categoria": "Banca, Seguros y Servicios Financieros",
+    "modalidad": "Presencial",
+    "tipo_empleo": "Tiempo completo",
+    "sin_experiencia": false,
+    "pasantia": false,
+    "descripcion": "Gestionar llamadas telefónicas de cobranza y dar seguimiento a los compromisos de pago; negociar acuerdos y realizar visitas a clientes para facilitar la recuperación de cartera; analizar el estado de la cartera e identificar oportunidades para priorizar la gestión; y cumplir los objetivos de recuperación mediante una gestión estratégica y orientada a resultados.",
+    "requisitos": [
+      "Formación en Administración, Finanzas o carreras afines.",
+      "Experiencia de 2 a 3 años en cobranzas financieras, preferiblemente en recuperación de cartera castigada.",
+      "Vehículo o motocicleta propios, indispensable para realizar visitas a clientes.",
+      "Habilidades de negociación y orientación a resultados."
+    ],
+    "beneficios": [],
+    "como_aplicar": "Envía tu CV a trabajaconnosotros@ars.com.ec, indicando en el asunto «Ejecutivo de Cuenta – Tegucigalpa».",
+    "fecha_publicacion": "2026-10-29",
+    "fecha_vencimiento": "2026-11-08",
+    "destacada": false,
+    "destacada_hasta": "",
+    "activa": true,
+    "whatsapp": "",
+    "telefono": "",
+    "correo": "trabajaconnosotros@ars.com.ec",
+    "whatsapps": [],
+    "telefonos": [],
+    "correos": [
+      "trabajaconnosotros@ars.com.ec"
+    ],
+    "url_aplicar": ""
+  },
+    
+    {
   "id": "ohn-20261029-131120-69",
   "titulo": "Carpintero / Ebanista",
   "empresa": "Inversiones Antara S. de R.L.",
