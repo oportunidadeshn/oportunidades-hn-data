@@ -1565,6 +1565,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
-}
+},
+
+    {
+  "titulo": "Feria de Empleo de Grupo Cadelga",
+  "organizador": "Grupo Cadelga",
+  "categoria": "Feria de empleo",
+  "ciudad": "San Pedro Sula, Santa Rosa de Copán, Lempira, Santa Bárbara",
+  "modalidad": "Virtual",
+  "fecha_inicio": "2026-10-30",
+  "fecha_fin": "2026-11-02",
+  "hora": "No especificado",
+  "lugar": "Portal de empleo de Grupo Cadelga",
+  "descripcion": "Grupo Cadelga invita a participar en su Feria de Empleo mediante postulaciones en su portal oficial. Plazas anunciadas: Jefe de Compras, Guardaespaldas, Especialista de Planeación y Demanda y Analista de Costos e Inventarios en San Pedro Sula; Promotor Jr. en Santa Rosa de Copán y Lempira; y Asesor de Crédito Agropecuario (Agrónomo) en Santa Bárbara.",
+  "informacion_participacion": "Ingresa al portal oficial, consulta los requisitos de la plaza de tu interés y completa tu postulación en línea.",
+  "imagen": "",
+  "enlace": "https://talento.grupocadelga.com/",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+    }
   ]
 }
