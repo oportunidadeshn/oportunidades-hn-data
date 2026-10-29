@@ -1451,6 +1451,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+}, 
+
+    {
+  "titulo": "Jornada de entrevistas para meseros y hostess en Denny’s",
+  "organizador": "Denny’s / Grupo Comidas",
+  "categoria": "Ferias de Empleo",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-29",
+  "fecha_fin": "2026-10-29",
+  "hora": "8:00 a. m. a 11:00 a. m.",
+  "lugar": "Denny’s La Satélite, San Pedro Sula",
+  "descripcion": "Jornada de entrevistas para contratar personal de servicio al cliente: meseros y hostess para el nuevo Denny’s del Bulevar del Norte.",
+  "informacion_participacion": "Requisitos: secundaria completa, excelente presentación, actitud de servicio, disponibilidad inmediata y ser una persona sonriente, dinámica y extrovertida. Puedes enviar tu hoja de vida a empleos@grupocomidas.com.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
 }
   ]
 }
