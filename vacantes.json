@@ -2,6 +2,107 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261028-000000-76",
+  "titulo": "Ayudante de Cocina",
+  "empresa": "Safari Grill Steak House",
+  "ciudad": "Catacamas",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Oportunidad para ayudante de cocina en Safari Grill Steak House, ubicado contiguo a Gasolinera Uno, Catacamas. La experiencia no es indispensable.",
+  "requisitos": [
+    "Disponibilidad de tiempo.",
+    "Actitud positiva."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-28",
+  "fecha_vencimiento": "2026-11-07",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50499641832",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50499641832"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261028-000000-77",
+  "titulo": "Repartidor",
+  "empresa": "La Casa del Jugo",
+  "ciudad": "Catacamas",
+  "categoria": "Transporte y Distribución",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Casa del Jugo busca repartidor con disposición para realizar ventas.",
+  "requisitos": [
+    "Ser mayor de edad.",
+    "Poseer licencia de conducir.",
+    "Ser una persona responsable.",
+    "Tener disposición para vender."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-28",
+  "fecha_vencimiento": "2026-11-07",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50499791053",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50499791053"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261028-000000-78",
+  "titulo": "Jefe de Agencia - Plaza Central",
+  "empresa": "Banrural",
+  "ciudad": "Comayagua",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Banrural Honduras busca jefe de agencia para Plaza Central, Comayagua. La oportunidad está dirigida a líderes con visión de negocio, vocación de servicio y pasión por desarrollar equipos, impulsar resultados y contribuir al crecimiento de su comunidad.",
+  "requisitos": [
+    "Liderazgo y visión de negocio.",
+    "Vocación de servicio.",
+    "Pasión por desarrollar equipos y generar oportunidades de crecimiento.",
+    "Motivación para impulsar resultados y contribuir al crecimiento de la comunidad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo. Indica la plaza de tu interés: Jefe de Agencia - Plaza Central, Comayagua.",
+  "fecha_publicacion": "2026-10-28",
+  "fecha_vencimiento": "2026-11-07",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rrhh@banrural.com.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rrhh@banrural.com.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261028-133052-68",
   "titulo": "Camarera (Limpieza de Habitaciones)",
   "empresa": "Hotel Honduras Maya",
