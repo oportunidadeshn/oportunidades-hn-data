@@ -1470,6 +1470,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+},
+
+    {
+  "titulo": "Feria de Empleo de Gestión Empresarial Integral y Microlab",
+  "organizador": "Gestión Empresarial Integral y Microlab",
+  "categoria": "Ferias de Empleo",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-05",
+  "fecha_fin": "2026-11-06",
+  "hora": "8:00 a. m. a 3:00 p. m.",
+  "lugar": "Colonia Palmira, edificio de CADERH, Tegucigalpa",
+  "descripcion": "Feria de empleo con oportunidades en servicio al cliente, administración, finanzas y laboratorio.\n\nServicio al cliente: jefe, coordinador, supervisor operativo, ejecutivos y oficiales de servicio al cliente.\n\nAdministración y finanzas: contador general, subcontador, auxiliares contables, supervisor de control de inventarios y auditor contable.\n\nLaboratorio: microbiólogos, técnicos de laboratorio y oficiales de recolección de muestras.\n\nOfrecen salarios competitivos, buen ambiente laboral y un paquete de incentivos y beneficios internos.",
+  "informacion_participacion": "Asiste el 5 o 6 de noviembre, de 8:00 a. m. a 3:00 p. m., al edificio de CADERH en la colonia Palmira. Requisitos: ser graduado universitario o estudiante universitario, según el puesto; disponibilidad para horarios rotativos y residir en Tegucigalpa. Algunas posiciones requieren experiencia previa de 1 a 3 años. Documentos para participar: No especificado.",
+  "imagen": "https://media.licdn.com/dms/image/v2/D4E22AQEWKOHk_uz1bQ/feedshare-shrink_800/B4EaGERVkiHEAc-/0/1793220500049?e=1795046400&v=beta&t=DkWINzeZReV00kJEVFASOcbUnrBxw9Aqm7K35i8X14s",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
 }
   ]
 }
