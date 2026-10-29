@@ -2,6 +2,40 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261028-000000-101",
+  "titulo": "Vendedor de Pintura Automotriz",
+  "empresa": "Grupo Sur",
+  "ciudad": "Catacamas",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Promover e incrementar el volumen de ventas en la línea de pintura automotriz, aplicando estrategias comerciales.",
+  "requisitos": [
+    "Graduado de BPT o estudiante universitario de carreras comerciales.",
+    "Experiencia en ventas de campo, manejo y negociación con clientes del sector automotriz y talleres.",
+    "Disposición para el servicio al cliente, habilidades de comunicación y facilidad para relacionarse.",
+    "Poseer motocicleta con documentación en regla."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo. Incluye el nombre del puesto y la ciudad a la que aplicas: Vendedor de Pintura Automotriz - Catacamas.",
+  "fecha_publicacion": "2026-10-28",
+  "fecha_vencimiento": "2026-11-07",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rlacayov@gruposur.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": ["rlacayov@gruposur.com"],
+  "url_aplicar": ""
+},
+    
+    
+    {
   "id": "ohn-20261028-000000-99",
   "titulo": "Panadero",
   "empresa": "Empresa confidencial",
