@@ -1546,6 +1546,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+},
+
+    {
+  "titulo": "De publicar a vender: Marketing Digital para Emprendedores",
+  "organizador": "Cámara de Comercio e Industrias de Comayagua (CCICOM), con el patrocinio de Ficohsa",
+  "categoria": "Talleres",
+  "ciudad": "Comayagua",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-12",
+  "fecha_fin": "2026-11-12",
+  "hora": "3:00 p. m. a 5:00 p. m.",
+  "lugar": "Instalaciones de la Cámara de Comercio e Industrias de Comayagua (CCICOM)",
+  "descripcion": "Taller práctico de marketing digital para emprendedores, impartido por Isabel Reyes, de Eme de Marketing. Aprende lo básico del marketing digital en redes sociales y cómo utilizarlas para atraer clientes, construir tu marca y aumentar tus oportunidades de venta.",
+  "informacion_participacion": "Inscríbete mediante el enlace de registro. Costo y requisitos de participación: No especificado.",
+  "imagen": "https://scontent.fsap16-1.fna.fbcdn.net/v/t39.99422-6/865358393_2097095050915265_1685653050628215186_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s1080x1350&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHxNOn0FS6nvNXDaYvk02DuPdwS_U2NOpo93BL9TY06mtio7NraDihkjsNSzetyWZJZM0Lb5AqZ9M75BwF0uaTC&_nc_ohc=78MU469e2XkQ7kNvwF5CoUP&_nc_oc=AdoyjJTS3e6lYPxl3gBMm-yFxwMp_MYSRXsTFBZyeQDwCSR5SZ-xJRiBbYJP15qCV2sRb8OXLx2_2yArzDVSZBi5&_nc_zt=14&_nc_ht=scontent.fsap16-1.fna&_nc_gid=XSrBVl-aj7ob6_-n2WuDOg&_nc_ss=7b2a8&oh=00_AQRTSAe_lHDznYJCatTQ2LQGGASsgMPX4rvpfnGcEr2U9w&oe=6AE8A868",
+  "enlace": "https://forms.gle/ECdmmf6GzRJNnv2m9",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
 }
   ]
 }
