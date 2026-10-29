@@ -2,6 +2,119 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261028-000000-79",
+  "titulo": "Auxiliar de Farmacia",
+  "empresa": "FarmaFácil",
+  "ciudad": "Santa Rosa de Copán",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "FarmaFácil busca auxiliar de farmacia en Santa Rosa de Copán, con experiencia y espíritu de servicio.",
+  "requisitos": [
+    "Secundaria completa.",
+    "Experiencia mínima comprobable de 1 año en servicio al cliente, caja o farmacia.",
+    "Disponibilidad de horarios."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Estabilidad laboral.",
+    "Seguro médico privado."
+  ],
+  "como_aplicar": "Envía tu currículum actualizado mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-28",
+  "fecha_vencimiento": "2026-11-07",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "recursos.humanos@farmafacilhn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "recursos.humanos@farmafacilhn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261028-000000-80",
+  "titulo": "Auxiliar de Mantenimiento",
+  "empresa": "FarmaFácil",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "FarmaFácil busca auxiliar de mantenimiento en San Pedro Sula.",
+  "requisitos": [
+    "Secundaria completa.",
+    "Conocimientos en electricidad, fontanería, pintura y tabla yeso.",
+    "Disponibilidad de tiempo.",
+    "Capacidad para trabajar en equipo."
+  ],
+  "beneficios": [
+    "Estabilidad laboral.",
+    "Salario competitivo.",
+    "Seguro médico privado."
+  ],
+  "como_aplicar": "Envía tu currículum actualizado mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-28",
+  "fecha_vencimiento": "2026-11-07",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "recursos.humanos@farmafacilhn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "recursos.humanos@farmafacilhn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261028-000000-81",
+  "titulo": "Auxiliar de Farmacia",
+  "empresa": "FarmaFácil",
+  "ciudad": "Nacaome",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "FarmaFácil busca auxiliar de farmacia en Nacaome, con experiencia y espíritu de servicio.",
+  "requisitos": [
+    "Secundaria completa.",
+    "Experiencia mínima comprobable de 1 año en servicio al cliente, caja o farmacia.",
+    "Disponibilidad de horarios."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Estabilidad laboral.",
+    "Seguro médico privado."
+  ],
+  "como_aplicar": "Envía tu currículum actualizado mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-28",
+  "fecha_vencimiento": "2026-11-07",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "recursos.humanos@farmafacilhn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "recursos.humanos@farmafacilhn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261028-000000-76",
   "titulo": "Ayudante de Cocina",
   "empresa": "Safari Grill Steak House",
