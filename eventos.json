@@ -1489,6 +1489,44 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+},
+
+    {
+  "titulo": "Feria de Empleo de Banco Popular en San Marcos, Ocotepeque",
+  "organizador": "Banco Popular",
+  "categoria": "Ferias de Empleo",
+  "ciudad": "San Marcos",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-03",
+  "fecha_fin": "2026-11-03",
+  "hora": "9:00 a. m. a 3:00 p. m.",
+  "lugar": "Agencia Banco Popular, San Marcos, Ocotepeque",
+  "descripcion": "Feria de empleo de Banco Popular en San Marcos, Ocotepeque. Plazas disponibles: No especificado.",
+  "informacion_participacion": "Preséntate en la agencia Banco Popular de San Marcos, Ocotepeque, y lleva tu CV impreso. Para consultas, escribe a fpadilla@bancopopular.hn.",
+  "imagen": "https://media.licdn.com/dms/image/v2/D4E22AQEK06782X0u7Q/feedshare-shrink_800/B4EaGDMbi_G8Ag-/0/1793202436637?e=1795046400&v=beta&t=np9jRttWZu2iTHDMYs3eI10Kq_MEsVSInM9IrvxgHn4",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+},
+
+    {
+  "titulo": "Feria de Empleo de Banco Popular en Santa Rosa de Copán",
+  "organizador": "Banco Popular",
+  "categoria": "Ferias de Empleo",
+  "ciudad": "Santa Rosa de Copán",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-04",
+  "fecha_fin": "2026-11-04",
+  "hora": "9:00 a. m. a 3:00 p. m.",
+  "lugar": "Agencia Banco Popular, Santa Rosa de Copán",
+  "descripcion": "Feria de empleo de Banco Popular en Santa Rosa de Copán. Plazas disponibles: No especificado.",
+  "informacion_participacion": "Preséntate en la agencia Banco Popular de Santa Rosa de Copán y lleva tu CV impreso. Para consultas, escribe a fpadilla@bancopopular.hn.",
+  "imagen": "https://media.licdn.com/dms/image/v2/D4E22AQEqIEhzgaDc1w/feedshare-shrink_800/B4EaGDMbgGI0Ac-/0/1793202436444?e=1795046400&v=beta&t=zFpRcXchS8dDz6rSnrYWnNmC-nlsB0M96dwbQ1qtkq4",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
 }
   ]
 }
