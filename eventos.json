@@ -1527,6 +1527,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+},
+
+    {
+  "titulo": "Feria de Empleo de Banco Popular en Choluteca",
+  "organizador": "Banco Popular",
+  "categoria": "Ferias de Empleo",
+  "ciudad": "Choluteca",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-29",
+  "fecha_fin": "2026-10-29",
+  "hora": "10:00 a. m. a 3:00 p. m.",
+  "lugar": "Agencia Banco Popular, Choluteca",
+  "descripcion": "Feria de empleo de Banco Popular en Choluteca. Plazas disponibles: No especificado.",
+  "informacion_participacion": "Preséntate en la agencia Banco Popular de Choluteca y lleva tu CV impreso. Para consultas, escribe a lelvir@bancopopular.hn.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
 }
   ]
 }
