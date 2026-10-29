@@ -2,6 +2,53 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261028-000000-127",
+  "titulo": "Gerente de Educación Continua",
+  "empresa": "Universidad Zamorano",
+  "ciudad": "San Antonio de Oriente",
+  "categoria": "Educación",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Convertir oportunidades de mercado en programas de educación continua pertinentes y rentables. Posición permanente del área de Vicepresidencia y Decanatura Académica, a la que reporta.\n\nFunciones principales:\nDesarrollar e implementar el plan estratégico y comercial anual de educación continua, identificando oportunidades de crecimiento en el sector agroalimentario.\nDiseñar, coordinar y evaluar programas con la academia, asegurando su calidad y pertinencia para el mercado.\nGestionar oportunidades de negocio, propuestas técnico-económicas, alianzas y contratos, desde la prospección hasta el cierre y la fidelización.\nDiseñar eventos educativos y técnicos y coordinar su logística, así como la de viajes comerciales y visitas institucionales.\nElaborar y controlar presupuestos, precios, costos y márgenes para asegurar la rentabilidad y sostenibilidad de programas y eventos.\nLiderar al equipo multidisciplinario y coordinar con docentes, expertos y áreas de servicio la ejecución de los programas contratados.\nCoordinar con Mercadeo, Admisiones y áreas administrativas la promoción, captación de participantes, seguimiento de ventas y matrícula, inscripción, facturación y certificación.\nRepresentar a la universidad ante aliados y en eventos del sector.\nEvaluar la satisfacción, los resultados y el impacto de programas y eventos, presentar informes e implementar acciones de mejora continua.",
+  "requisitos": [
+    "Licenciatura en Administración de Empresas, Mercadotecnia, Ventas, Administración de Ventas, Negocios Internacionales, Agronegocios, Educación o carreras afines.",
+    "Maestría en Negocios, Agronegocios, Ventas, Mercadeo, Comunicación, Educación o áreas afines (deseable).",
+    "De 3 a 5 años de experiencia en gestión comercial, desarrollo de negocios, alianzas institucionales o educación continua.",
+    "Experiencia comprobable en organización de eventos y administración de presupuestos.",
+    "Experiencia en educación superior o en el sector agroalimentario (deseable).",
+    "Dominio fluido del español y del inglés, con capacidad de comunicación oral y escrita.",
+    "Conocimientos en negociación, elaboración de propuestas y diseño de programas educativos.",
+    "Conocimientos en planificación y logística de eventos, administración de presupuestos y seguimiento comercial.",
+    "Manejo de herramientas de CRM, ofimática y videoconferencia.",
+    "Liderazgo, negociación, planificación y comunicación efectiva.",
+    "Disponibilidad para viajar con frecuencia a nivel nacional e internacional y pasaporte vigente.",
+    "Disponibilidad para jornadas extendidas y para trabajar fuera del horario habitual o los fines de semana cuando los eventos y viajes lo requieran."
+  ],
+  "beneficios": [
+    "Salario de L70,000.00 a L80,000.00.",
+    "Contrato permanente.",
+    "Aprendizaje y crecimiento.",
+    "Ambiente multicultural y colaborativo.",
+    "Cultura basada en valores."
+  ],
+  "como_aplicar": "Envía tu hoja de vida actualizada mediante el botón de correo, destacando tu experiencia, conocimientos y logros profesionales. Adjunta tus títulos o certificados académicos.",
+  "fecha_publicacion": "2026-10-28",
+  "fecha_vencimiento": "2026-11-12",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talentohumano@zamorano.edu",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": ["talentohumano@zamorano.edu"],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261028-000000-122",
   "titulo": "Motorista",
   "empresa": "Comercial La Roca",
