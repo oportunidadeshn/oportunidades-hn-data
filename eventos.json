@@ -1,6 +1,25 @@
 {
   "actualizado": "2026-10-01",
   "eventos": [
+   {
+  "titulo": "Feria de Empleo en Puerto Cortés",
+  "organizador": "Secretaría de Trabajo y Seguridad Social",
+  "categoria": "Feria de empleo",
+  "ciudad": "Puerto Cortés",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-03",
+  "fecha_fin": "2026-11-03",
+  "hora": "9:00 a. m. a 3:00 p. m.",
+  "lugar": "Colegio de Abogados de Puerto Cortés, barrio San Martín, entre 8 y 9 avenida, 9 calle.",
+  "descripcion": "La Secretaría de Trabajo y Seguridad Social invita a las empresas que buscan talento humano a participar en la Feria de Empleo en Puerto Cortés. Las vacantes y los perfiles disponibles no están especificados en esta convocatoria.",
+  "informacion_participacion": "Convocatoria dirigida a empresas interesadas en participar como empleadoras. Para coordinar su participación, pueden escribir a ialas@trabajo.gob.hn o ttabora@trabajo.gob.hn, o comunicarse al 9282-2690.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTrc5QAL46O6Y7PlJDn5582ppAivkLpaHgSLNlCCFWIn9EKy-yUBD-Rz134Ux7t0NOkgfMhuOS4UpzEjNeVPNSQed6VPU-AcWmvjXefdS1nD34rjlT2Ip-NItG9OI45X-uiFRbPH-8notSPWQrulOGmgBY1Vqaj4B6LRmZoQVbnsYPRUn3U0FvVSJMWUI/s1352/1001550308.jpg",
+  "enlace": "",
+  "whatsapp": "50492822690",
+  "destacado": false,
+  "activo": true
+   },
+    
     {
       "titulo": "Feria de Empleo Unlimited",
       "organizador": "Unlimited",
