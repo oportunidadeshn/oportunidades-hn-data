@@ -2,7 +2,88 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 
-  {
+ {
+  "id": "ohn-20261029-chumbagua-tecnico-campo",
+  "titulo": "Técnico de Campo",
+  "empresa": "Chumbagua",
+  "ciudad": "San Marcos, Santa Bárbara",
+  "categoria": "Agricultura y Agroindustria",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Chumbagua busca Técnico de Campo para una plaza permanente en San Marcos, Santa Bárbara, con experiencia en cultivos agrícolas, preferiblemente en caña de azúcar.",
+  "requisitos": [
+    "Bachillerato en Agronomía o título universitario en Ingeniería Agronómica.",
+    "Experiencia de uno a dos años en cultivos agrícolas, preferiblemente en caña de azúcar.",
+    "Manejo intermedio de Microsoft Excel, Word y otras herramientas de Office.",
+    "Licencia vigente para conducir vehículos y motocicletas.",
+    "Residir en zonas cercanas a la compañía.",
+    "Disponibilidad para trabajar en horarios flexibles."
+  ],
+  "beneficios": [
+    "Plaza permanente."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo. Para más información, utiliza los botones de contacto.",
+  "fecha_publicacion": "2026-10-29",
+  "fecha_vencimiento": "2026-11-08",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433016495",
+  "telefono": "",
+  "correo": "reclutamiento@chumbagua.com",
+  "whatsapps": [
+    "50433016495",
+    "50432892532"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@chumbagua.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261029-grupoq-gerente-taller",
+  "titulo": "Gerente de Taller de Mecánica",
+  "empresa": "Grupo Q",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Diseñar, establecer y supervisar estrategias y programas de servicio para el taller de mecánica, garantizando la satisfacción de los clientes y la rentabilidad de la unidad de negocio.",
+  "requisitos": [
+    "Ingeniería Mecánica, Industrial o carrera afín.",
+    "Deseable maestría en Administración de Empresas, Finanzas o Gestión de Proyectos.",
+    "Deseables certificaciones técnicas en procesos de postventa automotriz o de fábricas automotrices.",
+    "Mínimo cinco años de experiencia liderando equipos de postventa.",
+    "Experiencia en relación directa con fábricas, aseguradoras y clientes.",
+    "Manejo de indicadores de satisfacción, productividad, calidad y control de costos.",
+    "Gestión financiera de talleres: costos, presupuesto y rentabilidad.",
+    "Manejo integral de la operación de un taller de mecánica.",
+    "Conocimiento de normas y manejo de seguridad industrial, así como de gestión de servicio al cliente."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV actualizado mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-29",
+  "fecha_vencimiento": "2026-11-08",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "zmembreno@grupoq.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "zmembreno@grupoq.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
     "id": "ohn-20261029-ars-asesor-servicios",
     "titulo": "Asesor de Servicios – Call Center / Cobranza de Cartera",
     "empresa": "A.R.S.",
