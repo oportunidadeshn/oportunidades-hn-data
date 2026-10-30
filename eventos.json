@@ -1622,6 +1622,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Feria de Empleo de Unlimited en San Pedro Sula",
+  "organizador": "Unlimited",
+  "categoria": "Feria de empleo",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-10-27",
+  "fecha_fin": "2026-11-10",
+  "hora": "10:00 a. m. a 4:00 p. m.",
+  "lugar": "Tienda Unlimited, Galerías del Valle.",
+  "descripcion": "Unlimited realizará una Feria de Empleo con plazas disponibles en Ventas, Caja y Bodega. Requisitos: secundaria completa, experiencia en servicio al cliente, mayoría de edad, disponibilidad de tiempo y residencia en el casco urbano.",
+  "informacion_participacion": "Preséntate en la tienda Unlimited de Galerías del Valle, durante las fechas y el horario indicados, con tu hoja de vida actualizada y una fotografía reciente.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgurAFb9u2KAUC2dJL4cVeuBVd9MYmZOyQzir7jwCLZIufRYsS847DVePfRmJs94MhfnYSWl3e3Usy_CE4kYF83wimpxCcy9uJfYhAathIdyHPu1QgcEzjOOImoCPSbTEElCw6582fTWdGL9RHBUlmmU9F0nq1kvACcdwlqQSL-xxw_5DdPdQpX_Fld6Qo/s1402/1001550319.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
