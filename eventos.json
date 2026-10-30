@@ -1640,6 +1640,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Jornada de Actualización en Diabetes",
+  "organizador": "Colegio Médico de Honduras, Centro Nacional de Educación Médica Continua (CENEMEC) y Asociación Hondureña de Endocrinología y Metabolismo",
+  "categoria": "Becas/Capacitaciones",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Híbrida",
+  "fecha_inicio": "2026-11-14",
+  "fecha_fin": "2026-11-14",
+  "hora": "8:00 a. m. a 3:00 p. m.",
+  "lugar": "Salón de Reuniones del Colegio Médico de Honduras, Tegucigalpa, y participación virtual.",
+  "descripcion": "Jornada de actualización en diabetes organizada por el Colegio Médico de Honduras, CENEMEC y la Asociación Hondureña de Endocrinología y Metabolismo. Se podrá participar de forma presencial o virtual. Inscripción gratuita.",
+  "informacion_participacion": "Completa la preinscripción según la modalidad de tu preferencia. Presencial: https://forms.gle/f4Jez5S5uvZhUYdk6 . Virtual: https://forms.gle/Qkuv72c4cA1LFgN76",
+  "imagen": "",
+  "enlace": "https://forms.gle/f4Jez5S5uvZhUYdk6",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
