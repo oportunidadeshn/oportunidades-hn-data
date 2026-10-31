@@ -2,6 +2,42 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261031-11",
+  "titulo": "Especialista de Mercadeo",
+  "empresa": "Motomundo – Grupo ILP",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisar y monitorear tiendas para impulsar la presencia de marca en los puntos de venta. Organizar y ejecutar eventos y ferias comerciales, y coordinar proyectos estratégicos con proveedores y equipos internos. El puesto incluye trabajo de campo y viajes a nivel nacional.",
+  "requisitos": [
+    "Licenciatura en Mercadeo concluida.",
+    "Mínimo 1 año de experiencia en mercadeo, publicidad o áreas comerciales.",
+    "Conocimientos en supervisión y monitoreo de tiendas.",
+    "Experiencia en coordinación de proyectos con proveedores y clientes internos.",
+    "Experiencia en organización, logística y ejecución de eventos o ferias comerciales.",
+    "Poseer vehículo propio, indispensable.",
+    "Disponibilidad para viajar."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Postúlate mediante el botón de correo.",
+  "fecha_publicacion": "2026-10-31",
+  "fecha_vencimiento": "2026-11-10",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "ingrid.leiva@grupoilp.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": ["ingrid.leiva@grupoilp.hn"],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261031-06",
   "titulo": "Jefe de Mantenimiento de Campo",
   "empresa": "Comayagua Golf Club",
