@@ -288,6 +288,25 @@
       "whatsapp": "",
       "destacado": false,
       "activo": true
+    },
+
+    {
+  "titulo": "Feria de Empleo de Unlimited en Tegucigalpa",
+  "organizador": "Unlimited",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-03",
+  "fecha_fin": "2026-11-03",
+  "hora": "8:00 a. m. a 4:00 p. m.",
+  "lugar": "Plaza Central, Torre Metrópolis, bulevar Suyapa, frente a Emisoras Unidas.",
+  "descripcion": "Feria de empleo con plazas disponibles en ventas, caja y bodega. Requisitos: secundaria completa, experiencia en servicio al cliente, ser mayor de edad, disponibilidad de tiempo y residir en el casco urbano de Tegucigalpa.",
+  "informacion_participacion": "Preséntate con tu hoja de vida actualizada y una fotografía reciente.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0sApvVwL9fAbIVxQk7Ilm7b_5DvO6CraJuxp0BFSE-PIrkQNsSEaXEIxzIS0lWBFbo8yIpW8HFXk_gbRZMDSD-9PU0YAKjqxq15GLu-2Po8IdBoFQJnrySaqwLkbN8rVr8Ws45X0AtOk2TRmnPC7B1O5hBs2mTdPmH2i2NrhOdiyswe1Cmx1lojkj_c8/s600/1001552083.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
   ]
 }
