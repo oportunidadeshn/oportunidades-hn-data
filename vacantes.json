@@ -2,6 +2,47 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261031-24",
+  "titulo": "Psicólogo(a) — Asesoría Técnica en Salud Mental y Apoyo Psicosocial",
+  "empresa": "Comité Internacional de la Cruz Roja (CICR)",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Desarrollar, implementar y monitorear las acciones del programa de Salud Mental y Apoyo Psicosocial (SMAPS) que responden a las necesidades de las personas afectadas por la violencia con las cuales trabaja el CICR.",
+  "requisitos": [
+    "5 años de experiencia profesional.",
+    "Título universitario en Psicología Clínica, indispensable.",
+    "Se valorará un postgrado en Psicología Clínica, Psicoterapia, Salud Mental con enfoque de derechos humanos, atención a la violencia o temáticas afines.",
+    "Dominio del español e inglés intermedio que permita leer y comprender.",
+    "Conocimientos y manejo de computadora, Microsoft Office y bases de datos.",
+    "Ética y apego a normas y políticas.",
+    "Comunicación efectiva y trabajo en equipo.",
+    "Excelente capacidad de escucha y comunicación interpersonal."
+  ],
+  "beneficios": [
+    "Sueldo competitivo.",
+    "Prestaciones superiores a la ley.",
+    "Oportunidad de contribuir en una organización internacional humanitaria."
+  ],
+  "como_aplicar": "Utiliza el botón de Aplicar en línea y completa el formulario con tu currículum vitae y una carta de manifestación de interés que incluya tu pretensión salarial.",
+  "fecha_publicacion": "2026-10-31",
+  "fecha_vencimiento": "2026-11-10",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": "https://careers.icrc.org/job-invite/33943/"
+},
+    
+    {
   "id": "ohn-20261031-211124-71",
   "titulo": "Analista Financiero",
   "empresa": "Lacthosa",
