@@ -307,6 +307,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
-    }
+    },
+{
+  "titulo": "Feria de Empleo de Temporada Navideña 2026 – Sportline y marcas",
+  "organizador": "SLA Corp y Cooperativa ELGA",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-02",
+  "fecha_fin": "2026-11-02",
+  "hora": "8:30 a. m. a 5:00 p. m.",
+  "lugar": "Cooperativa ELGA, Oficina Principal Alameda, colonia Alameda, 3.ª calle, avenida Tiburcio Carías Andino.",
+  "descripcion": "Feria de empleo para la temporada navideña 2026 con vacantes para asesores de ventas, cajeras y stockers en las marcas Sportline, Sportline Kids, Kicks, Nike, Converse y Olimpia Store.",
+  "informacion_participacion": "Preséntate con tu currículum actualizado durante el horario de la feria.",
+  "imagen": "https://scontent.ftgu3-4.fna.fbcdn.net/v/t39.99422-6/861524664_29516085934655105_279317421177361957_n.png?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s1080x1920&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF8BSQ6WT2GkRWTwi3cxbIk2piKMwaXRkfamIozBpdGR9_NkP3IoE2lqg131dnefu7J1evxqM5SvyM0LrqhLyz2&_nc_ohc=DkafPlijhn4Q7kNvwHoB2aX&_nc_oc=AdozuNLz5kmWtCKQAC9RpW-E_zQVx6Cvu8rBvCdQEU26gm371zZmyu_J65t6G8R9SMCZndWymyJmXhT_LunpSgwn&_nc_zt=14&_nc_ht=scontent.ftgu3-4.fna&_nc_gid=RSY6APcSF5-t2EAyGjCeEg&_nc_ss=7b2a8&oh=00_AQTQroJGEFQMXYsW7fB3-VboKD2WJGH3EWDChRlGYkB23Q&oe=6AEC52FE",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+}
+    
   ]
 }
