@@ -2,6 +2,46 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261101-29",
+  "titulo": "Supervisor de Ventas",
+  "empresa": "ProgCarne",
+  "ciudad": "San Pedro Sula, Choloma, Puerto Cortés, El Progreso, Tela, La Ceiba, Tocoa, Trujillo",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisar las ventas en las zonas del Litoral Atlántico y Norte. Planificar las actividades del equipo comercial, asegurar el cumplimiento de metas y desarrollar asesores mediante acompañamiento en campo. Identificar oportunidades de negocio, captar clientes, fortalecer la cartera existente, analizar indicadores de ventas, rentabilidad y productividad, y coordinar con logística y distribución. Las ciudades indicadas son referencias de las zonas de cobertura.",
+  "requisitos": [
+    "Licenciatura en Administración de Empresas, Mercadotecnia, Gestión Comercial o carreras afines.",
+    "Mínimo 3 años de experiencia en el área comercial.",
+    "Mínimo 2 años de experiencia supervisando equipos de ventas.",
+    "Experiencia en cumplimiento de metas, apertura de clientes y seguimiento de indicadores.",
+    "Disponibilidad para realizar trabajo de campo y desplazarse dentro de la zona asignada.",
+    "Conocimiento de la zona geográfica correspondiente.",
+    "Liderazgo, visión comercial y orientación a resultados."
+  ],
+  "beneficios": [
+    "Prestaciones y beneficios conforme a las políticas de la empresa.",
+    "Oportunidad de desarrollo profesional.",
+    "Experiencia en una posición estratégica para el crecimiento comercial."
+  ],
+  "como_aplicar": "Postúlate mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-01",
+  "fecha_vencimiento": "2026-11-11",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50495550513",
+  "telefono": "",
+  "correo": "rrhh@guangolola.com",
+  "whatsapps": ["50495550513"],
+  "telefonos": [],
+  "correos": ["rrhh@guangolola.com"],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261101-24",
   "titulo": "Gestor de Cobros",
   "empresa": "Cámara de Comercio e Industrias del Sur (CCISUR)",
