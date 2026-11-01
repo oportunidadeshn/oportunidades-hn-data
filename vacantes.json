@@ -2,6 +2,47 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261031-211124-71",
+  "titulo": "Analista Financiero",
+  "empresa": "Lacthosa",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Elaborar el análisis de estados financieros Calcular la viabilidad de proyectos mediante indicadores como el VAN (Valor Actual Neto) y la TIR (Tasa Interna de Retorno). Presentar reportes y recomendaciones a la dirección y equipo directivo. Diseñar presupuestos anuales, forecasts y modelos de escenarios.",
+  "requisitos": [
+    "1.FORMACIÓN ACADÉMICA",
+    "Licenciatura en Finanzas, Economía, Administración de Empresas, Contaduría Pública, Ingenierias y/o carreras similares.",
+    "2.EXPERIENCIA Y CONOCIMIENTOS",
+    "Experiencia mínima de 1 a 3 años en puestos similares. Bilingüe español-inglés (Preferible) Excel intermedio/ avanzado: Modelado financiero dinámico, tablas dinámicas, funciones lógicas/financieras complejas y macros. Conocimientos básicos de sistemas ERP (como SAP/ Oracle) y herramientas de Business Intelligence (Power BI, Tableau) o bases de datos.",
+    "3.COMPETENCIAS",
+    "Pensamiento crítico y analitico. Comunicación efectiva. Trabajo bajo presión Ética y confidencialidad."
+  ],
+  "beneficios": [
+    "Beneficios de Ley Salario Competitivo Estabilidad Laboral Seguro de Vida y Médico Hospitalario"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-10-31",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50499289299",
+  "telefono": "",
+  "correo": "empleate.corporacion@gmail.com",
+  "whatsapps": [
+    "50499289299"
+  ],
+  "telefonos": [],
+  "correos": [
+    "empleate.corporacion@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261031-22",
   "titulo": "Auxiliar de Bodega",
   "empresa": "Distribuidora EDT Honduras",
