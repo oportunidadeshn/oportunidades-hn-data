@@ -325,7 +325,26 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
-}
+},
+
+    {
+  "titulo": "Art City Tour 2026",
+  "organizador": "Comité de Centros Culturales",
+  "categoria": "Cultura y Arte",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-22",
+  "fecha_fin": "2026-11-22",
+  "hora": "8:00 a. m. a 4:00 p. m.",
+  "lugar": "Único punto de partida: Centro Cultural de España en Tegucigalpa (CCET). Recorrido por 9 sedes.",
+  "descripcion": "Un día de arte, cultura, historia y diversión con la participación de 12 centros culturales en 9 sedes. La Escuela Nacional de Bellas Artes (ENBA) participará como invitada especial.",
+  "informacion_participacion": "Los boletos estarán a la venta de manera virtual a partir del 5 de noviembre de 2026. Consulta las publicaciones del Comité de Centros Culturales para conocer los detalles de compra y participación.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0rjxeX6KF-sGMJ3Eeu67NutTpDX27TMjuAJyDY8tUG7AC4VhIdgBMqOET-LttELTazjdYrAhMbhALAaYUZUmlhFc8UvKRlFRbPHP21xg-40z5D-_7ggijxs0dldCNrtKx95OYdUxv3CApz6t7JZTrx_DD9QelUWDa1Q8bosj8AVRp9OSIfHlOuffylv0/s1600/1001553662.jpg",
+  "enlace": "https://www.instagram.com/ccctegucigalpa/",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+    }
     
   ]
 }
