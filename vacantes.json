@@ -2,6 +2,38 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261102-145512-73",
+  "titulo": "Agente de Servicio al Cliente",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Gracias, Lempira",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Brindar atención presencial a clientes, atendiendo sus consultas, solicitudes, quejas y reclamos. Registrar y actualizar la información en los sistemas correspondientes, dar seguimiento a los requerimientos y canalizarlos a las áreas responsables, procurando una atención cordial, eficiente y oportuna.",
+  "requisitos": [
+    "Pasante universitario de carreras administrativas y/o Bachiller Técnico Profesional en Administración de Empresas, Contaduría y Finanzas, Mercadotecnia o Informática. Experiencia comprobada en atención al cliente, servicio al usuario de manera presencial y/o asistente administrativo. Manejo básico-intermedio de herramientas ofimáticas, digitalización y registro de información, redacción y manejo de documentos. Con orientación al servicio al cliente, comunicación efectiva, buenas relaciones interpersonales, atención al detalle, capacidad de análisis y resolución de problemas, trabajo en equipo, proactividad y responsabilidad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nLa recepción de las aplicaciones únicamente es al correo electrónico: gtalento.oportunidades@gmail.com, indicando en el titulo del correo la vacante y ciudad a la cual está aplicando.",
+  "fecha_publicacion": "2026-11-02",
+  "fecha_vencimiento": "2026-11-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "gtalento.oportunidades@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "gtalento.oportunidades@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261102-112302-72",
   "titulo": "Auxiliar de Sala (Armado de tienda)",
   "empresa": "Supertiendas DeTodo",
