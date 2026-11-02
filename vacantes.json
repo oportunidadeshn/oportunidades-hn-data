@@ -2,6 +2,43 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261102-112302-72",
+  "titulo": "Auxiliar de Sala (Armado de tienda)",
+  "empresa": "Supertiendas DeTodo",
+  "ciudad": "Comayagua, Tela",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Funciones principales: carga y descarga de producto, armado de góndolas, colocación de producto, rotulación, limpieza, orden general, inventario",
+  "requisitos": [
+    "Género Masculino",
+    "Secundaria completa",
+    "18-25 años",
+    "Tener documentación legal al día (DNI, antecedentes penales y policiales)"
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nPreséntate en DeTodo Comayagua, DeTodo Tela.\nEl personal se requiere inicialmente para armado de tienda, posterior del grupo se seleccionarán para quedar ya como auxiliar de sala en nueva tienda",
+  "fecha_publicacion": "2026-11-02",
+  "fecha_vencimiento": "2026-11-10",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432924563",
+  "telefono": "",
+  "correo": "mccgeneralista@gmail.com",
+  "whatsapps": [
+    "50432924563"
+  ],
+  "telefonos": [],
+  "correos": [
+    "mccgeneralista@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261102-01",
   "titulo": "Asesor de Ventas",
   "empresa": "Unlimited",
