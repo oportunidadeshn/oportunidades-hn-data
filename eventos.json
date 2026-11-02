@@ -344,6 +344,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Feria de Empleo INVEMA",
+  "organizador": "INVEMA",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-02",
+  "fecha_fin": "2026-11-02",
+  "hora": "8:00 a. m. a 3:00 p. m.",
+  "lugar": "Instalaciones de INVEMA, km 1 carretera al Zapotal, San Pedro Sula, Honduras.",
+  "descripcion": "Feria de empleo con oportunidades para operadores de producción, motoristas de equipo pesado, mecánicos de equipo pesado y guardias de seguridad. La empresa ofrece capacitación, beneficios de ley, bono por productividad, uniforme y oportunidades de crecimiento.",
+  "informacion_participacion": "Asiste con tu hoja de vida actualizada. También puedes llevar tus documentos básicos. Para consultas: reclutamiento@invemacorp.com y rrhh@invemacorp.com.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "50494352656",
+  "destacado": false,
+  "activo": true
     }
     
   ]
