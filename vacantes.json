@@ -2,6 +2,39 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261102-145816-74",
+  "titulo": "Asesor de Atención al Cliente",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Santa Rosa de Copán",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Gestionar la recepción y documentación de solicitudes de clientes, proporcionando orientación sobre los servicios disponibles. Realizar el registro, seguimiento y actualización de los casos en los sistemas establecidos, coordinar su atención con las áreas correspondientes y brindar información oportuna sobre el estado de las gestiones.",
+  "requisitos": [
+    "Pasante universitario de carreras administrativas y/o Bachiller Técnico Profesional en Administración de Empresas, Contaduría y Finanzas, Mercadotecnia o Informática. Experiencia comprobada en atención al cliente, servicio al usuario de manera presencial y/o asistencia administrativa. Manejo básico-intermedio de herramientas ofimáticas, digitalización y registro de información, redacción y manejo de documentos. Con orientación al servicio al cliente, comunicación efectiva, buenas relaciones interpersonales, atención al detalle, capacidad de análisis y resolución de problemas, trabajo en equipo, proactividad y responsabilidad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nLa recepción de las aplicaciones únicamente es al correo electrónico: gtalento.oportunidades@gmail.com, indicando en el titulo del correo la vacante y ciudad a la cual está aplicando.",
+  "fecha_publicacion": "2026-11-02",
+  "fecha_vencimiento": "2026-11-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "gtalento.oportunidades@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "gtalento.oportunidades@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    
+    {
   "id": "ohn-20261102-145512-73",
   "titulo": "Agente de Servicio al Cliente",
   "empresa": "Empresa confidencial",
