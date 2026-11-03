@@ -362,6 +362,24 @@
   "whatsapp": "50494352656",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Festival Universitario de la Cultura y el Arte para la Identidad Nacional",
+  "organizador": "Universidad Nacional Autónoma de Honduras (UNAH)",
+  "categoria": "Cultura y Arte",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-10",
+  "fecha_fin": "2026-11-12",
+  "hora": "",
+  "lugar": "UNAH",
+  "descripcion": "Tres días de arte, cultura y talento universitario con expresiones de música, teatro, danza, artes visuales, literatura y cinematografía para celebrar la identidad nacional.",
+  "informacion_participacion": "Entrada libre y gratuita.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilltwOAKSYSZsKhhPuAWRzihdfZst_gSLFy54wKMk9nrTMcZAKi5F6AFYNAdU15nIlPWmd9MjGMWhdtK9_59d9DkaHdcJVXBEHEcn8f915cuwYJqZXn6H2eUsKN9RtxlBSdjit_Rg9zpFY89lOyjmFwIxpQ1CxH2oElWX1cpm-6UOdq9r2rJ_wwzPUihY/s1463/1001556225.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
     
   ]
