@@ -399,6 +399,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": false
+    },
+
+    {
+  "titulo": "Feria de Empleo CCICH – Grupo Farsiman",
+  "organizador": "Cámara de Comercio e Industrias de Choloma (CCICH) y Grupo Farsiman",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Choloma",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-05",
+  "fecha_fin": "2026-11-05",
+  "hora": "9:00 a. m. a 12:30 p. m. y de 1:00 p. m. a 3:00 p. m.",
+  "lugar": "Auditorio CCICH, Mall Las Américas",
+  "descripcion": "Feria de empleo con oportunidades para auxiliar del centro de distribución, ayudante de motorista, conserje de moto y operario técnico de producción farmacéutica.",
+  "informacion_participacion": "Inscríbete mediante el enlace del evento y lleva tu hoja de vida. Para más información, contacta por WhatsApp o al correo asesorlaboral@ccich.org.",
+  "imagen": "https://media.licdn.com/dms/image/v2/D4E22AQEgQPHJk9T0_w/feedshare-shrink_800/B4EaGeKz.tJUAc-/0/1793654997150?e=1795046400&v=beta&t=Im0oOAnjzlSmwlQPJP1RyB2MBigtcRkH7Omt3ufIqsQ",
+  "enlace": "https://forms.gle/sLoxceL3ggZLeexW9",
+  "whatsapp": "50494396960",
+  "destacado": false,
+  "activo": true
     }
     
   ]
