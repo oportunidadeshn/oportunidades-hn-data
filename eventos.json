@@ -418,6 +418,24 @@
   "whatsapp": "50494396960",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Jornada de Reclutamiento de Grupo Comidas",
+  "organizador": "Grupo Comidas",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-04",
+  "fecha_fin": "2026-11-04",
+  "hora": "9:00 a. m. a 2:00 p. m.",
+  "lugar": "Barrio El Centro, 3 calle y 4 avenida, tercer nivel del restaurante Pizza Hut y KFC, zona peatonal",
+  "descripcion": "Jornada de reclutamiento con plazas disponibles en servicio al cliente y producción para Grupo Comidas.",
+  "informacion_participacion": "Requisitos: secundaria completa, disponibilidad de horario, excelente presentación personal y deseo de superación. Preséntate en el lugar y horario indicados. También puedes enviar tu CV a empleos@grupocomidas.com.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsPAOJv4sMC0CgTo2tB8YFQnDrIhmheNNU8Mf1G79XKqrgezswpbVi82sRGasaNSc92ObFoPFYE4vKaKVpGjMbCjpSuyFwFNWkMwYyuEQNMXYiHzRwkELwJ0BuXArvELLrDBzABdbHybdVyMu7X-EKIje6k9ipsnVEWuf92ojldGLwMnUgzawxw4meo4w/s600/1001557332.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
     
   ]
