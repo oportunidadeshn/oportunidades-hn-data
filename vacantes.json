@@ -2,6 +2,44 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261103-11",
+  "titulo": "Práctica Profesional de Arquitectura",
+  "empresa": "Celaque",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Práctica profesional",
+  "sin_experiencia": true,
+  "pasantia": true,
+  "descripcion": "Apoyar en la elaboración, actualización y revisión de planos y detalles constructivos; colaborar en propuestas arquitectónicas, levantamientos y mediciones de espacios; apoyar la supervisión y seguimiento de obras, elaborar renders y modelos 3D y preparar informes de avance de proyectos.",
+  "requisitos": [
+    "Estudiante de últimos períodos de Arquitectura.",
+    "Conocimientos en AutoCAD, SketchUp y herramientas de diseño.",
+    "Conocimientos básicos de interpretación de planos.",
+    "Manejo de Microsoft Office.",
+    "Capacidad de organización, trabajo en equipo y atención al detalle.",
+    "Disponibilidad para realizar práctica profesional."
+  ],
+  "beneficios": [
+    "Participación en proyectos reales.",
+    "Adquisición de experiencia en el sector inmobiliario."
+  ],
+  "como_aplicar": "Ingresa mediante el botón Aplicar en línea y envía tu CV para la práctica profesional de Arquitectura en San Pedro Sula.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": "https://plazas-celaque.careers.flair.hr/"
+},
+    
+    {
   "id": "ohn-20261103-08",
   "titulo": "Ingeniero en Sistemas (TI y Soporte)",
   "empresa": "SLS Móvil",
