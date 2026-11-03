@@ -436,6 +436,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+
+    {
+  "titulo": "Micro Jornada de Empleo de SETRASS en Comayagua",
+  "organizador": "Secretaría de Trabajo y Seguridad Social (SETRASS), a través del Servicio Integral de Empleo",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Comayagua",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-05",
+  "fecha_fin": "2026-11-05",
+  "hora": "8:30 a. m. a 3:00 p. m.",
+  "lugar": "Barrio El Centro, detrás de la Alcaldía Municipal de Comayagua",
+  "descripcion": "Jornada de empleo con vacantes para supervisor de producción, técnicos electromecánicos, auxiliares de almacén MP/ME, acarreador de despacho, estibadores, técnicos de máquina, analista de calidad, operarios de empaque, contador general, ejecutivos de ventas en tienda, para proyectos y ventas foráneas, jefe de mantenimiento de campo, atención al cliente, personal para montajes, recepcionista de hotel y personal de aseo.",
+  "informacion_participacion": "Para participar, envía tu currículum a dcalix@trabajo.gob.hn y prepara tu hoja de vida para asistir. Todas las plazas requieren como mínimo seis meses de experiencia. Los requisitos académicos varían según el puesto.",
+  "imagen": "https://scontent.ftgu3-4.fna.fbcdn.net/v/t39.99422-6/886677824_1918475716257533_6994842755768916245_n.png?stp=dst-jpg_tt6&cstp=mx1583x2048&ctp=s1583x2048&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFU8mEP1vams6bqAQu8gdhbBYWmbg4lWqYFhaZuDiVaptMISBdIYD6ejD9BDtSqQaIETEbZbr84mwJOjDhd60ph&_nc_ohc=3MsLO79KMbYQ7kNvwGrkePS&_nc_oc=Adp4-F7TP2YxLSIqgzFT-3IeqXBpYWMHv86huG-NzjEu-yXOdEOdLsrGhZxUukjMSsZRcIn3TYx0blX35q1zosZN&_nc_zt=14&_nc_ht=scontent.ftgu3-4.fna&_nc_gid=i1NVlJWHkixWrSoeV5QANQ&_nc_ss=7b2a8&oh=00_AQQWd45Hv4CoRVHbq3xbCmvBy8dzCCOxBJiJG0-H6eMWMw&oe=6AF04063",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
     
   ]
