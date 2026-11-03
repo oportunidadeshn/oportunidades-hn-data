@@ -380,6 +380,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+
+    {
+  "titulo": "PM Culture 2026 – Congreso Internacional de Gestión de Proyectos",
+  "organizador": "PMI Honduras",
+  "categoria": "Educación y Formación",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-06",
+  "fecha_fin": "2026-11-06",
+  "hora": "",
+  "lugar": "Hotel Plaza Juan Carlos",
+  "descripcion": "Congreso internacional para compartir conocimientos, explorar tendencias en liderazgo e inteligencia artificial y conectar con profesionales de la gestión de proyectos. Incluye conferencias y networking para fortalecer la cultura de gestión de proyectos en Honduras.",
+  "informacion_participacion": "Regístrate mediante el enlace del evento.",
+  "imagen": "https://media.licdn.com/dms/image/v2/D4E22AQEOICcM_orsDw/feedshare-shrink_800/B4EaFpzehlJ0Ac-/0/1792776464746?e=1795046400&v=beta&t=9OZGFLdRDpQcoHkKtmUQ8EchyOhSx41f_Ldi692fOas",
+  "enlace": "https://www.pmihonduras.org/pm-culture-2026",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
     
   ]
