@@ -2,6 +2,38 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261103-093123-75",
+  "titulo": "Sales Agent",
+  "empresa": "Paragon Financial",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "100%Bilingual,  Sales agent experience in BPO industry. Onsite, full time opportunity",
+  "requisitos": [
+    "Bilingue Español/Inglés  alguna experiencia en ventas en call center.  Trabajo de tiempo completo. Residente en Tegucigalpa"
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "Hrpf2026@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "Hrpf2026@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261103-02",
   "titulo": "Técnico en Multihabilidades",
   "empresa": "Claro",
