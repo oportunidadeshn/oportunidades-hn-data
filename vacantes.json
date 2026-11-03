@@ -2,6 +2,42 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261103-164307-76",
+  "titulo": "Asesor Técnico Comercial",
+  "empresa": "Empresa confidencial",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Asesor Comercial de preferencia con conocimiento en el rubro ferretero y con conocimiento de materiales eléctricos. Tener licencia vigente y vehículo propio",
+  "requisitos": [
+    "Secundaria completa, conocimientos en el rubro ferretero y de preferencia conocimiento de materiales eléctricos. Tener licencia vigente y vehículo propio"
+  ],
+  "beneficios": [
+    "Salario Base, Comisiones, Beneficios por ley, Contrato permanente."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nSolo se llamaran a personas que cumplan con los requisitos.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-12-01",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50499709726",
+  "telefono": "",
+  "correo": "hnrrhh2025@gmail.com",
+  "whatsapps": [
+    "50499709726"
+  ],
+  "telefonos": [],
+  "correos": [
+    "hnrrhh2025@gmail.com"
+  ],
+  "url_aplicar": ""
+}
+    
+    {
   "id": "ohn-20261103-12",
   "titulo": "Analista de Mercadeo",
   "empresa": "Acceso",
