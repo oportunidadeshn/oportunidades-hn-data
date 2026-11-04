@@ -2,6 +2,193 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261104-16",
+  "titulo": "Supervisor de Proyectos",
+  "empresa": "Lacthosa",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Liderar y supervisar la ejecución de trabajos en campo. Coordinar contratistas, personal y actividades del proyecto; tomar decisiones técnicas y resolver problemas en sitio. Verificar cantidades ejecutadas, materiales utilizados y cumplimiento de planos y especificaciones. Identificar desviaciones de costo, tiempo y calidad y proponer acciones correctivas.",
+  "requisitos": [
+    "Graduado de Ingeniería Civil.",
+    "De 3 a 5 años de experiencia en construcción y supervisión de proyectos.",
+    "Experiencia en cuantificación de obra, elaboración de presupuestos y control de costos."
+  ],
+  "beneficios": [
+    "Estabilidad laboral.",
+    "Crecimiento profesional.",
+    "Clínica de bienestar.",
+    "Seguro contra accidentes."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-04",
+  "fecha_vencimiento": "2026-11-14",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494437486",
+  "telefono": "",
+  "correo": "empleos@lacthosa.com",
+  "whatsapps": [
+    "50494437486"
+  ],
+  "telefonos": [],
+  "correos": [
+    "empleos@lacthosa.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261104-17",
+  "titulo": "Team Leader",
+  "empresa": "NetGO Group",
+  "ciudad": "Tegucigalpa, San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "NetGO Group busca personal para la plaza de Team Leader en Tegucigalpa y San Pedro Sula, con especialidades técnicas en electricidad, motogeneradores, aire acondicionado y soldadura.",
+  "requisitos": [
+    "Especialidades técnicas requeridas: electricidad en líneas primarias, mantenimiento de motogeneradores, aire acondicionado y soldadura.",
+    "Manejo de equipo de protección personal (EPP).",
+    "Capacidad para trabajar en equipo.",
+    "Manejo de vehículo 4x4 y licencia de conducir vigente.",
+    "Antecedentes penales y policiales vigentes.",
+    "Disponibilidad de horarios y para viajar."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-04",
+  "fecha_vencimiento": "2026-11-14",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamientohn@netgogroup.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamientohn@netgogroup.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261104-18",
+  "titulo": "Pasantía Universitaria en el Área Comercial y Ventas",
+  "empresa": "VYM de Honduras",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": true,
+  "pasantia": true,
+  "descripcion": "Oportunidad de pasantía universitaria para desarrollar experiencia en ventas, atención al cliente, seguimiento comercial y apoyo administrativo.",
+  "requisitos": [
+    "Ser estudiante universitario.",
+    "Interés en aprender y crecer profesionalmente."
+  ],
+  "beneficios": [
+    "Aprendizaje y crecimiento profesional.",
+    "Adquisición de experiencia en ventas, atención al cliente, seguimiento comercial y apoyo administrativo."
+  ],
+  "como_aplicar": "Comunícate mediante el botón de WhatsApp para postularte.",
+  "fecha_publicacion": "2026-11-04",
+  "fecha_vencimiento": "2026-11-14",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50493570070",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50493570070"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261104-19",
+  "titulo": "Jefe de Agencia – Plaza Central",
+  "empresa": "Banrural Honduras",
+  "ciudad": "Comayagua",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Liderar el equipo de la agencia Plaza Central en Comayagua, impulsar resultados y contribuir al crecimiento del negocio y de la comunidad.",
+  "requisitos": [
+    "Liderazgo y visión de negocio.",
+    "Vocación de servicio.",
+    "Interés en desarrollar equipos e impulsar resultados."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo, indicando la plaza de tu interés: Jefe de Agencia – Plaza Central, Comayagua.",
+  "fecha_publicacion": "2026-11-04",
+  "fecha_vencimiento": "2026-11-14",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rrhh@banrural.com.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rrhh@banrural.com.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261104-20",
+  "titulo": "Analista de Control y Eficiencia Productiva",
+  "empresa": "Inalma",
+  "ciudad": "San Manuel, El Negrito",
+  "categoria": "Agricultura y Agroindustria",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Verificar, controlar y asegurar la trazabilidad, peso, rendimiento y aprovechamiento de yuca y plátano en campo y en las peladoras. Revisar registros de cosecha y despacho, conciliar cantidades recibidas, monitorear el pelado manual y validar rendimientos y mermas. Comparar resultados con estándares, cuantificar pérdidas, elaborar reportes de hallazgos y recomendaciones y dar seguimiento a acciones correctivas.",
+  "requisitos": [
+    "Formación técnica o universitaria en Ingeniería Industrial, Agronomía, Administración o carrera afín.",
+    "Mínimo 2 años de experiencia en auditoría operativa, control de procesos, inventarios o eficiencia productiva en el sector agroindustrial.",
+    "Conocimientos en rendimientos, mermas, trazabilidad, control de pesos y análisis de datos.",
+    "Manejo de Excel intermedio o avanzado.",
+    "Conocimientos de inocuidad BPM/HACCP, deseable.",
+    "Disponibilidad para movilizarse a San Manuel, Cortés, y El Negrito, Yoro.",
+    "Residir en El Progreso o zonas cercanas a las peladoras."
+  ],
+  "beneficios": [
+    "Estabilidad laboral.",
+    "Prestaciones de ley.",
+    "Oportunidad de desarrollo profesional.",
+    "Ambiente de trabajo en una empresa agroindustrial en crecimiento."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-04",
+  "fecha_vencimiento": "2026-11-14",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento@inalma.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@inalma.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261104-10",
   "titulo": "Directora Ejecutiva",
   "empresa": "Cámara de Comercio e Industrias de Tela",
