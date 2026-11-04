@@ -2,6 +2,51 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261103-28",
+  "titulo": "Motorista de Equipo Pesado",
+  "empresa": "LOGICSA",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Transporte y Distribución",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Conducir equipo pesado articulado para el traslado de maquinaria, garantizando la seguridad vial y la integridad de la carga. Se asignará cabezal tipo mulita con caja de 10 velocidades y plataforma lowboy, y grúa de plataforma con caja de 10 velocidades.",
+  "requisitos": [
+    "Educación primaria completa; secundaria no indispensable.",
+    "Licencia de conducir pesada articulada vigente (DNVT).",
+    "Mínimo 2 años de experiencia comprobable conduciendo equipo pesado articulado, como cabezal, rastra o grúas.",
+    "Experiencia en traslado y manejo de plataformas tipo lowboy o plataformas abiertas con maquinaria.",
+    "Dominio comprobado de transmisión manual de 10 velocidades, caja Fuller o similar.",
+    "Constancias de antecedentes penales y policiales vigentes.",
+    "Disponibilidad de horario para traslados y maniobras operativas.",
+    "Conocimientos en conducción profesional de vehículos pesados y articulados.",
+    "Técnicas de sujeción, amarre y trincado de maquinaria pesada mediante cadenas, perros o ratchets y fajas de carga.",
+    "Conocimiento de la Ley de Tránsito de Honduras y normativas de pesos y dimensiones del IHTT.",
+    "Nociones básicas de mecánica preventiva: revisión de niveles, frenos de aire y acoples de quinta rueda.",
+    "Precisión en maniobras en reversa y espacios reducidos con remolque articulado.",
+    "Enfoque en seguridad vial e integridad de la carga.",
+    "Responsabilidad y puntualidad en los tiempos de entrega."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento@logicsahn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@logicsahn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261103-23",
   "titulo": "Auxiliar de Despacho en Bodega",
   "empresa": "Ferretería Miranda",
