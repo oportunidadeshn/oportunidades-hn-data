@@ -2,6 +2,198 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261103-23",
+  "titulo": "Auxiliar de Despacho en Bodega",
+  "empresa": "Ferretería Miranda",
+  "ciudad": "",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Controlar las entradas y salidas de productos, verificar que la mercadería entregada coincida con los pedidos y mantener el orden y control de la bodega.",
+  "requisitos": [
+    "Edad entre 21 y 30 años.",
+    "Conocimientos básicos en ferretería.",
+    "Saber leer y escribir.",
+    "Responsabilidad, organización y atención al detalle.",
+    "Capacidad para controlar y verificar las entregas de mercadería."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de WhatsApp o postúlate mediante el botón Aplicar en línea. Fecha límite de postulación: 15 de noviembre de 2026.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-15",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50498422239",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50498422239",
+    "50494312132"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": "https://empleamas.fedecamarahn.org/"
+},
+{
+  "id": "ohn-20261103-24",
+  "titulo": "Auxiliar de Servicios Generales – Portería",
+  "empresa": "Grupo Farsiman",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Seguridad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Grupo Farsiman busca auxiliar de servicios generales para el área de portería en San Pedro Sula.",
+  "requisitos": [
+    "Bachillerato completo.",
+    "Experiencia previa en control de accesos, vigilancia, seguridad, portería o puestos similares.",
+    "Responsabilidad, honestidad, compromiso y formalidad.",
+    "Residir en San Pedro Sula o alrededores."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo o WhatsApp, indicando la plaza de tu interés.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433327603",
+  "telefono": "",
+  "correo": "asly.aguilar@farsiman.com",
+  "whatsapps": [
+    "50433327603"
+  ],
+  "telefonos": [],
+  "correos": [
+    "asly.aguilar@farsiman.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261103-25",
+  "titulo": "Auxiliar de Compras (Temporal)",
+  "empresa": "FarmaFácil",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "FarmaFácil busca auxiliar de compras para una contratación temporal en Tegucigalpa.",
+  "requisitos": [
+    "Pasante universitario de carreras administrativas.",
+    "Experiencia mínima de 1 año en el área de compras.",
+    "Disponibilidad de tiempo.",
+    "Habilidades de negociación.",
+    "Manejo de Excel intermedio o avanzado.",
+    "Trabajo en equipo."
+  ],
+  "beneficios": [
+    "Estabilidad laboral.",
+    "Salario competitivo.",
+    "Seguro médico privado."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "recursos.humanos@farmafacilhn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "recursos.humanos@farmafacilhn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261103-26",
+  "titulo": "Creador de Contenido Digital",
+  "empresa": "FarmaFácil",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "FarmaFácil busca creador de contenido digital en Tegucigalpa, con conocimientos en producción y edición de video y fotografía comercial.",
+  "requisitos": [
+    "Estudiante o graduado de Marketing, Publicidad, Comunicación Audiovisual, Diseño Gráfico o carreras afines.",
+    "Mínimo 1 año de experiencia en creación de contenido digital.",
+    "Conocimientos en producción y edición de video y fotografía comercial.",
+    "Manejo de CapCut, Adobe Premiere y Photoshop.",
+    "Organización y planificación.",
+    "Comunicación efectiva.",
+    "Orientación a resultados."
+  ],
+  "beneficios": [
+    "Estabilidad laboral.",
+    "Salario competitivo.",
+    "Seguro médico privado."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "recursos.humanos@farmafacilhn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "recursos.humanos@farmafacilhn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261103-27",
+  "titulo": "Administrador de Soporte de Servicios TI",
+  "empresa": "Informática Atlántida",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Gestionar y mantener la operatividad de los servicios tecnológicos de infraestructura orientados a usuarios finales, brindando soluciones preventivas, correctivas y a demanda conforme a buenas prácticas, políticas y acuerdos establecidos.",
+  "requisitos": [
+    "Título universitario en Ingeniería en Sistemas, Informática o carrera afín.",
+    "Experiencia de 1 a 3 años en gestión de mesa de ayuda, redes, sistemas operativos y conocimientos de ciberseguridad.",
+    "Administración de Directorio Activo (Active Directory) y sistemas operativos Windows y Windows Server.",
+    "Gestión de herramientas de mesa de ayuda y seguimiento de incidentes mediante tickets.",
+    "Conocimientos de ciberseguridad, políticas de seguridad y buenas prácticas tecnológicas.",
+    "Administración de servicios y plataformas en la nube, como Microsoft Azure y AWS.",
+    "Gestión y administración de dispositivos, equipos y endpoints en entornos Windows y Microsoft 365.",
+    "Fundamentos de ITIL y gestión de servicios de TI."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talentohumanoinfatlan@bancatlan.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "talentohumanoinfatlan@bancatlan.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261103-15",
   "titulo": "Jefe de Almacén",
   "empresa": "Equipos Industriales",
