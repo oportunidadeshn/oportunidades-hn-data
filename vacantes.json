@@ -2,6 +2,42 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261104-155310-80",
+  "titulo": "Regente Dr/Dra en Química y Farmacia",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Experiencia en regulación sanitaria o en Arsa indispensable.",
+    "Manejo de office Habilidad de comunicación y negociación",
+    "Manejo de Office"
+  ],
+  "beneficios": [
+    "Beneficios de ley"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nColocar nombre de la vacante",
+  "fecha_publicacion": "2026-11-04",
+  "fecha_vencimiento": "2026-11-10",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talentosrh24@hotmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "talentosrh24@hotmail.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261104-16",
   "titulo": "Supervisor de Proyectos",
   "empresa": "Lacthosa",
