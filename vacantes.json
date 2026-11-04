@@ -2,6 +2,120 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261104-07",
+  "titulo": "Oficial de Auditoría Interna",
+  "empresa": "CAP",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Ejecutar auditorías operativas, financieras, de cumplimiento y de TI según el plan anual. Evaluar controles internos, riesgos y cumplimiento de políticas y normativas. Documentar papeles de trabajo, hallazgos y recomendaciones con evidencia suficiente. Dar seguimiento a planes de acción y elaborar borradores de informes de auditoría.",
+  "requisitos": [
+    "Pasante de licenciatura en Contaduría Pública, Administración, Finanzas o carrera afín.",
+    "De 1 a 2 años de experiencia en auditoría interna, contabilidad, auditoría externa, control interno o áreas afines.",
+    "Manejo de Excel intermedio o avanzado, FastBI y herramientas de análisis de datos.",
+    "Conocimientos en auditoría interna, marco COSO, NIIF/NIC y legislación fiscal hondureña."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo y completa el formulario mediante el botón Aplicar en línea. Para consultas, utiliza el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-04",
+  "fecha_vencimiento": "2026-11-14",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50496386012",
+  "telefono": "",
+  "correo": "reclutamiento@cap.hn",
+  "whatsapps": [
+    "50496386012"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@cap.hn"
+  ],
+  "url_aplicar": "https://recruit.capgrupo.com/aplicar"
+},
+{
+  "id": "ohn-20261104-08",
+  "titulo": "Auxiliar de Bodega",
+  "empresa": "La Colonia",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Colonia busca auxiliar de bodega para integrarse a su equipo en San Pedro Sula.",
+  "requisitos": [
+    "Título de secundaria.",
+    "Disponibilidad para trabajar en horarios rotativos y fines de semana.",
+    "Proactividad.",
+    "Trabajo en equipo.",
+    "Residir en el casco urbano de San Pedro Sula."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-04",
+  "fecha_vencimiento": "2026-11-14",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50493458937",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50493458937"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261104-09",
+  "titulo": "Practicante Universitario de Recursos Humanos",
+  "empresa": "Grupo Salinas Honduras",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Recursos Humanos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": true,
+  "pasantia": true,
+  "descripcion": "Oportunidad de práctica profesional en Recursos Humanos para estudiantes universitarios que deseen aplicar sus conocimientos, adquirir experiencia y desarrollar nuevas habilidades.",
+  "requisitos": [
+    "Ser estudiante universitario de Psicología, Administración de Empresas, Ingeniería Industrial o carreras afines.",
+    "Residir en San Pedro Sula.",
+    "Disponibilidad para realizar la práctica profesional en Recursos Humanos."
+  ],
+  "beneficios": [
+    "Oportunidad de aprendizaje.",
+    "Desarrollo profesional.",
+    "Adquisición de experiencia en Recursos Humanos.",
+    "Aplicación de conocimientos adquiridos.",
+    "Desarrollo de nuevas habilidades.",
+    "Crecimiento y proyección profesional."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo. Para consultas, utiliza el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-04",
+  "fecha_vencimiento": "2026-11-14",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50497367718",
+  "telefono": "",
+  "correo": "javia.vallecillo@bancoazteca.com.hn",
+  "whatsapps": [
+    "50497367718"
+  ],
+  "telefonos": [],
+  "correos": [
+    "javia.vallecillo@bancoazteca.com.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261104-01",
   "titulo": "Facturadora",
   "empresa": "ITZA",
