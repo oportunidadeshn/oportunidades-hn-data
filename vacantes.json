@@ -2,6 +2,44 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261103-39",
+  "titulo": "Oficial de Desarrollo de Negocios",
+  "empresa": "Droguería Avicenna",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Identificar, desarrollar y concretar oportunidades de negocio que contribuyan al crecimiento de la empresa mediante la captación de nuevos clientes, el fortalecimiento de relaciones comerciales y la promoción de productos o servicios. Evaluar y negociar oportunidades comerciales con proveedores y socios internacionales.",
+  "requisitos": [
+    "Licenciatura en Administración de Empresas, Mercadeo, Finanzas o carreras afines.",
+    "Experiencia mínima de 2 años en desarrollo de negocios.",
+    "Experiencia comprobable como Key Account Manager o en Business Development.",
+    "Manejo de CRM y Excel intermedio o avanzado.",
+    "Conocimiento de ERP, deseable.",
+    "Inglés intermedio o avanzado, deseable para el manejo de proveedores extranjeros.",
+    "Proactividad y orientación a resultados."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo, colocando Oficial de Desarrollo de Negocios en el asunto.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "vacanteshn@farmavalue.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "vacanteshn@farmavalue.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261103-35",
   "titulo": "Ejecutivo de Ventas Digitales",
   "empresa": "Diario Tiempo",
