@@ -2,6 +2,159 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261103-35",
+  "titulo": "Ejecutivo de Ventas Digitales",
+  "empresa": "Diario Tiempo",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Diario Tiempo busca ejecutivo de ventas digitales con experiencia en campañas publicitarias y desarrollo de estrategias comerciales efectivas.",
+  "requisitos": [
+    "Licenciatura en Mercadotecnia.",
+    "Mínimo 1 año de experiencia en ventas digitales.",
+    "Experiencia en campañas publicitarias.",
+    "Experiencia en generar retorno de inversión para el cliente.",
+    "Capacidad para desarrollar estrategias de venta efectivas.",
+    "Cartera de clientes comprobable."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50488558116",
+  "telefono": "",
+  "correo": "mercedes.leiva@tiempo.hn",
+  "whatsapps": [
+    "50488558116"
+  ],
+  "telefonos": [],
+  "correos": [
+    "mercedes.leiva@tiempo.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261103-36",
+  "titulo": "Analista de Crédito Corporativo",
+  "empresa": "COFINTER",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Evaluar, analizar y dictaminar la viabilidad financiera de solicitudes de crédito del segmento corporativo. Mitigar el riesgo crediticio mediante el análisis de estados financieros, proyecciones económicas y entorno sectorial, asegurando el cumplimiento de las políticas institucionales y la sana evolución de la cartera.",
+  "requisitos": [
+    "Licenciatura en Administración de Empresas, Economía, Banca y Finanzas.",
+    "Especialidad o maestría en Finanzas o Riesgos, deseable.",
+    "Más de 2 años de experiencia en análisis de crédito corporativo o banca de inversiones en bancos, financieras o cooperativas del sistema financiero hondureño.",
+    "Conocimiento de la normativa de la CNBS para la clasificación de la cartera de créditos.",
+    "Análisis de estados financieros y proyecciones básicas de flujo de efectivo.",
+    "Lectura y análisis de la central de riesgos.",
+    "Manejo de Microsoft Office."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo, colocando ANALISTA CRÉDITO CORPORATIVO en el asunto.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento@cofinter.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@cofinter.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261103-37",
+  "titulo": "Supervisor de Ventas",
+  "empresa": "ASI Honduras",
+  "ciudad": "San Pedro Sula, Santa Rosa de Copán",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Coordinar y dar seguimiento a equipos de vendedores de campo, acompañarlos en sus actividades diarias, verificar el cumplimiento de rutas y metas comerciales y motivarlos para alcanzar los resultados esperados.",
+  "requisitos": [
+    "Experiencia supervisando y coordinando equipos de vendedores de campo.",
+    "Experiencia en seguimiento de rutas y cumplimiento de metas comerciales.",
+    "Liderazgo e iniciativa.",
+    "Habilidades de comunicación.",
+    "Orientación a resultados.",
+    "Experiencia en el sector de telecomunicaciones, deseable."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Comisiones sin tope.",
+    "Entrenamiento pagado.",
+    "Crecimiento profesional."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432718909",
+  "telefono": "",
+  "correo": "asicrecemos@asinetworkhn.com",
+  "whatsapps": [
+    "50432718909"
+  ],
+  "telefonos": [],
+  "correos": [
+    "asicrecemos@asinetworkhn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261103-38",
+  "titulo": "Oficial de Compras",
+  "empresa": "Diprova",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Diprova busca oficial de compras con experiencia en manejo de proveedores y procesos de compras.",
+  "requisitos": [
+    "Pasante o graduado universitario en carreras administrativas.",
+    "Experiencia comprobada en manejo de proveedores y procesos de compras.",
+    "Manejo de Excel intermedio.",
+    "Habilidades de negociación."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo, colocando OFICIAL DE COMPRAS en el asunto.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rrhh@kdiprova.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rrhh@kdiprova.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261103-34",
   "titulo": "Administrador de Categoría",
   "empresa": "Pacasa",
