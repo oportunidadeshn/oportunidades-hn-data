@@ -455,6 +455,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Open House de Techline Contact Center – Plazas en español",
+  "organizador": "Techline Contact Center",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-04",
+  "fecha_fin": "2026-11-06",
+  "hora": "8:00 a. m. a 4:00 p. m.",
+  "lugar": "Colonia San Carlos, calle detrás de la antigua Embajada de los Estados Unidos, contiguo al CNA. Edificio gris con franjas azules, Tegucigalpa.",
+  "descripcion": "Jornadas de entrevistas presenciales para optar a plazas en español en Techline Contact Center, los días 4, 5 y 6 de noviembre de 2026.",
+  "informacion_participacion": "Presentarse en las instalaciones con el currículum impreso para una entrevista.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU1qWAXiVFbaDy3XsM6YItIKuowBSUEkSX_XjbnQzHtcacA-Nz4-2_aB4bxDBfP01EEOTU-u_mkQJGhJURb-J55rqW4Nyw2Y8vBmC0voAypae49qai7BHkECr-Oky6aHzzKV-NmFHBSdxO1GpH9yGI1BNgopQDp03hoQlMvQUPKD6znDfkjeRCU3rx5NE/s600/1156.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
     
   ]
