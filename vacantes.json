@@ -2,6 +2,91 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261104-111543-79",
+  "titulo": "Ayudante de Cocina",
+  "empresa": "Hotel Honduras Maya",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se busca ayudante de cocina con experiencia en mesa fría y caliente.",
+  "requisitos": [
+    "Mínimo 1 año de experiencia en mesa fría y caliente.",
+    "Secundaria completa, deseable.",
+    "Certificado de escuela culinaria o INFOP.",
+    "Disponibilidad para trabajar en horarios rotativos."
+  ],
+  "beneficios": [
+    "Médico en la empresa.",
+    "Alimentación.",
+    "Parqueo."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o WhatsApp, indicando el nombre de la plaza y tu aspiración salarial.",
+  "fecha_publicacion": "2026-11-04",
+  "fecha_vencimiento": "2026-11-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50489640209",
+  "telefono": "",
+  "correo": "generalista@hondurasmaya.hn",
+  "whatsapps": [
+    "50489640209"
+  ],
+  "telefonos": [],
+  "correos": [
+    "generalista@hondurasmaya.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261104-103649-78",
+  "titulo": "Ejecutivo de Ventas de Campo",
+  "empresa": "Grupo Remor",
+  "ciudad": "San Pedro Sula, Villanueva, Comayagua, Choloma",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Identificar y visitar empresas, instituciones o distribuidores que requieran los productos de la empresa. Emitir cotizaciones y dar seguimiento hasta el cierre de la venta. Negociar pedidos, descuentos y condiciones de entrega conforme a las políticas de la empresa. Mantener actualizado el registro de clientes potenciales y oportunidades de venta. Garantizar la satisfacción del cliente mediante atención oportuna y seguimiento postventa. Alcanzar los objetivos mensuales de ventas definidos por la Gerencia y reportar semanalmente las gestiones de campo, visitas realizadas y resultados obtenidos.",
+  "requisitos": [
+    "Experiencia en ventas, preferiblemente al mayoreo.",
+    "Bachillerato como mínimo o estudios en Administración de Empresas, Mercadeo o carreras afines.",
+    "Vehículo propio.",
+    "Residir en San Pedro Sula o zonas cercanas."
+  ],
+  "beneficios": [
+    "Salario base.",
+    "Comisiones.",
+    "Bonificaciones.",
+    "Depreciación de vehículo.",
+    "Combustible.",
+    "Seguro de vida.",
+    "Prestaciones de ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-04",
+  "fecha_vencimiento": "2026-11-20",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50378541339",
+  "telefono": "",
+  "correo": "astrid@gruporemor.com.sv",
+  "whatsapps": [
+    "50378541339"
+  ],
+  "telefonos": [],
+  "correos": [
+    "astrid@gruporemor.com.sv"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261103-232937-77",
   "titulo": "Estilista profesional",
   "empresa": "Tribeca beauty salón",
