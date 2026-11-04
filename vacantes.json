@@ -2,6 +2,45 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261103-34",
+  "titulo": "Administrador de Categoría",
+  "empresa": "Pacasa",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Desarrollar e implementar estrategias de compra por categoría alineadas con los objetivos comerciales. Negociar con proveedores nacionales e internacionales para obtener condiciones competitivas y alianzas estratégicas. Analizar tendencias de mercado, indicadores de ventas y comportamiento de las categorías para identificar oportunidades de crecimiento. Asegurar la planificación de inventarios, disponibilidad de productos y rentabilidad de las categorías.",
+  "requisitos": [
+    "Licenciatura en Administración de Empresas, Ingeniería Industrial, Mercadeo o carrera afín.",
+    "Mínimo 2 años de experiencia como administrador de categoría, analista de compras internacionales o en gestión comercial.",
+    "Inglés avanzado, hablado y escrito.",
+    "Dominio de Excel.",
+    "Conocimientos en análisis de indicadores comerciales, presupuestos y proyecciones de compra.",
+    "Visión de negocio y pensamiento estratégico.",
+    "Creatividad e innovación.",
+    "Capacidad para identificar oportunidades, construir relaciones comerciales de valor y tomar decisiones orientadas al crecimiento y la rentabilidad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "c.fuentes@pacasa.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "c.fuentes@pacasa.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261103-30",
   "titulo": "Planeador de Mantenimiento",
   "empresa": "LDC Honduras",
