@@ -473,6 +473,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+
+    {
+  "titulo": "Feria de Empleo de Mega Fardos",
+  "organizador": "Mega Fardos",
+  "categoria": "Ferias de Empleo y Reclutamiento",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-07",
+  "fecha_fin": "2026-11-07",
+  "hora": "9:00 a. m. a 1:00 p. m.",
+  "lugar": "Mega Fardos Lara, Tegucigalpa.",
+  "descripcion": "Mega Fardos invita a su feria de empleo para conocer las vacantes disponibles y las oportunidades de formar parte de su equipo.",
+  "informacion_participacion": "Presentarse en Mega Fardos Lara en el horario indicado.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
     
   ]
