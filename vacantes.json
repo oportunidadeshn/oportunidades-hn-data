@@ -2,6 +2,44 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261103-29",
+  "titulo": "Practicantes Universitarios",
+  "empresa": "COFINTER",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": true,
+  "pasantia": true,
+  "descripcion": "Oportunidad para estudiantes universitarios que necesiten realizar su práctica profesional y deseen iniciar su experiencia en un entorno dinámico, retador y de aprendizaje constante.",
+  "requisitos": [
+    "Ser estudiante universitario de Banca y Finanzas, Economía, Contaduría Pública o Ingeniería Industrial.",
+    "Necesitar realizar la práctica profesional."
+  ],
+  "beneficios": [
+    "Bono por práctica.",
+    "Crecimiento profesional.",
+    "Aprendizaje continuo.",
+    "Oportunidad laboral."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo, colocando PRACTICANTE en el asunto.",
+  "fecha_publicacion": "2026-11-03",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento@cofinter.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@cofinter.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261103-28",
   "titulo": "Motorista de Equipo Pesado",
   "empresa": "LOGICSA",
