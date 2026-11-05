@@ -2,6 +2,38 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261105-01",
+  "titulo": "Coordinador de Mercadeo",
+  "empresa": "Laboratorios Finlay",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Desarrollar y ejecutar planes de marca y estrategias de mercadeo.\n\nCoordinar campañas publicitarias y promocionales en medios digitales y tradicionales.\n\nGestionar relaciones con agencias, clientes y proveedores.\n\nAnalizar resultados y contribuir al crecimiento de las marcas.",
+  "requisitos": [
+    "Profesional universitario en Mercadeo, Publicidad o carrera afín.",
+    "Experiencia mínima de 2 años en campañas publicitarias, investigación de mercado, gestión de eventos o estrategias de mercadeo.",
+    "Conocimientos en medios digitales, análisis de mercado y gestión de marca."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o de WhatsApp.",
+  "fecha_publicacion": "2026-11-05",
+  "fecha_vencimiento": "2026-11-15",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494518009",
+  "telefono": "",
+  "correo": "reclutamiento@finlay.hn",
+  "whatsapps": ["50494518009"],
+  "telefonos": [],
+  "correos": ["reclutamiento@finlay.hn"],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261104-43",
   "titulo": "Asesor de Ventas",
   "empresa": "Óptica Kingdom Visión",
