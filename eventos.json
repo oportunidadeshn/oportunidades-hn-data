@@ -492,6 +492,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+
+    {
+  "titulo": "Brigada Médica Gratuita de Radio América en Lamaní",
+  "organizador": "Radio América y Alcaldía Municipal de Lamaní",
+  "categoria": "Salud y Bienestar",
+  "ciudad": "Lamaní",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-07",
+  "fecha_fin": "2026-11-07",
+  "hora": "A partir de las 7:00 a. m.",
+  "lugar": "Instituto Polivalente, contiguo al campo municipal de grama natural, barrio Chuquilque, Lamaní, Comayagua.",
+  "descripcion": "Brigada médica con atención y medicamentos gratuitos para la comunidad.\n\nServicios disponibles: medicina general, ginecología, pediatría, geriatría, medicina interna, rehabilitación, psicología, nutrición, odontología, ultrasonido, electrocardiograma, radiografía odontológica, pruebas rápidas de COVID-19, prueba de azúcar en sangre, nebulización, farmacia, oftalmología y hematología.\n\nPatrocinan: Hotel Brisas del Golfo, Universidad Nacional Autónoma de Honduras (UNAH), Clínica Médica Vitalis y VIUSID.\n\nCon el apoyo de Cooperativa COACEHL, Fundación COACEHL, World Relief de Honduras, Corporación Donovan Werke, Noxpirin Plus, Palagrip Efectivo, Implasa y Eurofarma.",
+  "informacion_participacion": "Acude al Instituto Polivalente de Lamaní el sábado 7 de noviembre, a partir de las 7:00 a. m. La atención y los medicamentos son gratuitos.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKY2cmw__5vye39QGdqQGr2t9EimghVnKfn_LxZISfBqlam59Os3hgPTMsUI2XmzWuG2lvbFePtSnyl5VwjvCuL2xsNRBpHVyHCSlnO373CdhovJ8sQXUpcoOQmWmccXFbN32LC5SX0KOT9eXiD84tyJR7M7V4-VmAd786IrOFnMy82gKqcB21Otu-9Ok/s2048/1001559739.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
     
   ]
