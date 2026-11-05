@@ -2,6 +2,38 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261105-03",
+  "titulo": "Auxiliar de Sala – Tela Coral",
+  "empresa": "DeTodo",
+  "ciudad": "Tela",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Realizar carga y descarga de camiones, armado y preparación de una nueva tienda.\n\nUbicación: calle CA-13, barrio Venecia, frente a KFC, Tela.",
+  "requisitos": [
+    "Género masculino.",
+    "Residir en Tela.",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Comunícate mediante el botón de WhatsApp e indica: Auxiliar de Sala Tela Coral.",
+  "fecha_publicacion": "2026-11-05",
+  "fecha_vencimiento": "2026-11-15",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494412216",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": ["50494412216", "50432924563"],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261105-02",
   "titulo": "Analista de Costos e Inventarios",
   "empresa": "Empresa confidencial",
