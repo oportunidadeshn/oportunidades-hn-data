@@ -2,6 +2,48 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261105-140203-81",
+  "titulo": "Técnico Informático",
+  "empresa": "Hotel Honduras Maya",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Manejo de redes, puntos de red y direcciones IP, mantenimiento de equipos de oficina y soporte técnico.",
+  "requisitos": [
+    "Sexo masculino.",
+    "Pasante universitario.",
+    "Experiencia mínima de 1 año en puestos similares.",
+    "Residir en Tegucigalpa.",
+    "Disponibilidad para trabajar en horarios rotativos."
+  ],
+  "beneficios": [
+    "Seguro de vida.",
+    "Médico de empresa.",
+    "Todos los beneficios de ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o comunícate mediante el botón de WhatsApp. Indica el nombre de la plaza y tu aspiración salarial.",
+  "fecha_publicacion": "2026-11-05",
+  "fecha_vencimiento": "2026-11-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50489640209",
+  "telefono": "",
+  "correo": "generalista@hondurasmaya.hn",
+  "whatsapps": [
+    "50489640209"
+  ],
+  "telefonos": [],
+  "correos": [
+    "generalista@hondurasmaya.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261105-04",
   "titulo": "Asesor Comercial",
   "empresa": "Empresa confidencial",
