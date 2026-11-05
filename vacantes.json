@@ -2,6 +2,41 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261105-13",
+  "titulo": "Acrilista",
+  "empresa": "Empresa confidencial",
+  "ciudad": "La Ceiba",
+  "categoria": "Servicios Generales y Oficios",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se solicita acrilista con amplia experiencia para integrarse a un equipo de trabajo en La Ceiba, Atlántida.",
+  "requisitos": [
+    "Amplia experiencia como acrilista.",
+    "Pasión por la belleza.",
+    "Buena actitud.",
+    "Buen servicio al cliente.",
+    "Buena presentación personal.",
+    "Contar con cartera de clientes es deseable."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-05",
+  "fecha_vencimiento": "2026-11-15",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50495085785",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": ["50495085785"],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261105-11",
   "titulo": "Microbiólogo Clínico",
   "empresa": "Hospital Hondureño de Especialidades",
