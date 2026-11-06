@@ -2,6 +2,48 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261106-113731-82",
+  "titulo": "Asesor de Ventas Corporativo - Roatán",
+  "empresa": "Sistemas Solares de Honduras",
+  "ciudad": "Roatán",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Híbrido",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Técnico en Electricidad o pasante universitario de Ingeniería Eléctrica o Mercadotecnia.",
+    "Experiencia de 2 años en ventas, preferiblemente en la industria eléctrica.",
+    "Conocimientos en mercadeo y atención al cliente.",
+    "Experiencia en ventas de campo.",
+    "Habilidades de negociación y persuasión en ventas.",
+    "Proactividad y orientación al cumplimiento de metas de ventas.",
+    "Licencia de conducir vigente.",
+    "Vehículo propio.",
+    "Inglés avanzado, escrito y hablado."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-06",
+  "fecha_vencimiento": "2026-11-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431828566",
+  "telefono": "",
+  "correo": "recursoshumanos@solarishn.com",
+  "whatsapps": [
+    "50431828566"
+  ],
+  "telefonos": [],
+  "correos": [
+    "recursoshumanos@solarishn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261106-15",
   "titulo": "Supervisor de Ventas",
   "empresa": "Grupo Bimbo",
