@@ -2,6 +2,50 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261106-26",
+  "titulo": "Coordinador de Logística (Aduanas)",
+  "empresa": "Grupo IB",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Dar seguimiento a trámites aduaneros de importación y exportación. Mantener comunicación constante con clientes, navieras y proveedores. Gestionar documentación, permisos y liquidaciones aduaneras. Monitorear el estado de las cargas y coordinar los pagos relacionados con las operaciones. Elaborar reportes y asegurar el cumplimiento de los procesos establecidos.",
+  "requisitos": [
+    "Licenciatura en Administración Aduanera, indispensable.",
+    "Experiencia de 1 a 2 años en empresas aduaneras o puestos similares.",
+    "Conocimientos en procesos de importación, exportación y legislación aduanera.",
+    "Manejo intermedio de Microsoft Office.",
+    "Inglés básico.",
+    "Conocimiento y manejo del sistema SARAH.",
+    "Dominio de INCOTERMS.",
+    "Orientación al cliente y a resultados.",
+    "Trabajo en equipo y comunicación efectiva.",
+    "Proactividad e iniciativa.",
+    "Resolución de problemas y toma de decisiones.",
+    "Responsabilidad e integridad.",
+    "Capacidad de análisis, organización y seguimiento de procesos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo e indica en el asunto: Coordinador de Logística - Tegucigalpa.",
+  "fecha_publicacion": "2026-11-06",
+  "fecha_vencimiento": "2026-11-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rrhh@grupoib.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rrhh@grupoib.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261105-13",
   "titulo": "Acrilista",
   "empresa": "Empresa confidencial",
