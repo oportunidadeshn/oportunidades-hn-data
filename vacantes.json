@@ -2,6 +2,234 @@
   "actualizado": "2026-11-7",
   "vacantes": [
    {
+  "id": "ohn-20261107-04",
+  "titulo": "Vendedor de Repuestos Automotrices",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Bachillerato completo o formación como técnico automotriz.",
+    "Enfoque en el servicio y la atención al cliente.",
+    "Experiencia en ventas.",
+    "Conocimientos en repuestos automotrices.",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [
+    "Sueldo base y prestaciones de ley.",
+    "Estabilidad laboral.",
+    "Contratación inmediata."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o comunícate mediante los botones de WhatsApp.",
+  "fecha_publicacion": "2026-11-07",
+  "fecha_vencimiento": "2026-11-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50498807978",
+  "telefono": "",
+  "correo": "rhventas.honduras@hotmail.com",
+  "whatsapps": [
+    "50498807978",
+    "50494360754"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rhventas.honduras@hotmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261107-05",
+  "titulo": "Dependiente",
+  "empresa": "Farmacia Simán",
+  "ciudad": "Catacamas",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Educación secundaria completa.",
+    "Disponibilidad de horarios."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-07",
+  "fecha_vencimiento": "2026-11-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "sheyla.valladares@farsiman.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "sheyla.valladares@farsiman.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261107-06",
+  "titulo": "Delivery - Dependiente",
+  "empresa": "Farmacia Simán",
+  "ciudad": "Comayagua",
+  "categoria": "Transporte y Distribución",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Educación secundaria completa.",
+    "Licencia vigente.",
+    "Poseer motocicleta propia y documentación en regla."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-07",
+  "fecha_vencimiento": "2026-11-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "sheyla.valladares@farsiman.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "sheyla.valladares@farsiman.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261107-07",
+  "titulo": "Asesor Comercial por Categorías",
+  "empresa": "PROMACO",
+  "ciudad": "San Lorenzo",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Bachillerato completo o pasante universitario de Administración de Empresas, Mercadotecnia, Comercio Internacional o carreras afines.",
+    "Mínimo un año de experiencia como asesor comercial en ventas.",
+    "Orientación a resultados y cumplimiento de metas.",
+    "Manejo de precios y descuentos.",
+    "Conocimientos de productos ferreteros.",
+    "Conocimientos en atención y servicio al cliente.",
+    "Conocimientos de técnicas de venta aplicadas al rubro ferretero.",
+    "Orientación al cliente.",
+    "Habilidad de negociación.",
+    "Comunicación efectiva.",
+    "Proactividad e iniciativa."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV en formato PDF mediante el botón de correo o comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-07",
+  "fecha_vencimiento": "2026-11-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433452658",
+  "telefono": "",
+  "correo": "reclutamiento@promacohn.com",
+  "whatsapps": [
+    "50433452658"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@promacohn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261107-08",
+  "titulo": "Asistente Contable / Compras",
+  "empresa": "Hotel Honduras Shores",
+  "ciudad": "Tela",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Conocimientos en contabilidad y procesos de compras.",
+    "Manejo de Excel y sistemas contables, deseable.",
+    "Organización, responsabilidad y capacidad para trabajar en equipo.",
+    "Disponibilidad de horario.",
+    "Experiencia en el área."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida con fotografía actualizada mediante el botón de correo. Para más información, comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-07",
+  "fecha_vencimiento": "2026-11-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50497220852",
+  "telefono": "",
+  "correo": "talentohumano@hotelhsp.com",
+  "whatsapps": [
+    "50497220852"
+  ],
+  "telefonos": [],
+  "correos": [
+    "talentohumano@hotelhsp.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261107-09",
+  "titulo": "Recepcionista",
+  "empresa": "Hotel Honduras Shores",
+  "ciudad": "Tela",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Ser bilingüe.",
+    "Proactividad.",
+    "Sexo femenino.",
+    "Experiencia en el área de recepción.",
+    "Buena atención al cliente."
+  ],
+  "beneficios": [
+    "Contrato permanente.",
+    "Beneficios de ley."
+  ],
+  "como_aplicar": "Envía tu hoja de vida actualizada con fotografía reciente mediante el botón de correo. Para más información, comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-07",
+  "fecha_vencimiento": "2026-11-17",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50497220852",
+  "telefono": "",
+  "correo": "talentohumano@hotelhsp.com",
+  "whatsapps": [
+    "50497220852"
+  ],
+  "telefonos": [],
+  "correos": [
+    "talentohumano@hotelhsp.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261107-01",
   "titulo": "Auxiliar de Bodega",
   "empresa": "Distribuidora del Caribe",
