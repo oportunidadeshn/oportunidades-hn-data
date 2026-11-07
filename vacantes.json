@@ -2,6 +2,38 @@
   "actualizado": "2026-10-14",
   "vacantes": [
 {
+  "id": "ohn-20261106-202030-84",
+  "titulo": "Regulatory Regional",
+  "empresa": "Empresa confidencial",
+  "ciudad": "A nivel nacional",
+  "categoria": "Salud",
+  "modalidad": "Híbrida",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Conocimientos de Registros Sanitarios"
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-06",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "anembribini@pharmainternacional.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "anembribini@pharmainternacional.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261106-160510-83",
   "titulo": "Supervisor de Servicio",
   "empresa": "Hotel Honduras Maya",
