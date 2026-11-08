@@ -1,7 +1,202 @@
 {
   "actualizado": "2026-11-7",
   "vacantes": [
- {
+{
+  "id": "ohn-20261108-11",
+  "titulo": "Profesional de Seguridad Industrial",
+  "empresa": "PRL Consult HN",
+  "ciudad": "Villanueva",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Empresa especializada en prevención de riesgos laborales busca un profesional en seguridad industrial para un proyecto ubicado en Villanueva, Cortés.",
+  "requisitos": [
+    "Ingeniería Industrial, Civil, Mecánica o carreras afines.",
+    "Experiencia mínima de dos años en el rubro.",
+    "Experiencia en supervisión de contratistas y proyectos.",
+    "Liderazgo en campo.",
+    "Comunicación efectiva.",
+    "Criterio técnico.",
+    "Manejo de conflictos.",
+    "Capacidad para elaborar reportes."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-08",
+  "fecha_vencimiento": "2026-11-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432983684",
+  "telefono": "",
+  "correo": "prlconsulthn@gmail.com",
+  "whatsapps": [
+    "50432983684"
+  ],
+  "telefonos": [],
+  "correos": [
+    "prlconsulthn@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261108-12",
+  "titulo": "Asistente Administrativo",
+  "empresa": "Fórmulas Químicas S. de R.L.",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Elaborar y presentar declaraciones tributarias ante el SAR, cumplir el calendario fiscal, controlar cuentas por cobrar y por pagar, supervisar documentación contable y fiscal, elaborar reportes administrativos y financieros, y realizar conciliaciones bancarias y control de información.",
+  "requisitos": [
+    "Género masculino.",
+    "Licenciatura en Contaduría Pública.",
+    "Licenciatura en Administración de Empresas.",
+    "Mínimo tres años de experiencia en el área contable y tributaria.",
+    "Dominio de las obligaciones fiscales.",
+    "Excelente manejo de la plataforma virtual del SAR.",
+    "Excelente manejo de Excel.",
+    "Experiencia en gestión de cuentas por cobrar y cuentas por pagar.",
+    "Responsabilidad y organización."
+  ],
+  "beneficios": [
+    "Todos los beneficios de ley.",
+    "Salario negociable."
+  ],
+  "como_aplicar": "Envía tu hoja de vida actualizada mediante el botón de correo e indica en el asunto: Aplicación – Asistente Administrativo.",
+  "fecha_publicacion": "2026-11-08",
+  "fecha_vencimiento": "2026-11-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "formulas_quimicas@yahoo.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "formulas_quimicas@yahoo.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261108-13",
+  "titulo": "Coordinador de Mantenimiento de Flota Pesada",
+  "empresa": "Prosegur Honduras",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Planificar, coordinar y supervisar el mantenimiento mecánico de la flota vehicular, asegurando la disponibilidad de las unidades y el cumplimiento de los estándares de seguridad y eficiencia. Ejecutar el mantenimiento preventivo y correctivo, gestionar proveedores de repuestos y garantizar la disponibilidad de las unidades para la operación diaria.",
+  "requisitos": [
+    "Pasante o recién egresado de Ingeniería Mecánica, Ingeniería Industrial o carrera afín.",
+    "Experiencia indispensable en mantenimiento de flota pesada.",
+    "Conocimientos de mecánica automotriz.",
+    "Disponibilidad de horarios.",
+    "Disponibilidad para viajar."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Postúlate mediante el botón de Aplicar o comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-08",
+  "fecha_vencimiento": "2026-11-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494599191",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50494599191"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": "https://prosegur-honduras.viterbit.site/track/ca_C-ygOhY-"
+},
+{
+  "id": "ohn-20261108-14",
+  "titulo": "Desarrollador de Software Backend / Full Stack",
+  "empresa": "Grupo CONSISA",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Desarrollar, implementar y mantener soluciones de software, componentes backend y servicios de integración. Construir y optimizar consultas SQL y Oracle PL/SQL, participar en el análisis y diseño de soluciones, gestionar código mediante Git y asegurar la calidad mediante pruebas, revisión de código y documentación técnica.",
+  "requisitos": [
+    "Experiencia mínima de tres años en desarrollo de software.",
+    "Conocimientos en C# y .NET Core, versiones 6 a 8.",
+    "Manejo de Python y Java.",
+    "Conocimientos de SQL estándar/ANSI y Oracle PL/SQL.",
+    "Experiencia con ASP.NET.",
+    "Manejo de control de versiones mediante Git.",
+    "Uso de Visual Studio y Visual Studio Code.",
+    "Conocimientos de integración de servicios SOAP, JSON y XML.",
+    "Conocimientos de Kotlin, Dart, PHP y Markdown, deseables.",
+    "Pensamiento analítico y resolución de problemas.",
+    "Trabajo en equipo y orientación a resultados.",
+    "Organización y atención al detalle."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo e indica en el asunto: DESARROLLADOR DE SOFTWARE.",
+  "fecha_publicacion": "2026-11-08",
+  "fecha_vencimiento": "2026-11-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamientohonduras@consisahn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamientohonduras@consisahn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261108-15",
+  "titulo": "Auxiliar de Limpieza y Servicios Generales",
+  "empresa": "Droguería Guardado",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Servicios Generales y Oficios",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Realizar la limpieza de oficinas, pasillos, baños y áreas comunes; barrer, trapear y desinfectar las instalaciones; limpiar mobiliario; organizar los materiales y utensilios de limpieza; reportar necesidades de mantenimiento o falta de insumos; y atender a visitas y proveedores.",
+  "requisitos": [
+    "Educación primaria completa.",
+    "Disponibilidad de horario.",
+    "Actitud de servicio y disposición para aprender.",
+    "Responsabilidad, puntualidad y compromiso."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV a los correos indicados mediante los botones de correo.",
+  "fecha_publicacion": "2026-11-08",
+  "fecha_vencimiento": "2026-11-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rrhh@drogueriaguardado.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rrhh@drogueriaguardado.com",
+    "asist.gerencia@drogueriaguardado.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261108-05",
   "titulo": "Diseñador(a) Gráfico(a)",
   "empresa": "Fabrikart",
