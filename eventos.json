@@ -511,6 +511,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+    {
+  "titulo": "Entrevistas de Empleo de Charly en Tegucigalpa",
+  "organizador": "Charly",
+  "categoria": "Ferias de empleo",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-09",
+  "fecha_fin": "2026-11-11",
+  "hora": "10:00 a. m. a 4:00 p. m.",
+  "lugar": "Tienda Charly, Novacentro, primer nivel.",
+  "descripcion": "Jornadas de entrevistas para vacantes en ventas y auxiliar de bodega. Buscan personas de entre 20 y 28 años, dinámicas, proactivas y extrovertidas, con excelente presentación personal, facilidad de comunicación, creatividad, actitud positiva y capacidad para trabajar en equipo. Convocatoria dirigida a estudiantes universitarios que deseen adquirir experiencia profesional.",
+  "informacion_participacion": "Preséntate para realizar tu entrevista el lunes 9, martes 10 o miércoles 11 de noviembre, de 10:00 a. m. a 4:00 p. m., en la tienda Charly de Novacentro, primer nivel.",
+  "imagen": "https://scontent.ftgu1-2.fna.fbcdn.net/v/t51.82787-15/890294228_18350907685283063_8250934257064844908_n.jpg?stp=dst-jpg_tt6&cstp=mx1088x1344&ctp=s1088x1344&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFOjYuBIcIt8E8sMT-V9ZIdF-rngrbzY78X6ueCtvNjvyAo9S9O9uZt6cIicBFlnspgkdmNcg7KH5ni3B4WX_G6&_nc_ohc=GTWNFOvspIgQ7kNvwGF1qmf&_nc_oc=AdphGd2dEfUZJKlCO7_47sH0nJBS60dJWiErHROP1dXWYngm29DZV88KZd34lFkS1vQ&_nc_zt=23&_nc_ht=scontent.ftgu1-2.fna&_nc_gid=-yC0oEuksUw3p40z57yF1g&_nc_ss=7b2a8&oh=00_AQT1R3lFseTv8qo_F5IXYn3R_PongmP9EMHQx2wh3OCf3Q&oe=6AF5D2FB",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
     
   ]
