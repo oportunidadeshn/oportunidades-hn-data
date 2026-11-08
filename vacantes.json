@@ -1,7 +1,153 @@
 {
   "actualizado": "2026-11-7",
   "vacantes": [
-   {
+  {
+  "id": "ohn-20261108-01",
+  "titulo": "Jefe de Ventas",
+  "empresa": "Montasa Handling Co.",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Liderar y desarrollar al equipo comercial, captar nuevos clientes y cumplir las metas de ventas.",
+  "requisitos": [
+    "Experiencia liderando equipos de ventas B2B.",
+    "Dominio de SAP para gestionar cotizaciones, pedidos, seguimiento de clientes y reportes de ventas.",
+    "Capacidad para dar seguimiento a oportunidades comerciales, proyectar ventas y presentar indicadores de desempeño (KPIs).",
+    "Orientación a datos, procesos y resultados.",
+    "Capacidad para captar clientes y formar equipos.",
+    "Vehículo propio y disponibilidad para trabajo de campo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de WhatsApp e indica que aplicas a la vacante de Jefe de Ventas.",
+  "fecha_publicacion": "2026-11-08",
+  "fecha_vencimiento": "2026-11-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431906612",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50431906612"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261108-02",
+  "titulo": "Cajero",
+  "empresa": "FOGEL",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Secundaria completa.",
+    "Manejo de Microsoft Office.",
+    "Manejo de caja e inventario.",
+    "Responsabilidad y orden.",
+    "Residir en Tegucigalpa.",
+    "Disponibilidad inmediata.",
+    "Experiencia como auxiliar y en apoyo de bodega."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum mediante el botón de correo o comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-08",
+  "fecha_vencimiento": "2026-11-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50488347926",
+  "telefono": "",
+  "correo": "servicioshn@servifogel.com",
+  "whatsapps": [
+    "50488347926"
+  ],
+  "telefonos": [],
+  "correos": [
+    "servicioshn@servifogel.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261108-03",
+  "titulo": "Coordinador Comercial",
+  "empresa": "Centro de Cerámicas",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Buscamos un líder con interés y criterio para el diseño, que conozca el mundo del mobiliario, las piedras naturales y los acabados.",
+  "requisitos": [
+    "Experiencia liderando equipos de ventas y de trabajo.",
+    "Formación o experiencia en diseño, arquitectura o interiorismo. No es indispensable ser diseñador.",
+    "Criterio para elegir productos e identificar cuáles tienen potencial de venta."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-08",
+  "fecha_vencimiento": "2026-11-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "recursos.humanos@ceramicas.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "recursos.humanos@ceramicas.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261108-04",
+  "titulo": "Operador Técnico / Motorista",
+  "empresa": "SOLTEC",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Licencia de conducir vigente.",
+    "Experiencia requerida.",
+    "Ser egresado de una escuela o instituto de formación técnica en Mantenimiento Industrial, Soldadura, Electricidad, Refrigeración, Fontanería o Ebanistería.",
+    "Responsabilidad y proactividad.",
+    "Documentación en regla: antecedentes penales y policiales, referencias personales y laborales, y otros documentos que acrediten sus aptitudes."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tus documentos mediante el botón de correo o comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-08",
+  "fecha_vencimiento": "2026-11-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50495130691",
+  "telefono": "",
+  "correo": "asistenteadministracion@grupo-alca.com",
+  "whatsapps": [
+    "50495130691"
+  ],
+  "telefonos": [],
+  "correos": [
+    "asistenteadministracion@grupo-alca.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261107-04",
   "titulo": "Vendedor de Repuestos Automotrices",
   "empresa": "Empresa confidencial",
