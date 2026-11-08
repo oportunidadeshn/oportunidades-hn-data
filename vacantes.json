@@ -2,6 +2,117 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261108-25",
+  "titulo": "Personal Técnico en Electricidad, Electrónica y Refrigeración Industrial",
+  "empresa": "Empresa confidencial",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Experiencia mínima de tres años trabajando en alguna o varias de las especialidades: electricidad, electrónica y refrigeración industrial.",
+    "Capacidad de análisis y resolución de problemas.",
+    "Licencia de conducir vigente para vehículo liviano.",
+    "Orientación al trabajo en equipo.",
+    "Comunicación efectiva."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o WhatsApp e indica la posición de interés en el asunto o mensaje.",
+  "fecha_publicacion": "2026-11-08",
+  "fecha_vencimiento": "2026-11-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50498895430",
+  "telefono": "",
+  "correo": "recursos.humanos@compairservice.com",
+  "whatsapps": [
+    "50498895430"
+  ],
+  "telefonos": [],
+  "correos": [
+    "recursos.humanos@compairservice.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261108-26",
+  "titulo": "Representante de Servicio al Cliente",
+  "empresa": "Empresa confidencial",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Graduado universitario de Administración de Empresas, Comercio Internacional, Ingeniería Industrial, Logística o carreras afines.",
+    "Experiencia mínima de dos años en logística para la gestión de fletes internos en Estados Unidos.",
+    "Dominio avanzado de inglés.",
+    "Dominio intermedio de Microsoft Office: Excel, Word y PowerPoint.",
+    "Manejo completo de SAP y QuickBooks.",
+    "Comunicación efectiva.",
+    "Enfoque en resultados.",
+    "Capacidad para asesorar y resolver conflictos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo e indica en el asunto: Servicio al Cliente.",
+  "fecha_publicacion": "2026-11-08",
+  "fecha_vencimiento": "2026-11-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "cgomez@fivestar.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "cgomez@fivestar.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261108-27",
+  "titulo": "Auxiliar de Bodega",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Villanueva",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Pasante universitario.",
+    "Experiencia mínima de dos años en manejo de inventarios.",
+    "Dominio intermedio de Excel.",
+    "Dominio del sistema SAP, deseable.",
+    "Saber conducir vehículo de transmisión manual y contar con licencia de conducir vigente, indispensable."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo e indica en el asunto: Auxiliar de Bodega + Villanueva.",
+  "fecha_publicacion": "2026-11-08",
+  "fecha_vencimiento": "2026-11-18",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "empleos@ahm-honduras.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "empleos@ahm-honduras.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261108-16",
   "titulo": "Especialistas en Clima y Finanzas Verdes",
   "empresa": "FUNADEH",
