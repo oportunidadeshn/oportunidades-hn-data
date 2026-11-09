@@ -2,6 +2,39 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261109-05",
+  "titulo": "Repartidor",
+  "empresa": "Pollo Rey / CMI",
+  "ciudad": "Danlí",
+  "categoria": "Transporte y Distribución",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Oportunidad laboral para repartidor en Danlí, El Paraíso.",
+  "requisitos": [
+    "Bachillerato completo.",
+    "Disponibilidad de horarios.",
+    "Licencia pesada no articulada, categoría C.",
+    "Experiencia entregando productos de consumo masivo y/o perecederos (deseable)."
+  ],
+  "beneficios": [
+    "Uniformes.",
+    "Asociación cooperativa.",
+    "Seguro de vida y accidentes."
+  ],
+  "como_aplicar": "Enviar la hoja de vida por WhatsApp al 504 9367-8522.",
+  "fecha_publicacion": "2026-11-09",
+  "fecha_vencimiento": "2026-11-19",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "50493678522",
+  "telefono": "",
+  "correo": "",
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261109-01",
   "titulo": "Especialista en Visual Merchandising",
   "empresa": "Larach & Cía.",
