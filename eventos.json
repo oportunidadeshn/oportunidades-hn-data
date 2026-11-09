@@ -1,6 +1,43 @@
 {
   "actualizado": "2026-10-31",
   "eventos": [
+  {
+  "titulo": "Feria de Empleo Aliansa – San Pedro Sula",
+  "organizador": "Aliansa / CMI Talento",
+  "categoria": "Ferias de empleo",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-11",
+  "fecha_fin": "2026-11-11",
+  "hora": "8:30 a. m. a 3:00 p. m.",
+  "lugar": "Distribuidora CADECA, 33 calle, San Pedro Sula.",
+  "descripcion": "Feria de empleo con oportunidad para el puesto de Asesor Técnico de Ventas.",
+  "informacion_participacion": "Presentarse en el lugar y horario indicados. Para más información, comunicarse por WhatsApp.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW04_mPpYfpHSL1k4pjGlNbIuAaomrqGfmy7AoYEzyLrL9KOK1Fl7MWq8zHVOxvjc1K4UHKx1-xj15rjNI55KtNuz2MHdYJD49kSd5PeSgt_8vIJaDs7MDNz3zv11omG5XILIgwBXLxDqmqQZq4QChLyNNEuO4IktKlz2cNjXPlsZmSqsGTH2Rz8XSriI/s800/1001566272.jpg",
+  "enlace": "",
+  "whatsapp": "50499218055",
+  "destacado": false,
+  "activo": true
+},
+{
+  "titulo": "Feria de Empleo Aliansa – Choloma",
+  "organizador": "Aliansa / CMI Talento",
+  "categoria": "Ferias de empleo",
+  "ciudad": "Choloma",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-12",
+  "fecha_fin": "2026-11-12",
+  "hora": "8:30 a. m. a 3:00 p. m.",
+  "lugar": "Granel Aliansa, km 26, Río Blanquito, Choloma, Cortés.",
+  "descripcion": "Feria de empleo para el puesto de Motorista de Cabezal Temporal. Se requiere licencia pesada articulada, tipo CE.",
+  "informacion_participacion": "Presentarse en el lugar y horario indicados.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGhP89nvIU16QGRX7KE9eYQX4f84ae8-M8aikLZ2TAdYQQTh4nK80mosEASQ_Y_K4CGu5nRZl7Bw_gS6vIDBzg_P488IQ2MYsnfAvIZTveWbNNz2qa6RWTs1sAusILnrXwqRsslZ8pSChy71ewtRsZNCMNvxkw22lcuYe3zskMQDCc4jmWqWMCy6BlL7w/s1350/1001566273.jpg",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+},
+    
     {
       "titulo": "Feria de Empleo en Puerto Cortés",
       "organizador": "Secretaría de Trabajo y Seguridad Social",
