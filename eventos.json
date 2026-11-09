@@ -529,6 +529,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+
+    {
+  "titulo": "Feria de Empleo de El Compadre en Morazán",
+  "organizador": "El Compadre",
+  "categoria": "Ferias de empleo",
+  "ciudad": "Morazán",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-08",
+  "fecha_fin": "2026-11-13",
+  "hora": "9:00 a. m. a 3:00 p. m.",
+  "lugar": "A la par de Supermercado Económico, frente a Clínica Ortiz Cuba, Morazán, Yoro.",
+  "descripcion": "Feria de empleo con plazas disponibles para jefe de tienda, cajeros, surtidores, atención al cliente, comodines y guardia de seguridad.",
+  "informacion_participacion": "Preséntate con tu hoja de vida actualizada y una copia de tu identidad. Para consultas, comunícate al 3175-8785 o al 3190-7852, o escribe a reclutamiento@elcompadrehn.com.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigPfQX2GG2BC6QbeQUiotCIN-Bmi4Rwh5HE456FFoq3mJyrFaD2HOPgsBSz07bH9YqPs9ghvaN_-Q7aG6i3EyuwiSYtxHSZASBySIwq2v7W-Y98iWQAbGa3iTYInfgkx3F8pT9DZS0gDY_WfT5vj0z31Mxj_C2XzhgmYavcUkiPFRFvcPKpOkjXpCk4mw/s600/1001565711.jpg",
+  "enlace": "",
+  "whatsapp": "50431758785",
+  "destacado": false,
+  "activo": true
     }
     
   ]
