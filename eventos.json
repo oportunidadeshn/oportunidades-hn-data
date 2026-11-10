@@ -676,7 +676,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
-}
+},
+    {
+  "titulo": "Brigada Médica Solidaria 2026: HCUNSS, Manos que Cuidan",
+  "organizador": "Hospital Católico Universitario Nuestra Señora de Suyapa y Universidad Católica de Honduras (UNICAH)",
+  "categoria": "Otros",
+  "ciudad": "",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-13",
+  "fecha_fin": "2026-11-13",
+  "hora": "8:00 a. m. a 2:00 p. m.",
+  "lugar": "Hospital Católico Universitario Nuestra Señora de Suyapa.",
+  "descripcion": "Jornada de atención médica gratuita para niños, adultos y toda la familia. Consulta externa en Medicina General, Medicina Interna, Pediatría, Ortopedia, Ginecología y Cirugía. También contará con servicios de Nutrición, Odontología, Farmacia y Laboratorio, además de triaje, toma de signos vitales y vacunación.",
+  "informacion_participacion": "Acudir al Hospital Católico Universitario Nuestra Señora de Suyapa el viernes 13 de noviembre, de 8:00 a. m. a 2:00 p. m.",
+  "imagen": "https://scontent.ftgu1-2.fna.fbcdn.net/v/t39.30808-6/895429510_122135115092849665_965912718272491016_n.jpg?stp=dst-jpg_tt6&cstp=mx1638x2048&ctp=s1638x2048&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFuhn4hFKf9G-RshdJrA271LvXfq7gp8Msu9d-ruCnwy44xcLTWWsOga1xqMe3C_scqXtphoP4qWkjdVGBEVBVR&_nc_ohc=rjjj2vCnf2IQ7kNvwF3zczG&_nc_oc=AdpwDk7P1J8sjdqMUsy0TOaPL9fYp7WDYMcmf-dItH46oFe7z50fGmdxYFMHTHBcjzs&_nc_zt=23&_nc_ht=scontent.ftgu1-2.fna&_nc_gid=TOhQvVhjuRZbivzEXqDTqA&_nc_ss=7b2a8&oh=00_AQRM-SlWevDFYn2ZeIf6nNhz4MdqgkGQSwMFBrBUf-xIXw&oe=6AF893D6",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+    }
     
   ]
 }
