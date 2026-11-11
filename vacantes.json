@@ -2,6 +2,45 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261111-23",
+  "titulo": "Auxiliar de Almacén y Logística",
+  "empresa": "IMASA",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Brindar apoyo oportuno a las operaciones de almacén, cumpliendo los procedimientos establecidos, normas de seguridad y tiempos de entrega. Contribuir a mantener la disponibilidad y confiabilidad de los productos para las diferentes bodegas de la empresa, asegurando el correcto manejo, conservación, identificación y control de los inventarios.",
+  "requisitos": [
+    "Graduado universitario de Ingeniería en Gestión Logística o carreras afines.",
+    "Conocimientos de logística en entrega de productos, carga y descarga.",
+    "Deseable experiencia en control y orden de almacén, inventarios y despacho de productos.",
+    "Alta capacidad de organización, planificación y cumplimiento de normas de trabajo.",
+    "Orientación a resultados.",
+    "Atención al detalle.",
+    "Trabajo en equipo.",
+    "Buen dominio de Microsoft Office 365.",
+    "Experiencia mínima de 2 años en el puesto.",
+    "Disponibilidad inmediata de tiempo y horarios.",
+    "Poseer vehículo o motocicleta propia."
+  ],
+  "beneficios": [
+    "Beneficios de ley.",
+    "Oportunidad de crecimiento."
+  ],
+  "como_aplicar": "Enviar hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "recursoshumanos@imasahonduras.com",
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261111-19",
   "titulo": "Gerente Comercial de País",
   "empresa": "Inversiones Aliadas",
