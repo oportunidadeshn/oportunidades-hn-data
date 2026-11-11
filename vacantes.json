@@ -2,6 +2,206 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261109-083225-85",
+  "titulo": "Docente de Inglés de Educación Básica",
+  "empresa": "GHC Talent",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Educación",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se requiere docente bilingüe para impartir Inglés en Educación Básica, de primero a sexto grado, en San Pedro Sula.",
+  "requisitos": [
+    "Dominio del idioma inglés.",
+    "Licenciatura en Educación Básica o carrera afín.",
+    "Experiencia mínima de 2 años.",
+    "Residir en San Pedro Sula o alrededores."
+  ],
+  "beneficios": [
+    "Beneficios de ley.",
+    "Seguro médico Medired.",
+    "Salario de L22,000, dependiendo del nivel de inglés y la experiencia."
+  ],
+  "como_aplicar": "Enviar currículum vitae mediante los botones de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-09",
+  "fecha_vencimiento": "2026-12-09",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50488030948",
+  "telefono": "",
+  "correo": "ghctalent.hn@gmail.com",
+  "whatsapps": [
+    "50488030948"
+  ],
+  "telefonos": [],
+  "correos": [
+    "ghctalent.hn@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261109-095214-86",
+  "titulo": "Coordinador/a de Inglés de Secundaria",
+  "empresa": "GHC Talent",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Educación",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se requiere coordinador o coordinadora de Inglés para el nivel de Secundaria en San Pedro Sula.",
+  "requisitos": [
+    "Formación en Pedagogía con orientación en Orientación.",
+    "Experiencia en coordinación del área de Inglés de Secundaria.",
+    "Habilidad para resolver conflictos.",
+    "Conocimiento básico de las leyes educativas.",
+    "Proactividad y honestidad."
+  ],
+  "beneficios": [
+    "Salario de L25,000.",
+    "Beneficios de ley.",
+    "IHSS.",
+    "Seguro médico Medired.",
+    "Horario de lunes a viernes.",
+    "Estabilidad laboral."
+  ],
+  "como_aplicar": "Enviar currículum vitae mediante los botones de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-09",
+  "fecha_vencimiento": "2026-12-09",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50488030948",
+  "telefono": "",
+  "correo": "ghctalent.hn@gmail.com",
+  "whatsapps": [
+    "50488030948"
+  ],
+  "telefonos": [],
+  "correos": [
+    "ghctalent.hn@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261109-100212-87",
+  "titulo": "Secretaria Administrativa",
+  "empresa": "GHC Talent",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se requiere secretaria administrativa con experiencia en el sector educativo para San Pedro Sula.",
+  "requisitos": [
+    "Conocimiento de Microsoft Office.",
+    "Velocidad mecanográfica.",
+    "Conocimiento de la plataforma SACE.",
+    "Excelente presentación personal.",
+    "Honestidad y proactividad.",
+    "Experiencia administrativa en el sector educativo.",
+    "Residir en San Pedro Sula o alrededores."
+  ],
+  "beneficios": [
+    "Salario de L18,000.",
+    "Beneficios de ley.",
+    "IHSS.",
+    "Seguro médico Medired.",
+    "Horario de lunes a viernes.",
+    "Estabilidad laboral."
+  ],
+  "como_aplicar": "Enviar currículum vitae mediante los botones de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-09",
+  "fecha_vencimiento": "2026-12-09",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50488030948",
+  "telefono": "",
+  "correo": "ghctalent.hn@gmail.com",
+  "whatsapps": [
+    "50488030948"
+  ],
+  "telefonos": [],
+  "correos": [
+    "ghctalent.hn@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261111-092011-89",
+  "titulo": "Ayudante de Lavandería",
+  "empresa": "Hotel Honduras Maya",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Manejo de máquinas industriales de lavado, secado y planchado.",
+  "requisitos": [
+    "Secundaria completa.",
+    "Disponibilidad para trabajar en horarios rotativos.",
+    "Sexo masculino.",
+    "Edad de 20 a 40 años."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Enviar currículum vitae mediante los botones de correo o WhatsApp, indicando el nombre de la plaza y la aspiración salarial.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-12-11",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50489640209",
+  "telefono": "",
+  "correo": "generalista@hondurasmaya.hn",
+  "whatsapps": [
+    "50489640209"
+  ],
+  "telefonos": [],
+  "correos": [
+    "generalista@hondurasmaya.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261111-092815-90",
+  "titulo": "Asesor de Ventas",
+  "empresa": "Steren",
+  "ciudad": "Comayagua",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Venta de productos de tecnología en Comayagua.",
+  "requisitos": [
+    "Experiencia en ventas."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Enviar currículum vitae mediante los botones de correo o WhatsApp. La primera entrevista se realizará de forma virtual.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433285522",
+  "telefono": "",
+  "correo": "reclutamientohn@steren.com.hn",
+  "whatsapps": [
+    "50433285522"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamientohn@steren.com.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261111-27",
   "titulo": "Ejecutivo de Ventas en Campo",
   "empresa": "Empresa confidencial",
