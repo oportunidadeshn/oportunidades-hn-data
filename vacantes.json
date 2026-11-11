@@ -2,6 +2,33 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261111-27",
+  "titulo": "Ejecutivo de Ventas en Campo",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Comayagua",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se busca ejecutivo de ventas en campo para Comayagua. No se aceptarán postulaciones que no cumplan con la experiencia requerida.",
+  "requisitos": [
+    "Experiencia de 1 año en ventas de calle o campo.",
+    "Secundaria concluida."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Enviar hoja de vida y aspiración salarial mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-12-05",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "atracciondetalento.profesional@gmail.com",
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261111-24",
   "titulo": "Vendedor/a de Zona",
   "empresa": "Meditec",
