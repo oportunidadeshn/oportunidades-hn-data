@@ -724,6 +724,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+
+    {
+  "titulo": "Taller: Técnicas de Venta Efectiva en Temporada Navideña",
+  "organizador": "Cámara de Comercio e Industrias del Sur (CCISur) e INFOP",
+  "categoria": "Charlas/Talleres",
+  "ciudad": "",
+  "modalidad": "Virtual",
+  "fecha_inicio": "2026-11-17",
+  "fecha_fin": "2026-11-17",
+  "hora": "8:00 a. m. a 5:00 p. m.",
+  "lugar": "Plataforma Zoom",
+  "descripcion": "Taller dirigido a emprendedores, organizado en el marco del Convenio INFOP-CCISur. Se abordarán el comportamiento y los hábitos de compra del consumidor en Navidad; planificación y estrategias comerciales para la temporada navideña; técnicas de abordaje, persuasión y cierre de ventas; atención al cliente y comunicación efectiva; y fidelización de clientes mediante experiencias positivas.",
+  "informacion_participacion": "Completa el formulario de inscripción mediante el enlace del evento.",
+  "imagen": "https://scontent.ftgu1-3.fna.fbcdn.net/v/t39.99422-6/899719697_1618543412656577_7869294553461556484_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s1080x1350&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEKSa9u9k3E5AJ8-tRxi_wlCvz2LUMvoq0K_PYtQy-irQ-ThA3K5TQnWzmNCMAdaQA3ur8hcaNE9e81vgw39JNy&_nc_ohc=JMUS5h4osD8Q7kNvwHiCbSc&_nc_oc=AdqccCxYXWZc-q6qFwtr0pgKyxeJcW5gXsx_QXff_-O7ujb_xMdS_WXV7j8FNnzmO9s&_nc_zt=14&_nc_ht=scontent.ftgu1-3.fna&_nc_gid=St4MmeiEoy2oaNlhS8wWqQ&_nc_ss=7b2a8&oh=00_AQTSGxyl6FJlN1MvB4XiCiS_k1fE9jPgXBxxvV2hJneiSA&oe=6AFB2262",
+  "enlace": "https://forms.gle/PfB4fRxPQcTFRGvr7",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
     
   ]
