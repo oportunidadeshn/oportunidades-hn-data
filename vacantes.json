@@ -2,6 +2,269 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261112-06",
+  "titulo": "Ejecutivo de Negocios",
+  "empresa": "Leasing Atlántida",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Leasing Atlántida busca Ejecutivo de Negocios en San Pedro Sula, con experiencia en el sector financiero o comercial.",
+  "requisitos": [
+    "Graduado universitario de Licenciatura en Administración de Empresas, Administración de Negocios, Finanzas o carreras afines.",
+    "Experiencia mínima de 1 año en puestos similares en el sector financiero o comercial.",
+    "Conocimiento del área financiera y mercadeo de servicios financieros.",
+    "Manejo avanzado de Microsoft Office: Word, Excel y PowerPoint.",
+    "Licencia de conducir indispensable.",
+    "Inglés intermedio.",
+    "Residir en San Pedro Sula."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo. Indica en el asunto: Ejecutivo de Negocios SPS.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "recursoshumanos@leasingatlantida.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "recursoshumanos@leasingatlantida.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-07",
+  "titulo": "Práctica Universitaria",
+  "empresa": "Banco LAFISE Honduras",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": true,
+  "descripcion": "Banco LAFISE Honduras ofrece oportunidades de práctica universitaria para estudiantes de los últimos años de distintas carreras, con disponibilidad en horario de oficina.",
+  "requisitos": [
+    "Estudiante de los últimos años de Administración Industrial e Inteligencia de Negocios, Ingeniería Industrial, Ingeniería en Sistemas, Contaduría y Finanzas, Banca y Finanzas, Economía, Psicología, Recursos Humanos o carreras afines.",
+    "Disponibilidad para realizar la pasantía en horario de oficina.",
+    "Orientación al servicio al cliente y a resultados con calidad.",
+    "Comunicación efectiva."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV actualizado mediante el botón de correo. Indica en el asunto: Práctica de (nombre de tu carrera).",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "jphernandez@lafise.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "jphernandez@lafise.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-08",
+  "titulo": "Técnico Mecánico de Montacargas",
+  "empresa": "Alutech",
+  "ciudad": "Choloma",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Alutech busca Técnico Mecánico de Montacargas para trabajar en Río Nance, Choloma, con experiencia en mantenimiento y reparación de montacargas.",
+  "requisitos": [
+    "Técnico, pasante o graduado en Mecánica Automotriz, Industrial o carrera afín.",
+    "Experiencia mínima de 2 años en mantenimiento y reparación de montacargas.",
+    "Conocimiento de sistemas mecánicos, eléctricos e hidráulicos.",
+    "Capacidad de diagnóstico y solución de fallas mecánicas.",
+    "Conocimiento de repuestos y mantenimiento preventivo y correctivo."
+  ],
+  "beneficios": [
+    "Salario base.",
+    "Beneficios de ley.",
+    "Seguro de vida."
+  ],
+  "como_aplicar": "Entrega tu CV en la tienda Alutech más cercana o envíalo mediante el botón de correo. Para consultas, comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432713353",
+  "telefono": "",
+  "correo": "genesis.paz@alutech.hn",
+  "whatsapps": [
+    "50432713353"
+  ],
+  "telefonos": [],
+  "correos": [
+    "genesis.paz@alutech.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-09",
+  "titulo": "Planificador de Mantenimiento",
+  "empresa": "Alutech",
+  "ciudad": "Choloma",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Alutech busca Planificador de Mantenimiento en Río Nance, Choloma, con experiencia en mantenimiento de flotas y capacidad de análisis de datos.",
+  "requisitos": [
+    "Pasante o graduado universitario de Ingeniería en Sistemas, Industrial, Mecánica o carreras afines.",
+    "Altas habilidades de comunicación y relaciones interpersonales.",
+    "Experiencia mínima de 2 años en mantenimiento de flotas.",
+    "Conocimientos técnicos y de repuestos.",
+    "Alta capacidad de análisis de datos."
+  ],
+  "beneficios": [
+    "Salario más remuneración variable por cumplimiento de metas.",
+    "Beneficios de ley.",
+    "Seguro de vida y médico."
+  ],
+  "como_aplicar": "Entrega tu CV en la tienda Alutech más cercana o envíalo mediante el botón de correo. Para consultas, comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432713353",
+  "telefono": "",
+  "correo": "genesis.paz@alutech.hn",
+  "whatsapps": [
+    "50432713353"
+  ],
+  "telefonos": [],
+  "correos": [
+    "genesis.paz@alutech.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-10",
+  "titulo": "Jefe de Marca",
+  "empresa": "Grupo MSP",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Grupo MSP busca Jefe de Marca en Tegucigalpa, con formación en Mercadeo y experiencia en manejo de personal.",
+  "requisitos": [
+    "Licenciatura en Mercadeo.",
+    "Experiencia mínima de 2 años.",
+    "Experiencia en manejo de personal.",
+    "Excel avanzado.",
+    "Conocimientos de marketing.",
+    "Organización y capacidad analítica.",
+    "Trabajo en equipo.",
+    "Disponibilidad para viajar."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "empleos@grupomsp.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "empleos@grupomsp.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-11",
+  "titulo": "Administradora de Tienda",
+  "empresa": "Grupo MSP",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Grupo MSP busca Administradora de Tienda en Tegucigalpa, con experiencia en manejo de personal, equipos de ventas, inventarios y caja.",
+  "requisitos": [
+    "Licenciatura en Administración o Mercadotecnia.",
+    "Experiencia de 2 años en puestos similares.",
+    "Manejo de personal y equipos de ventas.",
+    "Conocimientos de inventarios y caja.",
+    "Manejo de Office y sistemas de facturación."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "empleos@grupomsp.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "empleos@grupomsp.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-12",
+  "titulo": "Auditor Interno",
+  "empresa": "Grupo MSP",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Grupo MSP busca Auditor Interno en Tegucigalpa, con experiencia en auditoría y conocimientos de control interno y procesos administrativos.",
+  "requisitos": [
+    "Género masculino.",
+    "Licenciatura en Contaduría Pública.",
+    "Experiencia mínima de 2 años en auditoría.",
+    "Conocimientos de control interno y procesos administrativos.",
+    "Capacidad de análisis y detección de irregularidades.",
+    "Disponibilidad para viajar."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "empleos@grupomsp.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "empleos@grupomsp.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261112-01",
   "titulo": "Ejecutivo de Cuentas KAM",
   "empresa": "Televicentro",
