@@ -2,6 +2,203 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261112-01",
+  "titulo": "Ejecutivo de Cuentas KAM",
+  "empresa": "Televicentro",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Gestionar y desarrollar relaciones con clientes clave, asegurando el cumplimiento de objetivos comerciales y la correcta ejecución de campañas de marketing, publicidad y medios. Administrar cuentas clave, desarrollar oportunidades comerciales, negociar propuestas, prospectar clientes y dar seguimiento a resultados y metas de ventas.",
+  "requisitos": [
+    "Licenciatura en Marketing, Ventas, Publicidad o carreras afines.",
+    "Experiencia en agencias de publicidad, medios o ventas corporativas.",
+    "Habilidades de negociación, prospección y comunicación efectiva.",
+    "Orientación a resultados.",
+    "Proactividad, organización y trabajo en equipo.",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "seleccion@televicentro.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "seleccion@televicentro.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-02",
+  "titulo": "Impulsadora de Ventas",
+  "empresa": "Grupo Macdel",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Grupo Macdel busca Impulsadora de Ventas en San Pedro Sula, con experiencia en impulsación de productos de consumo masivo y comercialización de productos de limpieza, hogar o cuidado personal.",
+  "requisitos": [
+    "Educación secundaria completa.",
+    "Formación técnica en ventas, mercadeo o servicio al cliente, deseable.",
+    "Experiencia de 1 a 2 años.",
+    "Experiencia en impulsación de productos de consumo masivo en supermercados, cadenas comerciales o tiendas de conveniencia.",
+    "Experiencia en comercialización de productos de limpieza, hogar o cuidado personal.",
+    "Experiencia en gestión de inventarios.",
+    "Contar con transporte propio.",
+    "Disponibilidad para desplazarse dentro del casco urbano de San Pedro Sula.",
+    "Residir en el casco urbano de San Pedro Sula.",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo, detallando en el asunto la plaza de tu interés. Para consultas, comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432052753",
+  "telefono": "",
+  "correo": "capitalhumanosps@grupomacdel.com",
+  "whatsapps": [
+    "50432052753"
+  ],
+  "telefonos": [],
+  "correos": [
+    "capitalhumanosps@grupomacdel.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-03",
+  "titulo": "Coordinador de Gestión de Calidad",
+  "empresa": "Novalace",
+  "ciudad": "Choloma",
+  "categoria": "Manufactura, Producción y Calidad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Novalace busca Coordinador de Gestión de Calidad en Choloma, Cortés, para contribuir al fortalecimiento de los sistemas de gestión, la mejora continua y el cumplimiento de los estándares de calidad de la organización.",
+  "requisitos": [
+    "Formación en Ingeniería Industrial, Administración de Empresas o carrera afín.",
+    "Experiencia mínima de 2 años en Sistemas de Gestión de Calidad.",
+    "Conocimiento y aplicación de ISO 9001:2015.",
+    "Experiencia en auditorías internas y mejora continua.",
+    "Certificación o diploma en ISO 9001:2015 e ISO 19011.",
+    "Manejo de indicadores de gestión y análisis de datos.",
+    "Liderazgo, organización y trabajo en equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante los botones de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50488405546",
+  "telefono": "",
+  "correo": "asistente.rh@novalacehn.com",
+  "whatsapps": [
+    "50488405546"
+  ],
+  "telefonos": [],
+  "correos": [
+    "asistente.rh@novalacehn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-04",
+  "titulo": "Oficial de Facturación y Cuentas por Cobrar",
+  "empresa": "Industrias Maknudo",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Industrias Maknudo busca Oficial de Facturación y Cuentas por Cobrar en Tegucigalpa, con formación contable o financiera y experiencia en facturación.",
+  "requisitos": [
+    "Formación en Contabilidad, Finanzas o carreras afines.",
+    "Experiencia en facturación.",
+    "Manejo de gestión de cuentas por cobrar.",
+    "Manejo de Excel.",
+    "Atención al detalle.",
+    "Alto grado de confidencialidad.",
+    "Habilidades de comunicación y servicio al cliente.",
+    "Manejo de SAP.",
+    "Orden."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo, colocando en el asunto el nombre de la plaza. También puedes comunicarte mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431601813",
+  "telefono": "",
+  "correo": "reclutamientorhmk@gmail.com",
+  "whatsapps": [
+    "50431601813"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamientorhmk@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-05",
+  "titulo": "Jefe de Producción",
+  "empresa": "Indumuebles",
+  "ciudad": "La Ceiba",
+  "categoria": "Manufactura, Producción y Calidad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Indumuebles busca Jefe de Producción en La Ceiba, Atlántida, con experiencia en supervisión de producción, manejo de personal operativo y planificación de la producción.",
+  "requisitos": [
+    "Formación universitaria en Ingeniería Industrial, Producción Industrial o carreras afines, deseable.",
+    "Experiencia comprobable en posiciones de supervisión o jefatura de producción.",
+    "Experiencia en manejo de personal operativo.",
+    "Experiencia en planificación y programación de producción.",
+    "Experiencia trabajando con metas, indicadores y cumplimiento de objetivos productivos.",
+    "Experiencia en ambientes de manufactura o industria, deseable."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo. Para información, utiliza el botón de WhatsApp; se reciben únicamente mensajes.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433197359",
+  "telefono": "",
+  "correo": "kfunez@indumuebleshn.com",
+  "whatsapps": [
+    "50433197359"
+  ],
+  "telefonos": [],
+  "correos": [
+    "kfunez@indumuebleshn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261111-56",
   "titulo": "Asistente Técnico",
   "empresa": "Empresa confidencial",
