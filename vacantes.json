@@ -2,6 +2,50 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261112-153240-92",
+  "titulo": "Ejecutivo de Ventas",
+  "empresa": "Hotel Honduras Maya",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Elaborar cotizaciones, dar seguimiento a clientes y cerrar ventas. Mantener y ampliar la cartera de clientes mediante prospección, atención personalizada y visitas directas.",
+  "requisitos": [
+    "Pasante universitario de Hostelería y Turismo.",
+    "Disponibilidad para trabajar en horarios flexibles.",
+    "Transporte propio.",
+    "Comunicación efectiva.",
+    "Excelente presentación personal.",
+    "Cumplimiento sostenido de metas de ventas."
+  ],
+  "beneficios": [
+    "Todos los beneficios de ley.",
+    "Esquema de comisiones.",
+    "Seguro de vida.",
+    "Médico de empresa."
+  ],
+  "como_aplicar": "Enviar CV al correo indicado, incluyendo en el asunto el nombre de la plaza a la que se postula. También puede comunicarse por WhatsApp.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50489640209",
+  "telefono": "",
+  "correo": "generalista@hondurasmaya.hn",
+  "whatsapps": [
+    "50489640209"
+  ],
+  "telefonos": [],
+  "correos": [
+    "generalista@hondurasmaya.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261112-26",
   "titulo": "Analista de Reclutamiento",
   "empresa": "Grupo Farsiman",
