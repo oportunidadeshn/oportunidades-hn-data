@@ -2,6 +2,202 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261111-36",
+  "titulo": "Líder Comercial",
+  "empresa": "Elektra",
+  "ciudad": "El Progreso",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Elektra busca Líder Comercial en El Progreso, Yoro, para el manejo de personal e inventarios y el cumplimiento de metas y resultados.",
+  "requisitos": [
+    "Título universitario.",
+    "Experiencia en ventas.",
+    "Disponibilidad de horarios y para trabajar fines de semana.",
+    "Capacidad para manejar personal e inventarios.",
+    "Orientación a metas y resultados.",
+    "Compromiso y responsabilidad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494831076",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50494831076"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261111-37",
+  "titulo": "Encargado de Redes y Mercadeo",
+  "empresa": "DuraMaxx Battery",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "DuraMaxx Battery busca Encargado de Redes y Mercadeo con experiencia en manejo de redes sociales y capacidad para crear contenido digital.",
+  "requisitos": [
+    "Educación media o estudios universitarios en Marketing, Publicidad, Comunicación o carreras afines.",
+    "Experiencia en manejo de redes sociales.",
+    "Manejo de Facebook, Instagram, TikTok y WhatsApp Business.",
+    "Conocimientos de diseño gráfico y edición de videos.",
+    "Manejo de Canva y herramientas digitales.",
+    "Capacidad para crear contenido digital.",
+    "Buena ortografía y redacción.",
+    "Creatividad e iniciativa.",
+    "Excelente comunicación y atención al cliente.",
+    "Organización y cumplimiento de objetivos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum mediante el botón de correo o comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494024857",
+  "telefono": "",
+  "correo": "rrhhmafosa@gmail.com",
+  "whatsapps": [
+    "50494024857"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhhmafosa@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261111-38",
+  "titulo": "Motorista",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Transporte y Distribución",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se busca Motorista en Tegucigalpa con experiencia en conducción en carretera y licencia para vehículos pesados.",
+  "requisitos": [
+    "Sexo masculino.",
+    "Mayor de 25 años.",
+    "Experiencia manejando en carreteras.",
+    "Poseer licencia pesada.",
+    "Disponibilidad de tiempo.",
+    "Responsabilidad y compromiso."
+  ],
+  "beneficios": [
+    "Descuentos preferenciales.",
+    "Beneficios de ley."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo. Coloca en el asunto: MOTORISTA.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "palaciorrhh@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "palaciorrhh@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261111-39",
+  "titulo": "Técnico en Fisioterapia",
+  "empresa": "Kinova",
+  "ciudad": "San Lorenzo",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Kinova, Clínica de Rehabilitación y Fisioterapia, busca Técnico en Fisioterapia para atención de pacientes en San Lorenzo, Valle.",
+  "requisitos": [
+    "Título de Técnico en Fisioterapia.",
+    "Experiencia en atención de pacientes, deseable.",
+    "Responsabilidad, empatía y buena atención al paciente.",
+    "Disponibilidad de horario."
+  ],
+  "beneficios": [
+    "Ambiente de trabajo profesional y agradable.",
+    "Oportunidad de desarrollo profesional.",
+    "Contrato y condiciones a convenir."
+  ],
+  "como_aplicar": "Comunícate mediante los botones de WhatsApp.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50489832188",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50489832188",
+    "50488122912"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261111-40",
+  "titulo": "KAM Junior",
+  "empresa": "Trixo",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Liderar y supervisar la gestión operativa de las cuentas y proyectos asignados en Honduras, garantizando el cumplimiento de indicadores, la calidad del servicio, la satisfacción de los clientes y la coordinación de los equipos de trabajo. Coordinar servicios y proyectos, supervisar personal y procesos administrativos, dar seguimiento a procesos de Recursos Humanos y elaborar reportes de resultados, incidencias y planes de mejora.",
+  "requisitos": [
+    "Licenciatura en Administración de Empresas, Mercadeo o carrera afín.",
+    "Experiencia mínima de 2 años en operaciones, gestión de cuentas o puestos similares.",
+    "Experiencia en supervisión de personal, atención a clientes y seguimiento de proyectos.",
+    "Experiencia en canal moderno, puntos de venta o empresas de servicios.",
+    "Conocimientos generales de procesos administrativos y Recursos Humanos.",
+    "Vehículo propio indispensable.",
+    "Disponibilidad para viajar dentro de Honduras."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV actualizado mediante el botón de correo, indicando en el asunto el nombre del puesto al que aplicas. También puedes comunicarte mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50489562592",
+  "telefono": "",
+  "correo": "asist_hn@trixo.la",
+  "whatsapps": [
+    "50489562592"
+  ],
+  "telefonos": [],
+  "correos": [
+    "asist_hn@trixo.la"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261111-185155-91",
   "titulo": "Tornero Convencional",
   "empresa": "Empresa confidencial",
