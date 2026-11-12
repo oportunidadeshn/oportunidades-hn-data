@@ -2,6 +2,203 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261111-41",
+  "titulo": "Técnico Electrónico",
+  "empresa": "PAFISA",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Asegurar el funcionamiento, mantenimiento y reparación de los equipos electrónicos de la planta, garantizando la continuidad de la producción y la calidad de los procesos. Realizar mantenimiento preventivo y correctivo de equipos electrónicos y sistemas automatizados, así como diagnosticar y reparar fallas eléctricas y electrónicas en maquinaria de producción.",
+  "requisitos": [
+    "Residir en San Pedro Sula.",
+    "Pasante de Ingeniería Electromecánica o carreras afines.",
+    "Disponibilidad de horario.",
+    "Experiencia práctica con circuitos, pruebas electrónicas y PLC.",
+    "Experiencia en reparación de tarjetas electrónicas.",
+    "Interpretación y lectura de diagramas electrónicos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50493989986",
+  "telefono": "",
+  "correo": "rrhh@pafisa.hn",
+  "whatsapps": [
+    "50493989986"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhh@pafisa.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261111-42",
+  "titulo": "Técnico Mecatrónico",
+  "empresa": "PAFISA",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Ejecutar actividades de mantenimiento preventivo, predictivo y correctivo de equipos y maquinaria industrial. Realizar diagnóstico y reparación de sistemas mecánicos, eléctricos, electrónicos y de automatización para asegurar la disponibilidad, confiabilidad y continuidad de las operaciones.",
+  "requisitos": [
+    "Residir en San Pedro Sula.",
+    "Técnico o profesional en Mecatrónica, Electromecánica, Automatización Industrial o carrera afín.",
+    "Experiencia mínima de 3 años en mantenimiento industrial.",
+    "Conocimientos en mecánica, electricidad, electrónica y automatización.",
+    "Conocimientos básicos de PLC, motores eléctricos y variadores de frecuencia.",
+    "Capacidad de diagnóstico y solución de problemas."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50493989986",
+  "telefono": "",
+  "correo": "rrhh@pafisa.hn",
+  "whatsapps": [
+    "50493989986"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhh@pafisa.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261111-43",
+  "titulo": "Vendedor/a de Motos",
+  "empresa": "Movesa",
+  "ciudad": "El Progreso",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Movesa busca Vendedor/a de Motos en El Progreso, Yoro, con experiencia en ventas, conocimientos del rubro comercial y vocación de servicio al cliente.",
+  "requisitos": [
+    "Experiencia en ventas.",
+    "Conocimiento del rubro comercial.",
+    "Conocimiento en repuestos.",
+    "Secundaria completa.",
+    "Disponibilidad de tiempo.",
+    "Vocación de servicio al cliente.",
+    "Orientación al logro de metas.",
+    "Proactividad.",
+    "Residir en El Progreso, Yoro."
+  ],
+  "beneficios": [
+    "Contrato permanente.",
+    "Convenios con bancos y cooperativas.",
+    "Seguro médico y de vida.",
+    "Comisiones por ventas."
+  ],
+  "como_aplicar": "Envía tu hoja de vida actualizada mediante los botones de correo o WhatsApp. Coloca en el asunto: VENDEDOR DE MOTOS EL PROGRESO.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433895404",
+  "telefono": "",
+  "correo": "empleos@grupomovesa.com",
+  "whatsapps": [
+    "50433895404"
+  ],
+  "telefonos": [],
+  "correos": [
+    "empleos@grupomovesa.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261111-44",
+  "titulo": "Gestor de Crédito",
+  "empresa": "HERCO",
+  "ciudad": "Choluteca",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "HERCO busca Gestor de Crédito para su equipo en Choluteca.",
+  "requisitos": [
+    "Graduado o pasante universitario de carreras comerciales o ingenierías.",
+    "Conocimientos de computación y Microsoft Office.",
+    "Conocimientos de atención al cliente.",
+    "Conocimientos de procesos administrativos.",
+    "Conocimientos de análisis financiero.",
+    "Interpretación de puntos cardinales.",
+    "Capacidad de resolución de problemas.",
+    "Trabajo en equipo.",
+    "Orden y organización.",
+    "Comunicación asertiva."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Completa tus datos en el formulario mediante el botón de Aplicar.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": "https://portal.herco.hn/solicitud-colaborador"
+},
+{
+  "id": "ohn-20261111-45",
+  "titulo": "Especialista de Automatización",
+  "empresa": "BOMOHSA",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "BOMOHSA busca Especialista de Automatización en San Pedro Sula, con experiencia en programación de PLC y HMI y conocimientos de automatización industrial.",
+  "requisitos": [
+    "Pasante de Ingeniería en Electricidad, Electrónica, Mecatrónica o Sistemas, con el 70% de la carrera aprobada.",
+    "Experiencia en programación avanzada de PLC y HMI.",
+    "Conocimientos de redes LAN, Modbus, variadores de frecuencia y arrancadores suaves.",
+    "Diseño e interpretación de diagramas de control unifilares, 2D y 3D.",
+    "Conocimientos de selección de componentes, armado de paneles, instrumentación y telemetría básica.",
+    "Manejo de Microsoft Office."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV actualizado mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talento.humanozn@sci-hn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "talento.humanozn@sci-hn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261111-36",
   "titulo": "Líder Comercial",
   "empresa": "Elektra",
