@@ -798,6 +798,25 @@
   "whatsapp": "50493799139",
   "destacado": false,
   "activo": true
+, 
+
+  {
+  "titulo": "Gran Jornada de Empleo de Pinturas Americanas",
+  "organizador": "Pinturas Americanas",
+  "categoria": "Ferias de empleo",
+  "ciudad": "Comayagua",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-16",
+  "fecha_fin": "2026-11-16",
+  "hora": "9:00 a. m. a 4:00 p. m.",
+  "lugar": "Tienda Panamericana, contiguo a Pizza Hut, Comayagua",
+  "descripcion": "Jornada de empleo para conocer las oportunidades laborales de Pinturas Americanas y conectar con su equipo de reclutamiento.",
+  "informacion_participacion": "Asiste presencialmente a Tienda Panamericana, contiguo a Pizza Hut, Comayagua, el 16 de noviembre de 2026, de 9:00 a. m. a 4:00 p. m.",
+  "imagen": "https://media.licdn.com/dms/image/v2/D4E22AQHJ2lwEmsVIPw/feedshare-shrink_800/B4EaHMcxDuGsAk-/0/1794431455822?e=1796256000&v=beta&t=AjfKQIyjhAgJTIg7QHB-bgCZe1qse74yxVOApzEHoIc",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
 }
     
   ]
