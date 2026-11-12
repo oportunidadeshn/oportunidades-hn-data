@@ -2,6 +2,163 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261112-13",
+  "titulo": "Asesor Legal",
+  "empresa": "Ulloa & Asociados",
+  "ciudad": "Choluteca",
+  "categoria": "Legal",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Ulloa & Asociados busca Asesor Legal en Choluteca, con experiencia en Derecho Administrativo, litigio y Derecho Laboral.",
+  "requisitos": [
+    "Licenciatura en Ciencias Jurídicas o Derecho.",
+    "Carné de colegiación.",
+    "Experiencia en Derecho Administrativo, litigio y Derecho Laboral.",
+    "Contar con vehículo y licencia de conducir vigente.",
+    "Disponibilidad inmediata.",
+    "Residir en Choluteca.",
+    "Capacidad de análisis crítico.",
+    "Comunicación clara, oral y escrita.",
+    "Organización y seguimiento."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rrhh@ulloayasociados.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rrhh@ulloayasociados.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-14",
+  "titulo": "Jefe de Desarrollo e IT",
+  "empresa": "Energía PD",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Energía PD busca Jefe de Desarrollo e IT en San Pedro Sula para una plaza permanente, con conocimientos en infraestructura tecnológica, redes, ciberseguridad y desarrollo de software.",
+  "requisitos": [
+    "Administración de servidores físicos y virtualizados y redes LAN, WAN, VLAN y VPN.",
+    "Conocimientos de infraestructura y administración de redes.",
+    "Conocimientos de ciberseguridad y protección de sistemas.",
+    "Desarrollo de software y aplicaciones.",
+    "Manejo de bases de datos, ERP y control de versiones.",
+    "Gestión de proyectos y proveedores tecnológicos.",
+    "Conocimientos de auditorías, ISO, ITIL y COBIT, preferibles."
+  ],
+  "beneficios": [
+    "Plaza permanente."
+  ],
+  "como_aplicar": "Completa tu postulación mediante el botón de Aplicar. También puedes enviar tu CV mediante el botón de correo o comunicarte mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494389532",
+  "telefono": "",
+  "correo": "empleo@energiapd.com",
+  "whatsapps": [
+    "50494389532"
+  ],
+  "telefonos": [],
+  "correos": [
+    "empleo@energiapd.com"
+  ],
+  "url_aplicar": "https://reclutamiento.energiapd.com/postular/IT-2026-01"
+},
+{
+  "id": "ohn-20261112-15",
+  "titulo": "Ingeniero de Aplicaciones y Proyectos",
+  "empresa": "BOMOHSA",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "BOMOHSA busca Ingeniero de Aplicaciones y Proyectos en Tegucigalpa, con criterio técnico sólido y capacidad de desarrollo hacia responsabilidades de liderazgo.",
+  "requisitos": [
+    "Título universitario en Ingeniería Civil, Mecánica, Electromecánica, Eléctrica o ingeniería afín.",
+    "Experiencia práctica de 3 años en selección y aplicación de equipos industriales, especialmente de bombeo, deseable.",
+    "Conocimientos de sistemas trifásicos, variadores de frecuencia, arrancadores, paneles y protecciones.",
+    "Interpretación de planos, listas de materiales y especificaciones.",
+    "Manejo de Excel, programas de selección de proveedores, SAP, Logic Track y CRM.",
+    "Conocimientos de estructura de costos, margen bruto, inventarios, entregas y gestión de proyectos.",
+    "Nociones de compras internacionales.",
+    "Poseer vehículo propio.",
+    "Disponibilidad para viajar."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo e incluye tu aspiración salarial.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talento.humanozcs@sci-hn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "talento.humanozcs@sci-hn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-16",
+  "titulo": "Vendedor de Tienda y Campo",
+  "empresa": "Tienda y Campo",
+  "ciudad": "Tegucigalpa, San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Tienda y Campo busca vendedores para sus equipos en Tegucigalpa y San Pedro Sula, con experiencia en ventas de campo, trabajo de oficina y servicio al cliente.",
+  "requisitos": [
+    "Pasante universitario.",
+    "Experiencia en ventas de campo.",
+    "Experiencia en trabajo de oficina.",
+    "Habilidades de servicio al cliente.",
+    "Poseer vehículo.",
+    "Contar con computadora portátil.",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433231501",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50433231501"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261112-06",
   "titulo": "Ejecutivo de Negocios",
   "empresa": "Leasing Atlántida",
