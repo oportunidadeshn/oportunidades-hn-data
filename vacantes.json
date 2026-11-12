@@ -2,6 +2,39 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261111-185155-91",
+  "titulo": "Tornero Convencional",
+  "empresa": "Empresa confidencial",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Manufactura, Producción y Calidad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se requiere Tornero Convencional con experiencia para trabajar en San Pedro Sula.",
+  "requisitos": [
+    "Experiencia como tornero convencional.",
+    "Disponibilidad de horarios."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-13",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432858266",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50432858266"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261111-31",
   "titulo": "Ejecutivo de Visita Médica - Línea Neurociencias",
   "empresa": "Corporación Lancasco",
