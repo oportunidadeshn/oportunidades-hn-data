@@ -2,6 +2,78 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261111-29",
+  "titulo": "Oficial de Talento Humano",
+  "empresa": "Grupo MSP",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Recursos Humanos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Grupo MSP busca Oficial de Talento Humano para trabajar de manera presencial en Tegucigalpa.",
+  "requisitos": [
+    "Pasante de Administración de Empresas o carrera afín.",
+    "Mínimo 2 años de experiencia en cargos similares.",
+    "Manejo de Microsoft Office.",
+    "Conocimiento de ERP, Payroll y SmartClock.",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo. Indica en el asunto el nombre de la plaza a la que aplicas.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "empleos@grupomsp.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "empleos@grupomsp.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261111-30",
+  "titulo": "Cajera",
+  "empresa": "Grupo MSP",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Grupo MSP busca Cajera para trabajar de manera presencial en San Pedro Sula.",
+  "requisitos": [
+    "Secundaria completa.",
+    "Mínimo 2 años de experiencia en caja.",
+    "Manejo de efectivo, cobros y facturación.",
+    "Conocimientos de computación y sistemas de cobro.",
+    "Facilidad numérica y atención al detalle.",
+    "Disponibilidad para trabajar en horarios rotativos y fines de semana."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "empleos@grupomsp.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "empleos@grupomsp.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261109-083225-85",
   "titulo": "Docente de Inglés de Educación Básica",
   "empresa": "GHC Talent",
