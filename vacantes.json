@@ -2,6 +2,88 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261111-46",
+  "titulo": "Asistente Administrativo / Atención al Cliente",
+  "empresa": "Centro Hospitalario SEMEHSUR",
+  "ciudad": "Choluteca",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Brindar apoyo administrativo y operativo al departamento de negocios, contribuyendo a la atención de pacientes, gestión de suministros y ejecución de actividades comerciales y de mercadeo del hospital. Atender pacientes, recibir llamadas, orientar a usuarios y apoyar en la coordinación de agendas y actividades institucionales.",
+  "requisitos": [
+    "Estudiante o egresado de Licenciatura en Administración de Empresas, Mercadeo o carrera afín.",
+    "Experiencia en atención al cliente y labores administrativas.",
+    "Manejo de herramientas de Office.",
+    "Organización, iniciativa y responsabilidad.",
+    "Buenas relaciones interpersonales.",
+    "Proactividad y discreción.",
+    "Comunicación efectiva y orientación al servicio."
+  ],
+  "beneficios": [
+    "Beneficios de ley.",
+    "Bono vacacional.",
+    "Seguro de vida."
+  ],
+  "como_aplicar": "Envía tu currículum vitae mediante los botones de correo.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "aandino@semesur.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "aandino@semesur.hn",
+    "smatamoros@semesur.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261111-47",
+  "titulo": "Regente de Farmacia",
+  "empresa": "Centro Hospitalario SEMEHSUR",
+  "ciudad": "Choluteca",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Garantizar la correcta gestión, supervisión y dispensación de medicamentos en la farmacia de SEMEHSUR, velando por el cumplimiento de las normativas sanitarias y el control adecuado de los productos farmacéuticos.",
+  "requisitos": [
+    "Título universitario de Doctor en Química y Farmacia.",
+    "Estar colegiado y solvente con el Colegio de Químico Farmacéuticos.",
+    "Experiencia mínima de 1 año en farmacia interna de hospital, deseable.",
+    "Manejo del llenado de libros de medicamentos controlados."
+  ],
+  "beneficios": [
+    "Beneficios de ley.",
+    "Bono vacacional.",
+    "Seguro de vida."
+  ],
+  "como_aplicar": "Envía tu currículum vitae mediante los botones de correo.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "aandino@semesur.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "aandino@semesur.hn",
+    "smatamoros@semesur.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261111-41",
   "titulo": "Técnico Electrónico",
   "empresa": "PAFISA",
