@@ -2,6 +2,146 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261112-17",
+  "titulo": "Auxiliar de Farmacia",
+  "empresa": "Hospital San Jorge",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Medio tiempo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Dispensar y entregar medicamentos e insumos médicos, controlar los inventarios de farmacia, verificar fechas de vencimiento y mantener el orden y la limpieza del área. La plaza es únicamente para fines de semana.",
+  "requisitos": [
+    "Formación académica de Doctor en Química y Farmacia.",
+    "Experiencia laboral mínima de 2 años.",
+    "Disponibilidad para trabajar únicamente fines de semana.",
+    "Dominio de paquetes de Office.",
+    "Residir en Tegucigalpa."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento@sanjorge.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@sanjorge.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-18",
+  "titulo": "Ejecutivo de Ventas",
+  "empresa": "ServiPort - Grupo AGP",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "ServiPort - Grupo AGP busca Ejecutivo de Ventas en San Pedro Sula, con experiencia en logística, importación, exportación y consolidación de carga.",
+  "requisitos": [
+    "Experiencia mínima de 3 años.",
+    "Experiencia en logística, importación, exportación, ventas y consolidación de carga.",
+    "Dinamismo y actitud de servicio.",
+    "Buena presentación personal.",
+    "Bilingüe, con inglés conversacional.",
+    "Residir en San Pedro Sula."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante los botones de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-22",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433896355",
+  "telefono": "",
+  "correo": "rrhh@grupoagp.biz",
+  "whatsapps": [
+    "50433896355"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhh@grupoagp.biz"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-19",
+  "titulo": "Ejecutivo Comercial",
+  "empresa": "Banco Atlántida",
+  "ciudad": "San Pedro Sula, Choloma",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Efectuar acciones comerciales orientadas a la venta cruzada de productos y servicios de la banca de personas, incluidos vivienda, consumo, pasivos y tarjetas. Brindar atención personal y diferenciada a clientes actuales y potenciales, de acuerdo con las directrices y planes comerciales del banco.",
+  "requisitos": [
+    "Licenciatura en Mercadotecnia, Administración de Empresas, Banca y Finanzas, Ingeniería de Negocios, Ingeniería Industrial o carreras afines al puesto.",
+    "Experiencia de 2 a 4 años en el área comercial de instituciones financieras.",
+    "Experiencia en administración de portafolios de clientes, créditos y fondos de inversión.",
+    "Conocimientos de técnicas de venta y atención al cliente."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "jayalap@bancatlan.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "jayalap@bancatlan.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261112-20",
+  "titulo": "Asesor Comercial",
+  "empresa": "Banco Atlántida",
+  "ciudad": "San Pedro Sula, Choloma, Villanueva",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Efectuar acciones comerciales orientadas a la venta cruzada de productos y servicios de la banca de personas, incluidos vivienda, consumo, pasivos y tarjetas.",
+  "requisitos": [
+    "Licenciatura en Administración de Empresas, Banca y Finanzas, Contaduría Pública y Finanzas o Ingeniería de Negocios.",
+    "Experiencia de 2 a 4 años en caja, atención al cliente y ventas."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-12",
+  "fecha_vencimiento": "2026-11-16",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "jayalap@bancatlan.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "jayalap@bancatlan.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261112-13",
   "titulo": "Asesor Legal",
   "empresa": "Ulloa & Asociados",
