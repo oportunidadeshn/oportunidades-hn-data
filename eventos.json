@@ -743,7 +743,62 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
-    }
+    },
+
+    {
+  "titulo": "Cursos Académicos en Artes Plásticas CAAP Nocturnos 2027",
+  "organizador": "Escuela Nacional de Bellas Artes",
+  "categoria": "Becas/Capacitaciones",
+  "ciudad": "",
+  "modalidad": "Presencial",
+  "fecha_inicio": "",
+  "fecha_fin": "",
+  "hora": "Jornada nocturna",
+  "lugar": "Escuela Nacional de Bellas Artes",
+  "descripcion": "Programa gratuito de formación en artes plásticas para jóvenes y adultos de 18 años en adelante. Tiene una duración de dos años y se desarrolla en jornada nocturna. Cupos limitados.",
+  "informacion_participacion": "Inscripción presencial en la tienda escolar. Presentar acta de nacimiento o copia de identidad. Información en los números 9985-8990 y 9626-7671.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "50499858990",
+  "destacado": false,
+  "activo": true
+},
+{
+  "titulo": "Cursos Libres Sabatinos Vacacionales Infantiles",
+  "organizador": "Escuela Nacional de Bellas Artes",
+  "categoria": "Becas/Capacitaciones",
+  "ciudad": "",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-12-05",
+  "fecha_fin": "",
+  "hora": "",
+  "lugar": "Instalaciones de la Escuela Nacional de Bellas Artes",
+  "descripcion": "Cursos artísticos sabatinos vacacionales dirigidos a niños de 7 a 15 años, durante el período diciembre-enero. Inicio de clases el 5 de diciembre de 2026. Aporte total de L 1,000, equivalente a L 500 por mes.",
+  "informacion_participacion": "Inscripciones presenciales a partir del 23 de noviembre de 2026, de 8:00 a. m. a 4:00 p. m. Presentar acta de nacimiento y copia de identidad del padre o la madre. Información en los números 9379-9139 y 9626-7671.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "50493799139",
+  "destacado": false,
+  "activo": true
+},
+{
+  "titulo": "Cursos Libres Sabatinos Vacacionales para Jóvenes y Adultos",
+  "organizador": "Escuela Nacional de Bellas Artes",
+  "categoria": "Becas/Capacitaciones",
+  "ciudad": "",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-12-05",
+  "fecha_fin": "",
+  "hora": "",
+  "lugar": "Instalaciones de la Escuela Nacional de Bellas Artes",
+  "descripcion": "Cursos sabatinos vacacionales para aprender a dibujar y pintar, dirigidos a personas de 16 años en adelante durante el período diciembre-enero. Inicio de clases el 5 de diciembre de 2026. Aporte total de L 1,200, equivalente a L 600 por mes.",
+  "informacion_participacion": "Inscripciones presenciales a partir del 23 de noviembre de 2026, de 8:00 a. m. a 4:00 p. m. Presentar acta de nacimiento y copia de identidad. Información en los números 9379-9139 y 9626-7671.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "50493799139",
+  "destacado": false,
+  "activo": true
+}
     
   ]
 }
