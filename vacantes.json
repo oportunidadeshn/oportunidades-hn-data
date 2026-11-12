@@ -2,6 +2,57 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261111-56",
+  "titulo": "Asistente Técnico",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se busca Asistente Técnico para trabajar en Tegucigalpa, con formación en Ingeniería Civil y experiencia en estimaciones de obra, control documental de proyectos y preparación de ofertas para licitaciones.",
+  "requisitos": [
+    "Ingeniero Civil colegiado.",
+    "Experiencia en elaboración y seguimiento de estimaciones de obra.",
+    "Experiencia en control documental de proyectos.",
+    "Conocimiento en preparación de ofertas para licitaciones públicas y privadas, nacionales e internacionales.",
+    "Disponibilidad para trabajar en Tegucigalpa.",
+    "Manejo de Microsoft Office, especialmente Excel.",
+    "Manejo de AutoCAD y Civil 3D.",
+    "Manejo de Microsoft Project o herramientas de gestión de proyectos.",
+    "Conocimiento de plataformas de gestión documental en la nube, como Google Drive y SharePoint.",
+    "Conocimientos de operaciones, logística e inventarios.",
+    "Interpretación de planos y especificaciones técnicas.",
+    "Alta capacidad de organización y planificación.",
+    "Capacidad de análisis y atención al detalle.",
+    "Toma de decisiones y resolución de problemas.",
+    "Capacidad para trabajar bajo presión y en equipo.",
+    "Orientación a resultados y cumplimiento de plazos.",
+    "Comunicación efectiva.",
+    "Proactividad y sentido de urgencia."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo. Para consultas, comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-11",
+  "fecha_vencimiento": "2026-11-21",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494501098",
+  "telefono": "",
+  "correo": "talentohumano@hehhonduras.com",
+  "whatsapps": [
+    "50494501098"
+  ],
+  "telefonos": [],
+  "correos": [
+    "talentohumano@hehhonduras.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261111-53",
   "titulo": "Mixólogo / Bartender",
   "empresa": "Clarion by Choice Hotels",
