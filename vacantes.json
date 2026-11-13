@@ -2,6 +2,42 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261113-04",
+  "titulo": "Entregador de Preventa",
+  "empresa": "LEYDE",
+  "ciudad": "Quimistán",
+  "categoria": "Ventas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "LEYDE busca un entregador de preventa para Quimistán, Santa Bárbara, con experiencia en venta de productos de consumo masivo en rutas.",
+  "requisitos": [
+    "Sexo masculino.",
+    "Edad entre 26 y 48 años.",
+    "Escolaridad de ciclo común hasta secundaria.",
+    "Licencia de conducir pesada vigente, obligatoria.",
+    "Residir en Quimistán, Santa Bárbara.",
+    "Experiencia de 1 año en venta en rutas de productos de consumo masivo.",
+    "Habilidades de comunicación con clientes.",
+    "Enfoque en resultados.",
+    "Proactividad.",
+    "Documentos en regla.",
+    "Disponibilidad de horario."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Enviar CV al correo indicado o llamar al 9588-2382.",
+  "fecha_publicacion": "2026-11-13",
+  "fecha_vencimiento": "2026-11-23",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "50495882382",
+  "telefono": "",
+  "correo": "talento.humano@leyde.hn",
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261113-01",
   "titulo": "Auxiliar de Centro de Distribución",
   "empresa": "Grupo Farsiman",
