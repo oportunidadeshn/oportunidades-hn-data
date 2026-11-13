@@ -817,6 +817,24 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+},
+    {
+  "titulo": "Feria de Reclutamiento PACASA",
+  "organizador": "PACASA",
+  "categoria": "Ferias de empleo",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-25",
+  "fecha_fin": "2026-11-26",
+  "hora": "8:00 a. m. a 12:00 p. m.",
+  "lugar": "PACASA, sucursal El Benque.",
+  "descripcion": "Jornada de reclutamiento para plazas de ejecutivos de tienda. Se requiere bachillerato completo, excelente servicio al cliente, facilidad de comunicación y ventas, disponibilidad para trabajar en horarios de centro comercial, proactividad y trabajo en equipo.",
+  "informacion_participacion": "Presentarse en la sucursal El Benque durante las fechas y el horario indicados. También puede enviar su hoja de vida a reclutamiento@pacasa.hn o aplicar escaneando el código QR del anuncio.",
+  "imagen": "https://media.licdn.com/dms/image/v2/D4E22AQFp3djEIEILZA/feedshare-shrink_480/B4EaHSMMtbG8AY-/0/1794527775863?e=1796256000&v=beta&t=LbHDQ_l7WzXJKYy2LqngFgsHuFfa6Il_QBSfOKTgdZw",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
 }
     
   ]
