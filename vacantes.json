@@ -2,6 +2,40 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261115-11",
+  "titulo": "Asistente Administrativo/a",
+  "empresa": "Embajada de la República de Corea en Honduras",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Administración",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Gestionar asuntos generales de la oficina y apoyar a los funcionarios diplomáticos. Servir de enlace entre la Embajada y las instituciones gubernamentales hondureñas; traducir y redactar documentos oficiales en inglés y español; emitir y controlar órdenes de compra exoneradas mediante PAMEH; gestionar documentos, constancias y certificaciones y mantener organizado el archivo físico y digital de la misión. Inicio estimado del contrato: tercera semana de diciembre de 2026.",
+  "requisitos": [
+    "Conocimiento del funcionamiento de una misión diplomática y de las instituciones gubernamentales de Honduras.",
+    "Conocimientos en Administración, Derecho, Relaciones Internacionales o Ciencias Políticas.",
+    "Español y dominio avanzado de inglés.",
+    "Manejo de Microsoft Office: Word y Excel.",
+    "Presentar carta de presentación en inglés.",
+    "Presentar currículum vitae en inglés.",
+    "Presentar carta de consentimiento para el uso de datos personales en español.",
+    "Certificado de idioma, opcional.",
+    "La persona seleccionada deberá presentar antecedentes policiales y penales antes de iniciar el contrato."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Enviar la carta de presentación y el currículum en inglés, la carta de consentimiento para uso de datos personales en español y, opcionalmente, el certificado de idioma, reunidos en un solo archivo PDF al correo indicado. Usar el asunto \"Aplicación Asistente Administrativo/a de la Embajada + nombre\". Fecha límite: jueves 26 de noviembre de 2026 a las 23:59 horas. Consultar los detalles y documentos en el enlace de la convocatoria.",
+  "fecha_publicacion": "2026-11-15",
+  "fecha_vencimiento": "2026-11-26",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "coreahonduras2@mofa.go.kr",
+  "url_aplicar": "https://hnd.mofa.go.kr/hn-es/brd/m_6414/view.do?seq=761878&page=1"
+},
+    
+    {
   "id": "ohn-20261115-05",
   "titulo": "Especialista de Medio Ambiente",
   "empresa": "Energía Eólica de Honduras S.A. (CMI)",
