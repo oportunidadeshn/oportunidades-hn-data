@@ -2,6 +2,95 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261116-07",
+  "titulo": "Supervisor de Producción",
+  "empresa": "Finlay",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Producción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Oportunidad laboral para un profesional del área de producción con experiencia en supervisión, preferiblemente en la industria farmacéutica o de consumo masivo.",
+  "requisitos": [
+    "Profesional universitario en Ingeniería Industrial, Química, Farmacia o carreras afines.",
+    "Mínimo 3 años de experiencia en posiciones de supervisión.",
+    "Deseable experiencia en la industria farmacéutica o de consumo masivo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV al correo reclutamiento@finlay.hn o por WhatsApp al 9451-8009.",
+  "fecha_publicacion": "2026-11-16",
+  "fecha_vencimiento": "2026-11-26",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "50494518009",
+  "telefono": "",
+  "correo": "reclutamiento@finlay.hn",
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261116-08",
+  "titulo": "Encargado de Dispensado de Materia Prima",
+  "empresa": "Finlay",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Producción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Oportunidad laboral en el área de dispensado de materia prima para estudiantes universitarios o egresados de Química y Farmacia o Química Industrial.",
+  "requisitos": [
+    "Pasante universitario o egresado de Química y Farmacia o Química Industrial.",
+    "Conocimiento en Buenas Prácticas de Manufactura (BPM).",
+    "Deseable conocimiento en SAP."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV al correo reclutamiento@finlay.hn o por WhatsApp al 9451-8009.",
+  "fecha_publicacion": "2026-11-16",
+  "fecha_vencimiento": "2026-11-26",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "50494518009",
+  "telefono": "",
+  "correo": "reclutamiento@finlay.hn",
+  "url_aplicar": ""
+},
+
+    {
+  "id": "ohn-20261116-110841-94",
+  "titulo": "Ejecutivo de Planificación Estratégica Comercial",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Elaboración de planes estratégicos comerciales, análisis de datos y métricas, desarrollo de estrategias comerciales y optimización de los procesos de comercialización y ventas.",
+  "requisitos": [
+    "Título universitario en Administración, Gerencia de Negocios, Mercadotecnia o carreras afines (indispensable)."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV al correo talentocatracho2025@gmail.com o comunícate por WhatsApp al 3181-6881.",
+  "fecha_publicacion": "2026-11-16",
+  "fecha_vencimiento": "2026-11-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431816881",
+  "telefono": "",
+  "correo": "talentocatracho2025@gmail.com",
+  "whatsapps": [
+    "50431816881"
+  ],
+  "telefonos": [],
+  "correos": [
+    "talentocatracho2025@gmail.com"
+  ],
+  "url_aplicar": ""
+    },
+    
+    {
   "id": "ohn-20261116-01",
   "titulo": "Creador de Contenido Digital",
   "empresa": "Maega",
