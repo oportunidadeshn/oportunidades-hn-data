@@ -1,6 +1,39 @@
 {
   "actualizado": "2026-11-7",
   "vacantes": [
+   {
+  "id": "ohn-20261117-03",
+  "titulo": "Motorista",
+  "empresa": "Servicios Corporativos Integrados",
+  "ciudad": "Comayagua",
+  "categoria": "Transporte y Logística",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Oportunidad laboral para motorista con experiencia en conducción de vehículos pesados, compromiso con la seguridad y disposición para movilizarse a nivel nacional.",
+  "requisitos": [
+    "Mínimo noveno grado finalizado o secundaria completa.",
+    "Experiencia en conducción de vehículos pesados.",
+    "Licencia de conducir vigente tipo C.",
+    "Disponibilidad de horarios y para viajar.",
+    "Conocimiento de la Ley de Tránsito.",
+    "Conocimientos básicos de mantenimiento de vehículos.",
+    "Conocimiento de rutas a nivel nacional.",
+    "Proactividad, responsabilidad, dinamismo y actitud de servicio."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-17",
+  "fecha_vencimiento": "2026-12-05",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talento.humanozcs@sci-hn.com",
+  "url_aplicar": ""
+},
+    
     {
   "id": "ohn-20261117-01",
   "titulo": "Coordinador Técnico Programático",
