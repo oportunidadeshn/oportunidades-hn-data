@@ -2,6 +2,66 @@
   "actualizado": "2026-11-7",
   "vacantes": [
 {
+  "id": "ohn-20261116-29",
+  "titulo": "Técnico Electricista",
+  "empresa": "BOMOHSA",
+  "ciudad": "San Pedro Sula, Roatán",
+  "categoria": "Mantenimiento",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Oportunidad laboral para una persona responsable, con conocimientos técnicos y experiencia en instalaciones eléctricas. Vacantes en San Pedro Sula y Roatán.",
+  "requisitos": [
+    "Secundaria completa con formación técnica en Electricidad, Electromecánica o carrera vocacional afín.",
+    "Saber conducir vehículo con transmisión mecánica.",
+    "Preferiblemente, experiencia mínima de 1 año en instalaciones eléctricas."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-16",
+  "fecha_vencimiento": "2026-11-30",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talento.humanozn@sci-hn.com",
+  "url_aplicar": ""
+},
+
+    {
+  "id": "ohn-20261116-30",
+  "titulo": "Encargado de Nómina",
+  "empresa": "Grupo OPSA",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Administrar los procesos de nómina, garantizando la precisión de los pagos, la confidencialidad de la información y el cumplimiento de las obligaciones laborales.",
+  "requisitos": [
+    "Licenciatura en Contaduría Pública, Finanzas, Administración de Empresas o carreras afines.",
+    "De 3 a 5 años de experiencia en procesos de nómina, con al menos 2 años gestionando el proceso completo.",
+    "Sólidos conocimientos contables.",
+    "Dominio de la legislación laboral hondureña y gestión de IHSS, RAP e ISR.",
+    "Excel avanzado y manejo de sistemas de administración de nómina.",
+    "Deseable experiencia en SAP HCM.",
+    "Capacidad analítica, atención al detalle, organización y alto sentido de confidencialidad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV al correo evelyn.ramos@go.com.hn.",
+  "fecha_publicacion": "2026-11-16",
+  "fecha_vencimiento": "2026-11-26",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "evelyn.ramos@go.com.hn",
+  "url_aplicar": ""
+    },
+    
+    {
   "id": "ohn-20261116-23",
   "titulo": "Personal de Aseo",
   "empresa": "Bread Lab",
