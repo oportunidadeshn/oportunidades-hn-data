@@ -2,6 +2,35 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261117-22",
+  "titulo": "Auxiliar de Tienda",
+  "empresa": "HERCO",
+  "ciudad": "Juticalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "HERCO busca auxiliar de tienda en Juticalpa, con interés en las ventas y el servicio al cliente.",
+  "requisitos": [
+    "Ser pasante o graduado universitario de carreras comerciales o ingenierías.",
+    "Conocimientos de productos ferreteros, manejo de inventario y Microsoft Office.",
+    "Experiencia en manejo de inventario.",
+    "Habilidades de resolución de problemas, trabajo en equipo, orden, comunicación asertiva y organización."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Completa tus datos mediante el botón de postulación.",
+  "fecha_publicacion": "2026-11-17",
+  "fecha_vencimiento": "2026-11-27",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "",
+  "url_aplicar": "https://portal.herco.hn/solicitud-colaborador"
+},
+    
+    {
   "id": "ohn-20261117-20",
   "titulo": "Auxiliar de Centro de Distribución",
   "empresa": "Grupo Farsiman",
