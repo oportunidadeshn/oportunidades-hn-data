@@ -872,6 +872,25 @@
   "whatsapp": "50432170828",
   "destacado": false,
   "activo": true
+    },
+
+    {
+  "titulo": "Micro Jornada de Recepción de Empleo en Danlí",
+  "organizador": "SI EMPLEO-Danlí, Secretaría de Trabajo y Seguridad Social",
+  "categoria": "Ferias de empleo",
+  "ciudad": "Danlí",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-19",
+  "fecha_fin": "2026-11-19",
+  "hora": "8:30 a. m. a 3:00 p. m.",
+  "lugar": "Barrio Caramelo, calle Circunvalación, contiguo al centro de cuidado infantil.",
+  "descripcion": "Jornada de entrevistas de trabajo con vacantes para asistente de mercadeo, motorista, asesor de ventas y vendedor de proyecto.",
+  "informacion_participacion": "Acude a la dirección indicada durante el horario de la jornada. También puedes enviar tu CV a amendoza@trabajo.gob.hn. Requisitos específicos por puesto: No especificado.",
+  "imagen": "",
+  "enlace": "",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
     
   ]
