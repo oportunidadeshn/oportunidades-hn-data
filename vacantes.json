@@ -9,7 +9,7 @@
   "categoria": "Administración y Oficina",
   "modalidad": "Presencial",
   "tipo_empleo": "Tiempo completo",
-  "sin_experiencia": true,
+  "sin_experiencia": false,
   "pasantia": false,
   "descripcion": "Registrar operaciones contables de compras, ventas, ingresos y egresos, bajo supervisión.\t\t\t\t\nRevisar facturas y documentos de respaldo, verificando datos, cálculos y requisitos fiscales básicos, y reportar inconsistencias\t\t\t\t\nOrganizar y mantener el archivo físico y digital de la documentación contable\t\t\t\t\nApoyar la elaboración de conciliaciones bancarias y la identificación de diferencias\t\t\t\t\nApoyar los cierres mensuales mediante la revisión de saldos y elaboración de reportes sencillos",
   "requisitos": [
