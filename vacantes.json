@@ -2,6 +2,67 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261117-20",
+  "titulo": "Auxiliar de Centro de Distribución",
+  "empresa": "Grupo Farsiman",
+  "ciudad": "Choloma",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Plaza de Auxiliar de Centro de Distribución en Choloma, Cortés.",
+  "requisitos": [
+    "Disponibilidad de horarios, incluidos fines de semana.",
+    "Ser dinámico y proactivo.",
+    "Residir en San Pedro Sula o Choloma."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Estabilidad laboral.",
+    "Todos los beneficios de ley."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo o escribe mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-17",
+  "fecha_vencimiento": "2026-11-27",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "50433903365",
+  "telefono": "",
+  "correo": "gissel.barralaga@farsiman.com",
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261117-21",
+  "titulo": "Vendedor de Ruteo",
+  "empresa": "Espresso Americano",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Plaza de vendedor de ruteo para San Pedro Sula.",
+  "requisitos": [
+    "Educación media completa; preferiblemente Bachillerato en Administración de Empresas, Mercadotecnia o carreras afines.",
+    "Mínimo dos años de experiencia en ventas de campo, ventas de ruta o comercialización de productos de consumo.",
+    "Experiencia en atención al cliente y negociación comercial en empresas de consumo masivo o distribución de productos.",
+    "Disponibilidad para realizar trabajo de campo y desplazarse dentro de la zona según los requerimientos de la operación.",
+    "Poseer motocicleta y licencia de conducir vigente."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-17",
+  "fecha_vencimiento": "2026-11-27",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "larissa.valle@espresso-americano.com",
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261117-18",
   "titulo": "Florista",
   "empresa": "Petit Luxe HN",
