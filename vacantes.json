@@ -2,6 +2,42 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261117-23",
+  "titulo": "Personal de Venta",
+  "empresa": "Distribuidora Ferretera JM",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Distribuidora Ferretera JM busca personal de venta en Tegucigalpa, con actitud de servicio y experiencia.",
+  "requisitos": [
+    "Disponibilidad inmediata.",
+    "Experiencia en ventas, preferiblemente de productos de ferretería.",
+    "Conocimiento básico de herramientas y materiales de construcción o similares.",
+    "Excelente presentación.",
+    "Orientación al servicio al cliente.",
+    "Manejo de herramientas de inteligencia artificial aplicadas a la gestión y optimización de ventas.",
+    "Poseer vehículo o motocicleta."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Estabilidad laboral.",
+    "Beneficios de ley."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-17",
+  "fecha_vencimiento": "2026-11-27",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "50433011665",
+  "telefono": "",
+  "correo": "",
+  "url_aplicar": "https://wa.me/50433011665"
+},
+    
+    {
   "id": "ohn-20261117-22",
   "titulo": "Auxiliar de Tienda",
   "empresa": "HERCO",
