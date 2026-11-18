@@ -1,7 +1,72 @@
 {
   "actualizado": "2026-11-17",
   "vacantes": [
- {
+{
+  "id": "20261117-CG-001",
+  "titulo": "Ingeniero Analista de Proyectos",
+  "empresa": "Comunicaciones Globales",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Plaza para analizar y coordinar proyectos tecnológicos relacionados con redes, automatización, desarrollo de aplicaciones y soluciones de seguridad y telefonía IP.",
+  "requisitos": [
+    "Título de Ingeniería en Sistemas Computacionales, Informática o Electrónica.",
+    "Inglés requerido al 75%; se prefiere dominio bilingüe.",
+    "Conocimiento de modelos de gestión y coordinación de proyectos.",
+    "Conocimiento en programación de domótica y automatización de equipos y dispositivos.",
+    "Conocimiento en programación y desarrollo de aplicaciones computacionales.",
+    "Experiencia preferiblemente mínima de un año en diseño e implementación de arquitectura de redes. Se mencionan Wireshark, Packet Tracer, AutoCAD, SketchUp u otras herramientas.",
+    "Experiencia como ingeniero en redes de preventa o en un puesto similar.",
+    "Manejo y programación de sistemas de videoseguridad, alarmas, control de acceso y plantas telefónicas IP, como Asterisk o software similar.",
+    "Habilidades de comunicación y presentación de proyectos.",
+    "Creatividad, dinamismo e innovación."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo e indica en el asunto: Ingeniero Analista de Proyectos.",
+  "fecha_publicacion": "2026-11-17",
+  "fecha_vencimiento": "2026-11-27",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "karen.colindres@comunicacionesglobales.com",
+  "url_aplicar": ""
+},
+{
+  "id": "20261117-COR-001",
+  "titulo": "Asesora de Ventas Digitales",
+  "empresa": "Corvus",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Corvus busca una asesora de ventas digitales para presentar prendas frente a cámara y atender a clientes.",
+  "requisitos": [
+    "Ser estudiante universitaria.",
+    "Facilidad para comunicarse y presentar prendas frente a cámara.",
+    "Afinidad con la moda y las redes sociales.",
+    "Buena redacción y atención al cliente.",
+    "Iniciativa y responsabilidad.",
+    "Tener entre 18 y 25 años."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo e indica en el asunto: Asesora de ventas digitales.",
+  "fecha_publicacion": "2026-11-17",
+  "fecha_vencimiento": "2026-11-27",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "corvusrrhh@gmail.com",
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261117-13",
   "titulo": "Analista de Créditos",
   "empresa": "Claro",
