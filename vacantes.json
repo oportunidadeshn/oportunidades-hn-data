@@ -2,6 +2,66 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261117-16",
+  "titulo": "Practicante de Periodismo o Comunicación Social",
+  "empresa": "Radio América",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Pasantía",
+  "sin_experiencia": false,
+  "pasantia": true,
+  "descripcion": "La práctica profesional incluye apoyo en redacción de notas, cobertura y monitoreo de noticias, y producción de contenidos para radio, plataformas digitales y redes sociales.",
+  "requisitos": [
+    "Ser estudiante activo de Periodismo o Comunicación Social.",
+    "Excelente redacción y ortografía.",
+    "Interés por la actualidad nacional e internacional.",
+    "Responsabilidad, proactividad, criterio noticioso y disposición para aprender en entornos de inmediatez informativa."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-17",
+  "fecha_vencimiento": "2026-11-27",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "info@grupoamerica.hn",
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261117-17",
+  "titulo": "Asesor(a) de Atención al Cliente en Campo",
+  "empresa": "Inviertah Bienes Raíces",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Atención al cliente en campo para Inviertah Bienes Raíces.",
+  "requisitos": [
+    "Vocación de servicio al cliente.",
+    "Disponibilidad inmediata.",
+    "Contar con vehículo o motocicleta.",
+    "Vivir en Tegucigalpa."
+  ],
+  "beneficios": [
+    "Oportunidad de crecimiento.",
+    "Recursos y herramientas necesarias."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-17",
+  "fecha_vencimiento": "2026-11-27",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "mercadeo@inviertahonduras.com",
+  "url_aplicar": ""
+},
+    
+    {
   "id": "20261117-CG-001",
   "titulo": "Ingeniero Analista de Proyectos",
   "empresa": "Comunicaciones Globales",
