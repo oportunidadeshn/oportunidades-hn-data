@@ -2,6 +2,44 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261118-144121-96",
+  "titulo": "Auxiliar contable",
+  "empresa": "Soluciones Inteligentes SA DE CV",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Registrar operaciones contables de compras, ventas, ingresos y egresos, bajo supervisión.\t\t\t\t\nRevisar facturas y documentos de respaldo, verificando datos, cálculos y requisitos fiscales básicos, y reportar inconsistencias\t\t\t\t\nOrganizar y mantener el archivo físico y digital de la documentación contable\t\t\t\t\nApoyar la elaboración de conciliaciones bancarias y la identificación de diferencias\t\t\t\t\nApoyar los cierres mensuales mediante la revisión de saldos y elaboración de reportes sencillos",
+  "requisitos": [
+    "Graduado de Contaduría Pública y Finanzas, Administración de Empresas o carrera afín.",
+    "Experiencia mínima de 6 meses a 1 año como Auxiliar Contable en empresas comerciales, de distribución, retail, consumo masivo o servicios.",
+    "Conocimiento de conciliaciones bancarias, registros contables y cuentas por pagar/cobrar.",
+    "Manejo de Excel básico a intermedio.",
+    "Experiencia en ERP o sistemas contables (SAP, Odoo, Softland, Dynamics, u otros)"
+  ],
+  "beneficios": [
+    "Seguro de vida y accidentes, descuentos en comercios afiliados"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nPreséntate en Blv 21 de octubre, complejo de bodegas PACASA.\nAsunto del correo: Auxiliar Contable",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento@lumiarthn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@lumiarthn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261118-08",
   "titulo": "Auxiliar de Bodega",
   "empresa": "Calzados de Honduras",
