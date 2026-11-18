@@ -2,6 +2,41 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261118-12",
+  "titulo": "Jefe de Agencia",
+  "empresa": "PistiYo Honduras",
+  "ciudad": "Santa Bárbara",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "PistiYo Honduras busca Jefe de Agencia para su sede en Santa Bárbara.",
+  "requisitos": [
+    "Licenciatura en Administración de Empresas o carrera afín.",
+    "Mínimo dos años de experiencia en puestos similares.",
+    "Conocimiento de procesos de crédito y cobranza.",
+    "Experiencia trabajando con metas.",
+    "Licencia de motocicleta vigente.",
+    "Disponibilidad de horario."
+  ],
+  "beneficios": [
+    "Salario de L 22,785.00 más comisiones.",
+    "Contrato permanente.",
+    "Oportunidad de crecimiento y desarrollo."
+  ],
+  "como_aplicar": "Envía tu currículum vitae por correo electrónico o comunícate por WhatsApp.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "50493420855",
+  "telefono": "",
+  "correo": "karen.palma@pistiyo.hn",
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261118-144121-96",
   "titulo": "Auxiliar contable",
   "empresa": "Soluciones Inteligentes SA DE CV",
