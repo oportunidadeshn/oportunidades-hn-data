@@ -853,6 +853,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+
+    {
+  "titulo": "Curso de Informática en Valle de Ángeles",
+  "organizador": "Alcaldía Municipal de Valle de Ángeles e INFOP",
+  "categoria": "Becas/Capacitaciones",
+  "ciudad": "Valle de Ángeles",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-23",
+  "fecha_fin": "",
+  "hora": "Jornada matutina: 8:00 a. m. a 12:00 m. Jornada vespertina: 1:00 p. m. a 5:00 p. m.",
+  "lugar": "No especificado",
+  "descripcion": "Capacitación práctica impartida por INFOP para adquirir y fortalecer conocimientos digitales y habilidades en el uso de herramientas tecnológicas. Duración: 5 días, 20 horas en total.",
+  "informacion_participacion": "Solicita información sobre inscripción, sede y jornada mediante el botón de WhatsApp. Requisitos y costo: No especificado.",
+  "imagen": "https://scontent.ftgu3-4.fna.fbcdn.net/v/t39.99422-6/913097916_1702130707923326_6498135781951449850_n.png?stp=dst-jpg_tt6&cstp=mx1122x1402&ctp=s1122x1402&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEQKvyFTddrRxpt09oqQb-vrNKsSpha4Dqs0qxKmFrgOuvRqnDV4DDX50N25CVvTRu9y8DHXasr4ua1V27FM_JU&_nc_ohc=aBSUtCo8v-IQ7kNvwG6Kxfq&_nc_oc=Adp_UsY5nENH8n8hkQS4ibTxsoJfRV1Jig4bVjBQ9zB0xl4XRt6xhauq90TodVX2_nCLiCrNYFfKW-obxSwkC2mM&_nc_zt=14&_nc_ht=scontent.ftgu3-4.fna&_nc_gid=Hc5fdmPfYnymEYf500AqmA&_nc_ss=7b2a8&oh=00_AQTReiiIoc7Px3UDTD8tVLe_Mz3EX5vekzRJLrYuRwDL1w&oe=6B03044E",
+  "enlace": "",
+  "whatsapp": "50432170828",
+  "destacado": false,
+  "activo": true
     }
     
   ]
