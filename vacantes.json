@@ -2,6 +2,40 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261118-07",
+  "titulo": "Ingeniero Civil / Arquitecto",
+  "empresa": "Constructora IARCON",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Constructora IARCON busca Ingeniero Civil o Arquitecto para formar parte de su equipo en Tegucigalpa.",
+  "requisitos": [
+    "Sexo indistinto.",
+    "Residir en Tegucigalpa.",
+    "Disponibilidad y compromiso laboral.",
+    "Mínimo cinco años de experiencia en dirección y supervisión de proyectos.",
+    "Manejo avanzado de Excel y programas de costos, incluyendo fichas de costo y presupuesto.",
+    "Licencia de conducir.",
+    "Manejo de programas de diseño como Revit y AutoCAD.",
+    "Orden, responsabilidad y capacidad analítica.",
+    "Disponibilidad de horario para proyectos fuera de la ciudad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum vitae por correo electrónico.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "iarconhn@gmail.com",
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261118-01",
   "titulo": "Auxiliar de Limpieza",
   "empresa": "Pisos Brillantes",
