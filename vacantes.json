@@ -2,6 +2,46 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261118-33",
+  "titulo": "Líder de Punto de Venta",
+  "empresa": "La Occidental",
+  "ciudad": "Santa Rosa de Copán",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Gestionar el inventario de las categorías, marcas y productos de la tienda; elaborar pedidos según sus necesidades; dar seguimiento a entregas y descargas; asesorar a los clientes y asegurar la presentación de productos de alto valor en el punto de venta.",
+  "requisitos": [
+    "Formación universitaria.",
+    "Mínimo tres años de experiencia en gestión y análisis de administración de inventarios.",
+    "Conocimientos comprobados en el uso de herramientas de gestión de inventarios SAP.",
+    "Experiencia en análisis de informes y técnicas de control de inventarios.",
+    "Capacidad de comunicación y análisis.",
+    "Disponibilidad de horario."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante los botones de contacto.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431693661",
+  "telefono": "",
+  "correo": "rrhh@laoccidentalhn.com",
+  "whatsapps": [
+    "50431693661",
+    "50431737320"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhh@laoccidentalhn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261118-31",
   "titulo": "Arquitecto de Soluciones",
   "empresa": "Jetstereo",
