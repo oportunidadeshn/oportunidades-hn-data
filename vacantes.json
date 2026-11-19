@@ -2,6 +2,43 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-09",
+  "titulo": "Docente de Computación e Inglés",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Educación",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Impartir clases de Computación e Inglés aplicando estrategias didácticas y promoviendo el aprendizaje de los estudiantes.",
+  "requisitos": [
+    "Estudiante de la carrera de Informática o Lenguas Extranjeras.",
+    "De 1 a 2 años de experiencia en docencia de Inglés o Computación.",
+    "Dominio avanzado del inglés, nivel C2.",
+    "Manejo de TIC y herramientas ofimáticas.",
+    "Dominio de estrategias didácticas.",
+    "Comunicación efectiva, planificación, organización, capacidad de adaptación, creatividad, innovación, ética profesional, resolución de problemas, paciencia y empatía."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento.talento2027@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento.talento2027@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261119-08",
   "titulo": "Asesor(a) de Ventas",
   "empresa": "Steren",
