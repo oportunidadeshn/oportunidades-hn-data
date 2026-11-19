@@ -2,6 +2,123 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261118-45",
+  "titulo": "Operador de Maquinaria Amarilla o de Construcción",
+  "empresa": "Fashion Zona Franca",
+  "ciudad": "Choloma, Cortés",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Operar excavadoras, retroexcavadoras y equipo pesado; realizar inspecciones antes de la operación, cumplir las normas de seguridad industrial y reportar fallas mecánicas o necesidades de mantenimiento.",
+  "requisitos": [
+    "De 1 a 2 años de experiencia comprobada.",
+    "Licencia vigente, mínimo tipo B o C1/C.",
+    "Certificado de operador emitido por INFOP o CETICH/CHICO.",
+    "Responsabilidad y disponibilidad inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante los botones de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50499597342",
+  "telefono": "",
+  "correo": "d.contreras@danasunenergy.com",
+  "whatsapps": [
+    "50499597342"
+  ],
+  "telefonos": [],
+  "correos": [
+    "d.contreras@danasunenergy.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261118-46",
+  "titulo": "Jefe de Tienda",
+  "empresa": "Grupo Movesa",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Liderar la tienda y su personal, gestionar las ventas de motos y repuestos, y orientar el trabajo al cumplimiento de metas y al servicio al cliente.",
+  "requisitos": [
+    "Experiencia en ventas de motos y repuestos.",
+    "Experiencia en manejo de personal.",
+    "Ser pasante o graduado universitario.",
+    "Orientación al logro de metas.",
+    "Vocación de servicio al cliente.",
+    "Licencia liviana vigente.",
+    "Disponibilidad.",
+    "Vehículo propio."
+  ],
+  "beneficios": [
+    "Contrato permanente.",
+    "Convenios con bancos y cooperativas.",
+    "Seguro médico y de vida.",
+    "Comisiones por cumplimiento de metas."
+  ],
+  "como_aplicar": "Envía tu hoja de vida actualizada por correo o WhatsApp. Indica en el asunto: «JEFE TIENDA SAN PEDRO SULA».",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431690822",
+  "telefono": "",
+  "correo": "empleos@grupomovesa.com",
+  "whatsapps": [
+    "50431690822"
+  ],
+  "telefonos": [],
+  "correos": [
+    "empleos@grupomovesa.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261118-47",
+  "titulo": "Docentes Universitarios – Varias Especialidades",
+  "empresa": "Escuela de Formación de Sub-Oficiales Navales – Universidad de Defensa de Honduras",
+  "ciudad": "Puerto Cortés",
+  "categoria": "Educación",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Convocatoria de contratación docente para 2027 en las especialidades indicadas.",
+  "requisitos": [
+    "Título universitario en el área de especialidad correspondiente.",
+    "Diplomado en Docencia Universitaria.",
+    "Mínimo 1 año de experiencia comprobable en labores docentes en educación superior.",
+    "Especialidades: Ingeniería Civil, Ingeniería Industrial, Ingeniería Mecatrónica, Ingeniería Eléctrica, Ingeniería Electrónica, Ingeniería en Ciencias Ambientales, Derecho, Informática, Lenguas Extranjeras, Sociología y Enfermería."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida o solicita información adicional mediante los botones de correo.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "fnh.cen@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "fnh.cen@gmail.com",
+    "seccionacademica.efson@ffaa.mil.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261118-44",
   "titulo": "Personal de Atención al Cliente con Barismo",
   "empresa": "Inmecro Plus",
