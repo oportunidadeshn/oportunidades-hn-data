@@ -2,6 +2,48 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261118-50",
+  "titulo": "Ejecutivo de Ventas",
+  "empresa": "Multipon Networks",
+  "ciudad": "Tegucigalpa, San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Impulsar la comercialización de soluciones de telecomunicaciones para proveedores de Internet y televisión por cable en Honduras. Captar clientes, gestionar la cartera, elaborar cotizaciones, dar seguimiento a oportunidades y cerrar ventas para cumplir las metas comerciales.",
+  "requisitos": [
+    "Educación media completa; pasante universitario deseable.",
+    "Mínimo 1 año de experiencia en ventas.",
+    "Conocimientos de ventas B2B y B2C.",
+    "Experiencia en prospección, negociación y cierre de ventas.",
+    "Manejo de herramientas digitales y CRM.",
+    "Iniciativa y orientación a resultados."
+  ],
+  "beneficios": [
+    "Estabilidad laboral.",
+    "Salario competitivo.",
+    "Buen ambiente laboral.",
+    "Oportunidad de crecimiento profesional."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "dulce.sandres@multipon.net",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "dulce.sandres@multipon.net"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261118-48",
   "titulo": "Coordinador Administrativo de Ventas",
   "empresa": "Agencia Global",
