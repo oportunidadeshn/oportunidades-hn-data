@@ -1,4 +1,44 @@
 {
+  "id": "ohn-20261118-23",
+  "titulo": "Supervisor de Bodega",
+  "empresa": "Cygnus",
+  "ciudad": "Choloma",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Dirigir y controlar la recepción, despacho, custodia y almacenamiento de insumos y mercancías, y supervisar al personal y el cumplimiento de las normas de seguridad.",
+  "requisitos": [
+    "Ingeniería en Gestión Logística o ser pasante universitario de carreras afines.",
+    "Manejo del idioma inglés a nivel intermedio.",
+    "Capacidad de organización.",
+    "Manejo de Excel a nivel intermedio."
+  ],
+  "beneficios": [
+    "Salario con base en experiencia y conocimientos.",
+    "Prestaciones de ley.",
+    "Ambiente agradable de trabajo.",
+    "Oportunidades de crecimiento."
+  ],
+  "como_aplicar": "Envía tu hoja de vida por correo electrónico.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "kalvarado@cygnusinv.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "kalvarado@cygnusinv.com"
+  ],
+  "url_aplicar": ""
+},
+
+{
   "actualizado": "2026-11-17",
   "vacantes": [
 {
@@ -80,7 +120,7 @@
 {
   "id": "ohn-20261118-20",
   "titulo": "Operador de Montaje de Serigrafía",
-  "empresa": "Cygnus Honduras",
+  "empresa": "Cygnus",
   "ciudad": "Choloma",
   "categoria": "Manufactura, Producción y Calidad",
   "modalidad": "Presencial",
