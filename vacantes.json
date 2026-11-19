@@ -2,6 +2,50 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261118-14",
+  "titulo": "Enlace Comunitario",
+  "empresa": "Asociación PASMO",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La Asociación PASMO busca Enlace Comunitario para ampliar el acceso a servicios de prevención, diagnóstico y vinculación al tratamiento del VIH. El puesto incluye ofrecer pruebas rápidas y servicios de PrEP en la comunidad, coordinar con actores locales y equipos internos, y utilizar redes sociales geolocalizadas para promover los servicios.",
+  "requisitos": [
+    "Educación media completa, con formación técnica o universitaria en Enfermería, Trabajo Social, Psicología, Promoción de la Salud o Ciencias Sociales.",
+    "Conocimiento sobre VIH y el continuo de atención.",
+    "Certificación para realizar pruebas de VIH, deseable.",
+    "Conocimiento práctico de protocolos comunitarios de atención del VIH.",
+    "Manejo básico de herramientas digitales y plataformas sociales.",
+    "Alta capacidad de comunicación temática y asertiva con poblaciones en alto riesgo.",
+    "Compromiso con la confidencialidad y la ética profesional.",
+    "Experiencia comprobable realizando pruebas rápidas de VIH y acompañando usuarios a servicios clínicos.",
+    "Habilidades de análisis y uso de datos para la toma de decisiones, orientación a resultados, servicio al cliente, atención al detalle, comunicación eficaz, creatividad, iniciativa, flexibilidad, organización, planificación y control."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Jornada laboral de lunes a viernes.",
+    "Estabilidad laboral y ambiente profesional de trabajo."
+  ],
+  "como_aplicar": "Envía tu currículum vitae por correo electrónico con el asunto «Enlace Comunitario - Tegucigalpa», a más tardar el 23 de noviembre de 2026.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-23",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rhhonduras@pasmo.org",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rhhonduras@pasmo.org"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261118-165548-99",
   "titulo": "Agente de entregas",
   "empresa": "La Fuente Cargo S. DE R.L.",
