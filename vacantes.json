@@ -2,6 +2,49 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-135428-102",
+  "titulo": "Ejecutivo de Servicio al Cliente",
+  "empresa": "SICTRA S.A.",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Hibrido",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Licenciado(a) o pasante universitario(a) en Comercio y Negocios Internacionales, Logística o carrera afín.",
+    "Experiencia comprobada en logística, manejo de carga aérea, marítima y terrestre, servicios de aduana, seguimiento y negociación con clientes y proveedores.",
+    "Inglés intermedio indispensable.",
+    "Conocimiento del sistema SARAH y de Incoterms."
+  ],
+  "beneficios": [
+    "Modalidad de trabajo híbrida.",
+    "Seguro de vida y médico privado.",
+    "Convenio con Óptica Santa Lucía.",
+    "Opciones de crédito y ahorro con Cooperativa ELGA.",
+    "Oportunidades de crecimiento profesional y beneficios de ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o comunícate mediante el botón de WhatsApp. Coloca el nombre del puesto en el asunto.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431459495",
+  "telefono": "",
+  "correo": "rrhh@sictragroup.com",
+  "whatsapps": [
+    "50431459495"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhh@sictragroup.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261119-10",
   "titulo": "Motorista",
   "empresa": "Empresa confidencial",
