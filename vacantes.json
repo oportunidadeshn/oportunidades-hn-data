@@ -1,8 +1,85 @@
 {
   "actualizado": "2026-11-17",
   "vacantes": [
-
 {
+  "id": "ohn-20261118-25",
+  "titulo": "Analista de Datos Senior",
+  "empresa": "La Occidental",
+  "ciudad": "Santa Rosa de Copán",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Definir la estrategia de analítica y convertir datos en decisiones para el negocio retail, desarrollando reportes y dashboards automatizados y analizando operaciones, tiendas, promociones y precios.",
+  "requisitos": [
+    "Más de cinco años de experiencia en análisis de datos o inteligencia de negocios (BI).",
+    "Más de tres años liderando equipos.",
+    "Experiencia en retail o consumo masivo.",
+    "Manejo de SQL, Power BI o Tableau, Python o R.",
+    "Habilidad para comunicarse con la alta dirección.",
+    "Visión analítica y liderazgo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida por correo electrónico o WhatsApp.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431693661",
+  "telefono": "",
+  "correo": "rrhh@laoccidentalhn.com",
+  "whatsapps": [
+    "50431693661"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhh@laoccidentalhn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261118-26",
+  "titulo": "Mecánico Industrial",
+  "empresa": "Laboratorios Finlay",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Realizar trabajos de mantenimiento y reparación en sistemas industriales, equipos de generación y purificación de aire, bombeo, calderas y transporte.",
+  "requisitos": [
+    "Técnico mecánico, preferiblemente egresado del INFOP, CTHA o ITEE.",
+    "Mínimo diez años de experiencia como técnico mecánico industrial.",
+    "Experiencia en sistemas de transmisión de potencia, sistemas neumáticos, generación de vapor y purificación de aire comprimido.",
+    "Conocimiento de sistemas de bombeo de líquidos, calderas de bunker y sistemas de agua industrial para calderas.",
+    "Experiencia en trabajos de banco y taller, reparaciones y soldadura eléctrica, autógena y de argón.",
+    "Conocimiento de sistemas de transporte (conveyor).",
+    "Capacidad para leer e interpretar planos, diagramas y manuales."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Comunícate por WhatsApp.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494518009",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50494518009",
+    "50494518781"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+
+    
+    {
   "id": "ohn-20261118-24",
   "titulo": "Desarrollador de Proyectos",
   "empresa": "Sercargo",
