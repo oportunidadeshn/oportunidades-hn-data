@@ -2,6 +2,83 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261118-31",
+  "titulo": "Arquitecto de Soluciones",
+  "empresa": "Jetstereo",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Diseñar, validar y documentar soluciones integrales del portafolio Workplace, aplicando mejores prácticas de arquitectura y estándares tecnológicos para generar propuestas de calidad, escalables, rentables y sostenibles.",
+  "requisitos": [
+    "Título universitario en Ingeniería en Telecomunicaciones, Electrónica, Mercadotecnia o carrera afín.",
+    "Certificaciones de fabricantes del portafolio Workplace, como HP, Microsoft, Samsung o LG.",
+    "Mínimo cinco años de experiencia en diseño de soluciones tecnológicas.",
+    "Mínimo tres años como arquitecto de soluciones, ingeniero sénior o consultor especializado.",
+    "Experiencia diseñando soluciones Workplace para clientes corporativos.",
+    "Experiencia en procesos de licitación y proyectos de alta complejidad.",
+    "Experiencia en presentaciones ejecutivas y consultoría tecnológica.",
+    "Pensamiento analítico, comunicación e influencia, planificación, organización, innovación y orientación a resultados."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida por correo electrónico e indica el puesto al que aplicas.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "ingrid.leiva@grupoilp.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "ingrid.leiva@grupoilp.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261118-32",
+  "titulo": "Especialista de Soluciones Workplace",
+  "empresa": "Jetstereo",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Brindar acompañamiento técnico-comercial a las áreas comerciales, gestionar una cartera de cuentas asignadas, identificar oportunidades de negocio y coordinar propuestas de soluciones Workplace.",
+  "requisitos": [
+    "Título universitario en Administración de Empresas, Ingeniería en Sistemas, Industrial, Telecomunicaciones, Electrónica, Mercadotecnia u otras carreras afines.",
+    "Certificaciones de fabricantes del portafolio Workplace, como HP, Microsoft, Samsung o LG.",
+    "Mínimo tres años de experiencia en desarrollo de negocios, preventa técnica, consultoría comercial o ingeniería de soluciones.",
+    "Experiencia administrando una cartera de clientes corporativos.",
+    "Experiencia acompañando equipos comerciales en oportunidades B2B.",
+    "Deseable experiencia en soluciones Workplace, productividad, colaboración, impresión administrada, gestión documental o señalización digital.",
+    "Deseable experiencia trabajando con fabricantes, distribuidores o integradores de tecnología.",
+    "Competencias en desarrollo de negocios, orientación al cliente, comunicación e influencia, negociación y orientación a resultados."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida por correo electrónico e indica el puesto al que aplicas.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "ingrid.leiva@grupoilp.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "ingrid.leiva@grupoilp.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261118-30",
   "titulo": "Motorista de Camión - Equipo Pesado",
   "empresa": "Difiesta",
