@@ -2,6 +2,88 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261118-48",
+  "titulo": "Coordinador Administrativo de Ventas",
+  "empresa": "Agencia Global",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Apoyar la coordinación administrativa de ventas mediante labores de organización, análisis y seguimiento de procesos comerciales.",
+  "requisitos": [
+    "Hombre o mujer.",
+    "21 años en adelante.",
+    "Español.",
+    "Egresado o estudiante de Administración de Empresas o carrera afín.",
+    "Experiencia en el área comercial o administrativa.",
+    "Disponibilidad inmediata.",
+    "Iniciativa, proactividad e innovación.",
+    "Habilidades de comunicación y negociación.",
+    "Trabajo en equipo.",
+    "Capacidad de análisis y toma de decisiones.",
+    "Seguimiento y solución de problemas.",
+    "Servicio al cliente.",
+    "Conocimientos avanzados de computación."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento@agglobal.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@agglobal.com"
+  ],
+  "url_aplicar": ""
+},
+
+    {
+  "id": "ohn-20261118-49",
+  "titulo": "Middle School Math Teacher",
+  "empresa": "Liberty School",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Educación",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Impartir clases de Matemáticas a estudiantes de Middle School, con compromiso con la excelencia académica.",
+  "requisitos": [
+    "Título universitario.",
+    "De 3 a 5 años de experiencia enseñando Matemáticas.",
+    "Dominio avanzado del inglés, oral y escrito.",
+    "Proactividad, responsabilidad y compromiso con la excelencia académica."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el formulario de postulación o el botón de correo.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494483338",
+  "telefono": "",
+  "correo": "rrhh@libertyschool.hn",
+  "whatsapps": [
+    "50494483338",
+    "50494423338"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhh@libertyschool.hn"
+  ],
+  "url_aplicar": "https://docs.google.com/forms/d/e/1FAIpQLSc-xRkPI-he9jYX0CEw65bwAi72x1SWUsIaEmBzKvNU8LiOGw/viewform"
+    },
+    
+    {
   "id": "ohn-20261118-45",
   "titulo": "Operador de Maquinaria Amarilla o de Construcción",
   "empresa": "Fashion Zona Franca",
