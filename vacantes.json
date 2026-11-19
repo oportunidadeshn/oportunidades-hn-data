@@ -2,6 +2,110 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261118-15",
+  "titulo": "Asistente Administrativa",
+  "empresa": "Cortinas y Diseño",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Cortinas y Diseño busca Asistente Administrativa para su equipo en Tegucigalpa.",
+  "requisitos": [
+    "Experiencia en labores administrativas.",
+    "Manejo de Excel y Microsoft Office.",
+    "Organización y seguimiento de documentos.",
+    "Excelente comunicación y atención al cliente.",
+    "Responsabilidad y capacidad para trabajar en equipo.",
+    "Disponibilidad para viajar."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum vitae por correo electrónico.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "operaciones@cortinasydise.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "operaciones@cortinasydise.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261118-16",
+  "titulo": "Jefes de Tienda",
+  "empresa": "Compadre",
+  "ciudad": "Choloma, San Lorenzo, El Progreso, Nacaome, Tela, Taulabé, Morazán, Yoro, La Entrada, Copán, Campamento",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Compadre busca Jefes de Tienda para diferentes sucursales en Honduras.",
+  "requisitos": [
+    "Experiencia en liderazgo.",
+    "Orientación a resultados.",
+    "Pasión por el trabajo en equipo."
+  ],
+  "beneficios": [
+    "Salario atractivo.",
+    "Oportunidad de crecimiento.",
+    "Excelente ambiente laboral.",
+    "Beneficios de ley."
+  ],
+  "como_aplicar": "Postúlate o solicita más información por WhatsApp o correo electrónico.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431758785",
+  "telefono": "",
+  "correo": "reclutamiento@elcompadrehn.com",
+  "whatsapps": [
+    "50431758785"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@elcompadrehn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261118-17",
+  "titulo": "Ejecutivo de Negocios y Servicios Jr",
+  "empresa": "Grupo Ficohsa",
+  "ciudad": "Choloma",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Grupo Ficohsa busca Ejecutivo de Negocios y Servicios Jr para su agencia en Choloma. El puesto consiste en asesorar a clientes sobre productos y servicios financieros, desarrollar la cartera, captar nuevos clientes y gestionar carteras de activos y pasivos.",
+  "requisitos": [],
+  "beneficios": [],
+  "como_aplicar": "Consulta los detalles y envía tu solicitud mediante el enlace de aplicación.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": "https://www.magneto365.com/hn/empresas/ficohsa/empleos/ejecutivo-de-negocios-y-servicios-jr-13871-50290-1139100"
+},
+    
+    {
   "id": "ohn-20261118-14",
   "titulo": "Enlace Comunitario",
   "empresa": "Asociación PASMO",
