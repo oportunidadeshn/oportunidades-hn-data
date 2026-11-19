@@ -2,6 +2,54 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-11",
+  "titulo": "Coordinador(a) de Marketing Digital y Contenido",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Planificar, desarrollar, ejecutar y administrar la estrategia de comunicación digital y redes sociales de las empresas del grupo, manteniendo una presencia activa, creativa y profesional en las plataformas digitales.",
+  "requisitos": [
+    "Formación técnica o universitaria en Marketing, Publicidad, Comunicación, Diseño Gráfico o carreras afines.",
+    "Mínimo 2 años de experiencia en administración de redes sociales, marketing digital y creación de contenido.",
+    "Dominio de plataformas como Facebook, Instagram y TikTok.",
+    "Manejo de herramientas de diseño gráfico como Canva, Photoshop o Illustrator.",
+    "Conocimientos de fotografía, videografía, grabación y edición audiovisual con CapCut, Premiere Pro o herramientas similares.",
+    "Capacidad para desarrollar calendarios de contenido, campañas publicitarias y estrategias de comunicación digital.",
+    "Conocimientos de Meta Business Suite, programación de publicaciones y administración de perfiles empresariales.",
+    "Habilidades de redacción publicitaria y comunicación comercial.",
+    "Capacidad para organizar y ejecutar coberturas de eventos y actividades comerciales.",
+    "Creatividad, iniciativa, proactividad y capacidad de planificación.",
+    "Excelente comunicación verbal y escrita, organización y cumplimiento de objetivos.",
+    "Disponibilidad para desplazarse entre las empresas del grupo y cubrir eventos o actividades especiales."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Beneficios de ley.",
+    "Bonificaciones por desempeño.",
+    "Oportunidad de crecimiento."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talentohn.rh@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "talentohn.rh@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261119-09",
   "titulo": "Docente de Computación e Inglés",
   "empresa": "Empresa confidencial",
