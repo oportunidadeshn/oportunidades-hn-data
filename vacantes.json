@@ -2,6 +2,90 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-10",
+  "titulo": "Motorista",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Villanueva",
+  "categoria": "Transporte y Distribución",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Realizar labores de conducción con conocimiento de rutas a nivel nacional.",
+  "requisitos": [
+    "Licencia de conducir vigente.",
+    "Mínimo 2 años de experiencia como motorista.",
+    "Conocimiento de rutas a nivel nacional.",
+    "Conocimientos de mecánica.",
+    "Referencias laborales comprobables.",
+    "Buena presentación personal.",
+    "Responsabilidad, puntualidad, honestidad y discreción.",
+    "Disponibilidad de horario."
+  ],
+  "beneficios": [
+    "Contrato permanente.",
+    "Estabilidad laboral y buen ambiente de trabajo.",
+    "Seguro colectivo.",
+    "Capacitaciones constantes."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432749743",
+  "telefono": "",
+  "correo": "rrhh.asistente@camasaurora.com",
+  "whatsapps": [
+    "50432749743"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhh.asistente@camasaurora.com"
+  ],
+  "url_aplicar": ""
+},
+
+    {
+  "id": "ohn-20261119-12",
+  "titulo": "Promotora Temporal",
+  "empresa": "CRC Honduras",
+  "ciudad": "Santa Rosa de Copán",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Promocionar productos en puntos de venta mediante técnicas de animación, servicio al cliente, instalación de materiales POP y montaje de eventos.",
+  "requisitos": [
+    "Educación media completa.",
+    "Un año de experiencia en puestos similares.",
+    "Conocimiento en ventas, técnicas de animación y servicio al cliente.",
+    "Experiencia instalando materiales POP y montando eventos.",
+    "Fluidez verbal, trabajo en equipo, adaptabilidad, orientación a resultados y persuasión."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Enviar hoja de vida con aspiración salarial y ciudad, indicando la plaza a la que se postula.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431452311",
+  "telefono": "",
+  "correo": "vmreclutamiento@crc-hn.com",
+  "whatsapps": [
+    "50431452311"
+  ],
+  "telefonos": [],
+  "correos": [
+    "vmreclutamiento@crc-hn.com"
+  ],
+  "url_aplicar": ""
+    },
+    
+    {
   "id": "ohn-20261119-11",
   "titulo": "Coordinador(a) de Marketing Digital y Contenido",
   "empresa": "Empresa confidencial",
