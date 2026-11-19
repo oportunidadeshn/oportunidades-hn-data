@@ -2,6 +2,43 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261118-34",
+  "titulo": "Jefe de Ventas – Eventos Marcas & GO Imagine",
+  "empresa": "Grupo OPSA",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Liderar la comercialización y ejecución de eventos para GO Imagine, La Prensa, El Heraldo y Diez. Diseñar paquetes de patrocinio, elaborar el calendario y presupuesto anual, coordinar equipos de producción en Tegucigalpa y San Pedro Sula, controlar costos y rentabilidad, coordinar promoción y cobertura, y dar seguimiento a los compromisos con patrocinadores.",
+  "requisitos": [
+    "Licenciatura en Mercadotecnia, Administración de Empresas, Comunicación, Publicidad o carreras afines.",
+    "De 3 a 5 años de experiencia en ventas, comercialización de eventos y patrocinios.",
+    "Experiencia en negociación comercial y manejo de clientes corporativos.",
+    "Experiencia en planificación de eventos, presupuestos y rentabilidad.",
+    "Experiencia en liderazgo y coordinación de equipos.",
+    "Disponibilidad para viajar a nivel nacional."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "evelyn.ramos@go.com.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "evelyn.ramos@go.com.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261118-33",
   "titulo": "Líder de Punto de Venta",
   "empresa": "La Occidental",
