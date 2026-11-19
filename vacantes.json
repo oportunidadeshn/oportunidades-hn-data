@@ -2,6 +2,118 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-01",
+  "titulo": "Ejecutivo de Negocios",
+  "empresa": "Almacenadora Atlántida",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Atender y gestionar de forma personalizada a clientes de alto perfil, procurando una experiencia excepcional y relaciones comerciales de largo plazo. Contribuir al fortalecimiento de la marca, la lealtad de los clientes y el crecimiento de la empresa mediante atención proactiva, seguimiento detallado y soluciones a la medida.",
+  "requisitos": [
+    "Residir en San Pedro Sula o sus alrededores.",
+    "Licencia de conducir vigente.",
+    "Experiencia mínima de 3 a 6 años en puestos similares.",
+    "Licenciatura en Administración de Empresas, Marketing o carreras afines.",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "iveliz@almacenadoraatlantida.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "iveliz@almacenadoraatlantida.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-02",
+  "titulo": "Visitador Médico Especializado",
+  "empresa": "PiSA Farmacéutica",
+  "ciudad": "Tegucigalpa, San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Educar científicamente a pediatras y neonatólogos, presentar evidencia clínica, impulsar el portafolio de productos, orientar sobre su perfil y monitorear el mercado.",
+  "requisitos": [
+    "Título de Doctor en Química y Farmacia.",
+    "Dos años de experiencia en visita médica, promoción o comercialización de productos nutricionales.",
+    "Dos años de experiencia en nutrición infantil, pediatría o neonatología.",
+    "Un año de experiencia relacionándose con profesionales de la salud.",
+    "Conocimientos de nutrición neonatal, Excel intermedio, análisis del mercado farmacéutico y del sector.",
+    "Disponibilidad para viajar más de una vez al mes."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo con el asunto “Visita Médica Especializada | Honduras”.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "+57 310 411 6439",
+  "telefono": "",
+  "correo": "reclutamientofarmalatam@pisa.com.mx",
+  "whatsapps": [
+    "+57 310 411 6439"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamientofarmalatam@pisa.com.mx"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-03",
+  "titulo": "Especialista Técnico de Proyectos",
+  "empresa": "Soltec",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Apoyar proyectos de diseño, especificación y construcción, y comunicar temas técnicos a clientes y profesionales del sector.",
+  "requisitos": [
+    "Título de Arquitectura, Ingeniería Civil o carrera afín.",
+    "De 2 a 5 años de experiencia en diseño, especificación o proyectos de construcción.",
+    "Experiencia obligatoria con AutoCAD, Revit u otros programas de diseño técnico.",
+    "Conocimiento de materiales, procesos constructivos y especificaciones técnicas.",
+    "Facilidad para comunicar y explicar temas técnicos a clientes y profesionales del sector.",
+    "Excelente redacción, orden y atención al detalle."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV y portafolio de diseño por correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494418183",
+  "telefono": "",
+  "correo": "alejandromfunez@grupo-alca.com",
+  "whatsapps": [
+    "50494418183"
+  ],
+  "telefonos": [],
+  "correos": [
+    "alejandromfunez@grupo-alca.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261118-50",
   "titulo": "Ejecutivo de Ventas",
   "empresa": "Multipon Networks",
