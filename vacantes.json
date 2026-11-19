@@ -2,6 +2,167 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-04",
+  "titulo": "Customer Service Representative",
+  "empresa": "Loto Honduras",
+  "ciudad": "Tegucigalpa, San Pedro Sula",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Brindar soporte y asistencia a clientes, agentes y jugadores a través de distintos canales, procurando resolver y dar seguimiento oportuno a sus solicitudes. Gestionar casos e incidentes, apoyar a los agentes y administrar canales digitales y CRM.",
+  "requisitos": [
+    "Mínimo 1 año de experiencia en Call Center, servicio al cliente o puestos similares.",
+    "Educación media en Negocios, Administración de Empresas, Ciencias y Humanidades o campo relacionado; estudios universitarios deseables.",
+    "Dominio avanzado del inglés.",
+    "Disponibilidad para trabajar en turnos rotativos.",
+    "Habilidades de comunicación, organización, adaptabilidad, gestión del tiempo y servicio al cliente.",
+    "Manejo intermedio de Microsoft Office, plataformas virtuales y sistemas informáticos.",
+    "Conocimientos de hardware y software."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rrhh@loto.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rrhh@loto.hn"
+  ],
+  "url_aplicar": ""
+},
+
+    {
+  "id": "ohn-20261119-05",
+  "titulo": "Analista de Marketing",
+  "empresa": "SOLTEC",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Apoyar iniciativas de marketing digital mediante campañas, redes sociales y generación de leads. Utilizar herramientas de analítica y diseño, y analizar datos para contribuir a la toma de decisiones.",
+  "requisitos": [
+    "Estudiante de los últimos semestres o recién egresado(a) de Mercadeo, Publicidad, Comunicación, Administración de Empresas o carreras afines.",
+    "Conocimientos de marketing digital, campañas, redes sociales y generación de leads.",
+    "Conocimientos básicos de SEO.",
+    "Manejo de herramientas de analítica como Google Analytics, Meta Business Suite o similares.",
+    "Manejo de herramientas de diseño como Canva o similares.",
+    "Capacidad de análisis para convertir datos en decisiones.",
+    "Excelente redacción, orden y atención al detalle."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tus documentos mediante el correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50497168598",
+  "telefono": "",
+  "correo": "asistentedeventas@grupo-alca.com",
+  "whatsapps": [
+    "50497168598"
+  ],
+  "telefonos": [],
+  "correos": [
+    "asistentedeventas@grupo-alca.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-06",
+  "titulo": "Laboratorista",
+  "empresa": "Calidra",
+  "ciudad": "Potrerillos",
+  "categoria": "Manufactura, Producción y Calidad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Realizar análisis y ensayos de laboratorio a materias primas, productos en proceso y producto terminado, verificando el cumplimiento de las especificaciones de calidad y los procedimientos establecidos por la empresa.",
+  "requisitos": [
+    "Título de Ingeniería Química o Licenciatura en Química.",
+    "Conocimientos en análisis y ensayos de laboratorio.",
+    "Manejo de equipos e instrumentos de laboratorio.",
+    "Conocimiento de normas de seguridad industrial.",
+    "Habilidad para analizar e interpretar resultados.",
+    "Atención al detalle y capacidad para resolver problemas.",
+    "Disponibilidad para trabajar en turnos rotativos.",
+    "Manejo básico de herramientas informáticas.",
+    "Capacidad analítica, trabajo en equipo, comunicación efectiva, responsabilidad y compromiso."
+  ],
+  "beneficios": [
+    "Seguro privado de gastos médicos.",
+    "Prestaciones de ley.",
+    "Capacitación y certificación continua."
+  ],
+  "como_aplicar": "Envía tu CV mediante el correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431746863",
+  "telefono": "",
+  "correo": "jvelasquez@calidra.com.hn",
+  "whatsapps": [
+    "50431746863"
+  ],
+  "telefonos": [],
+  "correos": [
+    "jvelasquez@calidra.com.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-07",
+  "titulo": "Supervisor de Corte",
+  "empresa": "Lovable Honduras",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Manufactura, Producción y Calidad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisar las operaciones del área de corte, dar seguimiento a las metas de producción y al desempeño del personal, y velar por la calidad, eficiencia, seguridad y mejora continua del proceso.",
+  "requisitos": [
+    "Secundaria completa.",
+    "Deseable estar cursando una carrera universitaria en Ingeniería Industrial o afín.",
+    "Mínimo 3 años de experiencia en procesos de corte.",
+    "Experiencia en manejo de personal y seguimiento de metas.",
+    "Interpretación de estándares SAH, eficiencia y calidad.",
+    "Experiencia en entrenamiento y seguimiento de curvas de aprendizaje.",
+    "Manejo de cronómetro y control de indicadores.",
+    "Liderazgo, comunicación efectiva, trabajo en equipo, orden, disciplina, resolución de problemas y gestión del tiempo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo con el asunto “Supervisor de Corte”.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "karen.espinal@lovablehn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "karen.espinal@lovablehn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261119-01",
   "titulo": "Ejecutivo de Negocios",
   "empresa": "Almacenadora Atlántida",
@@ -77,7 +238,7 @@
 {
   "id": "ohn-20261119-03",
   "titulo": "Especialista Técnico de Proyectos",
-  "empresa": "Soltec",
+  "empresa": "SOLTEC",
   "ciudad": "San Pedro Sula",
   "categoria": "Ingeniería, Arquitectura y Construcción",
   "modalidad": "Presencial",
