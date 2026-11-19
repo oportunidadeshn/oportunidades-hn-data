@@ -2,9 +2,45 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261118-165548-99",
+  "titulo": "Agente de entregas",
+  "empresa": "La Fuente Cargo S. DE R.L.",
+  "ciudad": "Tegucigalpa, San Pedro Sula",
+  "categoria": "Transporte y Distribución",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Cargar y descargar mercadería, Cubrir rutas a nivel nacional para entregar pedidos, Coordinar con el cliente las entregas, Cumplir con el proceso de verificación de entregas",
+  "requisitos": [
+    "Secundaria completa, disponibilidad para viajar, Disponibilidad para cargar y descargar mercadería."
+  ],
+  "beneficios": [
+    "Beneficios de ley"
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nAdjuntar C.V. actualizado y constancias de trabajo de empleos anteriores",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50492505600",
+  "telefono": "",
+  "correo": "arielmolina@lafuentecargo.com",
+  "whatsapps": [
+    "50492505600"
+  ],
+  "telefonos": [],
+  "correos": [
+    "arielmolina@lafuentecargo.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261118-162128-98",
   "titulo": "Coordinadora Académica del Área de inglés para secundaria",
-  "empresa": "ghctalent1@gmail.com",
+  "empresa": "GHC Talent",
   "ciudad": "San Pedro Sula",
   "categoria": "Educación",
   "modalidad": "Presencial",
@@ -37,7 +73,7 @@
   ],
   "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
   "fecha_publicacion": "2026-11-18",
-  "fecha_vencimiento": "2026-11-28",
+  "fecha_vencimiento": "2026-11-20",
   "destacada": false,
   "destacada_hasta": "",
   "activa": true,
@@ -57,7 +93,7 @@
     {
   "id": "ohn-20261118-161059-97",
   "titulo": "Atención al Cliente / Cobros",
-  "empresa": "ghctalent.1hn@gmail.com",
+  "empresa": "GHC Talent",
   "ciudad": "San Pedro Sula",
   "categoria": "Atención al Cliente y Call Center / BPO",
   "modalidad": "Presencial",
@@ -85,7 +121,7 @@
   ],
   "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.",
   "fecha_publicacion": "2026-11-18",
-  "fecha_vencimiento": "2026-11-28",
+  "fecha_vencimiento": "2026-11-20",
   "destacada": false,
   "destacada_hasta": "",
   "activa": true,
