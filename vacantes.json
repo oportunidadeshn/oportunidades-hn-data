@@ -2,6 +2,44 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261118-44",
+  "titulo": "Personal de Atención al Cliente con Barismo",
+  "empresa": "Inmecro Plus",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Plaza para brindar atención al cliente y aplicar conocimientos de barismo.",
+  "requisitos": [
+    "Excelente servicio al cliente.",
+    "Mínimo un año de experiencia en barismo.",
+    "Disponibilidad de horarios.",
+    "Conocimiento en el área de cajas.",
+    "Excelentes relaciones interpersonales.",
+    "Pasión, compromiso y liderazgo.",
+    "Buena presentación."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-18",
+  "fecha_vencimiento": "2026-11-28",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "jventas-plustgu@inmecro.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "jventas-plustgu@inmecro.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261118-42",
   "titulo": "Mesero",
   "empresa": "Restaurante El Patio",
