@@ -2,6 +2,185 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-22",
+  "titulo": "Analista de Gestión de Activos",
+  "empresa": "SOLER",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Gestionar contratos de activos eólicos y solares, elaborar informes de desempeño, supervisar presupuestos y apoyar procesos de fusiones y adquisiciones.",
+  "requisitos": [
+    "Ingeniería Industrial o carrera afín.",
+    "De 2 a 3 años de experiencia en gestión de contratos, activos o áreas afines.",
+    "Dominio bilingüe indispensable.",
+    "Manejo avanzado de Excel.",
+    "Excelente redacción y facilidad de comunicación."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo e indica en el asunto «Analista de Gestión de Activos».",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talentohumano@soler-energy.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "talentohumano@soler-energy.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-23",
+  "titulo": "Técnico en Laboratorio",
+  "empresa": "Laboratorio Bueso Arias",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Realizar toma de muestras y apoyar en la atención al cliente, caja y facturación.",
+  "requisitos": [
+    "Graduado(a) de Técnico en Laboratorio Clínico.",
+    "Experiencia en toma de muestras, atención al cliente, caja y facturación.",
+    "Residencia en el casco urbano de San Pedro Sula.",
+    "Excelente servicio al cliente, orientación a la calidad y al logro, proactividad y capacidad para trabajar en equipo."
+  ],
+  "beneficios": [
+    "Seguro médico privado.",
+    "Capacitaciones continuas.",
+    "Bono por cumpleaños."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo e indica en el asunto el puesto al que aplicas.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "recursoshumanos@buesoarias.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "recursoshumanos@buesoarias.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-24",
+  "titulo": "Auxiliar Contable",
+  "empresa": "Avance Honduras / Grupo MSP",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Apoyar en el registro contable diario, la gestión de tesorería y el cumplimiento de obligaciones fiscales y administrativas.",
+  "requisitos": [
+    "Licenciatura en Contaduría Pública y Finanzas, Administración o carreras afines.",
+    "De 2 a 3 años de experiencia en funciones contables y de tesorería.",
+    "Conocimientos de normativa tributaria del SAR, conciliaciones bancarias y manejo de Excel.",
+    "Atención al detalle, organización y alto sentido de responsabilidad.",
+    "Conocimientos de SAP."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o postúlate en el sitio web de empleo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "empleos@avanceingenieros.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "empleos@avanceingenieros.com"
+  ],
+  "url_aplicar": "https://www.avanceingenieros.com/empleos"
+},
+{
+  "id": "ohn-20261119-25",
+  "titulo": "Gerente de Agencia",
+  "empresa": "BanHcafé",
+  "ciudad": "Gracias",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Título universitario a nivel de licenciatura.",
+    "Dos años de experiencia en funciones bancarias, especialmente en puestos de dirección o como Oficial de Créditos.",
+    "Habilidad numérica y de análisis, manejo adecuado de relaciones interpersonales y conocimiento del mercado de la zona.",
+    "Conocimiento de normas y procedimientos de crédito, regulaciones del sistema financiero e IBS.",
+    "Manejo de vehículo con transmisión manual."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "alizardo@banhcafe.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "alizardo@banhcafe.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-26",
+  "titulo": "Supervisor de Cosecha Mecanizada",
+  "empresa": "Azunosa",
+  "ciudad": "El Progreso",
+  "categoria": "Agricultura y Agroindustria",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisar los frentes de cosecha mecanizada, controlar su eficiencia y asegurar la calidad de la cosecha.",
+  "requisitos": [
+    "Ingeniería Agronómica o Ingeniería Industrial.",
+    "Experiencia mínima de 1 año en manejo de personal.",
+    "Manejo de Microsoft Office."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o comunícate por WhatsApp. Fecha límite de postulación: 27 de noviembre de 2026.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-27",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494201085",
+  "telefono": "",
+  "correo": "stephany.izaguirre@azunosa.com",
+  "whatsapps": [
+    "50494201085"
+  ],
+  "telefonos": [],
+  "correos": [
+    "stephany.izaguirre@azunosa.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261119-18",
   "titulo": "Vendedor de Camiones",
   "empresa": "Kenworth de Centroamérica",
