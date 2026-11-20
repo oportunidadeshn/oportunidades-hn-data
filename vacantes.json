@@ -2,6 +2,79 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-14",
+  "titulo": "Cocinera",
+  "empresa": "Monticello Cafe Hn",
+  "ciudad": "La Esperanza",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Monticello Cafe Hn busca una persona responsable, proactiva y con entusiasmo para trabajar en cocina y ofrecer lo mejor cada día.",
+  "requisitos": [
+    "Experiencia previa en cocina deseable.",
+    "Capacidad para trabajar en equipo.",
+    "Actitud proactiva y disposición para aprender."
+  ],
+  "beneficios": [
+    "Ambiente de trabajo dinámico y agradable.",
+    "Oportunidades de crecimiento y desarrollo."
+  ],
+  "como_aplicar": "Comunícate mediante el botón de WhatsApp para postularte.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50495773697",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50495773697"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-15",
+  "titulo": "Barista",
+  "empresa": "Monticello Cafe Hn",
+  "ciudad": "La Esperanza",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Monticello Cafe Hn busca una persona responsable, proactiva y con entusiasmo para trabajar como barista y ofrecer lo mejor cada día.",
+  "requisitos": [
+    "Experiencia previa en cocina deseable.",
+    "Capacidad para trabajar en equipo.",
+    "Actitud proactiva y disposición para aprender."
+  ],
+  "beneficios": [
+    "Ambiente de trabajo dinámico y agradable.",
+    "Oportunidades de crecimiento y desarrollo."
+  ],
+  "como_aplicar": "Comunícate mediante el botón de WhatsApp para postularte.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50495773697",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50495773697"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261119-13",
   "titulo": "Técnico Mecánico Industrial",
   "empresa": "HD International Steel",
