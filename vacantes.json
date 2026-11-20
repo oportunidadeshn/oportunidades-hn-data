@@ -2,6 +2,51 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-17",
+  "titulo": "Asesor Comercial Sr.",
+  "empresa": "SOLTEC",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Asesorar a clientes de los sectores de construcción e industria, desde la identificación de sus necesidades y la definición de soluciones técnicas hasta el cierre de ventas y el seguimiento posinstalación.",
+  "requisitos": [
+    "Egresado(a) de Ingeniería Civil, Arquitectura, Ingeniería Industrial, Ingeniería Eléctrica Industrial, Ingeniería Química Industrial o carrera afín.",
+    "Mínimo 5 años de experiencia en ventas técnicas o asesoría comercial en construcción o industria.",
+    "Cartera propia de clientes activos en construcción o industria.",
+    "Licencia de conducir vigente y vehículo propio.",
+    "Capacidad para leer planos y explicar especificaciones técnicas a clientes y profesionales del sector.",
+    "Habilidad para negociar y cerrar ventas.",
+    "Responsabilidad, organización y orientación a resultados."
+  ],
+  "beneficios": [
+    "Salario base, comisiones, depreciación y combustible.",
+    "Estabilidad y respaldo de una empresa con más de 20 años de trayectoria.",
+    "Capacitación permanente en productos, estrategias comerciales y ventas.",
+    "Oportunidades de crecimiento y desarrollo profesional."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o comunícate por WhatsApp.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494418183",
+  "telefono": "",
+  "correo": "alejandromfunez@grupo-alca.com",
+  "whatsapps": [
+    "50494418183"
+  ],
+  "telefonos": [],
+  "correos": [
+    "alejandromfunez@grupo-alca.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261119-16",
   "titulo": "Conserje Administrativo",
   "empresa": "Del Campo Soluciones Agrícolas",
