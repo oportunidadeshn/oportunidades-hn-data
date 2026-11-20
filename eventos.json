@@ -891,6 +891,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    },
+
+    {
+  "titulo": "Charla gratuita: Introducción a la Norma ISO 9001:2026 y principales cambios",
+  "organizador": "ANDI y CERTEC",
+  "categoria": "Charlas/Talleres",
+  "ciudad": "A nivel nacional",
+  "modalidad": "Virtual",
+  "fecha_inicio": "2026-11-27",
+  "fecha_fin": "2026-11-27",
+  "hora": "9:00 a. m. (hora de Honduras)",
+  "lugar": "Zoom",
+  "descripcion": "Charla gratuita facilitada por Alis Velásquez. Su objetivo es fortalecer la capacidad organizacional para adaptar los sistemas de gestión de calidad, garantizando una transición efectiva y la continuidad del negocio.",
+  "informacion_participacion": "Completa el formulario mediante el botón de inscripción. Hora de finalización y requisitos de participación: No especificado.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLsU86fdomcZfbN3Nod0ocX3ljfdWpThAXdzQ5OM46tHDayFC3AAu6IzqX87zJMwQ9H86z2dFGyYlwFMT7fPzYKvQyYFhJH-QhNmtHuu7HGak7s18_4Ui_HV_0_C4G89TzOR__Rq2j0SRKrvZ9_uPTqAF92KvOJKWDbjXWozCQMVp-kvtD8vEjYPgKsJI/s1350/1001608165.jpg",
+  "enlace": "https://forms.gle/JGkjVNQm2uhpkuKF7",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
     
   ]
