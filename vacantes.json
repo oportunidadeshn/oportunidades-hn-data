@@ -2,6 +2,193 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-40",
+  "titulo": "Auditor Interno Operativo",
+  "empresa": "Diprova",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Verificar inventarios y evaluar el cumplimiento de procedimientos y controles internos en las áreas operativas. Realizar inventarios selectivos, apoyar la recepción y verificación de contenedores en bodega, e identificar oportunidades de mejora en los procesos.",
+  "requisitos": [
+    "Licenciatura en Contaduría Pública, Administración de Empresas, Ingeniería Industrial o carrera afín.",
+    "Experiencia indispensable en empresas de consumo masivo, preferiblemente en supermercados.",
+    "Manejo avanzado de Microsoft Excel.",
+    "Disponibilidad para trabajar en horarios rotativos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida actualizada mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rrhh@kdiprova.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rrhh@kdiprova.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-41",
+  "titulo": "Esteticista",
+  "empresa": "Beloclinic",
+  "ciudad": "Choluteca",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Técnico en Enfermería, preferiblemente.",
+    "Vocación de servicio y empatía con el paciente.",
+    "Excelente presentación y trato personal.",
+    "Residir en Choluteca.",
+    "Sexo femenino."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o comunícate mediante WhatsApp.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50492721863",
+  "telefono": "",
+  "correo": "reclutamiento@beloclinic.hn",
+  "whatsapps": [
+    "50492721863"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@beloclinic.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-42",
+  "titulo": "Contador",
+  "empresa": "Boquerón",
+  "ciudad": "Juticalpa, Catacamas",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Experiencia en finanzas.",
+    "Conocimientos de costos.",
+    "Experiencia en conciliaciones bancarias.",
+    "Conocimientos de organización contable y financiera.",
+    "Residir en Olancho de lunes a viernes."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu información mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433222284",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50433222284"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-43",
+  "titulo": "Coordinador Contable",
+  "empresa": "ProgCarne",
+  "ciudad": "Villanueva",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Licenciatura en Contaduría Pública.",
+    "De tres a cinco años de experiencia coordinando equipos contables.",
+    "Conocimientos de cierres contables y asuntos fiscales y financieros.",
+    "Dominio de Microsoft Excel y sistemas SAP.",
+    "Experiencia en cuentas por cobrar, cuentas por pagar y control interno.",
+    "Capacidad de liderazgo, análisis y orientación a resultados."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu postulación mediante el botón de correo o comunícate mediante WhatsApp.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50495550513",
+  "telefono": "",
+  "correo": "rrhh@guangolola.com",
+  "whatsapps": [
+    "50495550513"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhh@guangolola.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-44",
+  "titulo": "Supervisor(a) Comercial",
+  "empresa": "Baprosa",
+  "ciudad": "Santa Rosa de Copán",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "",
+  "requisitos": [
+    "Licenciatura en Mercadotecnia, Ingeniería Industrial o carrera afín.",
+    "De dos a tres años de experiencia en puestos de supervisión o coordinación comercial o de ventas.",
+    "Manejo de indicadores de ventas (KPI).",
+    "Licencia de conducir vigente y vehículo propio.",
+    "Excelentes habilidades de liderazgo, comunicación y negociación."
+  ],
+  "beneficios": [
+    "Sueldo base y atractivo esquema de comisiones.",
+    "Prestaciones de ley.",
+    "Excelente ambiente laboral.",
+    "Oportunidades de desarrollo y crecimiento profesional.",
+    "Depreciación de vehículo."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo. Indica en el asunto: Supervisor Comercial.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rrhh@baprosa.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rrhh@baprosa.com",
+    "i.izaguirre@baprosa.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261119-38",
   "titulo": "Arquitecto Empresarial y de Soluciones",
   "empresa": "ILP Servicios Corporativos",
