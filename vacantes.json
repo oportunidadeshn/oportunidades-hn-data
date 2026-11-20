@@ -2,6 +2,46 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-13",
+  "titulo": "Técnico Mecánico Industrial",
+  "empresa": "HD International Steel",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Ejecutar el mantenimiento preventivo y correctivo de maquinaria y equipos industriales utilizados en la fabricación de varilla de acero, asegurando su correcto funcionamiento y continuidad operativa.",
+  "requisitos": [
+    "Técnico en Mecánica Industrial o carrera afín.",
+    "Experiencia mínima de 2 años en mantenimiento mecánico industrial.",
+    "Conocimientos en sistemas mecánicos, hidráulicos y neumáticos.",
+    "Manejo de herramientas y equipos de mantenimiento industrial.",
+    "Conocimientos básicos de soldadura e interpretación de planos mecánicos.",
+    "Capacidad de diagnóstico, solución de problemas y trabajo en equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o comunícate por WhatsApp.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50488106974",
+  "telefono": "",
+  "correo": "eorellana@hdsteel.com",
+  "whatsapps": [
+    "50488106974"
+  ],
+  "telefonos": [],
+  "correos": [
+    "eorellana@hdsteel.com",
+    "ejecutivo.hd@hdsteel.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261119-135428-102",
   "titulo": "Ejecutivo de Servicio al Cliente",
   "empresa": "SICTRA S.A.",
