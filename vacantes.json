@@ -2,6 +2,81 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-36",
+  "titulo": "Asistente de Jefe de Tienda",
+  "empresa": "Jetstereo",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Apoyar la planificación, organización, dirección y control de las metas de ventas y los estándares de servicio al cliente. Administrar el talento humano y los activos de la empresa conforme a los objetivos, políticas y procedimientos establecidos.",
+  "requisitos": [
+    "Título universitario en Administración de Empresas, Gerencia de Negocios, Mercadotecnia o carrera afín.",
+    "Mínimo dos años de experiencia liderando equipos de ventas.",
+    "Orientación al cumplimiento de metas e indicadores de ventas.",
+    "Conocimiento del sistema SAP.",
+    "Disponibilidad para trabajar en horarios de centro comercial.",
+    "Residir en San Pedro Sula.",
+    "Liderazgo y desarrollo de equipos.",
+    "Planificación estratégica y seguimiento.",
+    "Comunicación efectiva y orientación a resultados."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "sara.salinas@grupoilp.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "sara.salinas@grupoilp.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-37",
+  "titulo": "Analista de Seguimiento y Control de Proyectos",
+  "empresa": "Omets Investments",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Dar seguimiento y controlar proyectos estratégicos, incluidos cronogramas, hitos, compromisos y entregables. Coordinar reuniones y acuerdos, revisar procesos y cronogramas de subcontratistas, y elaborar reportes ejecutivos para apoyar la toma de decisiones.",
+  "requisitos": [
+    "Formación en Ingeniería Civil, Arquitectura, Ingeniería Industrial o carrera afín.",
+    "De tres a cinco años de experiencia, con un mínimo de dos años en seguimiento y control de proyectos.",
+    "Experiencia coordinando consultores, contratistas y equipos multidisciplinarios.",
+    "Excel intermedio-avanzado indispensable.",
+    "Manejo de MS Project deseable y Power BI como valor agregado."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "jmolina@ometshn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "jmolina@ometshn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261119-32",
   "titulo": "Asistente de Recursos Humanos",
   "empresa": "Bijao Electric Company, S.A.",
