@@ -2,6 +2,128 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-27",
+  "titulo": "Jefe de Tienda",
+  "empresa": "MotoMundo",
+  "ciudad": "Juticalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Planificar, organizar y dirigir el cumplimiento de las metas de ventas y servicio al cliente, así como administrar el recurso humano y los materiales. Contribuir al logro de los objetivos de ventas, la rentabilidad de la empresa y la satisfacción del cliente, conforme a las políticas y procedimientos establecidos.",
+  "requisitos": [
+    "Título universitario en Ingeniería Industrial, Administración de Empresas, Mercadeo o carrera afín.",
+    "De 2 a 4 años de experiencia liderando equipos de ventas.",
+    "Habilidad para guiar el proceso de ventas desde la planificación hasta el cierre.",
+    "Manejo de inventarios e indicadores de ventas.",
+    "Manejo del sistema SAP.",
+    "Liderazgo y enfoque en resultados.",
+    "Alto enfoque en el cumplimiento de indicadores.",
+    "Proactividad y visión de negocio.",
+    "Habilidad de negociación efectiva.",
+    "Excelente planificación y organización.",
+    "Gestión de equipos de alto desempeño."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "juan.aleman@grupoilp.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "juan.aleman@grupoilp.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-28",
+  "titulo": "Coordinador de Atracción y Selección de Talento",
+  "empresa": "Megapaca",
+  "ciudad": "El Progreso",
+  "categoria": "Recursos Humanos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Dirigir e implementar los procesos y métodos de reclutamiento. Programar y presupuestar reclutamientos externos, integraciones y aperturas de tiendas; gestionar el presupuesto del área y generar reportes de dotación y rotación.",
+  "requisitos": [
+    "Licenciatura en Psicología, Administración de Empresas o carrera similar.",
+    "Dos años de experiencia en puestos similares.",
+    "Residir en El Progreso, Yoro, o sus alrededores.",
+    "Poseer transporte propio."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "gustavo.sierra@megapaca.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "gustavo.sierra@megapaca.hn"
+  ],
+  "url_aplicar": ""
+},
+
+    {
+  "id": "ohn-20261119-29",
+  "titulo": "Docente de inglés para cursos virtuales",
+  "empresa": "Academia Silvermont",
+  "ciudad": "A nivel nacional",
+  "categoria": "Educación",
+  "modalidad": "Remoto",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Impartir cursos de inglés en línea en un entorno virtual, dinámico y profesional, motivando a los estudiantes a alcanzar sus metas lingüísticas.",
+  "requisitos": [
+    "Licenciatura en Lenguas Extranjeras de la UNAH, la UPNFM o carrera afín.",
+    "Experiencia comprobable en la enseñanza del inglés.",
+    "Nivel de inglés intermedio (B2 o superior).",
+    "Edad entre 22 y 50 años.",
+    "Sexo indistinto.",
+    "Disponibilidad para trabajar de forma remota en horarios por la tarde y noche.",
+    "Capacidad para trabajar de forma autónoma y bajo presión.",
+    "Excelentes habilidades de comunicación oral y escrita.",
+    "Manejo de Microsoft Office, Google Workspace y herramientas tecnológicas como Zoom y Canva."
+  ],
+  "beneficios": [
+    "Trabajo remoto desde casa, de forma sincrónica.",
+    "Horario flexible por la tarde y noche, de lunes a viernes.",
+    "Materiales de enseñanza listos y actualizados.",
+    "Oportunidades de desarrollo profesional.",
+    "Pago mensual de honorarios de HNL 2,200 por curso impartido."
+  ],
+  "como_aplicar": "Envía tu CV y documentos personales mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-12-15",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "reclutamiento@silvermont.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@silvermont.hn"
+  ],
+  "url_aplicar": ""
+    },
+    
+    {
   "id": "ohn-20261119-22",
   "titulo": "Analista de Gestión de Activos",
   "empresa": "SOLER",
