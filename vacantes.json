@@ -2,6 +2,152 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-18",
+  "titulo": "Vendedor de Camiones",
+  "empresa": "Kenworth de Centroamérica",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Gestionar la venta de camiones y cabezales desde la prospección y demostración hasta la negociación, el cierre y la posventa. Asesorar a clientes y preparar cotizaciones y propuestas personalizadas.",
+  "requisitos": [
+    "Bachillerato finalizado.",
+    "Experiencia mínima de 2 años como vendedor de camiones o cabezales.",
+    "Vehículo propio.",
+    "Conocimiento de marcas, especificaciones y características técnicas de camiones."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o comunícate por WhatsApp.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50245360191",
+  "telefono": "",
+  "correo": "reclutamiento@kenworthdeca.com",
+  "whatsapps": [
+    "50245360191"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@kenworthdeca.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-19",
+  "titulo": "Supervisor(a) de Producción",
+  "empresa": "Empresa confidencial",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Manufactura, Producción y Calidad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisar la producción en el área de costura y dar seguimiento a los indicadores de eficiencia, productividad, calidad y cumplimiento de metas.",
+  "requisitos": [
+    "Profesional graduado(a) de Ingeniería Industrial o carrera afín.",
+    "Experiencia mínima de 2 años en el área de costura.",
+    "Manejo de indicadores de producción relacionados con eficiencia, productividad, calidad y cumplimiento de metas.",
+    "Habilidades de liderazgo, comunicación efectiva y toma de decisiones.",
+    "Orientación a resultados y cumplimiento de objetivos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo e indica en el asunto la posición de interés seguida de «SPS». También puedes postularte mediante el sitio web de empleo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "empleos@ahm-honduras.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "empleos@ahm-honduras.com"
+  ],
+  "url_aplicar": "https://ahm-honduras.com/empleos"
+},
+{
+  "id": "ohn-20261119-20",
+  "titulo": "Instructor(a) de Costura",
+  "empresa": "Empresa confidencial",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Educación",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Capacitar y entrenar personal operativo en procesos de confección, incluyendo operaciones de costura, secuencia de ensamble y métodos de trabajo.",
+  "requisitos": [
+    "Secundaria completa.",
+    "Experiencia mínima de 2 años capacitando y entrenando personal operativo en procesos de confección.",
+    "Conocimiento de operaciones de costura, secuencia de ensamble y métodos de trabajo.",
+    "Capacidad para identificar y corregir defectos de costura.",
+    "Conocimiento de estándares de calidad y tiempos de producción.",
+    "Comunicación efectiva."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo e indica en el asunto la posición de interés seguida de «SPS». También puedes postularte mediante el sitio web de empleo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "empleos@ahm-honduras.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "empleos@ahm-honduras.com"
+  ],
+  "url_aplicar": "https://ahm-honduras.com/empleos"
+},
+{
+  "id": "ohn-20261119-21",
+  "titulo": "Jefe de Mercadeo",
+  "empresa": "Agroindustrias Del Corral",
+  "ciudad": "Siguatepeque",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Desarrollar estrategias de mercadeo, posicionamiento de marcas, campañas y activaciones en puntos de venta, con análisis de mercado y del comportamiento del consumidor.",
+  "requisitos": [
+    "Licenciatura en Mercadeo, Administración de Empresas, Ingeniería Comercial o carreras afines.",
+    "Maestría o diplomado en Marketing Estratégico, Marketing Digital o Dirección Comercial deseable.",
+    "Experiencia mínima de 3 años en posiciones de mercadeo.",
+    "Experiencia preferiblemente en empresas de alimentos o consumo masivo.",
+    "Conocimientos en branding, marketing digital y trade marketing.",
+    "Manejo de presupuestos, análisis de mercado y métricas comerciales.",
+    "Habilidades de desarrollo y posicionamiento de marcas, investigación y análisis de mercados, análisis del comportamiento del consumidor, pensamiento estratégico y capacidad analítica."
+  ],
+  "beneficios": [
+    "Ambiente de trabajo colaborativo.",
+    "Oportunidades de crecimiento y desarrollo profesional."
+  ],
+  "como_aplicar": "Postúlate mediante el enlace de aplicación.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": "https://jobs.interspeedia.com/jobs/55225.13.64726"
+},
+    
+    {
   "id": "ohn-20261119-17",
   "titulo": "Asesor Comercial Sr.",
   "empresa": "SOLTEC",
