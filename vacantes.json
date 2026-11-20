@@ -2,6 +2,42 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261120-111439-104",
+  "titulo": "Administrador de sucursal-ROATAN",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Roatán",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Encargado del manejo del personal del FC. \nRealizar picking, empaque y facturación de pedidos.\nRealizar funciones de facturación, de despacho, bodega y auxiliar de trasferencias.\nEn área de facturación y despacho maneja cajas chicas respetivas a sus usos, así mismo remisión y reembolso de ellas, así como encargado de cierres y depósitos de venta.\nEn bodega encargado de recibir proveedores según orden de compra y facturas. \nEn transferencia debe recibir y dar seguimiento a transferencia\nManejo de reporte de fechas de vencimiento.\nEncargado de la limpieza y orden del FC.",
+  "requisitos": [
+    "Lic. en Administración de Empresas, Contaduría y Finanzas, Ingeniería Industrial o carreras a fin",
+    "Experiencia mínima de 1 año en administración de sucursal, inventarios y manejo de personal",
+    "Conocimiento de sistemas SAP,ERP",
+    "Office avanzado, principalmente EXCEL",
+    "Disponibilidad de horarios (indispensable)"
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nIndicar asunto de la vacante \"Administrador Roatan\"",
+  "fecha_publicacion": "2026-11-20",
+  "fecha_vencimiento": "2026-12-01",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rrhh@sompopo.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rrhh@sompopo.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261120-230001-201",
   "titulo": "Vendedor / Atención al Cliente",
   "empresa": "ConstruHome",
