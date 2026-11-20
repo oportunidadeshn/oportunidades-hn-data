@@ -910,6 +910,25 @@
   "whatsapp": "",
   "destacado": false,
   "activo": true
+    ,
+
+      {
+  "titulo": "Feria de Empleo de El Compadre en San Pedro Sula",
+  "organizador": "El Compadre",
+  "categoria": "Ferias de empleo",
+  "ciudad": "San Pedro Sula",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-20",
+  "fecha_fin": "2026-11-25",
+  "hora": "No especificado",
+  "lugar": "5ta calle, entre 1ra y 2da avenida Suroeste, atrás de Titico’s.",
+  "descripcion": "Feria de empleo con plazas disponibles para auxiliares de servicio al cliente, cajeros, surtidores, comodines y auxiliares de seguridad.",
+  "informacion_participacion": "Preséntate en la dirección indicada con tu hoja de vida. Consulta el horario y más información a los teléfonos 3190-7852 y 3280-1987. Requisitos específicos por puesto: No especificado.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuxbb_nyJ7Y8wn3UtEGbWujo_stIysveqS648LuTMfTBqsE9CnaghE4Te6BmHjUQKGBDYQ4fPHDXw7ka33omuo64EUlC-6gDVnFH5FY0TadqkgyUCF0M0iMD3gpXWgkUWNsvQDQfzL1vd4G1t2go80RXgEchvlIUTY2-XntRgz3hZ_7rBX-tNfl0SjI6Q/s1312/1001608170.jpg",
+  "enlace": "",
+  "whatsapp": "50431907852",
+  "destacado": false,
+  "activo": true
     }
     
   ]
