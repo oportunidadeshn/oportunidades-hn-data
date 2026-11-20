@@ -2,6 +2,70 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-30",
+  "titulo": "Oficial de Gestión Telefónica de Cobros",
+  "empresa": "Grupo Ficohsa",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Dar seguimiento a los clientes asignados y gestionar acuerdos de pago mediante llamadas telefónicas y canales digitales, cuidando la calidad del servicio y la satisfacción del cliente.",
+  "requisitos": [],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo o escanea el código QR del anuncio para conocer más y aplicar.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "camila.azize@ficohsa.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "camila.azize@ficohsa.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-31",
+  "titulo": "Asesora de Ventas",
+  "empresa": "Cubic",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Atender y asesorar a clientes en tienda física, contribuyendo a las ventas y ofreciendo un servicio de calidad.",
+  "requisitos": [
+    "Excelente presentación personal.",
+    "Buena actitud, proactividad e iniciativa.",
+    "Responsabilidad y puntualidad.",
+    "Interés y gusto por las ventas."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rrhh@cubichn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rrhh@cubichn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261119-27",
   "titulo": "Jefe de Tienda",
   "empresa": "MotoMundo",
