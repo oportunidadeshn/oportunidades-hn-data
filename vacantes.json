@@ -2,6 +2,91 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261119-38",
+  "titulo": "Arquitecto Empresarial y de Soluciones",
+  "empresa": "ILP Servicios Corporativos",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Tecnología, TI y Telecomunicaciones",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Diseñar y definir la arquitectura tecnológica del grupo para aplicaciones, datos, integración, infraestructura, ciberseguridad e inteligencia artificial. Liderar soluciones tecnológicas transversales, escalables y reutilizables que apoyen la transformación digital y el crecimiento regional.",
+  "requisitos": [
+    "Título universitario en Ingeniería en Sistemas, Ingeniería Informática, Ciencias de la Computación, Ingeniería de Software, Telecomunicaciones o carrera tecnológica afín.",
+    "Más de ocho años de experiencia en tecnología, incluyendo arquitectura empresarial, arquitectura de soluciones o liderazgo técnico transversal.",
+    "Conocimiento de arquitectura empresarial, diseño de soluciones, gobierno de arquitectura y modernización tecnológica.",
+    "Experiencia diseñando o gobernando arquitecturas sobre SAP S/4HANA y SAP BTP, incluyendo extensiones, principios Clean Core y SAP Integration Suite.",
+    "Capacidad para diseñar soluciones que integren aplicaciones, datos, API, infraestructura, nube y ciberseguridad.",
+    "Conocimiento de integración empresarial entre ERP, CRM y POS, arquitecturas orientadas a eventos y plataformas en la nube como Azure, AWS o GCP.",
+    "Experiencia definiendo estándares tecnológicos, evaluando plataformas y apoyando iniciativas de transformación digital con equipos multidisciplinarios y áreas de negocio.",
+    "Pensamiento estratégico y visión integral del negocio y la tecnología.",
+    "Comunicación efectiva e influencia para lograr acuerdos entre equipos y áreas.",
+    "Capacidad de análisis y toma de decisiones en entornos complejos.",
+    "Orientación a la simplificación, la innovación y la mejora continua."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "lisis.zambrano@grupoilp.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "lisis.zambrano@grupoilp.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261119-39",
+  "titulo": "Vendedor Junior",
+  "empresa": "Industrias Chamer",
+  "ciudad": "Tegucigalpa, Choluteca",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Realizar visitas comerciales a clientes y tiendas asignadas, promover el portafolio de productos, gestionar pedidos y dar seguimiento a su entrega. Captar nuevos clientes, desarrollar oportunidades comerciales y contribuir al crecimiento de las ventas y la cobertura de la zona.",
+  "requisitos": [
+    "Experiencia en ventas, atención al cliente o gestión comercial.",
+    "Habilidad de negociación y comunicación efectiva.",
+    "Orientación a resultados y cumplimiento de metas.",
+    "Capacidad de análisis e identificación de oportunidades de negocio.",
+    "Disponibilidad para movilizarse en la zona centro sur.",
+    "Manejo básico de reportes y herramientas digitales.",
+    "Licencia de conducir vigente para motocicleta o vehículo."
+  ],
+  "beneficios": [
+    "Estabilidad laboral.",
+    "Desarrollo profesional.",
+    "Seguro médico.",
+    "Beneficios competitivos.",
+    "Excelente ambiente laboral."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-19",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "bolsadeempleo@grupochamer.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "bolsadeempleo@grupochamer.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261119-36",
   "titulo": "Asistente de Jefe de Tienda",
   "empresa": "Jetstereo",
