@@ -2,6 +2,46 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261121-507",
+  "titulo": "Vendedora",
+  "empresa": "ATL – All Transport Logistic",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "ATL – All Transport Logistic busca una Vendedora con experiencia, actitud comercial y disposición para realizar visitas a clientes. La posición ofrece la oportunidad de integrarse a una empresa en crecimiento dentro del sector logístico.",
+  "requisitos": [
+    "Experiencia comprobable en ventas.",
+    "Saber conducir y contar con licencia vigente.",
+    "Excelente presentación personal.",
+    "Habilidades de negociación y atención al cliente.",
+    "Ser proactiva, responsable y orientada a resultados.",
+    "Disponibilidad para realizar visitas a clientes.",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida por correo electrónico o WhatsApp.",
+  "fecha_publicacion": "2026-11-21",
+  "fecha_vencimiento": "2026-12-01",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433334946",
+  "telefono": "",
+  "correo": "gerencia@atlhn.com",
+  "whatsapps": [
+    "50433334946"
+  ],
+  "telefonos": [],
+  "correos": [
+    "gerencia@atlhn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261120-506",
   "titulo": "Vendedor(a) de Motos",
   "empresa": "Movesa",
