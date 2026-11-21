@@ -929,7 +929,24 @@
   "whatsapp": "50431907852",
   "destacado": false,
   "activo": true
+      }, 
+    {
+  "titulo": "Charla virtual gratuita: Primeros auxilios",
+  "organizador": "ANDI y CERTEC",
+  "categoria": "Charlas/Talleres",
+  "ciudad": "A nivel nacional",
+  "modalidad": "Virtual",
+  "fecha_inicio": "2026-11-26",
+  "fecha_fin": "2026-11-26",
+  "hora": "9:00 a. m. (hora de Honduras)",
+  "lugar": "Zoom",
+  "descripcion": "Charla gratuita facilitada por Ruby Caicedo Gómez. Su objetivo es desarrollar conocimientos y habilidades básicas de primeros auxilios para brindar atención inmediata, segura y oportuna ante emergencias, accidentes o enfermedades repentinas, mientras se recibe atención médica profesional.",
+  "informacion_participacion": "Completa el formulario mediante el botón de inscripción. Hora de finalización y requisitos de participación: No especificado.",
+  "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvYF2C3Fv73iKx5YiCYRX-P8axF5prl5zbwc8Nn2hrj3fVmrxNTVuLxUAKBqLuzolahvchQu09AYIn61hWHmbLjoIf6lttV8CQW_h9HSQGIhtLykqij7FQBY8icJNyFIjducsxXEtQSndsiDW4uzXSLXkzt_mtt4ugmYqfPVwsNc1VVU1UTZzQUA7Tl6E/s1350/1001608634.jpg",
+  "enlace": "https://forms.gle/HuKrK4AaKSdZmart9",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
     }
-    
   ]
 }
