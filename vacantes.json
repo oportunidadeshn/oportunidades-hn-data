@@ -2,6 +2,52 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261120-506",
+  "titulo": "Vendedor(a) de Motos",
+  "empresa": "Movesa",
+  "ciudad": "Gracias",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "MOVESA busca un(a) Vendedor(a) de Motos para su equipo en Gracias. La persona seleccionada atenderá a clientes y deberá contar con experiencia en ventas, orientación a metas y vocación de servicio.",
+  "requisitos": [
+    "Experiencia en ventas.",
+    "Experiencia en el rubro comercial.",
+    "Ser proactivo(a).",
+    "Vocación de servicio al cliente.",
+    "Orientación a metas.",
+    "Secundaria completa.",
+    "Disponibilidad inmediata.",
+    "Residir en Gracias; requisito indispensable."
+  ],
+  "beneficios": [
+    "Contrato permanente.",
+    "Convenios con bancos y cooperativas.",
+    "Seguro médico y de vida.",
+    "Comisiones por ventas."
+  ],
+  "como_aplicar": "Envía tu CV por correo o WhatsApp y coloca en el asunto: Vendedor de Motos Gracias.",
+  "fecha_publicacion": "2026-11-20",
+  "fecha_vencimiento": "2026-11-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431690822",
+  "telefono": "",
+  "correo": "empleos@grupomovesa.com",
+  "whatsapps": [
+    "50431690822"
+  ],
+  "telefonos": [],
+  "correos": [
+    "empleos@grupomovesa.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261120-501",
   "titulo": "Asistente Administrativo",
   "empresa": "Moto Repuestos S.A.",
