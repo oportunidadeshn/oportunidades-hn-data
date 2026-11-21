@@ -2,6 +2,46 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261120-235500-401",
+  "titulo": "Supervisor de Instalaciones Electromecánicas",
+  "empresa": "SIRVA / INDENSA",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisar la ejecución de instalaciones electromecánicas en proyectos de construcción vertical. La vacante es para San Pedro Sula, Cortés.",
+  "requisitos": [
+    "Título en Ingeniería Eléctrica Industrial.",
+    "Colegiación activa en el CIMEQH y solvencia vigente.",
+    "Edad mayor de 25 años.",
+    "Experiencia en la ejecución de instalaciones electromecánicas en al menos dos proyectos verticales de 8 niveles o más.",
+    "Conocimiento de NEC (NFPA 70), NFPA 70E, NFPA 72 y normas de la ENEE.",
+    "Gestión de permisos ante la ENEE, el Cuerpo de Bomberos y la municipalidad.",
+    "Lectura de planos, cálculo de cantidades y revisión de estimaciones.",
+    "Manejo de Excel, MS Project y AutoCAD.",
+    "Disponibilidad de horario, trabajo en campo y gestión con contratistas."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-20",
+  "fecha_vencimiento": "2026-11-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "amoradel@sirva.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "amoradel@sirva.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261120-183012-106",
   "titulo": "Empleada Domestica",
   "empresa": "Empresa confidencial",
