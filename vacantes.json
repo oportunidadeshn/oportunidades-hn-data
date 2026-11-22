@@ -2,6 +2,43 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261122-529",
+  "titulo": "Educadora de Niños",
+  "empresa": "NPH Honduras",
+  "ciudad": "Catacamas",
+  "categoria": "Educación",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Acompañar, guiar y formar a niños en un entorno seguro y lleno de valores. La labor incluye realizar y enseñar actividades de cuidado, higiene, salud, cocina, aprendizaje y recreación.",
+  "requisitos": [
+    "Educación media completa.",
+    "Género femenino.",
+    "Experiencia en puestos de cuidado y atención de niños; se prefiere experiencia trabajando con jóvenes en la iglesia.",
+    "Disponibilidad para realizar y enseñar actividades de limpieza del hogar, higiene personal, cocina, atención en salud, actividades académicas y recreativas.",
+    "Disponibilidad para trabajar en turnos rotativos.",
+    "Vocación de servicio, iniciativa, trabajo en equipo y proactividad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-22",
+  "fecha_vencimiento": "2026-12-02",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "rrhh.hn@nph.org",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "rrhh.hn@nph.org"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261122-528",
   "titulo": "Coordinador Académico",
   "empresa": "Universidad Cristiana Evangélica Nuevo Milenio (UCENM)",
