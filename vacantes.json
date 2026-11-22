@@ -2,6 +2,47 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261122-528",
+  "titulo": "Coordinador Académico",
+  "empresa": "Universidad Cristiana Evangélica Nuevo Milenio (UCENM)",
+  "ciudad": "Juticalpa",
+  "categoria": "Educación",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "UCENM busca un profesional con liderazgo y experiencia en gestión académica para coordinar actividades académicas en su sede de Juticalpa, Olancho.",
+  "requisitos": [
+    "Grado de licenciatura, preferiblemente en Pedagogía.",
+    "Preferiblemente, contar con estudios de postgrado.",
+    "Experiencia en docencia universitaria.",
+    "Habilidades de gestión académica, liderazgo y trabajo en equipo.",
+    "Capacidad para tomar decisiones y resolver conflictos.",
+    "Residencia en Juticalpa o zonas aledañas."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum vitae mediante el botón de correo e indica en el asunto: «Coordinador Académico Juticalpa».",
+  "fecha_publicacion": "2026-11-22",
+  "fecha_vencimiento": "2026-12-02",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50495596009",
+  "telefono": "50425655555",
+  "correo": "rrhh@ucenm.edu.hn",
+  "whatsapps": [
+    "50495596009"
+  ],
+  "telefonos": [
+    "50425655555"
+  ],
+  "correos": [
+    "rrhh@ucenm.edu.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261122-522",
   "titulo": "Analista de Operaciones",
   "empresa": "Confianza",
@@ -186,7 +227,7 @@
   "id": "ohn-20261122-527",
   "titulo": "Administrador/a de Consejo Departamental",
   "empresa": "Cruz Roja Hondureña",
-  "ciudad": "Santa Bárbara, Santa Bárbara",
+  "ciudad": "Santa Bárbara",
   "categoria": "Contabilidad y Finanzas",
   "modalidad": "Presencial",
   "tipo_empleo": "Tiempo completo",
