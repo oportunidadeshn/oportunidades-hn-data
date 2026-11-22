@@ -2,6 +2,45 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261121-508",
+  "titulo": "Recepcionista",
+  "empresa": "Hotel Galerías",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Hotel Galerías busca una persona para el puesto de Recepcionista en San Pedro Sula.",
+  "requisitos": [
+    "Servicio al cliente.",
+    "Secundaria completa o ser pasante universitario.",
+    "Experiencia en puestos similares.",
+    "Disponibilidad de horarios.",
+    "Inglés intermedio.",
+    "Buena presentación.",
+    "Sexo indistinto.",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV por correo electrónico e indica en el asunto: Plaza Recepcionista.",
+  "fecha_publicacion": "2026-11-21",
+  "fecha_vencimiento": "2026-12-01",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "gerencia@hotelgaleriashn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "gerencia@hotelgaleriashn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261121-110240-107",
   "titulo": "Ejecutivo de ventas",
   "empresa": "Global Internacional Fragance",
