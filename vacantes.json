@@ -2,6 +2,44 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261122-530",
+  "titulo": "Especialista en Marketing Digital",
+  "empresa": "Creativa La Pulpe 2.0",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se busca una persona creativa, organizada y apasionada por el marketing digital para diseñar y ejecutar estrategias y campañas, gestionar redes sociales y apoyar la comunicación de la marca.",
+  "requisitos": [
+    "Experiencia en diseño de estrategias de marketing digital.",
+    "Manejo de redes sociales.",
+    "Planificación y ejecución de campañas publicitarias.",
+    "Conocimiento en análisis de métricas y elaboración de reportes.",
+    "Experiencia o conocimiento en influencer marketing.",
+    "Experiencia o conocimiento en email marketing.",
+    "Disponibilidad para cobertura de eventos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-22",
+  "fecha_vencimiento": "2026-12-02",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "contacto@lapulpe.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "contacto@lapulpe.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261122-529",
   "titulo": "Educadora de Niños",
   "empresa": "NPH Honduras",
