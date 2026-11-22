@@ -2,6 +2,92 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261122-514",
+  "titulo": "Supervisor de Seguridad Física",
+  "empresa": "C807 Xpress",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Seguridad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisar la seguridad física de las instalaciones, coordinar al personal de vigilancia y apoyar la identificación y gestión de riesgos.",
+  "requisitos": [
+    "Carrera técnica o universitaria en Seguridad, Criminología, Administración, Gestión Logística o áreas afines.",
+    "Formación de base militar.",
+    "Experiencia de 1 a 3 años en seguridad física, preferiblemente en entornos corporativos, industriales, comerciales o institucionales.",
+    "Experiencia en supervisión y liderazgo de equipos de guardias de seguridad.",
+    "Conocimiento sólido en el uso, monitoreo y supervisión de sistemas de circuito cerrado de televisión.",
+    "Poseer vehículo propio."
+  ],
+  "beneficios": [
+    "Beneficios de ley.",
+    "Seguro médico privado.",
+    "Línea corporativa.",
+    "Depreciación y combustible según los kilómetros recorridos."
+  ],
+  "como_aplicar": "Envía tu CV por correo electrónico o WhatsApp.",
+  "fecha_publicacion": "2026-11-22",
+  "fecha_vencimiento": "2026-12-02",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433901654",
+  "telefono": "",
+  "correo": "asistenterhtgu2@c807xpress.com",
+  "whatsapps": [
+    "50433901654"
+  ],
+  "telefonos": [],
+  "correos": [
+    "asistenterhtgu2@c807xpress.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261122-515",
+  "titulo": "Cocinero(a)",
+  "empresa": "Restaurante Corsario",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Turismo, Hotelería y Gastronomía",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Restaurante Corsario busca una persona responsable, proactiva y con experiencia en cocina, comprometida con la calidad, el buen servicio y el trabajo en equipo. El puesto está ubicado en el Food Court del edificio Midence Soto, barrio El Centro, Tegucigalpa.",
+  "requisitos": [
+    "Experiencia comprobable en preparación y elaboración de alimentos.",
+    "Antecedentes personales y laborales satisfactorios.",
+    "Responsabilidad, iniciativa y actitud de servicio.",
+    "Capacidad para trabajar en equipo.",
+    "Disponibilidad inmediata.",
+    "Preferiblemente residir en zonas cercanas al centro de Tegucigalpa."
+  ],
+  "beneficios": [
+    "Estabilidad laboral.",
+    "Ambiente de trabajo respetuoso y colaborativo.",
+    "Bono por cumplimiento de metas de ventas."
+  ],
+  "como_aplicar": "Envía tu hoja de vida por correo electrónico o WhatsApp.",
+  "fecha_publicacion": "2026-11-22",
+  "fecha_vencimiento": "2026-12-02",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50496601995",
+  "telefono": "",
+  "correo": "corsario_restaurante@outlook.com",
+  "whatsapps": [
+    "50496601995"
+  ],
+  "telefonos": [],
+  "correos": [
+    "corsario_restaurante@outlook.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261121-511",
   "titulo": "Asistente de Ventas",
   "empresa": "Farmacias del Ahorro",
