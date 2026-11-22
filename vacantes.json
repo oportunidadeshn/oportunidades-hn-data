@@ -2,6 +2,113 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261121-511",
+  "titulo": "Asistente de Ventas",
+  "empresa": "Farmacias del Ahorro",
+  "ciudad": "Santa Bárbara",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Brindar atención al cliente e incrementar el volumen de ventas, dando a conocer la gama de productos disponibles en la farmacia.",
+  "requisitos": [
+    "Secundaria completa, indispensable.",
+    "Experiencia en farmacia; no es indispensable.",
+    "Experiencia mínima de 6 meses en ventas.",
+    "Comunicación asertiva.",
+    "Conocimiento en ventas.",
+    "Manejo básico de Microsoft Office."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV e indica en el asunto: AV - SANTA BARBARA.",
+  "fecha_publicacion": "2026-11-21",
+  "fecha_vencimiento": "2026-12-01",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "vacanteshn@farmavalue.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "vacanteshn@farmavalue.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261121-512",
+  "titulo": "Contador(a) Junior",
+  "empresa": "Empresa confidencial",
+  "ciudad": "San Pedro Sula, Choloma",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Se busca Contador(a) Junior para trabajar en el sector de San Pedro Sula o Choloma.",
+  "requisitos": [
+    "Residencia en el sector de San Pedro Sula o Choloma.",
+    "Experiencia laboral de 2 a 3 años en el puesto.",
+    "Licenciatura en Contaduría y Finanzas.",
+    "Conocimiento básico de leyes fiscales y tributarias.",
+    "Experiencia en asientos contables, conciliaciones bancarias y cierres mensuales.",
+    "Disponibilidad de tiempo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum mediante WhatsApp.",
+  "fecha_publicacion": "2026-11-21",
+  "fecha_vencimiento": "2026-12-01",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432009154",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50432009154"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261121-513",
+  "titulo": "Asistente de Servicios Financieros",
+  "empresa": "RSM Honduras",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "RSM Honduras busca un(a) Asistente de Servicios Financieros para su oficina en Tegucigalpa. La posición ofrece la oportunidad de desarrollar una carrera en una firma de auditoría, impuestos y consultoría.",
+  "requisitos": [
+    "Licenciatura o ser pasante en Contaduría Pública y Finanzas.",
+    "Experiencia mínima de 1 año en asuntos contables y fiscales del sector privado.",
+    "Disponibilidad para viajar.",
+    "Género indistinto."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-21",
+  "fecha_vencimiento": "2026-12-01",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "contrataciones@rsm.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "contrataciones@rsm.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261121-509",
   "titulo": "Técnico Mecánico Industrial",
   "empresa": "Pollos El Cortijo",
