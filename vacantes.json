@@ -2,6 +2,38 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261123-540",
+  "titulo": "Atención al Cliente - Temporada Navideña",
+  "empresa": "Happy Valley",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Happy Valley busca personal para atención al cliente durante la temporada navideña 2026 en Tegucigalpa.",
+  "requisitos": [
+    "Tener entre 18 y 25 años.",
+    "No se requiere experiencia previa.",
+    "Ser una persona proactiva y dinámica."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-23",
+  "fecha_vencimiento": "2026-12-03",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "happyvalleytgu@outlook.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": ["happyvalleytgu@outlook.com"],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261122-533",
   "titulo": "Asesor de Ventas Senior",
   "empresa": "Vehico Motors",
