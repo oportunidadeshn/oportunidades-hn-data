@@ -2,6 +2,49 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261123-554",
+  "titulo": "Auxiliares de Enfermería",
+  "empresa": "Hospital Católico Universitario Nuestra Señora de Suyapa",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Brindar atención de enfermería con vocación de servicio y un trato humanizado a los pacientes.",
+  "requisitos": [
+    "Ser mayor de 21 años.",
+    "Tener título de Auxiliar de Enfermería emitido por un centro de formación acreditado por la SESAL.",
+    "Experiencia indispensable de un año en atención hospitalaria o clínicas complejas, comprobable mediante referencias laborales.",
+    "Habilidad en ofimática y registros hospitalarios digitales (HIS).",
+    "Disponibilidad para horarios y turnos rotativos.",
+    "Integrar la fe cristiana en la vida profesional.",
+    "Ser una persona activa, dinámica, con iniciativa y disposición para aprender rápidamente.",
+    "Capacidad para trabajar en equipos multidisciplinarios.",
+    "Habilidades de comunicación efectiva, organización y relaciones interpersonales.",
+    "Excelente presentación."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Escanea el código QR del anuncio y completa el formulario de postulación. Fecha límite: 15 de diciembre de 2026.",
+  "fecha_publicacion": "2026-11-23",
+  "fecha_vencimiento": "2026-12-15",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50498000019"
+  ],
+  "telefonos": [
+    "50422803500"
+  ],
+  "correos": [],
+  "url_aplicar": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Eg0dkY0rQkCzAHNh3QQX9toIUqr0_qlIkdMGmHZXjB1UMDIzMUhGWlBDNzlES1BWTzlWMU9JRElRSS4u&origin=QRCode&qrcodeorigin=presentation&route=shorturl"
+},
+    
+    {
   "id": "ohn-20261123-550",
   "titulo": "Administrador(a) General",
   "empresa": "Junta Administradora del Sistema de Agua Potable y Saneamiento de Santa Lucía (JASAP)",
