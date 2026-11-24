@@ -2,6 +2,82 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261124-555",
+  "titulo": "Atención al Cliente / Caja",
+  "empresa": "Discovery",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Atender a los clientes y realizar labores de caja.",
+  "requisitos": [
+    "Experiencia en atención al cliente.",
+    "Manejo de caja y dinero.",
+    "Conocimiento básico en cierres de caja.",
+    "Ser amable, responsable y proactivo(a).",
+    "Facilidad de comunicación.",
+    "Buena presentación personal.",
+    "Facilidad para trabajar en equipo.",
+    "Honestidad y alto sentido de responsabilidad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante WhatsApp.",
+  "fecha_publicacion": "2026-11-24",
+  "fecha_vencimiento": "2026-12-04",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50487664535",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50487664535"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261124-556",
+  "titulo": "Personal para Redes Sociales",
+  "empresa": "INMECRO Plus",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Apoyar la gestión de redes sociales y brindar atención a los clientes.",
+  "requisitos": [
+    "Ser mayor de edad.",
+    "Actitud positiva.",
+    "Disponibilidad de tiempo.",
+    "Manejo y conocimiento de redes sociales.",
+    "Buenas habilidades de atención al cliente.",
+    "Buena presencia y facilidad de comunicación.",
+    "Proactividad, creatividad y responsabilidad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-24",
+  "fecha_vencimiento": "2026-12-04",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "jventas-plustgu@inmecro.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "jventas-plustgu@inmecro.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261123-554",
   "titulo": "Auxiliares de Enfermería",
   "empresa": "Hospital Católico Universitario Nuestra Señora de Suyapa",
