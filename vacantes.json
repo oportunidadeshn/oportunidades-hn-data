@@ -2,6 +2,164 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261123-550",
+  "titulo": "Administrador(a) General",
+  "empresa": "Junta Administradora del Sistema de Agua Potable y Saneamiento de Santa Lucía (JASAP)",
+  "ciudad": "Santa Lucía",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Administrar las operaciones de la Junta Administradora del Sistema de Agua Potable y Saneamiento de Santa Lucía.",
+  "requisitos": [
+    "Licenciatura en Administración de Empresas, Contaduría, Finanzas o carrera afín; también se considera pasante avanzado con experiencia.",
+    "Mínimo 2 años de experiencia en administración, contabilidad y manejo de personal.",
+    "Manejo avanzado de Excel, facturación y presupuestos.",
+    "Residencia en Santa Lucía o zonas aledañas, preferiblemente.",
+    "Antecedentes penales y policiales vigentes."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV con referencias y aspiración salarial por correo o entrégalo en físico en las oficinas de JASAP. Indica como asunto: Aplicación Puesto Administrador(a) JASAP. Fecha límite: 5 de diciembre de 2026.",
+  "fecha_publicacion": "2026-11-23",
+  "fecha_vencimiento": "2026-12-05",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "juntajasap@yahoo.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "juntajasap@yahoo.com",
+    "jsladmin24@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261123-551",
+  "titulo": "Regente",
+  "empresa": "Farmacias del Ahorro",
+  "ciudad": "La Ceiba",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Valorar, identificar y resolver problemas relacionados con los medicamentos, procurando la efectividad de los tratamientos prescritos.",
+  "requisitos": [
+    "Doctor(a) en Química y Farmacia, requisito indispensable.",
+    "Estar colegiado(a) en el Colegio de Químicos y Farmacéuticos de Honduras, requisito indispensable.",
+    "Experiencia en establecimientos farmacéuticos, deseable.",
+    "Conocimiento de técnicas de venta.",
+    "Manejo básico de MS Office.",
+    "Manejo y control de inventarios.",
+    "Manejo de medicamentos controlados."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Capacitaciones mensuales.",
+    "Bonos por resultados."
+  ],
+  "como_aplicar": "Envía tu CV e indica en el asunto: REGENTE –CEIBA.",
+  "fecha_publicacion": "2026-11-23",
+  "fecha_vencimiento": "2026-12-03",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "vacanteshn@farmavalue.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "vacanteshn@farmavalue.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261123-552",
+  "titulo": "Regente",
+  "empresa": "Farmacias del Ahorro",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Salud",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Valorar, identificar y resolver problemas relacionados con los medicamentos, procurando la efectividad de los tratamientos prescritos.",
+  "requisitos": [
+    "Doctor(a) en Química y Farmacia, requisito indispensable.",
+    "Estar colegiado(a) en el Colegio de Químicos y Farmacéuticos de Honduras, requisito indispensable.",
+    "Experiencia en establecimientos farmacéuticos, deseable.",
+    "Conocimiento de técnicas de venta.",
+    "Manejo básico de MS Office.",
+    "Manejo y control de inventarios.",
+    "Manejo de medicamentos controlados."
+  ],
+  "beneficios": [
+    "Salario competitivo.",
+    "Capacitaciones mensuales.",
+    "Bonos por resultados."
+  ],
+  "como_aplicar": "Envía tu CV e indica en el asunto: REGENTE –SPS.",
+  "fecha_publicacion": "2026-11-23",
+  "fecha_vencimiento": "2026-12-03",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "vacanteshn@farmavalue.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "vacanteshn@farmavalue.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261123-553",
+  "titulo": "Asistente de Tienda",
+  "empresa": "Grupo MACDEL",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Brindar un excelente servicio y asesoría sobre productos para contribuir a la satisfacción de los clientes.",
+  "requisitos": [
+    "Bachillerato completo o ser pasante universitario de Mercadotecnia, Administración de Empresas o carrera afín.",
+    "Mínimo 1 año de experiencia en servicio al cliente y caja.",
+    "Manejo del sistema SAP.",
+    "Conocimiento de inventarios.",
+    "Conocimiento de apertura y cierre de caja.",
+    "Contar con transporte propio.",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV por correo e indica en el asunto la plaza de interés: Asistente de Tienda. También puedes comunicarte por WhatsApp.",
+  "fecha_publicacion": "2026-11-23",
+  "fecha_vencimiento": "2026-12-03",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432255789",
+  "telefono": "",
+  "correo": "lpalm@grupomacdel.com",
+  "whatsapps": [
+    "50432255789"
+  ],
+  "telefonos": [],
+  "correos": [
+    "lpalm@grupomacdel.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261123-547",
   "titulo": "Enfermera",
   "empresa": "Servirad",
