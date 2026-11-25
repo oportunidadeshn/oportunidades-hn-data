@@ -2,6 +2,145 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261125-589",
+  "titulo": "Mecánico Industrial",
+  "empresa": "Empresa confidencial",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Plaza para mecánico industrial en San Pedro Sula.",
+  "requisitos": [
+    "Experiencia mínima de un año en el área de mecánica industrial.",
+    "Disponibilidad para trabajar en horarios rotativos.",
+    "Responsabilidad y compromiso.",
+    "Capacidad para trabajar en equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-25",
+  "fecha_vencimiento": "2026-12-05",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "504 3171-1310",
+  "telefono": "",
+  "correo": "empleatesps@gmail.com",
+  "whatsapps": [
+    "504 3171-1310"
+  ],
+  "telefonos": [],
+  "correos": [
+    "empleatesps@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261125-590",
+  "titulo": "Asistente Operativo",
+  "empresa": "ENT",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "ENT busca un(a) asistente operativo(a) en San Pedro Sula, con disponibilidad para viajar.",
+  "requisitos": [
+    "Residir en San Pedro Sula.",
+    "Tener entre 25 y 38 años.",
+    "Disponibilidad para viajar.",
+    "Experiencia en logística, inventarios y controles operativos."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-25",
+  "fecha_vencimiento": "2026-12-05",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "admon@ent.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "admon@ent.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261125-591",
+  "titulo": "Temporal de Mercadeo",
+  "empresa": "ENT",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Plaza temporal de Mercadeo en San Pedro Sula, con actividades de gestión de redes sociales, atención al cliente, creación de contenido y estudios de mercado.",
+  "requisitos": [],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo. Indica en el asunto: Temporal de Mercadeo.",
+  "fecha_publicacion": "2026-11-25",
+  "fecha_vencimiento": "2026-12-05",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "admon@ent.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "admon@ent.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261125-592",
+  "titulo": "Monitorista",
+  "empresa": "Servicios Múltiples del Caribe",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Transporte y Distribución",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "La plaza de Monitorista es para el área de monitoreo de las operaciones de transporte y rastreo de unidades.",
+  "requisitos": [
+    "Experiencia mínima de un año en puestos de monitoreo, rastreo o control de flota.",
+    "Conocimiento de sistemas de rastreo GPS y plataformas de monitoreo.",
+    "Habilidad para tomar decisiones y manejar incidentes.",
+    "Excelentes habilidades de comunicación y atención.",
+    "Disponibilidad para trabajar en turnos rotativos.",
+    "Ser responsable, atento, organizado y comprometido con la seguridad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-25",
+  "fecha_vencimiento": "2026-12-05",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "504 9881-8019",
+  "telefono": "",
+  "correo": "hengly.emcon@gmail.com",
+  "whatsapps": [
+    "504 9881-8019",
+    "504 9369-5530"
+  ],
+  "telefonos": [],
+  "correos": [
+    "hengly.emcon@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261125-595",
   "titulo": "Técnico Biomédico",
   "empresa": "Nipro",
