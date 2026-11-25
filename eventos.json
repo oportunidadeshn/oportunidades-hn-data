@@ -1,7 +1,7 @@
 {
   "actualizado": "2026-10-31",
   "eventos": [
- {
+{
   "id": "ohn-20261111-28",
   "titulo": "Feria de Empleo en Tocoa",
   "empresa": "El Palacio de los Niños",
@@ -944,6 +944,25 @@
   "informacion_participacion": "Completa el formulario mediante el botón de inscripción. Hora de finalización y requisitos de participación: No especificado.",
   "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvYF2C3Fv73iKx5YiCYRX-P8axF5prl5zbwc8Nn2hrj3fVmrxNTVuLxUAKBqLuzolahvchQu09AYIn61hWHmbLjoIf6lttV8CQW_h9HSQGIhtLykqij7FQBY8icJNyFIjducsxXEtQSndsiDW4uzXSLXkzt_mtt4ugmYqfPVwsNc1VVU1UTZzQUA7Tl6E/s1350/1001608634.jpg",
   "enlace": "https://forms.gle/HuKrK4AaKSdZmart9",
+  "whatsapp": "",
+  "destacado": false,
+  "activo": true
+    },
+
+    {
+  "titulo": "Feria de Empleo de INFOP con SAFE Security y Pupusería Camino del Valle",
+  "organizador": "INFOP, SAFE Security y Pupusería Camino del Valle",
+  "categoria": "Ferias de empleo",
+  "ciudad": "Tegucigalpa",
+  "modalidad": "Presencial",
+  "fecha_inicio": "2026-11-26",
+  "fecha_fin": "2026-11-26",
+  "hora": "8:00 a. m. a 4:00 p. m.",
+  "lugar": "Instalaciones de INFOP Miraflores, Tegucigalpa",
+  "descripcion": "Feria de empleo con más de 60 vacantes de guardias de seguridad empresarial y residencial en SAFE Security, además de plazas de cajero y cocineros en Pupusería Camino del Valle. El evento se realiza en Tegucigalpa; las vacantes de Pupusería Camino del Valle son para trabajar en Danlí, El Paraíso.",
+  "informacion_participacion": "Asistir a las instalaciones de INFOP Miraflores durante el horario anunciado. Para más información, comunicarse al 9494-0459 o 9540-8914, o escribir a empleo@infop.hn.",
+  "imagen": "https://scontent.ftgu1-3.fna.fbcdn.net/v/t39.99422-6/916181021_989640057553599_1510687529979130696_n.png?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=s1254x1254&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHcvfaSnZbZ5zzKnpElMDLWHtZAsul08XMe1kCy6XTxc08JsQpvFw8SQbiVu6UYcwPUauBsz2jSkRzlBOINlHpF&_nc_ohc=y6qUk5mvTVoQ7kNvwGBRyF6&_nc_oc=Adq_r2lzCJ6fDSpg1bHVbD5fSeRfqFaReQomad-XGFH4uDg3eHHCbQUcaZ0ACuag9UE&_nc_zt=14&_nc_ht=scontent.ftgu1-3.fna&_nc_gid=DAk3AEkQAFra5J2KL-vsbA&_nc_ss=7b3a8&oh=00_AQTXt_txsy7g7JfeEbyGJkSn10cC-8RwPlbmMRIYdBJJjQ&oe=6B0CCA43",
+  "enlace": "",
   "whatsapp": "",
   "destacado": false,
   "activo": true
