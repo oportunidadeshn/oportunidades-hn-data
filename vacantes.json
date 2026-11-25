@@ -2,6 +2,43 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261124-563",
+  "titulo": "Mensajero",
+  "empresa": "LogeX",
+  "ciudad": "La Ceiba",
+  "categoria": "Transporte y Distribución",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Realizar labores de mensajería en la ciudad de La Ceiba.",
+  "requisitos": [
+    "Ser mayor de 18 años.",
+    "Poseer motocicleta propia.",
+    "Tener licencia de conducir vigente.",
+    "Residir en La Ceiba.",
+    "Tener excelente conocimiento de las rutas y direcciones de la ciudad.",
+    "Excelente presentación personal.",
+    "Alto sentido de responsabilidad, puntualidad y compromiso.",
+    "Honestidad y orientación al cumplimiento de sus funciones."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum vitae por WhatsApp.",
+  "fecha_publicacion": "2026-11-24",
+  "fecha_vencimiento": "2026-12-04",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431833862",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": ["50431833862"],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261124-557",
   "titulo": "Dependiente con Moto",
   "empresa": "Grupo Farsiman",
