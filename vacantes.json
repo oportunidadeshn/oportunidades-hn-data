@@ -2,6 +2,73 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261125-593",
+  "titulo": "Auxiliar de Bodega",
+  "empresa": "Pinturas Americanas",
+  "ciudad": "Comayagua",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Pinturas Americanas busca un(a) auxiliar de bodega para Comayagua.",
+  "requisitos": [
+    "Graduado de educación media.",
+    "Experiencia como auxiliar de bodega o en puestos similares.",
+    "Habilidad para trabajar en equipo.",
+    "Disponibilidad de horario e inmediata."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-25",
+  "fecha_vencimiento": "2026-12-05",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "maria.meza@pinturasamericanas.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "maria.meza@pinturasamericanas.com",
+    "giobana.molieri@pinturasamericanas.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261125-594",
+  "titulo": "Entregador de Mercadería",
+  "empresa": "HERCO",
+  "ciudad": "Choluteca",
+  "categoria": "Transporte y Distribución",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "HERCO busca un(a) entregador(a) de mercadería para Choluteca.",
+  "requisitos": [
+    "Pasante o graduado universitario de carreras comerciales o ingenierías.",
+    "Conocimientos de productos ferreteros, manejo de inventario y Microsoft Office.",
+    "Habilidades para resolver problemas, trabajar en equipo, mantener el orden, comunicarse asertivamente y organizarse."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Completa la solicitud de empleo en el portal.",
+  "fecha_publicacion": "2026-11-25",
+  "fecha_vencimiento": "2026-12-05",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": "https://portal.herco.hn/solicitud-colaborador"
+},
+    
+    {
   "id": "ohn-20261125-589",
   "titulo": "Mecánico Industrial",
   "empresa": "Empresa confidencial",
