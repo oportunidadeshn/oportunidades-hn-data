@@ -2,6 +2,90 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261126-001",
+  "titulo": "Vendedor y supervisor de rutas",
+  "empresa": "Empresa confidencial",
+  "ciudad": "Tocoa",
+  "categoria": "Transporte y Distribución",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "Se busca personal para la venta de agua purificada y la supervisión de rutas.",
+  "requisitos": [
+    "Interés por las ventas y por obtener buenos ingresos."
+  ],
+  "beneficios": [
+    "Estabilidad laboral y buen salario."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o comunícate por WhatsApp. También puedes presentarte en Agua El Valle, colonia Génesis, Tocoa, Colón.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-26",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50495696020",
+  "telefono": "",
+  "correo": "orlinperalta@yahoo.es",
+  "whatsapps": [
+    "50495696020",
+    "50432301965"
+  ],
+  "telefonos": [],
+  "correos": [
+    "orlinperalta@yahoo.es",
+    "yostinpezu17@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+
+    {
+  "id": "ohn-20261126-002",
+  "titulo": "Jefe de Tienda",
+  "empresa": "MOVESA",
+  "ciudad": "Santa Rosa de Copán",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "MOVESA busca un Jefe de Tienda para Santa Rosa de Copán.",
+  "requisitos": [
+    "Experiencia en ventas de motocicletas y repuestos.",
+    "Manejo de personal.",
+    "Ser pasante o graduado universitario.",
+    "Orientación al logro de metas.",
+    "Manejo de KPI.",
+    "Liderazgo.",
+    "Vocación de servicio al cliente.",
+    "Residir en Santa Rosa de Copán."
+  ],
+  "beneficios": [
+    "Contrato permanente.",
+    "Convenios con bancos y cooperativas.",
+    "Seguro médico y de vida.",
+    "Comisiones por cumplimiento de metas."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo con el asunto «JEFE TIENDA SANTA ROSA». También puedes postularte por WhatsApp.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433895404",
+  "telefono": "",
+  "correo": "empleos@grupomovesa.com",
+  "whatsapps": [
+    "50433895404"
+  ],
+  "telefonos": [],
+  "correos": [
+    "empleos@grupomovesa.com"
+  ],
+  "url_aplicar": ""
+    },
+    
+    {
   "id": "ohn-20261125-606",
   "titulo": "Ejecutiva de Ventas",
   "empresa": "Dental Shop",
