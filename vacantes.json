@@ -2,6 +2,47 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261126-004",
+  "titulo": "Técnico Electricista Industrial",
+  "empresa": "HDI Steel",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Ejecutar trabajos de instalación, montaje y mantenimiento de sistemas eléctricos industriales para contribuir al funcionamiento seguro y eficiente de los equipos y maquinaria de planta. Las funciones incluyen instalar y conectar sistemas eléctricos, tableros y controles de mando; montar tuberías conduit, canalizaciones y cableado; realizar mantenimiento preventivo y correctivo; conectar motores y componentes eléctricos industriales; y verificar el funcionamiento de circuitos y sistemas eléctricos.",
+  "requisitos": [
+    "Técnico en Electricidad Industrial o formación afín.",
+    "Experiencia en montaje de instalaciones eléctricas industriales.",
+    "Conocimiento de electricidad de fuerza y control.",
+    "Dominio de doblado e instalación de tubería conduit.",
+    "Capacidad para interpretar planos y diagramas eléctricos.",
+    "Manejo de herramientas y equipos de medición eléctrica.",
+    "Conocimiento de normas de seguridad eléctrica industrial."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50488106974",
+  "telefono": "",
+  "correo": "eorellana@hdisteel.com",
+  "whatsapps": [
+    "50488106974"
+  ],
+  "telefonos": [],
+  "correos": [
+    "eorellana@hdisteel.com",
+    "ejecutivo.th@hdisteel.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261126-003",
   "titulo": "Oficial de Campo",
   "empresa": "Children International",
