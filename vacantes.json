@@ -2,6 +2,49 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261126-003",
+  "titulo": "Oficial de Campo",
+  "empresa": "Children International",
+  "ciudad": "Vida Nueva, Cofradía, Copán Ruinas, Las Minas, El Progreso, Santa Rita, Quimistán",
+  "categoria": "Educación",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Trabajo directo con niñas, niños, jóvenes, familias y comunidades, impulsando el Modelo de Camino de la Oportunidad mediante relaciones efectivas, soluciones creativas y compromiso con el desarrollo comunitario.",
+  "requisitos": [
+    "Experiencia en trabajo social, desarrollo comunitario, docencia o áreas afines.",
+    "Mínimo dos años de experiencia laboral o voluntaria relevante en organizaciones de desarrollo comunitario o de apadrinamiento.",
+    "Fuertes habilidades de comunicación, relaciones interpersonales y coaching.",
+    "Manejo de MS Office y herramientas digitales.",
+    "Proactividad, empatía, integridad y compromiso social.",
+    "Automotivación y alto nivel de compasión e integridad para las causas sociales y el trabajo con la niñez y juventud.",
+    "Adaptabilidad, resiliencia y capacidad para trabajar en equipo.",
+    "Residir en la zona de la sede de interés o sus alrededores.",
+    "Conducir motocicleta y contar con licencia vigente.",
+    "Disposición para realizar trabajo de campo el 80 % del tiempo.",
+    "Flexibilidad de horarios, incluidos fines de semana y horarios nocturnos según programación.",
+    "Disponibilidad para viajar ocasionalmente a otras localidades donde la organización tiene presencia."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo a más tardar el 29 de noviembre de 2026 e indica en el asunto «Oficial de Campo / Sede de interés». La red social donde se divulgó la vacante no es un canal oficial para aplicar.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-11-29",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "jobscareers@sps-children.org.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "jobscareers@sps-children.org.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261126-001",
   "titulo": "Vendedor y supervisor de rutas",
   "empresa": "Empresa confidencial",
