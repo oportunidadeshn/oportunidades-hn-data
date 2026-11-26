@@ -2,6 +2,42 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261126-006",
+  "titulo": "Auxiliar de Proveeduría",
+  "empresa": "Prosegur Honduras",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Responsable de ejecutar y supervisar tareas relacionadas con la gestión y control de inventarios, asegurando la precisión, integridad y disponibilidad de los activos.",
+  "requisitos": [
+    "Mínimo tres años de experiencia comprobable en posiciones similares, preferiblemente en gestión de inventarios, almacén o logística.",
+    "Pasante o egresado de Ingeniería Logística, Administración o carreras afines.",
+    "Conocimiento indispensable de metodologías de control de inventarios EOQ.",
+    "Manejo avanzado de herramientas ofimáticas, especialmente Microsoft Excel y Oracle.",
+    "Experiencia en el uso de sistemas de gestión de inventarios y sistemas ERP."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Postúlate mediante el enlace de aplicación o comunícate mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494599191",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50494599191"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": "https://lnkd.in/e8FKAhuj"
+},
+    
+    {
   "id": "ohn-20261126-005",
   "titulo": "Secretaria Administrativa",
   "empresa": "Pisti Yo",
