@@ -2,6 +2,78 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261125-604",
+  "titulo": "Docentes para distintas áreas",
+  "empresa": "Liceo Católico Cristo Rey",
+  "ciudad": "Siguatepeque",
+  "categoria": "Educación",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "El Liceo Católico Cristo Rey busca profesionales con grado de licenciatura para contribuir a la formación académica y humana de sus estudiantes.",
+  "requisitos": [
+    "Grado de licenciatura en el área correspondiente.",
+    "Áreas solicitadas: Español, Inglés, Matemáticas, Comerciales, Ciencias Sociales, Psicología, Ciencias Naturales, Informática, Educación Física y Artística."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Presenta tu currículum vitae en las oficinas administrativas, en Administración, de lunes a viernes, de 8:00 a. m. a 3:00 p. m.",
+  "fecha_publicacion": "2026-11-25",
+  "fecha_vencimiento": "2026-12-05",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50496860249",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50496860249"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261125-605",
+  "titulo": "Líder de Producción",
+  "empresa": "Invema",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Manufactura, Producción y Calidad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Liderar la operación del área de Plástico, asegurando la continuidad de la producción, la correcta administración del personal y el cumplimiento de los estándares de seguridad, calidad y eficiencia operativa.",
+  "requisitos": [
+    "Graduado universitario en Ingeniería Industrial.",
+    "Mínimo un año de experiencia en puestos similares.",
+    "Liderazgo y supervisión de personal operativo.",
+    "Manejo básico o intermedio de Microsoft Office, especialmente Excel, y elaboración de reportes.",
+    "Disponibilidad inmediata.",
+    "Residir en San Pedro Sula o alrededores."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo o consulta por WhatsApp.",
+  "fecha_publicacion": "2026-11-25",
+  "fecha_vencimiento": "2026-12-05",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494352656",
+  "telefono": "",
+  "correo": "reclutamiento@invemacorp.com",
+  "whatsapps": [
+    "50494352656"
+  ],
+  "telefonos": [],
+  "correos": [
+    "reclutamiento@invemacorp.com",
+    "rrhh@invemacorp.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261125-602",
   "titulo": "Auxiliar de Contabilidad",
   "empresa": "Farmacias del Ahorro",
