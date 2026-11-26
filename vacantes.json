@@ -2,6 +2,80 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261125-602",
+  "titulo": "Auxiliar de Contabilidad",
+  "empresa": "Farmacias del Ahorro",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Planificar, organizar y supervisar el proceso contable, proporcionando información confiable y oportuna para la toma de decisiones y el cumplimiento de obligaciones.",
+  "requisitos": [
+    "Licenciatura en Contaduría Pública y Finanzas, graduado o egresado, o ser pasante universitario de carreras afines.",
+    "Mínimo dos años de experiencia en puestos similares.",
+    "Conocimiento de procedimientos contables, registro de asientos contables y costeo.",
+    "Integridad, confidencialidad y ética profesional."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo. Indica en el asunto: AUXILIAR CONTABLE - TGU.",
+  "fecha_publicacion": "2026-11-25",
+  "fecha_vencimiento": "2026-12-05",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "vacanteshn@farmavalue.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "vacanteshn@farmavalue.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261125-603",
+  "titulo": "Gestor de Cobro Telefónico",
+  "empresa": "Ikiahn Recovery",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Ikiahn Recovery busca un(a) gestor(a) de cobro telefónico para Tegucigalpa.",
+  "requisitos": [
+    "Educación secundaria completa.",
+    "Ser pasante o graduado universitario.",
+    "Experiencia en atención al cliente, preferiblemente en Call Center.",
+    "Disponibilidad de horarios.",
+    "Experiencia mínima de seis meses.",
+    "Manejo intermedio o avanzado de Microsoft Office."
+  ],
+  "beneficios": [
+    "Beneficios de ley.",
+    "Salario base más comisiones."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-25",
+  "fecha_vencimiento": "2026-12-05",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talentohumano@ikiahn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "talentohumano@ikiahn.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261125-600",
   "titulo": "Asistente Administrativo de la Oficina de Servicios Generales",
   "empresa": "Embajada de Estados Unidos en Managua",
