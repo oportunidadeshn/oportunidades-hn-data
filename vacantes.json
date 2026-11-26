@@ -935,9 +935,13 @@
   "whatsapp": "50499903960",
   "telefono": "",
   "correo": "empleo@nauffar.com",
-  "whatsapps": ["50499903960"],
+  "whatsapps": [
+    "50499903960"
+  ],
   "telefonos": [],
-  "correos": ["empleo@nauffar.com"],
+  "correos": [
+    "empleo@nauffar.com"
+  ],
   "url_aplicar": ""
 },
     
