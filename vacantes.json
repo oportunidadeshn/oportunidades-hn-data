@@ -2,6 +2,195 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261126-051",
+  "titulo": "Vendedor de Campo",
+  "empresa": "Odontomedica",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Realizar ventas de campo.",
+  "requisitos": [
+    "Secundaria completa o pasante universitario.",
+    "Experiencia en ventas.",
+    "Motocicleta propia.",
+    "Manejo de Word y Excel.",
+    "Buena presentación y comunicación.",
+    "Residir en San Pedro Sula."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum e indica el puesto de interés mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50496130953",
+  "telefono": "",
+  "correo": "sasso.odontomedica@gmail.com",
+  "whatsapps": [
+    "50496130953"
+  ],
+  "telefonos": [],
+  "correos": [
+    "sasso.odontomedica@gmail.com",
+    "Odontomed-kbarahona@hotmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261126-052",
+  "titulo": "Conserje y Mensajero",
+  "empresa": "Odontomedica",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Servicios Generales y Oficios",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Realizar mensajería, entrega de documentos y apoyar en el abastecimiento de insumos.",
+  "requisitos": [
+    "Motocicleta propia.",
+    "Residir en San Pedro Sula."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu currículum e indica el puesto de interés mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50496130953",
+  "telefono": "",
+  "correo": "sasso.odontomedica@gmail.com",
+  "whatsapps": [
+    "50496130953"
+  ],
+  "telefonos": [],
+  "correos": [
+    "sasso.odontomedica@gmail.com",
+    "Odontomed-kbarahona@hotmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261126-053",
+  "titulo": "Licenciado en Mercadeo",
+  "empresa": "Odontomedica",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Marketing, Comunicación y Diseño",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Vacante para integrarse al equipo de marketing.",
+  "requisitos": [
+    "Sexo femenino.",
+    "Edad entre 21 y 30 años.",
+    "Experiencia en ventas.",
+    "Graduada en Mercadeo.",
+    "Buena presentación.",
+    "Capacidad de negociación.",
+    "Computadora propia.",
+    "Residir en Tegucigalpa."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50496130953",
+  "telefono": "",
+  "correo": "sasso.odontomedica@gmail.com",
+  "whatsapps": [
+    "50496130953",
+    "50492887478"
+  ],
+  "telefonos": [],
+  "correos": [
+    "sasso.odontomedica@gmail.com",
+    "Odontomed-kbarahona@hotmail.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261126-054",
+  "titulo": "Jefe de Call Center y Servicio a Domicilio",
+  "empresa": "FarmaFácil",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Atención al Cliente y Call Center / BPO",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Coordinar el área de call center y el servicio a domicilio.",
+  "requisitos": [
+    "Licenciatura o carrera técnica en Administración de Empresas, Mercadotecnia o área afín.",
+    "Experiencia mínima de 3 a 5 años en atención al cliente, call center y ventas telefónicas.",
+    "Experiencia demostrable de 1 a 2 años en roles de liderazgo en servicio al cliente.",
+    "Excelentes habilidades de comunicación y negociación."
+  ],
+  "beneficios": [
+    "Estabilidad laboral.",
+    "Salarios competitivos.",
+    "Seguro médico privado."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "recursos.humanos@farmafacilhn.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "recursos.humanos@farmafacilhn.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261126-055",
+  "titulo": "Encargado de Hotel y Baño de Mascotas",
+  "empresa": "Clínica Veterinaria Soto",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Servicios Generales y Oficios",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Encargarse del hotel y baño de mascotas.",
+  "requisitos": [
+    "Experiencia en el área.",
+    "Responsabilidad y amor por los animales.",
+    "Buen trato con mascotas y clientes.",
+    "Capacidad para trabajar en equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "sotoclinicaveterinaria@gmail.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "sotoclinicaveterinaria@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261126-049",
   "titulo": "Aseo",
   "empresa": "Celaque",
