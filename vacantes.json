@@ -2,6 +2,43 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261127-002",
+  "titulo": "Asistente de Proveeduría",
+  "empresa": "Avance Honduras / Grupo MSP",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Coordinar y ejecutar el flujo de suministros y materiales para las obras y operaciones de la empresa. Gestionar pedidos, inventarios, negociaciones con proveedores, pagos y créditos, controlando los costos frente al presupuesto asignado.",
+  "requisitos": [
+    "Graduado(a) en Ingeniería Civil.",
+    "Dos años de experiencia en proveeduría, compras, logística o gestión de suministros en construcción o áreas afines.",
+    "Manejo de inventarios y control de costos presupuestarios.",
+    "Conocimiento del mercado local de materiales de construcción y acabados.",
+    "Experiencia en gestión administrativa de créditos y pagos a proveedores.",
+    "Habilidades de negociación, organización, comunicación y resolución de problemas."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo o postúlate a través del sitio web indicado.",
+  "fecha_publicacion": "2026-11-27",
+  "fecha_vencimiento": "2026-12-07",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "empleos@avanceingenieros.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "empleos@avanceingenieros.com"
+  ],
+  "url_aplicar": "https://www.avanceingenieros.com/empleos"
+},
+    
+    {
   "id": "ohn-20261127-100512-114",
   "titulo": "Atención al Cliente en Ruta",
   "empresa": "Coadition Outsourcing",
