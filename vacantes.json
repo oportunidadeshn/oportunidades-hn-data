@@ -2,6 +2,81 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261126-032",
+  "titulo": "Coordinador de Calidad",
+  "empresa": "Corporación Nutrixa",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Manufactura, Producción y Calidad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Liderar los procesos de calidad e inocuidad alimentaria, asegurando el cumplimiento de estándares internos, regulatorios y de certificación mediante la estandarización de procesos, el control de materias primas, la gestión de riesgos y la mejora continua.",
+  "requisitos": [
+    "Título universitario en Ingeniería en Alimentos, Ingeniería Industrial, Ingeniería Química, Microbiología, Agroindustria o carrera afín.",
+    "De 3 a 5 años de experiencia liderando sistemas de calidad en plantas de alimentos para consumo humano.",
+    "Experiencia en gestión de auditorías y certificaciones de inocuidad alimentaria.",
+    "Conocimiento de BPM, HACCP, ISO 22000, FSSC 22000, programas prerrequisito y requisitos regulatorios.",
+    "Experiencia en control de procesos, gestión de proveedores y evaluación de materias primas.",
+    "Manejo de indicadores, análisis estadístico y herramientas de mejora continua.",
+    "Capacidad para liderar equipos multidisciplinarios.",
+    "Competencias de liderazgo, análisis y solución de problemas, trabajo en equipo, orientación a resultados y mejora continua."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "diana.soto@grupoalza.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "diana.soto@grupoalza.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261126-033",
+  "titulo": "Supervisor de Mantenimiento",
+  "empresa": "Corporación Nutrixa",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Liderar y coordinar el mantenimiento de maquinaria, equipos y líneas de producción para garantizar su disponibilidad, confiabilidad y funcionamiento. Asegurar los programas de mantenimiento preventivo, predictivo y correctivo, optimizar recursos y reducir tiempos de paro.",
+  "requisitos": [
+    "Ingeniería en Mecatrónica, Electromecánica, Eléctrica o carrera afín.",
+    "De 3 a 5 años de experiencia en puestos similares.",
+    "Experiencia comprobable en mantenimiento industrial en plantas de producción de alimentos.",
+    "Conocimientos en planificación, coordinación y seguimiento de programas de mantenimiento preventivo, predictivo y correctivo de maquinaria y equipos industriales.",
+    "Conocimientos en automatización industrial, sistemas eléctricos y electromecánicos, y equipos de producción.",
+    "Competencias de planificación, liderazgo, resolución de problemas y trabajo en equipo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "diana.soto@grupoalza.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "diana.soto@grupoalza.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261126-028",
   "titulo": "Asistente de Auditoría Interna",
   "empresa": "Útiles de Honduras",
