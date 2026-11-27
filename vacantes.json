@@ -2,6 +2,87 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261126-034",
+  "titulo": "Dibujante",
+  "empresa": "REDDCOM",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ingeniería, Arquitectura y Construcción",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Temporal",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Elaboración y actualización de planos.",
+  "requisitos": [
+    "Residir en Tegucigalpa.",
+    "Género femenino.",
+    "Ser pasante de Ingeniería Civil, Arquitectura o carreras afines.",
+    "Conocimiento de AutoCAD.",
+    "Conocimiento intermedio de Excel."
+  ],
+  "beneficios": [
+    "Beneficios de ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "marcela.suazo@reddcomca.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "marcela.suazo@reddcomca.com",
+    "auxiliar.recursoshhn@reddcomca.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261126-035",
+  "titulo": "Recepcionista / Asistente Administrativo",
+  "empresa": "Lexincorp",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Administración y Oficina",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Plaza de recepción y asistencia administrativa.",
+  "requisitos": [
+    "Facilidad de comunicación verbal y escrita en español e inglés; se valorará ser bilingüe.",
+    "Actitud de servicio al cliente.",
+    "Experiencia en el área de asistencia administrativa.",
+    "Capacidad para trabajar bajo presión y en equipo.",
+    "Proactividad, organización y eficiencia en la ejecución de tareas.",
+    "Actitud positiva, empatía y orientación a la resolución de problemas.",
+    "Excelente presentación personal.",
+    "Dominio de Microsoft Office: Word, Excel, PowerPoint y Outlook.",
+    "Habilidad para redactar documentos."
+  ],
+  "beneficios": [
+    "Beneficios de ley.",
+    "Salario de acuerdo con la capacidad."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "infohn@lexincorp.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "infohn@lexincorp.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261126-032",
   "titulo": "Coordinador de Calidad",
   "empresa": "Corporación Nutrixa",
