@@ -2,6 +2,222 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261126-023",
+  "titulo": "Vendedor de Detalle",
+  "empresa": "Grupo Alza",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Comercializar los productos de la compañía y realizar las labores de manera eficiente e innovadora para contribuir al desarrollo de la empresa, incrementar las ventas y alcanzar los objetivos establecidos.",
+  "requisitos": [
+    "Bachiller en Administración o carreras afines.",
+    "Experiencia en ventas en el canal de detalle; deseable experiencia en consumo masivo.",
+    "Poseer motocicleta propia y licencia liviana vigente (indispensable).",
+    "Disponibilidad de horarios.",
+    "Habilidades en ventas y negociación."
+  ],
+  "beneficios": [
+    "Seguro de vida.",
+    "Descuento en universidades.",
+    "Celular y plan corporativo.",
+    "Beneficios en óptica.",
+    "Ahorro en cooperativa.",
+    "Beneficios de ley."
+  ],
+  "como_aplicar": "Postúlate en el portal de empleo o envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432677271",
+  "telefono": "",
+  "correo": "generalistarh.hn@grupoalza.com",
+  "whatsapps": [
+    "50432677271"
+  ],
+  "telefonos": [],
+  "correos": [
+    "generalistarh.hn@grupoalza.com"
+  ],
+  "url_aplicar": "https://www.reclutamientoalzahn.com"
+},
+{
+  "id": "ohn-20261126-024",
+  "titulo": "Facturador",
+  "empresa": "Grupo Alza",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Responsable de realizar la facturación en tiempo y forma, atender a los clientes y controlar y custodiar documentos.",
+  "requisitos": [
+    "Pasante universitario de la Licenciatura en Administración de Empresas, Contaduría Pública o carreras afines.",
+    "De 1 a 2 años de experiencia en facturación, atención al cliente y custodia de documentos.",
+    "Manejo de computadora e impresora.",
+    "Experiencia en manejo de sistemas de inventario.",
+    "Conocimientos fiscales.",
+    "Disponibilidad para trabajar en turno nocturno."
+  ],
+  "beneficios": [
+    "Seguro de vida.",
+    "Descuento en universidades.",
+    "Celular y plan corporativo.",
+    "Beneficios en óptica.",
+    "Ahorro en cooperativa.",
+    "Beneficios de ley."
+  ],
+  "como_aplicar": "Postúlate en el portal de empleo o envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432677271",
+  "telefono": "",
+  "correo": "generalistarh.hn@grupoalza.com",
+  "whatsapps": [
+    "50432677271"
+  ],
+  "telefonos": [],
+  "correos": [
+    "generalistarh.hn@grupoalza.com"
+  ],
+  "url_aplicar": "https://www.reclutamientoalzahn.com"
+},
+{
+  "id": "ohn-20261126-025",
+  "titulo": "Ejecutivo de Ventas Industria",
+  "empresa": "Grupo Alza",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Construir relaciones estratégicas con cuentas clave de distintas industrias de alimentos, captar clientes con potencial de crecimiento y dar seguimiento efectivo a la cartera de clientes.",
+  "requisitos": [
+    "Graduado de Ingeniería Agroindustrial Alimentaria, Ingeniería Química Industrial o carreras afines.",
+    "Experiencia en ventas con clientes industriales, desarrollo de productos cárnicos y formulaciones.",
+    "Orientación al cumplimiento de objetivos e indicadores de ventas.",
+    "Disponibilidad para viajar.",
+    "Residir en Tegucigalpa."
+  ],
+  "beneficios": [
+    "Seguro de vida.",
+    "Descuento en universidades.",
+    "Celular y plan corporativo.",
+    "Beneficios en óptica.",
+    "Ahorro en cooperativa.",
+    "Beneficios de ley."
+  ],
+  "como_aplicar": "Postúlate en el portal de empleo o envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432677271",
+  "telefono": "",
+  "correo": "generalistarh.hn@grupoalza.com",
+  "whatsapps": [
+    "50432677271"
+  ],
+  "telefonos": [],
+  "correos": [
+    "generalistarh.hn@grupoalza.com"
+  ],
+  "url_aplicar": "https://www.reclutamientoalzahn.com"
+},
+{
+  "id": "ohn-20261126-026",
+  "titulo": "Coordinador de Despacho",
+  "empresa": "Grupo Alza",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Coordinar, supervisar y controlar las actividades de despacho y distribución, garantizando el cumplimiento de los programas de entrega, la administración adecuada de los recursos operativos y el liderazgo del personal a cargo para asegurar el servicio, la productividad y la eficiencia logística.",
+  "requisitos": [
+    "Graduado universitario en Ingeniería Industrial, Logística, Mecánica, Administración de Empresas o carreras afines; deseable formación complementaria en logística, distribución o cadena de suministro.",
+    "Mínimo 2 años de experiencia en coordinación de operaciones de despacho y distribución y supervisión de personal operativo.",
+    "Experiencia en planificación de rutas y control de entregas.",
+    "Experiencia en administración de flota propia o tercerizada.",
+    "Experiencia en manejo y seguimiento de indicadores logísticos (KPIs).",
+    "Deseable experiencia en empresas de consumo masivo, retail, almacenamiento o distribución."
+  ],
+  "beneficios": [
+    "Seguro de vida.",
+    "Descuento en universidades.",
+    "Celular y plan corporativo.",
+    "Beneficios en óptica.",
+    "Ahorro en cooperativa.",
+    "Beneficios de ley."
+  ],
+  "como_aplicar": "Postúlate en el portal de empleo o envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432677271",
+  "telefono": "",
+  "correo": "generalistarh.hn@grupoalza.com",
+  "whatsapps": [
+    "50432677271"
+  ],
+  "telefonos": [],
+  "correos": [
+    "generalistarh.hn@grupoalza.com"
+  ],
+  "url_aplicar": "https://www.reclutamientoalzahn.com"
+},
+{
+  "id": "ohn-20261126-027",
+  "titulo": "Vendedor de Detalle",
+  "empresa": "Grupo Alza",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Comercializar los productos de la compañía y realizar las labores de manera eficiente e innovadora para contribuir al desarrollo de la empresa, incrementar las ventas y alcanzar los objetivos establecidos.",
+  "requisitos": [
+    "Bachiller en Administración o carreras afines.",
+    "Experiencia en ventas en el canal de detalle; deseable experiencia en consumo masivo.",
+    "Poseer motocicleta propia y licencia liviana vigente (indispensable).",
+    "Disponibilidad de horarios.",
+    "Habilidades en ventas y negociación."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Postúlate en el portal de empleo o envía tu CV mediante el botón de correo o WhatsApp.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50433301435",
+  "telefono": "",
+  "correo": "diana.soto@grupoalza.com",
+  "whatsapps": [
+    "50433301435"
+  ],
+  "telefonos": [],
+  "correos": [
+    "diana.soto@grupoalza.com"
+  ],
+  "url_aplicar": "https://www.reclutamientoalzahn.com"
+},
+    
+    {
   "id": "ohn-20261126-022",
   "titulo": "Especialista de Trade",
   "empresa": "Adium",
