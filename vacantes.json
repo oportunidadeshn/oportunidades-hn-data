@@ -2,6 +2,161 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261126-045",
+  "titulo": "Supervisor de Negocios",
+  "empresa": "MAPLE",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Banca, Seguros y Servicios Financieros",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisar, controlar y coordinar las actividades operativas de las agencias, procurando que se realicen eficazmente y cumplan los controles internos establecidos, para garantizar un servicio de calidad y el cumplimiento de los objetivos de la empresa.",
+  "requisitos": [
+    "Graduado universitario en Administración de Empresas, Marketing o carreras afines.",
+    "Tres años de experiencia como supervisor de agencias o en puestos similares; preferiblemente en el sistema financiero.",
+    "Vehículo propio y licencia de conducir vigente."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Comunícate mediante el botón de WhatsApp para enviar tu hoja de vida.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494841788",
+  "telefono": "",
+  "correo": "",
+  "whatsapps": [
+    "50494841788"
+  ],
+  "telefonos": [],
+  "correos": [],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261126-046",
+  "titulo": "Supervisor Puntos de Venta",
+  "empresa": "Claro",
+  "ciudad": "Comayagua, Olancho",
+  "categoria": "Ventas y Comercial",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Evaluar, supervisar y mejorar la participación de mercado de los productos Claro y la atención en los puntos de venta asignados al canal multimarca. Realizar visitas diarias a las rutas con el equipo de ventas del distribuidor, identificar oportunidades de mejora en la ejecución de campo y contribuir al cumplimiento de los objetivos de ventas.",
+  "requisitos": [
+    "Licenciatura en Administración de Empresas, Gerencia de Negocios o carreras afines.",
+    "Mínimo dos años de experiencia como supervisor de puntos de venta; preferiblemente en telecomunicaciones.",
+    "Dominio de paquetes de Office.",
+    "Conocimientos de trabajo de campo, servicio al cliente y ventas.",
+    "Habilidades de comunicación y negociación.",
+    "Vehículo propio, experiencia conduciendo vehículo mecánico y licencia de conducir vigente."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo. Incluye en el asunto: Supervisor Puntos de Venta.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-11-30",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "catherine.banegas@claro.com.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "catherine.banegas@claro.com.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261126-047",
+  "titulo": "Motorista de Camión",
+  "empresa": "La Fuente Cargo",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Transporte y Distribución",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Conducir camión y realizar rutas foráneas, con disponibilidad para viajar.",
+  "requisitos": [
+    "Educación secundaria completa.",
+    "Tres años de experiencia como motorista de camión.",
+    "Licencia pesada tipo C vigente.",
+    "Conocimiento de rutas foráneas y disponibilidad para viajar."
+  ],
+  "beneficios": [
+    "Contrato indefinido.",
+    "Beneficios de ley.",
+    "Salario competitivo.",
+    "Bono por objetivos.",
+    "Pago de viáticos."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo. También puedes comunicarte mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50492505600",
+  "telefono": "",
+  "correo": "arielmolina@lafuentecargo.com",
+  "whatsapps": [
+    "50492505600"
+  ],
+  "telefonos": [],
+  "correos": [
+    "arielmolina@lafuentecargo.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261126-048",
+  "titulo": "Jefe de Taller Automotriz",
+  "empresa": "AUREMA",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Dirigir el taller automotriz y coordinar al personal, las reparaciones y la atención al cliente.",
+  "requisitos": [
+    "Mínimo tres años de experiencia como jefe de taller.",
+    "Formación como técnico mecánico automotriz.",
+    "Experiencia en mecánica rápida y general, manejo de personal y uso de equipos de escaneo.",
+    "Habilidades de servicio al cliente, cotización de repuestos, solución de conflictos y trabajo en equipo.",
+    "Orientación al cumplimiento de metas.",
+    "Capacidad para conducir vehículos mecánicos, automáticos y camión liviano.",
+    "Licencia vigente y documentos en regla.",
+    "Disponibilidad inmediata."
+  ],
+  "beneficios": [
+    "Beneficios de ley.",
+    "Sueldo base más comisiones."
+  ],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo. También puedes comunicarte mediante el botón de WhatsApp.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432955306",
+  "telefono": "",
+  "correo": "rrhh@aurema.net",
+  "whatsapps": [
+    "50432955306"
+  ],
+  "telefonos": [],
+  "correos": [
+    "rrhh@aurema.net"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261126-036",
   "titulo": "Analista Económico y Financiero",
   "empresa": "Comisión Reguladora de Energía Eléctrica (CREE)",
