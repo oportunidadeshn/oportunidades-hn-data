@@ -2,6 +2,122 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261126-007",
+  "titulo": "Analista Contable",
+  "empresa": "Equinox",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Apoyar los procesos contables, incluida la elaboración de conciliaciones bancarias y de asientos contables de ingresos y egresos.",
+  "requisitos": [
+    "Perito Mercantil o Bachiller Técnico Profesional en Contaduría y Finanzas, o graduado o pasante de Licenciatura en Contaduría Pública y Finanzas.",
+    "Mínimo dos años de experiencia en elaboración de conciliaciones bancarias.",
+    "Manejo del sistema contable ODOO y Microsoft Excel.",
+    "Conocimiento del ciclo contable completo.",
+    "Ser organizado, analítico, proactivo y responsable, con atención al detalle."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talento.humano@equinoxcorp.org",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "talento.humano@equinoxcorp.org"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261126-008",
+  "titulo": "Ingeniero de Servicios y Garantías",
+  "empresa": "IMVESA",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Mantenimiento y Servicios Técnicos",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Brindar soporte técnico automotriz, dar seguimiento a procesos de garantías y reclamos técnicos, y apoyar el análisis de los indicadores de servicio y satisfacción del cliente.",
+  "requisitos": [
+    "Título universitario en Ingeniería Mecánica Automotriz, Mecatrónica o carreras afines.",
+    "Certificaciones en tecnologías automotrices y sistemas de gestión de calidad.",
+    "De dos a tres años de experiencia en soporte técnico automotriz, talleres o garantías.",
+    "Conocimiento de procesos de garantía y reclamos técnicos.",
+    "Habilidades de seguimiento, análisis y servicio al cliente.",
+    "Conocimiento de indicadores de servicio y satisfacción del cliente.",
+    "Manejo de Microsoft Office y elaboración de reportes técnicos."
+  ],
+  "beneficios": [
+    "Oportunidad de desarrollo profesional en una empresa líder del sector automotriz.",
+    "Capacitación continua.",
+    "Salario competitivo y beneficios de ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "recursoshumanos@imvesa.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "recursoshumanos@imvesa.hn"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261126-009",
+  "titulo": "Asistente de Operaciones Logísticas",
+  "empresa": "IMVESA",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Logística, Compras y Cadena de Suministro",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Apoyar las operaciones logísticas relacionadas con distribución, transporte, inventarios y programación logística.",
+  "requisitos": [
+    "Perito Mercantil y Contador Público, o estudiante universitario de Administración, Ingeniería Industrial o Logística.",
+    "Licencia de conducir vigente y dominio de vehículos mecánicos y automáticos (deseable).",
+    "De uno a dos años de experiencia en logística, distribución, transporte o sector automotriz.",
+    "Manejo intermedio o avanzado de Excel y elaboración de reportes.",
+    "Conocimientos en inventarios, programación logística, seguros y normativas de tránsito."
+  ],
+  "beneficios": [
+    "Oportunidad de desarrollo profesional en una empresa líder del sector automotriz.",
+    "Capacitación continua.",
+    "Salario competitivo y beneficios de ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "recursoshumanos@imvesa.hn",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "recursoshumanos@imvesa.hn"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261126-006",
   "titulo": "Auxiliar de Proveeduría",
   "empresa": "Prosegur Honduras",
