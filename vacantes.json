@@ -2,6 +2,157 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261126-028",
+  "titulo": "Asistente de Auditoría Interna",
+  "empresa": "Útiles de Honduras",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Apoyar las actividades de auditoría interna y revisión de controles administrativos y operativos.",
+  "requisitos": [
+    "Licenciatura en Contaduría Pública y Finanzas.",
+    "Experiencia mínima de 2 años como auditor interno o externo en empresa privada.",
+    "Sexo masculino.",
+    "Capacidad para trabajar bajo presión y en equipo.",
+    "Criterio en controles administrativos y operativos.",
+    "Habilidad para redactar informes.",
+    "Conocimientos de paquetes bajo ambiente Windows.",
+    "Conocimientos en SAP (no indispensable).",
+    "Disponibilidad de horarios.",
+    "Disponibilidad para viajar a Tegucigalpa y otras ciudades del país."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "empleos@utilesdehonduras.com",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "empleos@utilesdehonduras.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261126-029",
+  "titulo": "Auxiliar de Créditos y Cobros",
+  "empresa": "Farmacia Simán",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Apoyar las tareas del área de créditos y cobros.",
+  "requisitos": [
+    "Secundaria completa.",
+    "Conocimientos de créditos y cobros.",
+    "Excelentes habilidades de comunicación y organización.",
+    "Conocimiento de software de contabilidad."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo o WhatsApp, o postúlate escaneando el código QR del anuncio.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432956959",
+  "telefono": "",
+  "correo": "arleth.lara@farsimam.com",
+  "whatsapps": [
+    "50432956959"
+  ],
+  "telefonos": [],
+  "correos": [
+    "arleth.lara@farsimam.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261126-030",
+  "titulo": "Analista Senior de Créditos y Cobros",
+  "empresa": "Grupo Farsiman",
+  "ciudad": "San Pedro Sula",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Analizar riesgos crediticios, dar seguimiento a cuentas por cobrar y apoyar los procesos de recuperación.",
+  "requisitos": [
+    "Licenciatura en Contaduría Pública, Finanzas, Administración de Empresas o carreras afines.",
+    "Mínimo 3 años de experiencia en el área de créditos y cobros.",
+    "Conocimiento en análisis de riesgo crediticio, seguimiento de cuentas por cobrar y procesos de recuperación.",
+    "Manejo de sistemas ERP y dominio de Excel de nivel intermedio a avanzado.",
+    "Habilidad para comunicarse efectivamente, trabajar en equipo, orientarse a resultados y ejercer liderazgo."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo o WhatsApp, o postúlate escaneando el código QR del anuncio.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432956959",
+  "telefono": "",
+  "correo": "arleth.lara@farsimam.com",
+  "whatsapps": [
+    "50432956959"
+  ],
+  "telefonos": [],
+  "correos": [
+    "arleth.lara@farsimam.com"
+  ],
+  "url_aplicar": ""
+},
+{
+  "id": "ohn-20261126-031",
+  "titulo": "Auditor de Inventarios",
+  "empresa": "Farmacia Simán",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Realizar auditorías de inventarios y atender las necesidades del puesto según los horarios y desplazamientos requeridos.",
+  "requisitos": [
+    "Educación secundaria completa.",
+    "Excelentes habilidades de organización y atención al detalle.",
+    "Capacidad para trabajar en equipo.",
+    "Disponibilidad de horario y disposición para viajar según las necesidades del puesto.",
+    "Poseer transporte propio."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo o WhatsApp, o postúlate escaneando el código QR del anuncio.",
+  "fecha_publicacion": "2026-11-26",
+  "fecha_vencimiento": "2026-12-06",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50432956959",
+  "telefono": "",
+  "correo": "arleth.lara@farsimam.com",
+  "whatsapps": [
+    "50432956959"
+  ],
+  "telefonos": [],
+  "correos": [
+    "arleth.lara@farsimam.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261126-023",
   "titulo": "Vendedor de Detalle",
   "empresa": "Grupo Alza",
