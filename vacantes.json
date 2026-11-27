@@ -2,6 +2,45 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261127-090848-113",
+  "titulo": "Supervisor de Seguridad",
+  "empresa": "Psc Security Solutions",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Seguridad",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Supervisar los puestos que tenga bajo su responsabilidad",
+  "requisitos": [
+    "Experiencia comprobada en puestos similares",
+    "Manejo de personal",
+    "Liderazgo y comunicacion",
+    "Disponibilidad de horario",
+    "Licencia de conducir vigente",
+    "Conocimiento en seguridad"
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nPreséntate en Col. 15 de septiembre.",
+  "fecha_publicacion": "2026-11-27",
+  "fecha_vencimiento": "2026-12-27",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50494468600",
+  "telefono": "",
+  "correo": "pscsolutions1@gmail.com",
+  "whatsapps": [
+    "50494468600"
+  ],
+  "telefonos": [],
+  "correos": [
+    "pscsolutions1@gmail.com"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261127-001",
   "titulo": "Jefe de Finanzas y Contabilidad",
   "empresa": "Banco de Alimentos Honduras",
