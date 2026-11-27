@@ -2,6 +2,42 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261127-001",
+  "titulo": "Jefe de Finanzas y Contabilidad",
+  "empresa": "Banco de Alimentos Honduras",
+  "ciudad": "Tegucigalpa",
+  "categoria": "Contabilidad y Finanzas",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": false,
+  "pasantia": false,
+  "descripcion": "Dirigir la gestión financiera y contable de la institución, procurando la administración eficiente y transparente de los recursos y el cumplimiento normativo. Coordinar la planificación y control presupuestario, administrar el flujo de efectivo, supervisar la información financiera de proyectos, coordinar auditorías externas y preparar, analizar y presentar estados financieros.",
+  "requisitos": [
+    "Título universitario en Contaduría Pública, Finanzas, Administración, Economía o carreras afines.",
+    "Mínimo siete años de experiencia en posiciones de liderazgo en gestión financiera, contable y presupuestaria.",
+    "Dominio de herramientas contables y financieras.",
+    "Conocimiento de la normativa tributaria y regulatoria vigente.",
+    "Liderazgo, planificación y capacidad de análisis."
+  ],
+  "beneficios": [],
+  "como_aplicar": "Envía tu hoja de vida mediante el botón de correo.",
+  "fecha_publicacion": "2026-11-27",
+  "fecha_vencimiento": "2026-12-07",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "",
+  "telefono": "",
+  "correo": "talentohumano@bahonduras.org",
+  "whatsapps": [],
+  "telefonos": [],
+  "correos": [
+    "talentohumano@bahonduras.org"
+  ],
+  "url_aplicar": ""
+},
+    
+    {
   "id": "ohn-20261126-056",
   "titulo": "Oficial de Monitoreo",
   "empresa": "Cruz Roja Hondureña",
