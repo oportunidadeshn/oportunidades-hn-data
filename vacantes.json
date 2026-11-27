@@ -2,6 +2,44 @@
   "actualizado": "2026-11-17",
   "vacantes": [
 {
+  "id": "ohn-20261127-100512-114",
+  "titulo": "Atención al Cliente en Ruta",
+  "empresa": "Coadition Outsourcing",
+  "ciudad": "San Pedro Sula, Choloma",
+  "categoria": "Servicios Generales y Oficios",
+  "modalidad": "Presencial",
+  "tipo_empleo": "Tiempo completo",
+  "sin_experiencia": true,
+  "pasantia": false,
+  "descripcion": "•Transportar y entregar los paquetes en los puntos asignados.\n\n•Cumplir estrictamente con las rutas e indicaciones proporcionadas.\n\n•Garantizar que cada entrega se realice en tiempo y forma.\n\n•Verificar la cantidad y el estado de los paquetes antes de iniciar la ruta.\n\n•Confirmar la recepción de cada entrega según el procedimiento establecido.\n\n•Mantener comunicación constante con el personal de coordinación.\n\n•Reportar cualquier inconveniente, retraso o situación irregular durante el recorrido.\n\n•Resguardar adecuadamente los paquetes y documentos bajo su responsabilidad.\n\n•Cumplir con los protocolos de seguridad y confidencialidad.\n\n•Mantener un trato respetuoso y profesional con los clientes.\n\n•Llevar el control y registro de las entregas realizadas y pendientes.",
+  "requisitos": [
+    "Educación Media Completa"
+  ],
+  "beneficios": [
+    "Salario Competitivo.",
+    "Horas Extras.",
+    "Beneficios de Ley."
+  ],
+  "como_aplicar": "Envía tu CV mediante el botón de correo.\nComunícate mediante el botón de WhatsApp.\nUsa el botón para aplicar en línea.\nPreséntate en San Pedro Sula.",
+  "fecha_publicacion": "2026-11-27",
+  "fecha_vencimiento": "2026-12-27",
+  "destacada": false,
+  "destacada_hasta": "",
+  "activa": true,
+  "whatsapp": "50431423633",
+  "telefono": "",
+  "correo": "maryori.perez@coadition.com",
+  "whatsapps": [
+    "50431423633"
+  ],
+  "telefonos": [],
+  "correos": [
+    "maryori.perez@coadition.com"
+  ],
+  "url_aplicar": "https://share.google/TYxiiQzPQjMxKJ72X"
+},
+    
+    {
   "id": "ohn-20261127-090848-113",
   "titulo": "Supervisor de Seguridad",
   "empresa": "Psc Security Solutions",
